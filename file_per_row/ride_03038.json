@@ -1,0 +1,17 @@
+{
+  "tripduration": 160,
+  "starttime": "2019-12-01 09:48:29.1840",
+  "stoptime": "2019-12-01 09:51:09.8480",
+  "start station id": 3518,
+  "start station name": "Lenox Ave & W 126 St",
+  "start station latitude": 40.808442,
+  "start station longitude": -73.9452087,
+  "end station id": 3533,
+  "end station name": "St. Nicholas Ave & W 126 St",
+  "end station latitude": 40.8114323,
+  "end station longitude": -73.9518776,
+  "bikeid": 41861,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

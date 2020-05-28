@@ -1,0 +1,17 @@
+{
+  "tripduration": 596,
+  "starttime": "2019-12-01 07:54:43.2830",
+  "stoptime": "2019-12-01 08:04:39.4690",
+  "start station id": 373,
+  "start station name": "Willoughby Ave & Walworth St",
+  "start station latitude": 40.69331716,
+  "start station longitude": -73.95381995,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 40774,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

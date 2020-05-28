@@ -1,0 +1,17 @@
+{
+  "tripduration": 1505,
+  "starttime": "2019-12-01 00:21:29.0710",
+  "stoptime": "2019-12-01 00:46:34.1960",
+  "start station id": 3534,
+  "start station name": "Frederick Douglass Blvd & W 117 St",
+  "start station latitude": 40.805159,
+  "start station longitude": -73.954692,
+  "end station id": 490,
+  "end station name": "8 Ave & W 33 St",
+  "end station latitude": 40.751551,
+  "end station longitude": -73.993934,
+  "bikeid": 39462,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 439,
+  "starttime": "2019-12-01 08:09:52.7560",
+  "stoptime": "2019-12-01 08:17:12.7150",
+  "start station id": 3087,
+  "start station name": "Metropolitan Ave & Meeker Ave",
+  "start station latitude": 40.71413311,
+  "start station longitude": -73.95234386,
+  "end station id": 460,
+  "end station name": "S 4 St & Wythe Ave",
+  "end station latitude": 40.71285887,
+  "end station longitude": -73.96590294,
+  "bikeid": 34170,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1292,
+  "starttime": "2019-12-01 10:38:55.3320",
+  "stoptime": "2019-12-01 11:00:27.4220",
+  "start station id": 532,
+  "start station name": "S 5 Pl & S 5 St",
+  "start station latitude": 40.710451,
+  "start station longitude": -73.960876,
+  "end station id": 268,
+  "end station name": "Howard St & Centre St",
+  "end station latitude": 40.71910537,
+  "end station longitude": -73.99973337,
+  "bikeid": 33545,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "female"
+}

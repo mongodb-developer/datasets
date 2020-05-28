@@ -1,0 +1,17 @@
+{
+  "tripduration": 329,
+  "starttime": "2019-12-01 10:52:51.5300",
+  "stoptime": "2019-12-01 10:58:20.7030",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 20687,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

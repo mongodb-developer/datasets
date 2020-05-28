@@ -1,0 +1,17 @@
+{
+  "tripduration": 490,
+  "starttime": "2019-12-01 04:16:02.5420",
+  "stoptime": "2019-12-01 04:24:12.9830",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 411,
+  "end station name": "E 6 St & Avenue D",
+  "end station latitude": 40.72228087,
+  "end station longitude": -73.97668709,
+  "bikeid": 38841,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1532,
+  "starttime": "2019-12-01 00:06:55.8200",
+  "stoptime": "2019-12-01 00:32:28.4780",
+  "start station id": 389,
+  "start station name": "Broadway & Berry St",
+  "start station latitude": 40.71044554,
+  "start station longitude": -73.96525063,
+  "end station id": 3758,
+  "end station name": "George St & Wilson Ave",
+  "end station latitude": 40.702997,
+  "end station longitude": -73.92997,
+  "bikeid": 40295,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "female"
+}

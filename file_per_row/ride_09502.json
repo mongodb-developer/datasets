@@ -1,0 +1,17 @@
+{
+  "tripduration": 1070,
+  "starttime": "2019-12-01 19:29:10.9720",
+  "stoptime": "2019-12-01 19:47:01.9630",
+  "start station id": 504,
+  "start station name": "1 Ave & E 16 St",
+  "start station latitude": 40.73221853,
+  "start station longitude": -73.98165557,
+  "end station id": 326,
+  "end station name": "E 11 St & 1 Ave",
+  "end station latitude": 40.72953837,
+  "end station longitude": -73.98426726,
+  "bikeid": 33821,
+  "usertype": "Customer",
+  "birth year": 1999,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 595,
+  "starttime": "2019-12-01 11:16:13.8360",
+  "stoptime": "2019-12-01 11:26:09.4250",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 528,
+  "end station name": "2 Ave & E 31 St",
+  "end station latitude": 40.74290902,
+  "end station longitude": -73.97706058,
+  "bikeid": 33658,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

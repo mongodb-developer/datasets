@@ -1,0 +1,17 @@
+{
+  "tripduration": 598,
+  "starttime": "2019-12-01 13:28:00.2310",
+  "stoptime": "2019-12-01 13:37:58.4960",
+  "start station id": 356,
+  "start station name": "Bialystoker Pl & Delancey St",
+  "start station latitude": 40.71622644,
+  "start station longitude": -73.98261206,
+  "end station id": 151,
+  "end station name": "Cleveland Pl & Spring St",
+  "end station latitude": 40.722103786686034,
+  "end station longitude": -73.99724900722504,
+  "bikeid": 38146,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

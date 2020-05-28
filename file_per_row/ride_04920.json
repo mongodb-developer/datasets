@@ -1,0 +1,17 @@
+{
+  "tripduration": 1088,
+  "starttime": "2019-12-01 11:07:38.2050",
+  "stoptime": "2019-12-01 11:25:46.2460",
+  "start station id": 3352,
+  "start station name": "Sigourney St & Columbia St",
+  "start station latitude": 40.67267243410948,
+  "start station longitude": -74.0087952464819,
+  "end station id": 239,
+  "end station name": "Willoughby St & Fleet St",
+  "end station latitude": 40.69196566,
+  "end station longitude": -73.9813018,
+  "bikeid": 27568,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

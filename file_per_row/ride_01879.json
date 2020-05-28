@@ -1,0 +1,17 @@
+{
+  "tripduration": 597,
+  "starttime": "2019-12-01 08:36:32.2570",
+  "stoptime": "2019-12-01 08:46:29.8330",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3520,
+  "end station name": "Adam Clayton Powell Blvd & W 118 St",
+  "end station latitude": 40.804372,
+  "end station longitude": -73.951475,
+  "bikeid": 35266,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

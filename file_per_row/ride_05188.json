@@ -1,0 +1,17 @@
+{
+  "tripduration": 486,
+  "starttime": "2019-12-01 11:21:31.7910",
+  "stoptime": "2019-12-01 11:29:38.5430",
+  "start station id": 3602,
+  "start station name": "31 Ave & 34 St",
+  "start station latitude": 40.763154,
+  "start station longitude": -73.920827,
+  "end station id": 3528,
+  "end station name": "Steinway St & 23 Ave",
+  "end station latitude": 40.7713937,
+  "end station longitude": -73.9077436,
+  "bikeid": 32491,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 671,
+  "starttime": "2019-12-01 20:08:33.6820",
+  "stoptime": "2019-12-01 20:19:45.4120",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 422,
+  "end station name": "W 59 St & 10 Ave",
+  "end station latitude": 40.770513,
+  "end station longitude": -73.988038,
+  "bikeid": 26929,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 291,
+  "starttime": "2019-12-01 20:13:35.8410",
+  "stoptime": "2019-12-01 20:18:27.5420",
+  "start station id": 313,
+  "start station name": "Washington Ave & Park Ave",
+  "start station latitude": 40.69610226,
+  "start station longitude": -73.96751037,
+  "end station id": 270,
+  "end station name": "Adelphi St & Myrtle Ave",
+  "end station latitude": 40.69308257,
+  "end station longitude": -73.97178913,
+  "bikeid": 33625,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "unknown"
+}

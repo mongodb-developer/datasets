@@ -1,0 +1,17 @@
+{
+  "tripduration": 119,
+  "starttime": "2019-12-01 15:09:16.2710",
+  "stoptime": "2019-12-01 15:11:16.2680",
+  "start station id": 363,
+  "start station name": "West Thames St",
+  "start station latitude": 40.70834698,
+  "start station longitude": -74.01713445,
+  "end station id": 3002,
+  "end station name": "South End Ave & Liberty St",
+  "end station latitude": 40.711512,
+  "end station longitude": -74.015756,
+  "bikeid": 38585,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

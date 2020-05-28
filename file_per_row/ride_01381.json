@@ -1,0 +1,17 @@
+{
+  "tripduration": 296,
+  "starttime": "2019-12-01 07:37:58.7360",
+  "stoptime": "2019-12-01 07:42:55.2300",
+  "start station id": 3699,
+  "start station name": "W 50 St & 9 Ave",
+  "start station latitude": 40.763604677958625,
+  "start station longitude": -73.98917958140373,
+  "end station id": 422,
+  "end station name": "W 59 St & 10 Ave",
+  "end station latitude": 40.770513,
+  "end station longitude": -73.988038,
+  "bikeid": 20326,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

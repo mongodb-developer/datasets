@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 13:35:34.5770",
+  "stoptime": "2019-12-01 13:38:27.8270",
+  "start station id": 472,
+  "start station name": "E 32 St & Park Ave",
+  "start station latitude": 40.7457121,
+  "start station longitude": -73.98194829,
+  "end station id": 528,
+  "end station name": "2 Ave & E 31 St",
+  "end station latitude": 40.74290902,
+  "end station longitude": -73.97706058,
+  "bikeid": 28601,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

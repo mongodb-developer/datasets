@@ -1,0 +1,17 @@
+{
+  "tripduration": 1191,
+  "starttime": "2019-12-01 16:45:58.9840",
+  "stoptime": "2019-12-01 17:05:50.1290",
+  "start station id": 291,
+  "start station name": "Madison St & Montgomery St",
+  "start station latitude": 40.713126,
+  "start station longitude": -73.984844,
+  "end station id": 3790,
+  "end station name": "Henry St & Middagh St",
+  "end station latitude": 40.7003,
+  "end station longitude": -73.991581,
+  "bikeid": 19389,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

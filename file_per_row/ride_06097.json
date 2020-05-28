@@ -1,0 +1,17 @@
+{
+  "tripduration": 593,
+  "starttime": "2019-12-01 12:14:44.2750",
+  "stoptime": "2019-12-01 12:24:37.3600",
+  "start station id": 3147,
+  "start station name": "E 85 St & 3 Ave",
+  "start station latitude": 40.77801203,
+  "start station longitude": -73.95407149,
+  "end station id": 3290,
+  "end station name": "E 89 St & York Ave",
+  "end station latitude": 40.7779453,
+  "end station longitude": -73.946041,
+  "bikeid": 40624,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

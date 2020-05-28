@@ -1,0 +1,17 @@
+{
+  "tripduration": 818,
+  "starttime": "2019-12-01 12:30:33.7470",
+  "stoptime": "2019-12-01 12:44:11.8260",
+  "start station id": 3531,
+  "start station name": "Frederick Douglass Blvd & W 129 St",
+  "start station latitude": 40.8125511,
+  "start station longitude": -73.9492286,
+  "end station id": 3547,
+  "end station name": "Broadway & Moylan Pl",
+  "end station latitude": 40.8143256,
+  "end station longitude": -73.9590255,
+  "bikeid": 21447,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "unknown"
+}

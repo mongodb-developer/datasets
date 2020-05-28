@@ -1,0 +1,17 @@
+{
+  "tripduration": 346,
+  "starttime": "2019-12-01 12:29:47.8350",
+  "stoptime": "2019-12-01 12:35:34.7670",
+  "start station id": 401,
+  "start station name": "Allen St & Rivington St",
+  "start station latitude": 40.72019576,
+  "start station longitude": -73.98997825,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 21097,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

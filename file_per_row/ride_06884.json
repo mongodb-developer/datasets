@@ -1,0 +1,17 @@
+{
+  "tripduration": 380,
+  "starttime": "2019-12-01 12:59:25.4140",
+  "stoptime": "2019-12-01 13:05:45.8260",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 31257,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 630,
+  "starttime": "2019-12-01 10:39:37.0080",
+  "stoptime": "2019-12-01 10:50:07.2140",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 34971,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

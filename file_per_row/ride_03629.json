@@ -1,0 +1,17 @@
+{
+  "tripduration": 182,
+  "starttime": "2019-12-01 10:16:07.6420",
+  "stoptime": "2019-12-01 10:19:10.0020",
+  "start station id": 275,
+  "start station name": "Washington Ave & Greene Ave",
+  "start station latitude": 40.68650065,
+  "start station longitude": -73.96563307,
+  "end station id": 120,
+  "end station name": "Lexington Ave & Classon Ave",
+  "end station latitude": 40.68676793,
+  "end station longitude": -73.95928168,
+  "bikeid": 35074,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

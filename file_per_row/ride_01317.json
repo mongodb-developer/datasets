@@ -1,0 +1,17 @@
+{
+  "tripduration": 400,
+  "starttime": "2019-12-01 07:27:25.8900",
+  "stoptime": "2019-12-01 07:34:06.0800",
+  "start station id": 3054,
+  "start station name": "Greene Ave & Throop Ave",
+  "start station latitude": 40.6894932,
+  "start station longitude": -73.942061,
+  "end station id": 437,
+  "end station name": "Macon St & Nostrand Ave",
+  "end station latitude": 40.6809833854,
+  "end station longitude": -73.9500479759,
+  "bikeid": 28971,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

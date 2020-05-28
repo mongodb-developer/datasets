@@ -1,0 +1,17 @@
+{
+  "tripduration": 1958,
+  "starttime": "2019-12-01 12:48:52.7630",
+  "stoptime": "2019-12-01 13:21:31.5600",
+  "start station id": 3164,
+  "start station name": "Columbus Ave & W 72 St",
+  "start station latitude": 40.7770575,
+  "start station longitude": -73.97898475,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 28675,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

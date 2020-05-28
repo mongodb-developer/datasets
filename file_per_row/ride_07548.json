@@ -1,0 +1,17 @@
+{
+  "tripduration": 644,
+  "starttime": "2019-12-01 14:28:43.7020",
+  "stoptime": "2019-12-01 14:39:27.8660",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 3131,
+  "end station name": "E 68 St & 3 Ave",
+  "end station latitude": 40.76712840349542,
+  "end station longitude": -73.96224617958069,
+  "bikeid": 41166,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

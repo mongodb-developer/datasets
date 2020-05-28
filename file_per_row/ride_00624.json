@@ -1,0 +1,17 @@
+{
+  "tripduration": 435,
+  "starttime": "2019-12-01 02:10:19.7080",
+  "stoptime": "2019-12-01 02:17:35.1170",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 443,
+  "end station name": "Bedford Ave & S 9 St",
+  "end station latitude": 40.70853074,
+  "end station longitude": -73.96408963,
+  "bikeid": 30284,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

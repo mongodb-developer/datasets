@@ -1,0 +1,17 @@
+{
+  "tripduration": 880,
+  "starttime": "2019-12-01 03:13:30.1720",
+  "stoptime": "2019-12-01 03:28:11.1370",
+  "start station id": 3769,
+  "start station name": "White St & Johnson Ave",
+  "start station latitude": 40.707174,
+  "start station longitude": -73.93581,
+  "end station id": 3106,
+  "end station name": "Driggs Ave & N Henry St",
+  "end station latitude": 40.72325,
+  "end station longitude": -73.94308,
+  "bikeid": 32411,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

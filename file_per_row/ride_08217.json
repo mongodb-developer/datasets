@@ -1,0 +1,17 @@
+{
+  "tripduration": 381,
+  "starttime": "2019-12-01 15:38:50.2650",
+  "stoptime": "2019-12-01 15:45:11.6990",
+  "start station id": 3164,
+  "start station name": "Columbus Ave & W 72 St",
+  "start station latitude": 40.7770575,
+  "start station longitude": -73.97898475,
+  "end station id": 3158,
+  "end station name": "W 63 St & Broadway",
+  "end station latitude": 40.77163851,
+  "end station longitude": -73.98261428,
+  "bikeid": 27371,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

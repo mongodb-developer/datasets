@@ -1,0 +1,17 @@
+{
+  "tripduration": 333,
+  "starttime": "2019-12-01 10:38:44.1980",
+  "stoptime": "2019-12-01 10:44:18.1330",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 39711,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

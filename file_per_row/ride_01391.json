@@ -1,0 +1,17 @@
+{
+  "tripduration": 1227,
+  "starttime": "2019-12-01 07:40:09.3560",
+  "stoptime": "2019-12-01 08:00:37.0710",
+  "start station id": 3699,
+  "start station name": "W 50 St & 9 Ave",
+  "start station latitude": 40.763604677958625,
+  "start station longitude": -73.98917958140373,
+  "end station id": 3141,
+  "end station name": "1 Ave & E 68 St",
+  "end station latitude": 40.76500525,
+  "end station longitude": -73.95818491,
+  "bikeid": 38743,
+  "usertype": "Subscriber",
+  "birth year": 1948,
+  "gender": "female"
+}

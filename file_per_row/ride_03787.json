@@ -1,0 +1,17 @@
+{
+  "tripduration": 712,
+  "starttime": "2019-12-01 10:22:14.0870",
+  "stoptime": "2019-12-01 10:34:06.4930",
+  "start station id": 3168,
+  "start station name": "Central Park West & W 85 St",
+  "start station latitude": 40.78472675,
+  "start station longitude": -73.96961715,
+  "end station id": 3137,
+  "end station name": "5 Ave & E 73 St",
+  "end station latitude": 40.77282817,
+  "end station longitude": -73.96685276,
+  "bikeid": 20040,
+  "usertype": "Customer",
+  "birth year": 1971,
+  "gender": "male"
+}

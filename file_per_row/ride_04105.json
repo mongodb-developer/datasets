@@ -1,0 +1,17 @@
+{
+  "tripduration": 2363,
+  "starttime": "2019-12-01 10:35:14.6320",
+  "stoptime": "2019-12-01 11:14:38.5390",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 3134,
+  "end station name": "3 Ave & E 62 St",
+  "end station latitude": 40.76312584,
+  "end station longitude": -73.96526895,
+  "bikeid": 40173,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

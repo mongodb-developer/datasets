@@ -1,0 +1,17 @@
+{
+  "tripduration": 341,
+  "starttime": "2019-12-01 00:12:43.0580",
+  "stoptime": "2019-12-01 00:18:24.8760",
+  "start station id": 3101,
+  "start station name": "N 12 St & Bedford Ave",
+  "start station latitude": 40.72079821,
+  "start station longitude": -73.95484712,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 28347,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

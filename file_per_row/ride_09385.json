@@ -1,0 +1,17 @@
+{
+  "tripduration": 379,
+  "starttime": "2019-12-01 19:09:40.3350",
+  "stoptime": "2019-12-01 19:15:59.3390",
+  "start station id": 3574,
+  "start station name": "Prospect Pl & Underhill Ave",
+  "start station latitude": 40.6769694,
+  "start station longitude": -73.96579,
+  "end station id": 3354,
+  "end station name": "3 St & Prospect Park West",
+  "end station latitude": 40.668132,
+  "end station longitude": -73.97363831,
+  "bikeid": 33803,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

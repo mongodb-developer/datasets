@@ -1,0 +1,17 @@
+{
+  "tripduration": 587,
+  "starttime": "2019-12-01 08:45:12.9610",
+  "stoptime": "2019-12-01 08:55:00.4510",
+  "start station id": 3396,
+  "start station name": "Clinton St & 4 Place",
+  "start station latitude": 40.6783563,
+  "start station longitude": -74.00014502,
+  "end station id": 406,
+  "end station name": "Hicks St & Montague St",
+  "end station latitude": 40.69512845,
+  "end station longitude": -73.99595065,
+  "bikeid": 41767,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

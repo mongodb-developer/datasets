@@ -1,0 +1,17 @@
+{
+  "tripduration": 316,
+  "starttime": "2019-12-01 19:05:15.3740",
+  "stoptime": "2019-12-01 19:10:31.9720",
+  "start station id": 3078,
+  "start station name": "Broadway & Roebling St",
+  "start station latitude": 40.70924826276157,
+  "start station longitude": -73.96063148975372,
+  "end station id": 282,
+  "end station name": "Kent Ave & S 11 St",
+  "end station latitude": 40.707644944175705,
+  "end station longitude": -73.96841526031494,
+  "bikeid": 30474,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

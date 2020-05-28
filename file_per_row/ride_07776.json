@@ -1,0 +1,17 @@
+{
+  "tripduration": 700,
+  "starttime": "2019-12-01 14:54:37.3800",
+  "stoptime": "2019-12-01 15:06:17.7590",
+  "start station id": 3049,
+  "start station name": "Cambridge Pl & Gates Ave",
+  "start station latitude": 40.68488,
+  "start station longitude": -73.96304,
+  "end station id": 3047,
+  "end station name": "Halsey St & Tompkins Ave",
+  "end station latitude": 40.6823687,
+  "end station longitude": -73.944118,
+  "bikeid": 41009,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

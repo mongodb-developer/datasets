@@ -1,0 +1,17 @@
+{
+  "tripduration": 449,
+  "starttime": "2019-12-01 12:54:48.2580",
+  "stoptime": "2019-12-01 13:02:18.1950",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 38672,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

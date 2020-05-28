@@ -1,0 +1,17 @@
+{
+  "tripduration": 351,
+  "starttime": "2019-12-01 01:44:26.4560",
+  "stoptime": "2019-12-01 01:50:17.7540",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 3707,
+  "end station name": "Lexington Ave & E 26 St",
+  "end station latitude": 40.741459,
+  "end station longitude": -73.983293,
+  "bikeid": 41795,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

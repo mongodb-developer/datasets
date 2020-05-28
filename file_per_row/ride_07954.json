@@ -1,0 +1,17 @@
+{
+  "tripduration": 254,
+  "starttime": "2019-12-01 15:11:48.4440",
+  "stoptime": "2019-12-01 15:16:02.9310",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 3467,
+  "end station name": "W Broadway & Spring St",
+  "end station latitude": 40.72494672359416,
+  "end station longitude": -74.00165855884552,
+  "bikeid": 28418,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 513,
+  "starttime": "2019-12-01 10:33:40.9770",
+  "stoptime": "2019-12-01 10:42:14.1440",
+  "start station id": 399,
+  "start station name": "Lafayette Ave & St James Pl",
+  "start station latitude": 40.68851534,
+  "start station longitude": -73.9647628,
+  "end station id": 3787,
+  "end station name": "Dock 72 Way & Market St",
+  "end station latitude": 40.69985,
+  "end station longitude": -73.97141,
+  "bikeid": 17412,
+  "usertype": "Subscriber",
+  "birth year": 1954,
+  "gender": "male"
+}

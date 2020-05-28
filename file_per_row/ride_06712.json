@@ -1,0 +1,17 @@
+{
+  "tripduration": 370,
+  "starttime": "2019-12-01 12:46:38.7550",
+  "stoptime": "2019-12-01 12:52:49.3590",
+  "start station id": 3076,
+  "start station name": "Scholes St & Manhattan Ave",
+  "start station latitude": 40.70870368,
+  "start station longitude": -73.9448625,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 28207,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

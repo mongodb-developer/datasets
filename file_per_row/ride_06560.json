@@ -1,0 +1,17 @@
+{
+  "tripduration": 284,
+  "starttime": "2019-12-01 12:39:20.3620",
+  "stoptime": "2019-12-01 12:44:04.7840",
+  "start station id": 3080,
+  "start station name": "S 4 St & Rodney St",
+  "start station latitude": 40.70934,
+  "start station longitude": -73.95608,
+  "end station id": 3087,
+  "end station name": "Metropolitan Ave & Meeker Ave",
+  "end station latitude": 40.71413311,
+  "end station longitude": -73.95234386,
+  "bikeid": 31315,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

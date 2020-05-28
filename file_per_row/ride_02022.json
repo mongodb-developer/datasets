@@ -1,0 +1,17 @@
+{
+  "tripduration": 603,
+  "starttime": "2019-12-01 08:47:27.5020",
+  "stoptime": "2019-12-01 08:57:31.3210",
+  "start station id": 3430,
+  "start station name": "Richardson St & N Henry St",
+  "start station latitude": 40.71907891179564,
+  "start station longitude": -73.94223690032959,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 33892,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

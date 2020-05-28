@@ -1,0 +1,17 @@
+{
+  "tripduration": 274,
+  "starttime": "2019-12-01 14:48:36.4380",
+  "stoptime": "2019-12-01 14:53:10.7850",
+  "start station id": 509,
+  "start station name": "9 Ave & W 22 St",
+  "start station latitude": 40.7454973,
+  "start station longitude": -74.00197139,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 38288,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 274,
+  "starttime": "2019-12-01 18:54:16.4390",
+  "stoptime": "2019-12-01 18:58:51.0400",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 3737,
+  "end station name": "Stanton St & Norfolk St",
+  "end station latitude": 40.720747,
+  "end station longitude": -73.986274,
+  "bikeid": 39435,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

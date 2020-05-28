@@ -1,0 +1,17 @@
+{
+  "tripduration": 387,
+  "starttime": "2019-12-01 00:22:22.2460",
+  "stoptime": "2019-12-01 00:28:49.8360",
+  "start station id": 3309,
+  "start station name": "E 97 St & 3 Ave",
+  "start station latitude": 40.7859201,
+  "start station longitude": -73.94860294,
+  "end station id": 3282,
+  "end station name": "5 Ave & E 88 St",
+  "end station latitude": 40.78307,
+  "end station longitude": -73.95939,
+  "bikeid": 31452,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

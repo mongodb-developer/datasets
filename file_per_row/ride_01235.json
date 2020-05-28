@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 07:05:19.2010",
+  "stoptime": "2019-12-01 07:13:11.7080",
+  "start station id": 3117,
+  "start station name": "Franklin St & Dupont St",
+  "start station latitude": 40.73564,
+  "start station longitude": -73.95866,
+  "end station id": 3107,
+  "end station name": "Bedford Ave & Nassau Ave",
+  "end station latitude": 40.72311651,
+  "end station longitude": -73.95212324,
+  "bikeid": 41598,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

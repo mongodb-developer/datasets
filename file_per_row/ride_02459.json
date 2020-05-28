@@ -1,0 +1,17 @@
+{
+  "tripduration": 950,
+  "starttime": "2019-12-01 09:17:40.9920",
+  "stoptime": "2019-12-01 09:33:31.6720",
+  "start station id": 305,
+  "start station name": "E 58 St & 3 Ave",
+  "start station latitude": 40.76095756,
+  "start station longitude": -73.96724467,
+  "end station id": 3284,
+  "end station name": "E 88 St & Park Ave",
+  "end station latitude": 40.781410700190015,
+  "end station longitude": -73.95595908164978,
+  "bikeid": 35072,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

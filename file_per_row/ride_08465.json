@@ -1,0 +1,17 @@
+{
+  "tripduration": 410,
+  "starttime": "2019-12-01 16:10:51.3940",
+  "stoptime": "2019-12-01 16:17:42.1750",
+  "start station id": 3812,
+  "start station name": "University Pl & E 14 St",
+  "start station latitude": 40.734814,
+  "start station longitude": -73.992085,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 41145,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

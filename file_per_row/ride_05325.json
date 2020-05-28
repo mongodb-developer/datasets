@@ -1,0 +1,17 @@
+{
+  "tripduration": 429,
+  "starttime": "2019-12-01 11:28:00.2860",
+  "stoptime": "2019-12-01 11:35:09.3780",
+  "start station id": 399,
+  "start station name": "Lafayette Ave & St James Pl",
+  "start station latitude": 40.68851534,
+  "start station longitude": -73.9647628,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 39123,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

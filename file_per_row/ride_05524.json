@@ -1,0 +1,17 @@
+{
+  "tripduration": 1426,
+  "starttime": "2019-12-01 11:40:32.7870",
+  "stoptime": "2019-12-01 12:04:19.6300",
+  "start station id": 3151,
+  "start station name": "E 81 St & York Ave",
+  "start station latitude": 40.7728384,
+  "start station longitude": -73.94989233,
+  "end station id": 526,
+  "end station name": "E 33 St & 5 Ave",
+  "end station latitude": 40.74765947,
+  "end station longitude": -73.98490707,
+  "bikeid": 28889,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

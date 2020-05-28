@@ -1,0 +1,17 @@
+{
+  "tripduration": 1938,
+  "starttime": "2019-12-01 05:07:19.8470",
+  "stoptime": "2019-12-01 05:39:37.8760",
+  "start station id": 523,
+  "start station name": "W 38 St & 8 Ave",
+  "start station latitude": 40.75466591,
+  "start station longitude": -73.99138152,
+  "end station id": 523,
+  "end station name": "W 38 St & 8 Ave",
+  "end station latitude": 40.75466591,
+  "end station longitude": -73.99138152,
+  "bikeid": 30985,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 941,
+  "starttime": "2019-12-01 08:51:21.8290",
+  "stoptime": "2019-12-01 09:07:03.2780",
+  "start station id": 532,
+  "start station name": "S 5 Pl & S 5 St",
+  "start station latitude": 40.710451,
+  "start station longitude": -73.960876,
+  "end station id": 3467,
+  "end station name": "W Broadway & Spring St",
+  "end station latitude": 40.72494672359416,
+  "end station longitude": -74.00165855884552,
+  "bikeid": 27972,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

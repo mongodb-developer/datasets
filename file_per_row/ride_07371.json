@@ -1,0 +1,17 @@
+{
+  "tripduration": 210,
+  "starttime": "2019-12-01 14:02:09.8660",
+  "stoptime": "2019-12-01 14:05:40.0730",
+  "start station id": 302,
+  "start station name": "Avenue D & E 3 St",
+  "start station latitude": 40.72082834,
+  "start station longitude": -73.97793172,
+  "end station id": 410,
+  "end station name": "Suffolk St & Stanton St",
+  "end station latitude": 40.72066442,
+  "end station longitude": -73.98517977,
+  "bikeid": 39226,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

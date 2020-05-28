@@ -1,0 +1,17 @@
+{
+  "tripduration": 312,
+  "starttime": "2019-12-01 10:31:15.8940",
+  "stoptime": "2019-12-01 10:36:28.5160",
+  "start station id": 420,
+  "start station name": "Clermont Ave & Lafayette Ave",
+  "start station latitude": 40.68764484,
+  "start station longitude": -73.96968902,
+  "end station id": 364,
+  "end station name": "Lafayette Ave & Classon Ave",
+  "end station latitude": 40.68900443,
+  "end station longitude": -73.96023854,
+  "bikeid": 27962,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

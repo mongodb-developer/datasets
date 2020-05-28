@@ -1,0 +1,17 @@
+{
+  "tripduration": 161,
+  "starttime": "2019-12-01 06:54:10.6580",
+  "stoptime": "2019-12-01 06:56:51.9560",
+  "start station id": 305,
+  "start station name": "E 58 St & 3 Ave",
+  "start station latitude": 40.76095756,
+  "start station longitude": -73.96724467,
+  "end station id": 385,
+  "end station name": "E 55 St & 2 Ave",
+  "end station latitude": 40.75797322,
+  "end station longitude": -73.96603308,
+  "bikeid": 41497,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

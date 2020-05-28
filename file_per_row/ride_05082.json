@@ -1,0 +1,17 @@
+{
+  "tripduration": 617,
+  "starttime": "2019-12-01 11:15:57.5410",
+  "stoptime": "2019-12-01 11:26:15.1030",
+  "start station id": 3718,
+  "start station name": "E 11 St & Avenue B",
+  "start station latitude": 40.72746420692392,
+  "start station longitude": -73.97950418293476,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 32523,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 251,
+  "starttime": "2019-12-01 08:59:36.7170",
+  "stoptime": "2019-12-01 09:03:48.2250",
+  "start station id": 3315,
+  "start station name": "Henry St & Degraw St",
+  "start station latitude": 40.6847514,
+  "start station longitude": -73.99917254,
+  "end station id": 3409,
+  "end station name": "Bergen St & Smith St",
+  "end station latitude": 40.6867443,
+  "end station longitude": -73.99063168,
+  "bikeid": 41604,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 888,
+  "starttime": "2019-12-01 15:41:33.1320",
+  "stoptime": "2019-12-01 15:56:21.8900",
+  "start station id": 380,
+  "start station name": "W 4 St & 7 Ave S",
+  "start station latitude": 40.73401143,
+  "start station longitude": -74.00293877,
+  "end station id": 411,
+  "end station name": "E 6 St & Avenue D",
+  "end station latitude": 40.72228087,
+  "end station longitude": -73.97668709,
+  "bikeid": 15927,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "female"
+}

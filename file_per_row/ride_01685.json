@@ -1,0 +1,17 @@
+{
+  "tripduration": 196,
+  "starttime": "2019-12-01 08:18:09.3000",
+  "stoptime": "2019-12-01 08:21:25.6940",
+  "start station id": 3540,
+  "start station name": "Morningside Ave & W 123 St",
+  "start station latitude": 40.81,
+  "start station longitude": -73.9551508,
+  "end station id": 3534,
+  "end station name": "Frederick Douglass Blvd & W 117 St",
+  "end station latitude": 40.805159,
+  "end station longitude": -73.954692,
+  "bikeid": 40166,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 240,
+  "starttime": "2019-12-01 09:12:31.1800",
+  "stoptime": "2019-12-01 09:16:31.9530",
+  "start station id": 3724,
+  "start station name": "7 Ave & Central Park South",
+  "start station latitude": 40.7667405590595,
+  "start station longitude": -73.9790689945221,
+  "end station id": 3159,
+  "end station name": "W 67 St & Broadway",
+  "end station latitude": 40.77492513,
+  "end station longitude": -73.98266566,
+  "bikeid": 41503,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

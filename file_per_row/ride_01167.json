@@ -1,0 +1,17 @@
+{
+  "tripduration": 395,
+  "starttime": "2019-12-01 06:49:03.9500",
+  "stoptime": "2019-12-01 06:55:39.4160",
+  "start station id": 3077,
+  "start station name": "Stagg St & Union Ave",
+  "start station latitude": 40.70877084,
+  "start station longitude": -73.95095259,
+  "end station id": 3101,
+  "end station name": "N 12 St & Bedford Ave",
+  "end station latitude": 40.72079821,
+  "end station longitude": -73.95484712,
+  "bikeid": 41521,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

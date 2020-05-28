@@ -1,0 +1,17 @@
+{
+  "tripduration": 603,
+  "starttime": "2019-12-01 07:59:26.5870",
+  "stoptime": "2019-12-01 08:09:29.8130",
+  "start station id": 3725,
+  "start station name": "2 Ave & E 72 St",
+  "start station latitude": 40.7687620293096,
+  "start station longitude": -73.95840793848038,
+  "end station id": 3814,
+  "end station name": "E 56 St & Madison Ave",
+  "end station latitude": 40.761573,
+  "end station longitude": -73.972628,
+  "bikeid": 40899,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

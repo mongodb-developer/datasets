@@ -1,0 +1,17 @@
+{
+  "tripduration": 962,
+  "starttime": "2019-12-01 09:14:44.9130",
+  "stoptime": "2019-12-01 09:30:47.4910",
+  "start station id": 3143,
+  "start station name": "5 Ave & E 78 St",
+  "start station latitude": 40.77632142182271,
+  "start station longitude": -73.96427392959595,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 32648,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

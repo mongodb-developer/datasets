@@ -1,0 +1,17 @@
+{
+  "tripduration": 162,
+  "starttime": "2019-12-01 09:24:52.4090",
+  "stoptime": "2019-12-01 09:27:35.3760",
+  "start station id": 3782,
+  "start station name": "Brooklyn Bridge Park - Pier 2",
+  "start station latitude": 40.698458,
+  "start station longitude": -73.997178,
+  "end station id": 217,
+  "end station name": "Old Fulton St",
+  "end station latitude": 40.70277159,
+  "end station longitude": -73.99383605,
+  "bikeid": 41354,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

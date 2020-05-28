@@ -1,0 +1,17 @@
+{
+  "tripduration": 3585,
+  "starttime": "2019-12-01 18:12:08.7020",
+  "stoptime": "2019-12-01 19:11:54.6570",
+  "start station id": 3243,
+  "start station name": "E 58 St & 1 Ave (NE Corner)",
+  "start station latitude": 40.75892386377695,
+  "start station longitude": -73.96226227283478,
+  "end station id": 3243,
+  "end station name": "E 58 St & 1 Ave (NE Corner)",
+  "end station latitude": 40.75892386377695,
+  "end station longitude": -73.96226227283478,
+  "bikeid": 29322,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

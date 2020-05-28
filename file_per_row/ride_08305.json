@@ -1,0 +1,17 @@
+{
+  "tripduration": 562,
+  "starttime": "2019-12-01 15:47:29.5250",
+  "stoptime": "2019-12-01 15:56:52.2550",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 3749,
+  "end station name": "Lexington Ave & E 36 St",
+  "end station latitude": 40.747573958954796,
+  "end station longitude": -73.9788007736206,
+  "bikeid": 39097,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

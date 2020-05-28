@@ -1,0 +1,17 @@
+{
+  "tripduration": 503,
+  "starttime": "2019-12-01 13:06:43.7450",
+  "stoptime": "2019-12-01 13:15:07.3710",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 16340,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

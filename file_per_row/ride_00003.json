@@ -1,0 +1,17 @@
+{
+  "tripduration": 723,
+  "starttime": "2019-12-01 00:00:11.8180",
+  "stoptime": "2019-12-01 00:12:14.8310",
+  "start station id": 146,
+  "start station name": "Hudson St & Reade St",
+  "start station latitude": 40.71625008,
+  "start station longitude": -74.0091059,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 15334,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

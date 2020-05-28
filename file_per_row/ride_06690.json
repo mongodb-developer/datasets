@@ -1,0 +1,17 @@
+{
+  "tripduration": 151,
+  "starttime": "2019-12-01 12:45:31.8250",
+  "stoptime": "2019-12-01 12:48:03.0790",
+  "start station id": 340,
+  "start station name": "Madison St & Clinton St",
+  "start station latitude": 40.71269042,
+  "start station longitude": -73.98776323,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 40829,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

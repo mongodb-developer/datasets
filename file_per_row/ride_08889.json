@@ -1,0 +1,17 @@
+{
+  "tripduration": 483,
+  "starttime": "2019-12-01 17:41:04.3930",
+  "stoptime": "2019-12-01 17:49:07.5900",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3095,
+  "end station name": "Graham Ave & Herbert St",
+  "end station latitude": 40.71929301,
+  "end station longitude": -73.94500379,
+  "bikeid": 39347,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

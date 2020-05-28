@@ -1,0 +1,17 @@
+{
+  "tripduration": 1792,
+  "starttime": "2019-12-01 20:36:16.2980",
+  "stoptime": "2019-12-01 21:06:08.3380",
+  "start station id": 366,
+  "start station name": "Clinton Ave & Myrtle Ave",
+  "start station latitude": 40.693261,
+  "start station longitude": -73.968896,
+  "end station id": 528,
+  "end station name": "2 Ave & E 31 St",
+  "end station latitude": 40.74290902,
+  "end station longitude": -73.97706058,
+  "bikeid": 33886,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

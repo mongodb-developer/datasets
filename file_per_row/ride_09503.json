@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 19:29:56.5530",
+  "stoptime": "2019-12-01 19:37:49.4470",
+  "start station id": 2000,
+  "start station name": "Front St & Washington St",
+  "start station latitude": 40.70255088,
+  "start station longitude": -73.98940236,
+  "end station id": 3298,
+  "end station name": "Warren St & Court St",
+  "end station latitude": 40.686371,
+  "end station longitude": -73.99383324,
+  "bikeid": 39249,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

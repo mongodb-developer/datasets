@@ -1,0 +1,17 @@
+{
+  "tripduration": 2479,
+  "starttime": "2019-12-01 11:51:16.4990",
+  "stoptime": "2019-12-01 12:32:36.4020",
+  "start station id": 379,
+  "start station name": "W 31 St & 7 Ave",
+  "start station latitude": 40.749156,
+  "start station longitude": -73.9916,
+  "end station id": 323,
+  "end station name": "Lawrence St & Willoughby St",
+  "end station latitude": 40.69236178,
+  "end station longitude": -73.98631746,
+  "bikeid": 31554,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

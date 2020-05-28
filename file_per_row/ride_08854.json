@@ -1,0 +1,17 @@
+{
+  "tripduration": 730,
+  "starttime": "2019-12-01 17:31:22.3810",
+  "stoptime": "2019-12-01 17:43:32.8970",
+  "start station id": 3148,
+  "start station name": "E 84 St & 1 Ave",
+  "start station latitude": 40.77565541,
+  "start station longitude": -73.95068615,
+  "end station id": 3314,
+  "end station name": "W 95 St & Broadway",
+  "end station latitude": 40.7937704,
+  "end station longitude": -73.971888,
+  "bikeid": 29139,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

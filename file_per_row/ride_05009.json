@@ -1,0 +1,17 @@
+{
+  "tripduration": 437,
+  "starttime": "2019-12-01 11:11:38.4690",
+  "stoptime": "2019-12-01 11:18:55.4700",
+  "start station id": 3124,
+  "start station name": "46 Ave & 5 St",
+  "start station latitude": 40.74731,
+  "start station longitude": -73.95451,
+  "end station id": 3126,
+  "end station name": "44 Dr & Jackson Ave",
+  "end station latitude": 40.74718234,
+  "end station longitude": -73.9432635,
+  "bikeid": 15630,
+  "usertype": "Customer",
+  "birth year": 1975,
+  "gender": "female"
+}

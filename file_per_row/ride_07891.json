@@ -1,0 +1,17 @@
+{
+  "tripduration": 632,
+  "starttime": "2019-12-01 15:04:18.8970",
+  "stoptime": "2019-12-01 15:14:51.7380",
+  "start station id": 529,
+  "start station name": "W 42 St & 8 Ave",
+  "start station latitude": 40.7575699,
+  "start station longitude": -73.99098507,
+  "end station id": 478,
+  "end station name": "11 Ave & W 41 St",
+  "end station latitude": 40.76030096,
+  "end station longitude": -73.99884222,
+  "bikeid": 41808,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "female"
+}

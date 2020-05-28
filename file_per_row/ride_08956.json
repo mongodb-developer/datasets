@@ -1,0 +1,17 @@
+{
+  "tripduration": 501,
+  "starttime": "2019-12-01 17:53:01.3800",
+  "stoptime": "2019-12-01 18:01:22.8310",
+  "start station id": 3400,
+  "start station name": "E 110 St & Madison Ave",
+  "start station latitude": 40.7961535,
+  "start station longitude": -73.94782145,
+  "end station id": 3553,
+  "end station name": "Frederick Douglass Blvd & W 112 St",
+  "end station latitude": 40.801694,
+  "end station longitude": -73.957145,
+  "bikeid": 19651,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

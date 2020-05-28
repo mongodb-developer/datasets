@@ -1,0 +1,17 @@
+{
+  "tripduration": 1424,
+  "starttime": "2019-12-01 15:54:21.6300",
+  "stoptime": "2019-12-01 16:18:06.6190",
+  "start station id": 426,
+  "start station name": "West St & Chambers St",
+  "start station latitude": 40.71754834,
+  "start station longitude": -74.01322069,
+  "end station id": 2003,
+  "end station name": "1 Ave & E 18 St",
+  "end station latitude": 40.733812191966315,
+  "end station longitude": -73.98054420948029,
+  "bikeid": 41182,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

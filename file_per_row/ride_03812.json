@@ -1,0 +1,17 @@
+{
+  "tripduration": 199,
+  "starttime": "2019-12-01 10:22:48.6910",
+  "stoptime": "2019-12-01 10:26:08.2140",
+  "start station id": 302,
+  "start station name": "Avenue D & E 3 St",
+  "start station latitude": 40.72082834,
+  "start station longitude": -73.97793172,
+  "end station id": 339,
+  "end station name": "Avenue D & E 12 St",
+  "end station latitude": 40.72580614,
+  "end station longitude": -73.97422494,
+  "bikeid": 33025,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

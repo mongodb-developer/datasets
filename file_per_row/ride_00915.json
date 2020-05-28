@@ -1,0 +1,17 @@
+{
+  "tripduration": 184,
+  "starttime": "2019-12-01 03:54:05.3220",
+  "stoptime": "2019-12-01 03:57:10.0730",
+  "start station id": 319,
+  "start station name": "Fulton St & Broadway",
+  "start station latitude": 40.711066,
+  "start station longitude": -74.009447,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 28398,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

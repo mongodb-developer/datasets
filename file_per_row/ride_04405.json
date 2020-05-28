@@ -1,0 +1,17 @@
+{
+  "tripduration": 1335,
+  "starttime": "2019-12-01 10:48:14.7140",
+  "stoptime": "2019-12-01 11:10:30.5100",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 494,
+  "end station name": "W 26 St & 8 Ave",
+  "end station latitude": 40.74734825,
+  "end station longitude": -73.99723551,
+  "bikeid": 26962,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "female"
+}

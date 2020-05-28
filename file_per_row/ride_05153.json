@@ -1,0 +1,17 @@
+{
+  "tripduration": 632,
+  "starttime": "2019-12-01 11:19:45.6290",
+  "stoptime": "2019-12-01 11:30:17.8780",
+  "start station id": 3331,
+  "start station name": "Riverside Dr & W 104 St",
+  "start station latitude": 40.8013434,
+  "start station longitude": -73.9711457439,
+  "end station id": 3623,
+  "end station name": "W 120 St & Claremont Ave",
+  "end station latitude": 40.8109494,
+  "end station longitude": -73.9634,
+  "bikeid": 40147,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

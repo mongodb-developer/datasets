@@ -1,0 +1,17 @@
+{
+  "tripduration": 1842,
+  "starttime": "2019-12-01 09:56:27.4420",
+  "stoptime": "2019-12-01 10:27:10.3720",
+  "start station id": 460,
+  "start station name": "S 4 St & Wythe Ave",
+  "start station latitude": 40.71285887,
+  "start station longitude": -73.96590294,
+  "end station id": 250,
+  "end station name": "Lafayette St & Jersey St",
+  "end station latitude": 40.72456089,
+  "end station longitude": -73.99565293,
+  "bikeid": 41079,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 199,
+  "starttime": "2019-12-01 01:30:51.7010",
+  "stoptime": "2019-12-01 01:34:11.3480",
+  "start station id": 143,
+  "start station name": "Clinton St & Joralemon St",
+  "start station latitude": 40.69239502,
+  "start station longitude": -73.99337909,
+  "end station id": 3790,
+  "end station name": "Henry St & Middagh St",
+  "end station latitude": 40.7003,
+  "end station longitude": -73.991581,
+  "bikeid": 26644,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

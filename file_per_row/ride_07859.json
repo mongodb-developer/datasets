@@ -1,0 +1,17 @@
+{
+  "tripduration": 343,
+  "starttime": "2019-12-01 15:01:56.3660",
+  "stoptime": "2019-12-01 15:07:40.2780",
+  "start station id": 242,
+  "start station name": "Carlton Ave & Flushing Ave",
+  "start station latitude": 40.697787,
+  "start station longitude": -73.973736,
+  "end station id": 3674,
+  "end station name": "Jay St & York St",
+  "end station latitude": 40.701403172577244,
+  "end station longitude": -73.98672670125961,
+  "bikeid": 38086,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

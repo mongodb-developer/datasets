@@ -1,0 +1,17 @@
+{
+  "tripduration": 231,
+  "starttime": "2019-12-01 10:38:34.8290",
+  "stoptime": "2019-12-01 10:42:26.7130",
+  "start station id": 383,
+  "start station name": "Greenwich Ave & Charles St",
+  "start station latitude": 40.735238,
+  "start station longitude": -74.000271,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 26864,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

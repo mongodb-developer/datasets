@@ -1,0 +1,17 @@
+{
+  "tripduration": 182,
+  "starttime": "2019-12-01 06:48:09.4920",
+  "stoptime": "2019-12-01 06:51:11.9710",
+  "start station id": 3712,
+  "start station name": "W 35 St & Dyer Ave",
+  "start station latitude": 40.754691750226016,
+  "start station longitude": -73.99740189313889,
+  "end station id": 3259,
+  "end station name": "9 Ave & W 28 St",
+  "end station latitude": 40.74937024193277,
+  "end station longitude": -73.99923384189606,
+  "bikeid": 27390,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

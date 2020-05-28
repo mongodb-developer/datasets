@@ -1,0 +1,17 @@
+{
+  "tripduration": 100,
+  "starttime": "2019-12-01 00:39:32.1800",
+  "stoptime": "2019-12-01 00:41:12.5590",
+  "start station id": 3408,
+  "start station name": "Congress St & Clinton St",
+  "start station latitude": 40.6881529,
+  "start station longitude": -73.99520919,
+  "end station id": 157,
+  "end station name": "Henry St & Atlantic Ave",
+  "end station latitude": 40.69089272,
+  "end station longitude": -73.99612349,
+  "bikeid": 34260,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

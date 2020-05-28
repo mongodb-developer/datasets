@@ -1,0 +1,17 @@
+{
+  "tripduration": 939,
+  "starttime": "2019-12-01 20:50:22.1410",
+  "stoptime": "2019-12-01 21:06:01.9840",
+  "start station id": 490,
+  "start station name": "8 Ave & W 33 St",
+  "start station latitude": 40.751551,
+  "start station longitude": -73.993934,
+  "end station id": 454,
+  "end station name": "E 51 St & 1 Ave",
+  "end station latitude": 40.75455731,
+  "end station longitude": -73.96592976,
+  "bikeid": 28480,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

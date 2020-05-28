@@ -1,0 +1,17 @@
+{
+  "tripduration": 135,
+  "starttime": "2019-12-01 16:53:58.0000",
+  "stoptime": "2019-12-01 16:56:13.9900",
+  "start station id": 3136,
+  "start station name": "5 Ave & E 63 St",
+  "start station latitude": 40.766368,
+  "start station longitude": -73.971518,
+  "end station id": 2006,
+  "end station name": "Central Park S & 6 Ave",
+  "end station latitude": 40.76590936,
+  "end station longitude": -73.97634151,
+  "bikeid": 33129,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

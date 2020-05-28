@@ -1,0 +1,17 @@
+{
+  "tripduration": 252,
+  "starttime": "2019-12-01 08:15:34.6770",
+  "stoptime": "2019-12-01 08:19:46.7010",
+  "start station id": 474,
+  "start station name": "5 Ave & E 29 St",
+  "start station latitude": 40.7451677,
+  "start station longitude": -73.98683077,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 29816,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

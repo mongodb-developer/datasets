@@ -1,0 +1,17 @@
+{
+  "tripduration": 1266,
+  "starttime": "2019-12-01 08:33:36.9450",
+  "stoptime": "2019-12-01 08:54:43.0210",
+  "start station id": 3166,
+  "start station name": "Riverside Dr & W 72 St",
+  "start station latitude": 40.78057799010334,
+  "start station longitude": -73.98562431335449,
+  "end station id": 3296,
+  "end station name": "E 93 St & 2 Ave",
+  "end station latitude": 40.782454175279874,
+  "end station longitude": -73.9489196240902,
+  "bikeid": 41377,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

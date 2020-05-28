@@ -1,0 +1,17 @@
+{
+  "tripduration": 1358,
+  "starttime": "2019-12-01 06:28:25.7080",
+  "stoptime": "2019-12-01 06:51:04.3860",
+  "start station id": 531,
+  "start station name": "Forsyth St & Broome St",
+  "start station latitude": 40.71893904,
+  "start station longitude": -73.99266288,
+  "end station id": 217,
+  "end station name": "Old Fulton St",
+  "end station latitude": 40.70277159,
+  "end station longitude": -73.99383605,
+  "bikeid": 35076,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

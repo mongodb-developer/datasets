@@ -1,0 +1,17 @@
+{
+  "tripduration": 281,
+  "starttime": "2019-12-01 08:40:39.4840",
+  "stoptime": "2019-12-01 08:45:20.7290",
+  "start station id": 243,
+  "start station name": "Fulton St & Rockwell Pl",
+  "start station latitude": 40.68841,
+  "start station longitude": -73.979458,
+  "end station id": 310,
+  "end station name": "State St & Smith St",
+  "end station latitude": 40.68926942,
+  "end station longitude": -73.98912867,
+  "bikeid": 41962,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

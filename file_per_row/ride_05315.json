@@ -1,0 +1,17 @@
+{
+  "tripduration": 364,
+  "starttime": "2019-12-01 11:27:41.4060",
+  "stoptime": "2019-12-01 11:33:46.1850",
+  "start station id": 496,
+  "start station name": "E 16 St & 5 Ave",
+  "start station latitude": 40.73726186,
+  "start station longitude": -73.99238967,
+  "end station id": 491,
+  "end station name": "E 24 St & Park Ave S",
+  "end station latitude": 40.74096374,
+  "end station longitude": -73.98602213,
+  "bikeid": 30798,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

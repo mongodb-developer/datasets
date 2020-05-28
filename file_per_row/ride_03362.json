@@ -1,0 +1,17 @@
+{
+  "tripduration": 2002,
+  "starttime": "2019-12-01 10:03:52.7780",
+  "stoptime": "2019-12-01 10:37:15.4520",
+  "start station id": 3820,
+  "start station name": "Willoughby Ave & Myrtle Ave",
+  "start station latitude": 40.69757,
+  "start station longitude": -73.93098,
+  "end station id": 3329,
+  "end station name": "Degraw St & Smith St",
+  "end station latitude": 40.6829151,
+  "end station longitude": -73.99318208,
+  "bikeid": 41513,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

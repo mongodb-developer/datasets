@@ -1,0 +1,17 @@
+{
+  "tripduration": 523,
+  "starttime": "2019-12-01 10:16:50.3130",
+  "stoptime": "2019-12-01 10:25:33.4930",
+  "start station id": 3132,
+  "start station name": "E 59 St & Madison Ave",
+  "start station latitude": 40.76350532,
+  "start station longitude": -73.97109243,
+  "end station id": 3370,
+  "end station name": "E 78 St & 2 Ave",
+  "end station latitude": 40.7727966,
+  "end station longitude": -73.95577801,
+  "bikeid": 39482,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

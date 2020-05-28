@@ -1,0 +1,17 @@
+{
+  "tripduration": 203,
+  "starttime": "2019-12-01 09:16:19.8320",
+  "stoptime": "2019-12-01 09:19:43.5950",
+  "start station id": 434,
+  "start station name": "9 Ave & W 18 St",
+  "start station latitude": 40.74317449,
+  "start station longitude": -74.00366443,
+  "end station id": 453,
+  "end station name": "W 22 St & 8 Ave",
+  "end station latitude": 40.74475148,
+  "end station longitude": -73.99915362,
+  "bikeid": 40985,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

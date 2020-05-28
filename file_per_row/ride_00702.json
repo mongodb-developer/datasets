@@ -1,0 +1,17 @@
+{
+  "tripduration": 119,
+  "starttime": "2019-12-01 02:28:48.4150",
+  "stoptime": "2019-12-01 02:30:47.6190",
+  "start station id": 274,
+  "start station name": "Lafayette Ave & Fort Greene Pl",
+  "start station latitude": 40.68691865,
+  "start station longitude": -73.976682,
+  "end station id": 416,
+  "end station name": "Cumberland St & Lafayette Ave",
+  "end station latitude": 40.68753406,
+  "end station longitude": -73.97265183,
+  "bikeid": 30202,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 771,
+  "starttime": "2019-12-01 10:53:07.2790",
+  "stoptime": "2019-12-01 11:05:58.9240",
+  "start station id": 224,
+  "start station name": "Spruce St & Nassau St",
+  "start station latitude": 40.71146364,
+  "start station longitude": -74.00552427,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 28030,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

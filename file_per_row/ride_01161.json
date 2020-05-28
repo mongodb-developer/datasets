@@ -1,0 +1,17 @@
+{
+  "tripduration": 275,
+  "starttime": "2019-12-01 06:46:39.4470",
+  "stoptime": "2019-12-01 06:51:14.8010",
+  "start station id": 3242,
+  "start station name": "Schermerhorn St & Court St",
+  "start station latitude": 40.69102925677968,
+  "start station longitude": -73.99183362722397,
+  "end station id": 3311,
+  "end station name": "Columbia St & Kane St",
+  "end station latitude": 40.68763155,
+  "end station longitude": -74.0016256,
+  "bikeid": 31073,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

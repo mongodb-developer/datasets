@@ -1,0 +1,17 @@
+{
+  "tripduration": 512,
+  "starttime": "2019-12-01 11:52:42.5970",
+  "stoptime": "2019-12-01 12:01:14.7050",
+  "start station id": 344,
+  "start station name": "Monroe St & Bedford Ave",
+  "start station latitude": 40.6851443,
+  "start station longitude": -73.95380904,
+  "end station id": 3637,
+  "end station name": "Fulton St & Waverly Ave",
+  "end station latitude": 40.683238654603414,
+  "end station longitude": -73.96599590778351,
+  "bikeid": 38250,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

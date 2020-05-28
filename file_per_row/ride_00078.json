@@ -1,0 +1,17 @@
+{
+  "tripduration": 366,
+  "starttime": "2019-12-01 00:11:36.9820",
+  "stoptime": "2019-12-01 00:17:43.8870",
+  "start station id": 3783,
+  "start station name": "Cliff St & Fulton St",
+  "start station latitude": 40.70838,
+  "start station longitude": -74.00495,
+  "end station id": 408,
+  "end station name": "Market St & Cherry St",
+  "end station latitude": 40.71076228,
+  "end station longitude": -73.99400398,
+  "bikeid": 34264,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

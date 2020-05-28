@@ -1,0 +1,17 @@
+{
+  "tripduration": 488,
+  "starttime": "2019-12-01 10:36:59.5330",
+  "stoptime": "2019-12-01 10:45:08.5290",
+  "start station id": 167,
+  "start station name": "E 39 St & 3 Ave",
+  "start station latitude": 40.7489006,
+  "start station longitude": -73.97604882,
+  "end station id": 281,
+  "end station name": "Grand Army Plaza & Central Park S",
+  "end station latitude": 40.7643971,
+  "end station longitude": -73.97371465,
+  "bikeid": 39969,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

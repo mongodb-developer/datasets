@@ -1,0 +1,17 @@
+{
+  "tripduration": 794,
+  "starttime": "2019-12-01 16:16:53.4100",
+  "stoptime": "2019-12-01 16:30:08.0470",
+  "start station id": 492,
+  "start station name": "W 33 St & 7 Ave",
+  "start station latitude": 40.75019995,
+  "start station longitude": -73.99093085,
+  "end station id": 530,
+  "end station name": "11 Ave & W 59 St",
+  "end station latitude": 40.77149671054441,
+  "end station longitude": -73.99046033620834,
+  "bikeid": 35106,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

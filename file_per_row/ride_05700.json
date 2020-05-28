@@ -1,0 +1,17 @@
+{
+  "tripduration": 251,
+  "starttime": "2019-12-01 11:51:06.3490",
+  "stoptime": "2019-12-01 11:55:17.8440",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 439,
+  "end station name": "E 4 St & 2 Ave",
+  "end station latitude": 40.7262807,
+  "end station longitude": -73.98978041,
+  "bikeid": 35058,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

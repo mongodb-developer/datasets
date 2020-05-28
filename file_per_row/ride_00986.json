@@ -1,0 +1,17 @@
+{
+  "tripduration": 200,
+  "starttime": "2019-12-01 04:40:59.7670",
+  "stoptime": "2019-12-01 04:44:20.6960",
+  "start station id": 3232,
+  "start station name": "Bond St & Fulton St",
+  "start station latitude": 40.68962188790333,
+  "start station longitude": -73.98304268717766,
+  "end station id": 392,
+  "end station name": "Jay St & Tech Pl",
+  "end station latitude": 40.695065,
+  "end station longitude": -73.987167,
+  "bikeid": 30847,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

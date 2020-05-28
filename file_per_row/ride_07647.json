@@ -1,0 +1,17 @@
+{
+  "tripduration": 165,
+  "starttime": "2019-12-01 14:39:04.1130",
+  "stoptime": "2019-12-01 14:41:49.3100",
+  "start station id": 3287,
+  "start station name": "W 87 St & West End Ave",
+  "start station latitude": 40.789622,
+  "start station longitude": -73.97757,
+  "end station id": 3169,
+  "end station name": "Riverside Dr & W 82 St",
+  "end station latitude": 40.78720869,
+  "end station longitude": -73.98128127,
+  "bikeid": 21630,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

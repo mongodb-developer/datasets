@@ -1,0 +1,17 @@
+{
+  "tripduration": 633,
+  "starttime": "2019-12-01 00:02:14.8210",
+  "stoptime": "2019-12-01 00:12:48.0130",
+  "start station id": 3134,
+  "start station name": "3 Ave & E 62 St",
+  "start station latitude": 40.76312584,
+  "start station longitude": -73.96526895,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 29984,
+  "usertype": "Customer",
+  "birth year": 1998,
+  "gender": "male"
+}

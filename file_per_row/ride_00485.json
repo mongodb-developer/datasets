@@ -1,0 +1,17 @@
+{
+  "tripduration": 444,
+  "starttime": "2019-12-01 01:26:04.2970",
+  "stoptime": "2019-12-01 01:33:29.1260",
+  "start station id": 3898,
+  "start station name": "E 63 St & 3 Ave",
+  "start station latitude": 40.763954,
+  "start station longitude": -73.9646,
+  "end station id": 454,
+  "end station name": "E 51 St & 1 Ave",
+  "end station latitude": 40.75455731,
+  "end station longitude": -73.96592976,
+  "bikeid": 28749,
+  "usertype": "Subscriber",
+  "birth year": 2002,
+  "gender": "male"
+}

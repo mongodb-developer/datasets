@@ -1,0 +1,17 @@
+{
+  "tripduration": 483,
+  "starttime": "2019-12-01 09:33:50.1060",
+  "stoptime": "2019-12-01 09:41:54.0400",
+  "start station id": 168,
+  "start station name": "W 18 St & 6 Ave",
+  "start station latitude": 40.73971301,
+  "start station longitude": -73.99456405,
+  "end station id": 3707,
+  "end station name": "Lexington Ave & E 26 St",
+  "end station latitude": 40.741459,
+  "end station longitude": -73.983293,
+  "bikeid": 41058,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

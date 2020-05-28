@@ -1,0 +1,17 @@
+{
+  "tripduration": 436,
+  "starttime": "2019-12-01 12:30:46.5850",
+  "stoptime": "2019-12-01 12:38:02.7040",
+  "start station id": 379,
+  "start station name": "W 31 St & 7 Ave",
+  "start station latitude": 40.749156,
+  "start station longitude": -73.9916,
+  "end station id": 3798,
+  "end station name": "W 40 St & 5 Ave",
+  "end station latitude": 40.752269,
+  "end station longitude": -73.982079,
+  "bikeid": 14814,
+  "usertype": "Customer",
+  "birth year": 1997,
+  "gender": "male"
+}

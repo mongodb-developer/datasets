@@ -1,0 +1,17 @@
+{
+  "tripduration": 1531,
+  "starttime": "2019-12-01 19:05:54.3750",
+  "stoptime": "2019-12-01 19:31:25.6460",
+  "start station id": 442,
+  "start station name": "W 27 St & 7 Ave",
+  "start station latitude": 40.746647,
+  "start station longitude": -73.993915,
+  "end station id": 317,
+  "end station name": "E 6 St & Avenue B",
+  "end station latitude": 40.72453734,
+  "end station longitude": -73.98185424,
+  "bikeid": 41818,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 693,
+  "starttime": "2019-12-01 10:57:15.1540",
+  "stoptime": "2019-12-01 11:08:48.9110",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 532,
+  "end station name": "S 5 Pl & S 5 St",
+  "end station latitude": 40.710451,
+  "end station longitude": -73.960876,
+  "bikeid": 25901,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "unknown"
+}

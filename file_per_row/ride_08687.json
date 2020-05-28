@@ -1,0 +1,17 @@
+{
+  "tripduration": 661,
+  "starttime": "2019-12-01 16:59:58.5850",
+  "stoptime": "2019-12-01 17:11:00.3950",
+  "start station id": 3244,
+  "start station name": "University Pl & E 8 St",
+  "start station latitude": 40.73143724085228,
+  "start station longitude": -73.99490341544151,
+  "end station id": 356,
+  "end station name": "Bialystoker Pl & Delancey St",
+  "end station latitude": 40.71622644,
+  "end station longitude": -73.98261206,
+  "bikeid": 28269,
+  "usertype": "Subscriber",
+  "birth year": 2000,
+  "gender": "male"
+}

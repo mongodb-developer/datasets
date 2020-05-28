@@ -1,0 +1,17 @@
+{
+  "tripduration": 540,
+  "starttime": "2019-12-01 19:57:57.2610",
+  "stoptime": "2019-12-01 20:06:57.8470",
+  "start station id": 3383,
+  "start station name": "Cathedral Pkwy & Broadway",
+  "start station latitude": 40.804213,
+  "start station longitude": -73.96699104,
+  "end station id": 3551,
+  "end station name": "3 Ave & E 112 St",
+  "end station latitude": 40.795508,
+  "end station longitude": -73.941606,
+  "bikeid": 31032,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

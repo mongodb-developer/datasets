@@ -1,0 +1,17 @@
+{
+  "tripduration": 178,
+  "starttime": "2019-12-01 11:24:16.1420",
+  "stoptime": "2019-12-01 11:27:14.4960",
+  "start station id": 3293,
+  "start station name": "W 92 St & Broadway",
+  "start station latitude": 40.7921,
+  "start station longitude": -73.9739,
+  "end station id": 3287,
+  "end station name": "W 87 St & West End Ave",
+  "end station latitude": 40.789622,
+  "end station longitude": -73.97757,
+  "bikeid": 21305,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

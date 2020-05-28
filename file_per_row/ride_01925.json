@@ -1,0 +1,17 @@
+{
+  "tripduration": 391,
+  "starttime": "2019-12-01 08:40:53.3020",
+  "stoptime": "2019-12-01 08:47:24.3310",
+  "start station id": 3783,
+  "start station name": "Cliff St & Fulton St",
+  "start station latitude": 40.70838,
+  "start station longitude": -74.00495,
+  "end station id": 426,
+  "end station name": "West St & Chambers St",
+  "end station latitude": 40.71754834,
+  "end station longitude": -74.01322069,
+  "bikeid": 16315,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

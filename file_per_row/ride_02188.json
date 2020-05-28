@@ -1,0 +1,17 @@
+{
+  "tripduration": 2218,
+  "starttime": "2019-12-01 08:59:16.6330",
+  "stoptime": "2019-12-01 09:36:15.3160",
+  "start station id": 458,
+  "start station name": "11 Ave & W 27 St",
+  "start station latitude": 40.751396,
+  "start station longitude": -74.005226,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 18615,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

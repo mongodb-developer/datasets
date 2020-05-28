@@ -1,0 +1,17 @@
+{
+  "tripduration": 365,
+  "starttime": "2019-12-01 08:31:45.2340",
+  "stoptime": "2019-12-01 08:37:50.7050",
+  "start station id": 3372,
+  "start station name": "E 74 St & 1 Ave",
+  "start station latitude": 40.7689738,
+  "start station longitude": -73.95482273,
+  "end station id": 3147,
+  "end station name": "E 85 St & 3 Ave",
+  "end station latitude": 40.77801203,
+  "end station longitude": -73.95407149,
+  "bikeid": 41906,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

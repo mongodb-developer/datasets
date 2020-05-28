@@ -1,0 +1,17 @@
+{
+  "tripduration": 893,
+  "starttime": "2019-12-01 00:56:33.9290",
+  "stoptime": "2019-12-01 01:11:27.3300",
+  "start station id": 460,
+  "start station name": "S 4 St & Wythe Ave",
+  "start station latitude": 40.71285887,
+  "start station longitude": -73.96590294,
+  "end station id": 317,
+  "end station name": "E 6 St & Avenue B",
+  "end station latitude": 40.72453734,
+  "end station longitude": -73.98185424,
+  "bikeid": 19689,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

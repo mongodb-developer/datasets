@@ -1,0 +1,17 @@
+{
+  "tripduration": 611,
+  "starttime": "2019-12-01 09:24:01.2640",
+  "stoptime": "2019-12-01 09:34:12.7400",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 237,
+  "end station name": "E 11 St & 2 Ave",
+  "end station latitude": 40.73047309,
+  "end station longitude": -73.98672378,
+  "bikeid": 40563,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

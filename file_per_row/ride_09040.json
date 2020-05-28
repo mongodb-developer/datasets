@@ -1,0 +1,17 @@
+{
+  "tripduration": 229,
+  "starttime": "2019-12-01 18:08:27.6720",
+  "stoptime": "2019-12-01 18:12:17.1700",
+  "start station id": 3377,
+  "start station name": "Carroll St & Bond St",
+  "start station latitude": 40.6786115,
+  "start station longitude": -73.99037292,
+  "end station id": 3373,
+  "end station name": "3 St & 3 Ave",
+  "end station latitude": 40.6750705,
+  "end station longitude": -73.98775226,
+  "bikeid": 34081,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

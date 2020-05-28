@@ -1,0 +1,17 @@
+{
+  "tripduration": 270,
+  "starttime": "2019-12-01 08:42:02.9750",
+  "stoptime": "2019-12-01 08:46:33.3380",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 40889,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

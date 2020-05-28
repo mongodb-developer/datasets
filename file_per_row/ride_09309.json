@@ -1,0 +1,17 @@
+{
+  "tripduration": 202,
+  "starttime": "2019-12-01 18:57:32.3710",
+  "stoptime": "2019-12-01 19:00:54.9010",
+  "start station id": 3402,
+  "start station name": "Court St & State St",
+  "start station latitude": 40.6902375,
+  "start station longitude": -73.99203074,
+  "end station id": 3246,
+  "end station name": "Montague St & Clinton St",
+  "end station latitude": 40.694281141397326,
+  "end station longitude": -73.99230033159256,
+  "bikeid": 33795,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "female"
+}

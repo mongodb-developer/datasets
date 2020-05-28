@@ -1,0 +1,17 @@
+{
+  "tripduration": 291,
+  "starttime": "2019-12-01 10:28:53.3960",
+  "stoptime": "2019-12-01 10:33:45.2900",
+  "start station id": 3668,
+  "start station name": "Leonard St & Nassau Ave",
+  "start station latitude": 40.7239567849954,
+  "start station longitude": -73.94984364509583,
+  "end station id": 3087,
+  "end station name": "Metropolitan Ave & Meeker Ave",
+  "end station latitude": 40.71413311,
+  "end station longitude": -73.95234386,
+  "bikeid": 39270,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

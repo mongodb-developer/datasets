@@ -1,0 +1,17 @@
+{
+  "tripduration": 362,
+  "starttime": "2019-12-01 14:33:49.2310",
+  "stoptime": "2019-12-01 14:39:51.7770",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3454,
+  "end station name": "Leonard St & Maujer St",
+  "end station latitude": 40.7103685423523,
+  "end station longitude": -73.94705951213837,
+  "bikeid": 31399,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

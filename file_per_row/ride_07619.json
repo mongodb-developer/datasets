@@ -1,0 +1,17 @@
+{
+  "tripduration": 1029,
+  "starttime": "2019-12-01 14:35:22.7330",
+  "stoptime": "2019-12-01 14:52:32.3550",
+  "start station id": 236,
+  "start station name": "St Marks Pl & 2 Ave",
+  "start station latitude": 40.7284186,
+  "start station longitude": -73.98713956,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 33143,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "male"
+}

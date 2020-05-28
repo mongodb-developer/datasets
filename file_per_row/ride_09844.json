@@ -1,0 +1,17 @@
+{
+  "tripduration": 154,
+  "starttime": "2019-12-01 20:26:41.3620",
+  "stoptime": "2019-12-01 20:29:15.5040",
+  "start station id": 238,
+  "start station name": "Bank St & Washington St",
+  "start station latitude": 40.7361967,
+  "start station longitude": -74.00859207,
+  "end station id": 405,
+  "end station name": "Washington St & Gansevoort St",
+  "end station latitude": 40.739323,
+  "end station longitude": -74.008119,
+  "bikeid": 38154,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

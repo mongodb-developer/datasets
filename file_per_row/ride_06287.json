@@ -1,0 +1,17 @@
+{
+  "tripduration": 1492,
+  "starttime": "2019-12-01 12:24:45.7020",
+  "stoptime": "2019-12-01 12:49:38.6230",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 3072,
+  "end station name": "Leonard St & Boerum St",
+  "end station latitude": 40.70583339,
+  "end station longitude": -73.94644578,
+  "bikeid": 16300,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1299,
+  "starttime": "2019-12-01 08:20:04.9070",
+  "stoptime": "2019-12-01 08:41:44.7800",
+  "start station id": 3534,
+  "start station name": "Frederick Douglass Blvd & W 117 St",
+  "start station latitude": 40.805159,
+  "start station longitude": -73.954692,
+  "end station id": 3147,
+  "end station name": "E 85 St & 3 Ave",
+  "end station latitude": 40.77801203,
+  "end station longitude": -73.95407149,
+  "bikeid": 30557,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

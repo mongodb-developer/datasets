@@ -1,0 +1,17 @@
+{
+  "tripduration": 176,
+  "starttime": "2019-12-01 10:54:58.1800",
+  "stoptime": "2019-12-01 10:57:54.2170",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 35194,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

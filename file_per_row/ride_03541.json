@@ -1,0 +1,17 @@
+{
+  "tripduration": 457,
+  "starttime": "2019-12-01 10:11:52.0560",
+  "stoptime": "2019-12-01 10:19:29.3690",
+  "start station id": 3733,
+  "start station name": "Avenue C & E 18 St",
+  "start station latitude": 40.730563,
+  "start station longitude": -73.973984,
+  "end station id": 501,
+  "end station name": "FDR Drive & E 35 St",
+  "end station latitude": 40.744219,
+  "end station longitude": -73.97121214,
+  "bikeid": 34197,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

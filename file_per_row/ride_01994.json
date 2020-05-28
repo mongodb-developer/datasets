@@ -1,0 +1,17 @@
+{
+  "tripduration": 733,
+  "starttime": "2019-12-01 08:45:44.1850",
+  "stoptime": "2019-12-01 08:57:57.6390",
+  "start station id": 509,
+  "start station name": "9 Ave & W 22 St",
+  "start station latitude": 40.7454973,
+  "start station longitude": -74.00197139,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 18540,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

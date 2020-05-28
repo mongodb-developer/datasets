@@ -1,0 +1,17 @@
+{
+  "tripduration": 712,
+  "starttime": "2019-12-01 12:31:06.7760",
+  "stoptime": "2019-12-01 12:42:59.7010",
+  "start station id": 3312,
+  "start station name": "1 Ave & E 94 St",
+  "start station latitude": 40.7817212,
+  "start station longitude": -73.94594,
+  "end station id": 3312,
+  "end station name": "1 Ave & E 94 St",
+  "end station latitude": 40.7817212,
+  "end station longitude": -73.94594,
+  "bikeid": 25729,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

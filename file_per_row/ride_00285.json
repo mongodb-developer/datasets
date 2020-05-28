@@ -1,0 +1,17 @@
+{
+  "tripduration": 745,
+  "starttime": "2019-12-01 00:42:38.1250",
+  "stoptime": "2019-12-01 00:55:03.9420",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 39048,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1555,
+  "starttime": "2019-12-01 16:44:50.1930",
+  "stoptime": "2019-12-01 17:10:45.8400",
+  "start station id": 3128,
+  "start station name": "21 St & 43 Ave",
+  "start station latitude": 40.75052534,
+  "start station longitude": -73.94594845,
+  "end station id": 499,
+  "end station name": "Broadway & W 60 St",
+  "end station latitude": 40.76915505,
+  "end station longitude": -73.98191841,
+  "bikeid": 41690,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

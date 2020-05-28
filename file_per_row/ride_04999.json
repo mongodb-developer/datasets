@@ -1,0 +1,17 @@
+{
+  "tripduration": 31817,
+  "starttime": "2019-12-01 11:11:02.3300",
+  "stoptime": "2019-12-01 20:01:19.9140",
+  "start station id": 3243,
+  "start station name": "E 58 St & 1 Ave (NE Corner)",
+  "start station latitude": 40.75892386377695,
+  "start station longitude": -73.96226227283478,
+  "end station id": 500,
+  "end station name": "Broadway & W 51 St",
+  "end station latitude": 40.76228826,
+  "end station longitude": -73.98336183,
+  "bikeid": 34212,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

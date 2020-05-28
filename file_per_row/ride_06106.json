@@ -1,0 +1,17 @@
+{
+  "tripduration": 557,
+  "starttime": "2019-12-01 12:14:58.9630",
+  "stoptime": "2019-12-01 12:24:16.5190",
+  "start station id": 3661,
+  "start station name": "Montgomery St & Franklin Ave",
+  "start station latitude": 40.666439306870814,
+  "start station longitude": -73.9605563879013,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 33862,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

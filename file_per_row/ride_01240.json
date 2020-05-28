@@ -1,0 +1,17 @@
+{
+  "tripduration": 501,
+  "starttime": "2019-12-01 07:07:13.1490",
+  "stoptime": "2019-12-01 07:15:34.9080",
+  "start station id": 3496,
+  "start station name": "1 Ave & E 110 St",
+  "start station latitude": 40.7923272,
+  "start station longitude": -73.9383,
+  "end station id": 3318,
+  "end station name": "2 Ave & E 96 St",
+  "end station latitude": 40.7839636,
+  "end station longitude": -73.9471673,
+  "bikeid": 40299,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

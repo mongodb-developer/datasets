@@ -1,0 +1,17 @@
+{
+  "tripduration": 596,
+  "starttime": "2019-12-01 04:39:05.7100",
+  "stoptime": "2019-12-01 04:49:01.8410",
+  "start station id": 504,
+  "start station name": "1 Ave & E 16 St",
+  "start station latitude": 40.73221853,
+  "start station longitude": -73.98165557,
+  "end station id": 349,
+  "end station name": "Rivington St & Ridge St",
+  "end station latitude": 40.71850211,
+  "end station longitude": -73.98329859,
+  "bikeid": 17320,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

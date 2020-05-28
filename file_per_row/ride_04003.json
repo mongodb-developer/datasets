@@ -1,0 +1,17 @@
+{
+  "tripduration": 176,
+  "starttime": "2019-12-01 10:31:01.8980",
+  "stoptime": "2019-12-01 10:33:58.2290",
+  "start station id": 354,
+  "start station name": "Emerson Pl & Myrtle Ave",
+  "start station latitude": 40.69363137,
+  "start station longitude": -73.96223558,
+  "end station id": 3755,
+  "end station name": "DeKalb Ave & Franklin Ave",
+  "end station latitude": 40.69064807082943,
+  "end station longitude": -73.95746178925037,
+  "bikeid": 41510,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

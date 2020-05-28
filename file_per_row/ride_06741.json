@@ -1,0 +1,17 @@
+{
+  "tripduration": 188,
+  "starttime": "2019-12-01 12:48:21.2190",
+  "stoptime": "2019-12-01 12:51:29.4780",
+  "start station id": 3041,
+  "start station name": "Kingston Ave & Herkimer St",
+  "start station latitude": 40.67890679,
+  "start station longitude": -73.94142771,
+  "end station id": 437,
+  "end station name": "Macon St & Nostrand Ave",
+  "end station latitude": 40.6809833854,
+  "end station longitude": -73.9500479759,
+  "bikeid": 41030,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

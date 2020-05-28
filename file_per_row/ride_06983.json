@@ -1,0 +1,17 @@
+{
+  "tripduration": 1544,
+  "starttime": "2019-12-01 13:10:16.0760",
+  "stoptime": "2019-12-01 13:36:00.8670",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 267,
+  "end station name": "Broadway & W 36 St",
+  "end station latitude": 40.75097711,
+  "end station longitude": -73.98765428,
+  "bikeid": 33744,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 346,
+  "starttime": "2019-12-01 12:34:19.1600",
+  "stoptime": "2019-12-01 12:40:05.5610",
+  "start station id": 466,
+  "start station name": "W 25 St & 6 Ave",
+  "start station latitude": 40.74395411,
+  "start station longitude": -73.99144871,
+  "end station id": 254,
+  "end station name": "W 11 St & 6 Ave",
+  "end station latitude": 40.73532427,
+  "end station longitude": -73.99800419,
+  "bikeid": 20164,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

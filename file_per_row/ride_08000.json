@@ -1,0 +1,17 @@
+{
+  "tripduration": 253,
+  "starttime": "2019-12-01 15:15:53.4170",
+  "stoptime": "2019-12-01 15:20:06.7300",
+  "start station id": 3539,
+  "start station name": "W 116 St & Amsterdam Ave",
+  "start station latitude": 40.8067581,
+  "start station longitude": -73.9607082,
+  "end station id": 3383,
+  "end station name": "Cathedral Pkwy & Broadway",
+  "end station latitude": 40.804213,
+  "end station longitude": -73.96699104,
+  "bikeid": 31198,
+  "usertype": "Customer",
+  "birth year": 1998,
+  "gender": "female"
+}

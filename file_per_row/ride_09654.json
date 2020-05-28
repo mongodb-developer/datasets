@@ -1,0 +1,17 @@
+{
+  "tripduration": 1396,
+  "starttime": "2019-12-01 19:54:14.2380",
+  "stoptime": "2019-12-01 20:17:30.8710",
+  "start station id": 311,
+  "start station name": "Norfolk St & Broome St",
+  "start station latitude": 40.7172274,
+  "start station longitude": -73.98802084,
+  "end station id": 502,
+  "end station name": "Henry St & Grand St",
+  "end station latitude": 40.714211,
+  "end station longitude": -73.981095,
+  "bikeid": 20605,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

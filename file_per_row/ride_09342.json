@@ -1,0 +1,17 @@
+{
+  "tripduration": 2508,
+  "starttime": "2019-12-01 19:03:59.3290",
+  "stoptime": "2019-12-01 19:45:47.6160",
+  "start station id": 3233,
+  "start station name": "E 48 St & 5 Ave",
+  "start station latitude": 40.75724567911726,
+  "start station longitude": -73.97805914282799,
+  "end station id": 485,
+  "end station name": "W 37 St & 5 Ave",
+  "end station latitude": 40.75038009,
+  "end station longitude": -73.98338988,
+  "bikeid": 40451,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

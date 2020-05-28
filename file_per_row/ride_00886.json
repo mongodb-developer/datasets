@@ -1,0 +1,17 @@
+{
+  "tripduration": 1064,
+  "starttime": "2019-12-01 03:40:09.2700",
+  "stoptime": "2019-12-01 03:57:53.3690",
+  "start station id": 3668,
+  "start station name": "Leonard St & Nassau Ave",
+  "start station latitude": 40.7239567849954,
+  "start station longitude": -73.94984364509583,
+  "end station id": 3777,
+  "end station name": "Stockholm St & Wilson Ave",
+  "end station latitude": 40.699304,
+  "end station longitude": -73.923044,
+  "bikeid": 34003,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

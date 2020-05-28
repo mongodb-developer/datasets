@@ -1,0 +1,17 @@
+{
+  "tripduration": 184,
+  "starttime": "2019-12-01 04:16:27.9630",
+  "stoptime": "2019-12-01 04:19:32.5030",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 344,
+  "end station name": "Monroe St & Bedford Ave",
+  "end station latitude": 40.6851443,
+  "end station longitude": -73.95380904,
+  "bikeid": 20969,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

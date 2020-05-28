@@ -1,0 +1,17 @@
+{
+  "tripduration": 1089,
+  "starttime": "2019-12-01 13:44:55.0340",
+  "stoptime": "2019-12-01 14:03:04.7160",
+  "start station id": 3757,
+  "start station name": "Stagg St & Morgan Ave",
+  "start station latitude": 40.710681,
+  "start station longitude": -73.93372,
+  "end station id": 3693,
+  "end station name": "N 11 St & Kent Ave",
+  "end station latitude": 40.72248188638219,
+  "end station longitude": -73.95921930670738,
+  "bikeid": 28806,
+  "usertype": "Customer",
+  "birth year": 1992,
+  "gender": "female"
+}

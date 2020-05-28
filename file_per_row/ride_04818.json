@@ -1,0 +1,17 @@
+{
+  "tripduration": 406,
+  "starttime": "2019-12-01 11:02:55.6450",
+  "stoptime": "2019-12-01 11:09:41.8330",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 3707,
+  "end station name": "Lexington Ave & E 26 St",
+  "end station latitude": 40.741459,
+  "end station longitude": -73.983293,
+  "bikeid": 15286,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 234,
+  "starttime": "2019-12-01 12:32:26.2060",
+  "stoptime": "2019-12-01 12:36:21.1200",
+  "start station id": 3260,
+  "start station name": "Mercer St & Bleecker St",
+  "start station latitude": 40.72706363348306,
+  "start station longitude": -73.99662137031554,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 27161,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1734,
+  "starttime": "2019-12-01 10:12:44.3490",
+  "stoptime": "2019-12-01 10:41:38.9970",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 228,
+  "end station name": "E 48 St & 3 Ave",
+  "end station latitude": 40.7546011026,
+  "end station longitude": -73.971878855,
+  "bikeid": 32536,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

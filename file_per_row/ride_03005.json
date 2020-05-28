@@ -1,0 +1,17 @@
+{
+  "tripduration": 78,
+  "starttime": "2019-12-01 09:47:35.8500",
+  "stoptime": "2019-12-01 09:48:54.5030",
+  "start station id": 3315,
+  "start station name": "Henry St & Degraw St",
+  "start station latitude": 40.6847514,
+  "start station longitude": -73.99917254,
+  "end station id": 3388,
+  "end station name": "President St & Henry St",
+  "end station latitude": 40.6828003,
+  "end station longitude": -73.99990419,
+  "bikeid": 18357,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

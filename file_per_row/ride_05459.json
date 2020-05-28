@@ -1,0 +1,17 @@
+{
+  "tripduration": 471,
+  "starttime": "2019-12-01 11:36:46.7080",
+  "stoptime": "2019-12-01 11:44:38.5730",
+  "start station id": 504,
+  "start station name": "1 Ave & E 16 St",
+  "start station latitude": 40.73221853,
+  "start station longitude": -73.98165557,
+  "end station id": 284,
+  "end station name": "Greenwich Ave & 8 Ave",
+  "end station latitude": 40.7390169121,
+  "end station longitude": -74.0026376103,
+  "bikeid": 40078,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

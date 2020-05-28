@@ -1,0 +1,17 @@
+{
+  "tripduration": 280,
+  "starttime": "2019-12-01 12:01:05.8340",
+  "stoptime": "2019-12-01 12:05:46.2360",
+  "start station id": 418,
+  "start station name": "Front St & Gold St",
+  "start station latitude": 40.70224,
+  "start station longitude": -73.982578,
+  "end station id": 278,
+  "end station name": "Concord St & Bridge St",
+  "end station latitude": 40.69766564,
+  "end station longitude": -73.98476437,
+  "bikeid": 16168,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 476,
+  "starttime": "2019-12-01 07:21:35.4310",
+  "stoptime": "2019-12-01 07:29:32.2480",
+  "start station id": 3718,
+  "start station name": "E 11 St & Avenue B",
+  "start station latitude": 40.72746420692392,
+  "start station longitude": -73.97950418293476,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 17438,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

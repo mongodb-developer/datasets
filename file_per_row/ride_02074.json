@@ -1,0 +1,17 @@
+{
+  "tripduration": 409,
+  "starttime": "2019-12-01 08:51:11.9980",
+  "stoptime": "2019-12-01 08:58:01.0120",
+  "start station id": 3870,
+  "start station name": "Melrose St & Broadway",
+  "start station latitude": 40.697481,
+  "start station longitude": -73.935877,
+  "end station id": 3763,
+  "end station name": "Wyckoff Av & Jefferson St",
+  "end station latitude": 40.707165,
+  "end station longitude": -73.923711,
+  "bikeid": 40807,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

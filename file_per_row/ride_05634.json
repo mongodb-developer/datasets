@@ -1,0 +1,17 @@
+{
+  "tripduration": 1873,
+  "starttime": "2019-12-01 11:47:50.2800",
+  "stoptime": "2019-12-01 12:19:03.6410",
+  "start station id": 3856,
+  "start station name": "Kingsland Ave & Nassau Ave",
+  "start station latitude": 40.72577,
+  "start station longitude": -73.94173,
+  "end station id": 265,
+  "end station name": "Stanton St & Chrystie St",
+  "end station latitude": 40.72229346,
+  "end station longitude": -73.99147535,
+  "bikeid": 40822,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

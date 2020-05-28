@@ -1,0 +1,17 @@
+{
+  "tripduration": 1102,
+  "starttime": "2019-12-01 09:20:03.2220",
+  "stoptime": "2019-12-01 09:38:25.7440",
+  "start station id": 3817,
+  "start station name": "Withers St & Kingsland Ave",
+  "start station latitude": 40.71773,
+  "start station longitude": -73.94051,
+  "end station id": 3078,
+  "end station name": "Broadway & Roebling St",
+  "end station latitude": 40.70924826276157,
+  "end station longitude": -73.96063148975372,
+  "bikeid": 40401,
+  "usertype": "Customer",
+  "birth year": 1976,
+  "gender": "male"
+}

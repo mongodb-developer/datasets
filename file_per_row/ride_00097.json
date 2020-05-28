@@ -1,0 +1,17 @@
+{
+  "tripduration": 467,
+  "starttime": "2019-12-01 00:13:39.1100",
+  "stoptime": "2019-12-01 00:21:26.5570",
+  "start station id": 402,
+  "start station name": "Broadway & E 22 St",
+  "start station latitude": 40.7403432,
+  "start station longitude": -73.98955109,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 38555,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

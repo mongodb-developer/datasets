@@ -1,0 +1,17 @@
+{
+  "tripduration": 154,
+  "starttime": "2019-12-01 04:26:53.1730",
+  "stoptime": "2019-12-01 04:29:27.4580",
+  "start station id": 3048,
+  "start station name": "Putnam Ave & Nostrand Ave",
+  "start station latitude": 40.68402,
+  "start station longitude": -73.94977,
+  "end station id": 436,
+  "end station name": "Hancock St & Bedford Ave",
+  "end station latitude": 40.68216564,
+  "end station longitude": -73.95399026,
+  "bikeid": 33436,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

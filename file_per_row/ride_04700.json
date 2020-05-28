@@ -1,0 +1,17 @@
+{
+  "tripduration": 770,
+  "starttime": "2019-12-01 10:57:50.8130",
+  "stoptime": "2019-12-01 11:10:41.3580",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 389,
+  "end station name": "Broadway & Berry St",
+  "end station latitude": 40.71044554,
+  "end station longitude": -73.96525063,
+  "bikeid": 35171,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

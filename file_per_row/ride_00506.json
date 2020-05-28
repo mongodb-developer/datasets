@@ -1,0 +1,17 @@
+{
+  "tripduration": 164,
+  "starttime": "2019-12-01 01:34:25.4250",
+  "stoptime": "2019-12-01 01:37:09.7380",
+  "start station id": 3699,
+  "start station name": "W 50 St & 9 Ave",
+  "start station latitude": 40.763604677958625,
+  "start station longitude": -73.98917958140373,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 41235,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

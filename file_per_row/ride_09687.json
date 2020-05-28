@@ -1,0 +1,17 @@
+{
+  "tripduration": 597,
+  "starttime": "2019-12-01 19:59:10.6290",
+  "stoptime": "2019-12-01 20:09:08.2300",
+  "start station id": 3101,
+  "start station name": "N 12 St & Bedford Ave",
+  "start station latitude": 40.72079821,
+  "start station longitude": -73.95484712,
+  "end station id": 3092,
+  "end station name": "Berry St & N 8 St",
+  "end station latitude": 40.7190095,
+  "end station longitude": -73.95852515,
+  "bikeid": 39139,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 99,
+  "starttime": "2019-12-01 18:32:03.7910",
+  "stoptime": "2019-12-01 18:33:43.0550",
+  "start station id": 3127,
+  "start station name": "9 St & 44 Rd",
+  "start station latitude": 40.74966,
+  "start station longitude": -73.9521,
+  "end station id": 3124,
+  "end station name": "46 Ave & 5 St",
+  "end station latitude": 40.74731,
+  "end station longitude": -73.95451,
+  "bikeid": 30716,
+  "usertype": "Customer",
+  "birth year": 1991,
+  "gender": "male"
+}

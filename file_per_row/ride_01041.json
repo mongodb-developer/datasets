@@ -1,0 +1,17 @@
+{
+  "tripduration": 170,
+  "starttime": "2019-12-01 05:38:25.5390",
+  "stoptime": "2019-12-01 05:41:16.1930",
+  "start station id": 3546,
+  "start station name": "Pacific St & Classon Ave",
+  "start station latitude": 40.6791944,
+  "start station longitude": -73.9587903,
+  "end station id": 396,
+  "end station name": "Lefferts Pl & Franklin Ave",
+  "end station latitude": 40.680342423,
+  "end station longitude": -73.9557689392,
+  "bikeid": 28310,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

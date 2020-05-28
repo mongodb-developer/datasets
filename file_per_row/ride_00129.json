@@ -1,0 +1,17 @@
+{
+  "tripduration": 937,
+  "starttime": "2019-12-01 00:18:48.9430",
+  "stoptime": "2019-12-01 00:34:26.4580",
+  "start station id": 473,
+  "start station name": "Rivington St & Chrystie St",
+  "start station latitude": 40.72110063,
+  "start station longitude": -73.9919254,
+  "end station id": 3472,
+  "end station name": "W 15 St & 10 Ave",
+  "end station latitude": 40.742753828659026,
+  "end station longitude": -74.00747358798981,
+  "bikeid": 35285,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

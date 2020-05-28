@@ -1,0 +1,17 @@
+{
+  "tripduration": 233,
+  "starttime": "2019-12-01 11:20:59.0450",
+  "stoptime": "2019-12-01 11:24:52.9250",
+  "start station id": 3581,
+  "start station name": "Underhill Ave & Lincoln Pl",
+  "start station latitude": 40.6740123,
+  "start station longitude": -73.9671457,
+  "end station id": 3416,
+  "end station name": "7 Ave & Park Pl",
+  "end station latitude": 40.6776147,
+  "end station longitude": -73.97324283,
+  "bikeid": 15539,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "female"
+}

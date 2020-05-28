@@ -1,0 +1,17 @@
+{
+  "tripduration": 172,
+  "starttime": "2019-12-01 09:19:07.7700",
+  "stoptime": "2019-12-01 09:22:00.3100",
+  "start station id": 244,
+  "start station name": "Willoughby Ave & Hall St",
+  "start station latitude": 40.69196035,
+  "start station longitude": -73.96536851,
+  "end station id": 399,
+  "end station name": "Lafayette Ave & St James Pl",
+  "end station latitude": 40.68851534,
+  "end station longitude": -73.9647628,
+  "bikeid": 17412,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "female"
+}

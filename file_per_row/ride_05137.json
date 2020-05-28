@@ -1,0 +1,17 @@
+{
+  "tripduration": 392,
+  "starttime": "2019-12-01 11:18:52.2460",
+  "stoptime": "2019-12-01 11:25:24.2900",
+  "start station id": 3287,
+  "start station name": "W 87 St & West End Ave",
+  "start station latitude": 40.789622,
+  "start station longitude": -73.97757,
+  "end station id": 3301,
+  "end station name": "Columbus Ave & W 95 St",
+  "end station latitude": 40.7919557,
+  "end station longitude": -73.968087,
+  "bikeid": 40901,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

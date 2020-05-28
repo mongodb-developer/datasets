@@ -1,0 +1,17 @@
+{
+  "tripduration": 362,
+  "starttime": "2019-12-01 00:41:29.8030",
+  "stoptime": "2019-12-01 00:47:32.1530",
+  "start station id": 434,
+  "start station name": "9 Ave & W 18 St",
+  "start station latitude": 40.74317449,
+  "start station longitude": -74.00366443,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 40427,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

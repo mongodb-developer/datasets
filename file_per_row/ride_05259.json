@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 11:24:56.1560",
+  "stoptime": "2019-12-01 11:27:49.9260",
+  "start station id": 3687,
+  "start station name": "E 33 St & 1 Ave",
+  "start station latitude": 40.74322681432173,
+  "start station longitude": -73.97449783980846,
+  "end station id": 472,
+  "end station name": "E 32 St & Park Ave",
+  "end station latitude": 40.7457121,
+  "end station longitude": -73.98194829,
+  "bikeid": 39818,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

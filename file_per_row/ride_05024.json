@@ -1,0 +1,17 @@
+{
+  "tripduration": 213,
+  "starttime": "2019-12-01 11:12:54.0890",
+  "stoptime": "2019-12-01 11:16:27.3050",
+  "start station id": 3609,
+  "start station name": "Vernon Blvd & 31 Ave",
+  "start station latitude": 40.7692475,
+  "start station longitude": -73.9354504,
+  "end station id": 3621,
+  "end station name": "27 Ave & 9 St",
+  "end station latitude": 40.7739825,
+  "end station longitude": -73.9309134,
+  "bikeid": 27828,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

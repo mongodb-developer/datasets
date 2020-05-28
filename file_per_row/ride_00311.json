@@ -1,0 +1,17 @@
+{
+  "tripduration": 497,
+  "starttime": "2019-12-01 00:46:57.3050",
+  "stoptime": "2019-12-01 00:55:14.3340",
+  "start station id": 336,
+  "start station name": "Sullivan St & Washington Sq",
+  "start station latitude": 40.73047747,
+  "start station longitude": -73.99906065,
+  "end station id": 284,
+  "end station name": "Greenwich Ave & 8 Ave",
+  "end station latitude": 40.7390169121,
+  "end station longitude": -74.0026376103,
+  "bikeid": 28388,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

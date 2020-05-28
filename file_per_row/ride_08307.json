@@ -1,0 +1,17 @@
+{
+  "tripduration": 323,
+  "starttime": "2019-12-01 15:47:40.7970",
+  "stoptime": "2019-12-01 15:53:03.8700",
+  "start station id": 467,
+  "start station name": "Dean St & 4 Ave",
+  "start station latitude": 40.68312489,
+  "start station longitude": -73.97895137,
+  "end station id": 3486,
+  "end station name": "Schermerhorn St & Bond St",
+  "end station latitude": 40.688417427540834,
+  "end station longitude": -73.98451656103134,
+  "bikeid": 32825,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

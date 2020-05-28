@@ -1,0 +1,17 @@
+{
+  "tripduration": 294,
+  "starttime": "2019-12-01 09:28:04.6240",
+  "stoptime": "2019-12-01 09:32:58.8010",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3467,
+  "end station name": "W Broadway & Spring St",
+  "end station latitude": 40.72494672359416,
+  "end station longitude": -74.00165855884552,
+  "bikeid": 41889,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

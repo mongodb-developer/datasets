@@ -1,0 +1,17 @@
+{
+  "tripduration": 338,
+  "starttime": "2019-12-01 05:13:06.0130",
+  "stoptime": "2019-12-01 05:18:44.2240",
+  "start station id": 3757,
+  "start station name": "Stagg St & Morgan Ave",
+  "start station latitude": 40.710681,
+  "start station longitude": -73.93372,
+  "end station id": 3775,
+  "end station name": "Suydam St & Knickerbocker Ave",
+  "end station latitude": 40.702013,
+  "end station longitude": -73.923769,
+  "bikeid": 14689,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

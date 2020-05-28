@@ -1,0 +1,17 @@
+{
+  "tripduration": 953,
+  "starttime": "2019-12-01 20:51:13.2250",
+  "stoptime": "2019-12-01 21:07:06.7850",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 143,
+  "end station name": "Clinton St & Joralemon St",
+  "end station latitude": 40.69239502,
+  "end station longitude": -73.99337909,
+  "bikeid": 32823,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

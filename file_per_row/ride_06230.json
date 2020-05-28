@@ -1,0 +1,17 @@
+{
+  "tripduration": 444,
+  "starttime": "2019-12-01 12:21:56.8500",
+  "stoptime": "2019-12-01 12:29:21.6290",
+  "start station id": 3157,
+  "start station name": "East End Ave & E 86 St",
+  "start station latitude": 40.77518615,
+  "start station longitude": -73.94446054,
+  "end station id": 3305,
+  "end station name": "E 91 St & 2 Ave",
+  "end station latitude": 40.78112229934166,
+  "end station longitude": -73.94965589046478,
+  "bikeid": 28203,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

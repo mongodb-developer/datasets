@@ -1,0 +1,17 @@
+{
+  "tripduration": 726,
+  "starttime": "2019-12-01 15:22:23.5540",
+  "stoptime": "2019-12-01 15:34:29.9500",
+  "start station id": 458,
+  "start station name": "11 Ave & W 27 St",
+  "start station latitude": 40.751396,
+  "start station longitude": -74.005226,
+  "end station id": 479,
+  "end station name": "9 Ave & W 45 St",
+  "end station latitude": 40.76019252,
+  "end station longitude": -73.9912551,
+  "bikeid": 33890,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

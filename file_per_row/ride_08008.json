@@ -1,0 +1,17 @@
+{
+  "tripduration": 510,
+  "starttime": "2019-12-01 15:16:32.2220",
+  "stoptime": "2019-12-01 15:25:03.0440",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 32946,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

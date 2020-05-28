@@ -1,0 +1,17 @@
+{
+  "tripduration": 1333,
+  "starttime": "2019-12-01 07:17:38.9060",
+  "stoptime": "2019-12-01 07:39:52.4590",
+  "start station id": 259,
+  "start station name": "South St & Whitehall St",
+  "start station latitude": 40.70122128,
+  "start station longitude": -74.01234218,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 19354,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

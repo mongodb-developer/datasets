@@ -1,0 +1,17 @@
+{
+  "tripduration": 3842,
+  "starttime": "2019-12-01 12:41:18.6920",
+  "stoptime": "2019-12-01 13:45:21.2220",
+  "start station id": 3293,
+  "start station name": "W 92 St & Broadway",
+  "start station latitude": 40.7921,
+  "start station longitude": -73.9739,
+  "end station id": 415,
+  "end station name": "Pearl St & Hanover Square",
+  "end station latitude": 40.7047177,
+  "end station longitude": -74.00926027,
+  "bikeid": 33111,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

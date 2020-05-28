@@ -1,0 +1,17 @@
+{
+  "tripduration": 142,
+  "starttime": "2019-12-01 11:24:51.7470",
+  "stoptime": "2019-12-01 11:27:14.5540",
+  "start station id": 3592,
+  "start station name": "Crescent St & Broadway",
+  "start station latitude": 40.7633589,
+  "start station longitude": -73.9286471,
+  "end station id": 3566,
+  "end station name": "Crescent St & 35 Ave",
+  "end station latitude": 40.7596276,
+  "end station longitude": -73.9321455,
+  "bikeid": 33923,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 617,
+  "starttime": "2019-12-01 15:24:30.4060",
+  "stoptime": "2019-12-01 15:34:47.7680",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 3402,
+  "end station name": "Court St & State St",
+  "end station latitude": 40.6902375,
+  "end station longitude": -73.99203074,
+  "bikeid": 18837,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

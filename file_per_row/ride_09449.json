@@ -1,0 +1,17 @@
+{
+  "tripduration": 2528,
+  "starttime": "2019-12-01 19:20:37.3100",
+  "stoptime": "2019-12-01 20:02:45.3280",
+  "start station id": 3709,
+  "start station name": "W 15 St & 6 Ave",
+  "start station latitude": 40.738046142482766,
+  "start station longitude": -73.99642959237099,
+  "end station id": 402,
+  "end station name": "Broadway & E 22 St",
+  "end station latitude": 40.7403432,
+  "end station longitude": -73.98955109,
+  "bikeid": 31141,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

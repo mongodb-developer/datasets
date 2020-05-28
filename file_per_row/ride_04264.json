@@ -1,0 +1,17 @@
+{
+  "tripduration": 362,
+  "starttime": "2019-12-01 10:42:00.6670",
+  "stoptime": "2019-12-01 10:48:02.8200",
+  "start station id": 217,
+  "start station name": "Old Fulton St",
+  "start station latitude": 40.70277159,
+  "start station longitude": -73.99383605,
+  "end station id": 398,
+  "end station name": "Atlantic Ave & Furman St",
+  "end station latitude": 40.69165183,
+  "end station longitude": -73.9999786,
+  "bikeid": 19355,
+  "usertype": "Customer",
+  "birth year": 1984,
+  "gender": "male"
+}

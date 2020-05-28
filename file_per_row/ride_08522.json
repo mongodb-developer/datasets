@@ -1,0 +1,17 @@
+{
+  "tripduration": 1619,
+  "starttime": "2019-12-01 16:22:22.6780",
+  "stoptime": "2019-12-01 16:49:21.7810",
+  "start station id": 293,
+  "start station name": "Lafayette St & E 8 St",
+  "start station latitude": 40.73020660529954,
+  "start station longitude": -73.99102628231049,
+  "end station id": 254,
+  "end station name": "W 11 St & 6 Ave",
+  "end station latitude": 40.73532427,
+  "end station longitude": -73.99800419,
+  "bikeid": 41798,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

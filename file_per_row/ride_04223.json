@@ -1,0 +1,17 @@
+{
+  "tripduration": 332,
+  "starttime": "2019-12-01 10:40:18.6100",
+  "stoptime": "2019-12-01 10:45:51.5040",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 3244,
+  "end station name": "University Pl & E 8 St",
+  "end station latitude": 40.73143724085228,
+  "end station longitude": -73.99490341544151,
+  "bikeid": 29343,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 286,
+  "starttime": "2019-12-01 10:23:52.4380",
+  "stoptime": "2019-12-01 10:28:38.5790",
+  "start station id": 3515,
+  "start station name": "24 Ave & 26 St",
+  "start station latitude": 40.774591,
+  "start station longitude": -73.918544,
+  "end station id": 3526,
+  "end station name": "31 St & 23 Ave",
+  "end station latitude": 40.7747878,
+  "end station longitude": -73.9125551,
+  "bikeid": 39129,
+  "usertype": "Subscriber",
+  "birth year": 1948,
+  "gender": "male"
+}

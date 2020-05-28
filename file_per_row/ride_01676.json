@@ -1,0 +1,17 @@
+{
+  "tripduration": 633,
+  "starttime": "2019-12-01 08:16:43.2500",
+  "stoptime": "2019-12-01 08:27:17.1880",
+  "start station id": 168,
+  "start station name": "W 18 St & 6 Ave",
+  "start station latitude": 40.73971301,
+  "start station longitude": -73.99456405,
+  "end station id": 167,
+  "end station name": "E 39 St & 3 Ave",
+  "end station latitude": 40.7489006,
+  "end station longitude": -73.97604882,
+  "bikeid": 16886,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

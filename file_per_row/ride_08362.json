@@ -1,0 +1,17 @@
+{
+  "tripduration": 190,
+  "starttime": "2019-12-01 15:53:37.6440",
+  "stoptime": "2019-12-01 15:56:48.3450",
+  "start station id": 3356,
+  "start station name": "Amsterdam Ave & W 66 St",
+  "start station latitude": 40.7746671,
+  "start station longitude": -73.98470567,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 33847,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

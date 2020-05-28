@@ -1,0 +1,17 @@
+{
+  "tripduration": 485,
+  "starttime": "2019-12-01 11:23:27.5140",
+  "stoptime": "2019-12-01 11:31:32.5370",
+  "start station id": 3066,
+  "start station name": "Tompkins Ave & Hopkins St",
+  "start station latitude": 40.69957608,
+  "start station longitude": -73.94708417,
+  "end station id": 3076,
+  "end station name": "Scholes St & Manhattan Ave",
+  "end station latitude": 40.70870368,
+  "end station longitude": -73.9448625,
+  "bikeid": 28207,
+  "usertype": "Customer",
+  "birth year": 2002,
+  "gender": "male"
+}

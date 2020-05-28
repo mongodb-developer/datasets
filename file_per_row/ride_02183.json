@@ -1,0 +1,17 @@
+{
+  "tripduration": 722,
+  "starttime": "2019-12-01 08:58:49.2730",
+  "stoptime": "2019-12-01 09:10:52.2260",
+  "start station id": 323,
+  "start station name": "Lawrence St & Willoughby St",
+  "start station latitude": 40.69236178,
+  "start station longitude": -73.98631746,
+  "end station id": 244,
+  "end station name": "Willoughby Ave & Hall St",
+  "end station latitude": 40.69196035,
+  "end station longitude": -73.96536851,
+  "bikeid": 17412,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

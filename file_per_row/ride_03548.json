@@ -1,0 +1,17 @@
+{
+  "tripduration": 197,
+  "starttime": "2019-12-01 10:12:17.0560",
+  "stoptime": "2019-12-01 10:15:34.2400",
+  "start station id": 223,
+  "start station name": "W 13 St & 7 Ave",
+  "start station latitude": 40.73781509,
+  "start station longitude": -73.99994661,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 41233,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

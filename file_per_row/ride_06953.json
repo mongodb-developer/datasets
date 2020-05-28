@@ -1,0 +1,17 @@
+{
+  "tripduration": 617,
+  "starttime": "2019-12-01 13:06:48.3600",
+  "stoptime": "2019-12-01 13:17:05.7910",
+  "start station id": 316,
+  "start station name": "Fulton St & William St",
+  "start station latitude": 40.70955958,
+  "start station longitude": -74.00653609,
+  "end station id": 295,
+  "end station name": "Pike St & E Broadway",
+  "end station latitude": 40.71406667,
+  "end station longitude": -73.99293911,
+  "bikeid": 17427,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

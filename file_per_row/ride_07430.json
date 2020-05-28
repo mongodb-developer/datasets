@@ -1,0 +1,17 @@
+{
+  "tripduration": 651,
+  "starttime": "2019-12-01 14:12:01.4520",
+  "stoptime": "2019-12-01 14:22:53.3260",
+  "start station id": 446,
+  "start station name": "W 24 St & 7 Ave",
+  "start station latitude": 40.74487634,
+  "start station longitude": -73.99529885,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 41404,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

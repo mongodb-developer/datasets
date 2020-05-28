@@ -1,0 +1,17 @@
+{
+  "tripduration": 202,
+  "starttime": "2019-12-01 09:06:24.1010",
+  "stoptime": "2019-12-01 09:09:46.2160",
+  "start station id": 545,
+  "start station name": "E 23 St & 1 Ave",
+  "start station latitude": 40.736502,
+  "start station longitude": -73.97809472,
+  "end station id": 536,
+  "end station name": "1 Ave & E 30 St",
+  "end station latitude": 40.74144387,
+  "end station longitude": -73.97536082,
+  "bikeid": 39873,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

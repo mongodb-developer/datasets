@@ -1,0 +1,17 @@
+{
+  "tripduration": 470,
+  "starttime": "2019-12-01 15:06:34.9550",
+  "stoptime": "2019-12-01 15:14:25.7400",
+  "start station id": 3308,
+  "start station name": "Kane St & Clinton St",
+  "start station latitude": 40.6861758,
+  "start station longitude": -73.99645295,
+  "end station id": 323,
+  "end station name": "Lawrence St & Willoughby St",
+  "end station latitude": 40.69236178,
+  "end station longitude": -73.98631746,
+  "bikeid": 41322,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

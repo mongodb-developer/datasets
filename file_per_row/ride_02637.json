@@ -1,0 +1,17 @@
+{
+  "tripduration": 606,
+  "starttime": "2019-12-01 09:29:27.7010",
+  "stoptime": "2019-12-01 09:39:33.8320",
+  "start station id": 3547,
+  "start station name": "Broadway & Moylan Pl",
+  "start station latitude": 40.8143256,
+  "start station longitude": -73.9590255,
+  "end station id": 3383,
+  "end station name": "Cathedral Pkwy & Broadway",
+  "end station latitude": 40.804213,
+  "end station longitude": -73.96699104,
+  "bikeid": 34271,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

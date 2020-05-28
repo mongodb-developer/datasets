@@ -1,0 +1,17 @@
+{
+  "tripduration": 273,
+  "starttime": "2019-12-01 19:02:53.3220",
+  "stoptime": "2019-12-01 19:07:26.8260",
+  "start station id": 3686,
+  "start station name": "Gansevoort St & Hudson St",
+  "start station latitude": 40.739448201304036,
+  "start station longitude": -74.00507032871246,
+  "end station id": 212,
+  "end station name": "W 16 St & The High Line",
+  "end station latitude": 40.74334935,
+  "end station longitude": -74.00681753,
+  "bikeid": 42027,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

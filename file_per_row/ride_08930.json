@@ -1,0 +1,17 @@
+{
+  "tripduration": 194,
+  "starttime": "2019-12-01 17:48:19.3810",
+  "stoptime": "2019-12-01 17:51:33.9410",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 3249,
+  "end station name": "Verona Pl & Fulton St",
+  "end station latitude": 40.6803560840434,
+  "end station longitude": -73.9476791024208,
+  "bikeid": 28574,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

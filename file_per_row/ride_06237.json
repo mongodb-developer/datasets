@@ -1,0 +1,17 @@
+{
+  "tripduration": 1819,
+  "starttime": "2019-12-01 12:22:14.4570",
+  "stoptime": "2019-12-01 12:52:34.3400",
+  "start station id": 3766,
+  "start station name": "Sharon St & Olive St",
+  "start station latitude": 40.715353,
+  "start station longitude": -73.93856,
+  "end station id": 3854,
+  "end station name": "Morgan Ave & Maspeth Ave",
+  "end station latitude": 40.716657,
+  "end station longitude": -73.93637,
+  "bikeid": 32297,
+  "usertype": "Customer",
+  "birth year": 1995,
+  "gender": "female"
+}

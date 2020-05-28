@@ -1,0 +1,17 @@
+{
+  "tripduration": 364,
+  "starttime": "2019-12-01 09:38:56.7500",
+  "stoptime": "2019-12-01 09:45:01.2190",
+  "start station id": 3712,
+  "start station name": "W 35 St & Dyer Ave",
+  "start station latitude": 40.754691750226016,
+  "start station longitude": -73.99740189313889,
+  "end station id": 486,
+  "end station name": "Broadway & W 29 St",
+  "end station latitude": 40.7462009,
+  "end station longitude": -73.98855723,
+  "bikeid": 29965,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

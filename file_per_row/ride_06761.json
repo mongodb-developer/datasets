@@ -1,0 +1,17 @@
+{
+  "tripduration": 147,
+  "starttime": "2019-12-01 12:49:46.5390",
+  "stoptime": "2019-12-01 12:52:14.2540",
+  "start station id": 3167,
+  "start station name": "Amsterdam Ave & W 73 St",
+  "start station latitude": 40.77966809007312,
+  "start station longitude": -73.98093044757842,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 41643,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

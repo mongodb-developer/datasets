@@ -1,0 +1,17 @@
+{
+  "tripduration": 742,
+  "starttime": "2019-12-01 14:15:57.4060",
+  "stoptime": "2019-12-01 14:28:20.3230",
+  "start station id": 533,
+  "start station name": "Broadway & W 38 St",
+  "start station latitude": 40.75299641,
+  "start station longitude": -73.98721619,
+  "end station id": 174,
+  "end station name": "E 25 St & 1 Ave",
+  "end station latitude": 40.7381765,
+  "end station longitude": -73.97738662,
+  "bikeid": 38937,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1055,
+  "starttime": "2019-12-01 08:51:51.0590",
+  "stoptime": "2019-12-01 09:09:26.6330",
+  "start station id": 369,
+  "start station name": "Washington Pl & 6 Ave",
+  "start station latitude": 40.73224119,
+  "start station longitude": -74.00026394,
+  "end station id": 427,
+  "end station name": "Bus Slip & State St",
+  "end station latitude": 40.701907,
+  "end station longitude": -74.013942,
+  "bikeid": 39201,
+  "usertype": "Customer",
+  "birth year": 1980,
+  "gender": "male"
+}

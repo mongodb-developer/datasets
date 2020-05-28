@@ -1,0 +1,17 @@
+{
+  "tripduration": 301,
+  "starttime": "2019-12-01 20:00:13.5610",
+  "stoptime": "2019-12-01 20:05:14.8250",
+  "start station id": 3423,
+  "start station name": "West Drive & Prospect Park West",
+  "start station latitude": 40.6610633719006,
+  "start station longitude": -73.97945255041122,
+  "end station id": 3306,
+  "end station name": "10 St & 7 Ave",
+  "end station latitude": 40.6662078,
+  "end station longitude": -73.98199886,
+  "bikeid": 38661,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

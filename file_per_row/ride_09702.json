@@ -1,0 +1,17 @@
+{
+  "tripduration": 1512,
+  "starttime": "2019-12-01 20:01:53.5590",
+  "stoptime": "2019-12-01 20:27:05.7250",
+  "start station id": 281,
+  "start station name": "Grand Army Plaza & Central Park S",
+  "start station latitude": 40.7643971,
+  "start station longitude": -73.97371465,
+  "end station id": 3295,
+  "end station name": "Central Park W & W 96 St",
+  "end station latitude": 40.79127,
+  "end station longitude": -73.964839,
+  "bikeid": 39960,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 685,
+  "starttime": "2019-12-01 00:24:44.9500",
+  "stoptime": "2019-12-01 00:36:10.6550",
+  "start station id": 3168,
+  "start station name": "Central Park West & W 85 St",
+  "start station latitude": 40.78472675,
+  "start station longitude": -73.96961715,
+  "end station id": 3383,
+  "end station name": "Cathedral Pkwy & Broadway",
+  "end station latitude": 40.804213,
+  "end station longitude": -73.96699104,
+  "bikeid": 38698,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

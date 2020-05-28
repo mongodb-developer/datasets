@@ -1,0 +1,17 @@
+{
+  "tripduration": 620,
+  "starttime": "2019-12-01 00:12:48.8750",
+  "stoptime": "2019-12-01 00:23:09.2620",
+  "start station id": 3537,
+  "start station name": "Carlton Ave & Dean St",
+  "start station latitude": 40.6809741,
+  "start station longitude": -73.9710097,
+  "end station id": 3648,
+  "end station name": "Flushing Ave & Vanderbilt Ave",
+  "end station latitude": 40.697950315695444,
+  "end station longitude": -73.97077560424805,
+  "bikeid": 38368,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

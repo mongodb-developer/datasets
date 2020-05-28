@@ -1,0 +1,17 @@
+{
+  "tripduration": 140,
+  "starttime": "2019-12-01 10:41:07.7850",
+  "stoptime": "2019-12-01 10:43:28.2100",
+  "start station id": 3452,
+  "start station name": "Bayard St & Leonard St",
+  "start station latitude": 40.71915571696044,
+  "start station longitude": -73.94885390996933,
+  "end station id": 3715,
+  "end station name": "Driggs Ave & N 9 St",
+  "end station latitude": 40.71816969454208,
+  "end station longitude": -73.95520135760307,
+  "bikeid": 41596,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

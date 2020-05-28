@@ -1,0 +1,17 @@
+{
+  "tripduration": 135,
+  "starttime": "2019-12-01 08:29:08.0600",
+  "stoptime": "2019-12-01 08:31:23.3220",
+  "start station id": 3347,
+  "start station name": "Van Brunt St & Wolcott St",
+  "start station latitude": 40.6773429,
+  "start station longitude": -74.01275056,
+  "end station id": 3392,
+  "end station name": "Commerce St & Van Brunt St",
+  "end station latitude": 40.6812117,
+  "end station longitude": -74.00860912,
+  "bikeid": 39834,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

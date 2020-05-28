@@ -1,0 +1,17 @@
+{
+  "tripduration": 205,
+  "starttime": "2019-12-01 02:40:35.8650",
+  "stoptime": "2019-12-01 02:44:01.6130",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 3453,
+  "end station name": "Devoe St & Lorimer St",
+  "end station latitude": 40.71335226222875,
+  "end station longitude": -73.9491033554077,
+  "bikeid": 31508,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

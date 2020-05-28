@@ -1,0 +1,17 @@
+{
+  "tripduration": 579,
+  "starttime": "2019-12-01 16:30:23.0540",
+  "stoptime": "2019-12-01 16:40:02.9610",
+  "start station id": 471,
+  "start station name": "Grand St & Havemeyer St",
+  "start station latitude": 40.71286844,
+  "start station longitude": -73.95698119,
+  "end station id": 3095,
+  "end station name": "Graham Ave & Herbert St",
+  "end station latitude": 40.71929301,
+  "end station longitude": -73.94500379,
+  "bikeid": 39539,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

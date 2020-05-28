@@ -1,0 +1,17 @@
+{
+  "tripduration": 1550,
+  "starttime": "2019-12-01 16:30:15.5720",
+  "stoptime": "2019-12-01 16:56:05.8820",
+  "start station id": 3641,
+  "start station name": "Broadway & W 25 St",
+  "start station latitude": 40.74286877312112,
+  "start station longitude": -73.98918628692627,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 28641,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

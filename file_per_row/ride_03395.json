@@ -1,0 +1,17 @@
+{
+  "tripduration": 490,
+  "starttime": "2019-12-01 10:05:18.6540",
+  "stoptime": "2019-12-01 10:13:29.5200",
+  "start station id": 3309,
+  "start station name": "E 97 St & 3 Ave",
+  "start station latitude": 40.7859201,
+  "start station longitude": -73.94860294,
+  "end station id": 3497,
+  "end station name": "Pleasant Ave & E 116 St",
+  "end station latitude": 40.7949879,
+  "end station longitude": -73.9333349,
+  "bikeid": 38044,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

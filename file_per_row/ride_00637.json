@@ -1,0 +1,17 @@
+{
+  "tripduration": 3026,
+  "starttime": "2019-12-01 02:13:08.3750",
+  "stoptime": "2019-12-01 03:03:35.2790",
+  "start station id": 465,
+  "start station name": "Broadway & W 41 St",
+  "start station latitude": 40.75513557,
+  "start station longitude": -73.98658032,
+  "end station id": 3908,
+  "end station name": "Battery Pl & Greenwich St",
+  "end station latitude": 40.70463,
+  "end station longitude": -74.01507,
+  "bikeid": 32018,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 892,
+  "starttime": "2019-12-01 11:38:33.9640",
+  "stoptime": "2019-12-01 11:53:26.5190",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 481,
+  "end station name": "S 3 St & Bedford Ave",
+  "end station latitude": 40.71260486,
+  "end station longitude": -73.96264403,
+  "bikeid": 39013,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

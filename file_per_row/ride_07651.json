@@ -1,0 +1,17 @@
+{
+  "tripduration": 509,
+  "starttime": "2019-12-01 14:40:09.6660",
+  "stoptime": "2019-12-01 14:48:39.4710",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 19395,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

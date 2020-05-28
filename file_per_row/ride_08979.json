@@ -1,0 +1,17 @@
+{
+  "tripduration": 552,
+  "starttime": "2019-12-01 17:57:07.9440",
+  "stoptime": "2019-12-01 18:06:20.2220",
+  "start station id": 3075,
+  "start station name": "Division Ave & Marcy Ave",
+  "start station latitude": 40.70708701,
+  "start station longitude": -73.95796783,
+  "end station id": 372,
+  "end station name": "Franklin Ave & Myrtle Ave",
+  "end station latitude": 40.694546087246025,
+  "end station longitude": -73.95801365375519,
+  "bikeid": 32638,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

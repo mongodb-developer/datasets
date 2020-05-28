@@ -1,0 +1,17 @@
+{
+  "tripduration": 546,
+  "starttime": "2019-12-01 12:36:17.7420",
+  "stoptime": "2019-12-01 12:45:23.7870",
+  "start station id": 401,
+  "start station name": "Allen St & Rivington St",
+  "start station latitude": 40.72019576,
+  "start station longitude": -73.98997825,
+  "end station id": 386,
+  "end station name": "Centre St & Worth St",
+  "end station latitude": 40.71494807,
+  "end station longitude": -74.00234482,
+  "bikeid": 35320,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 947,
+  "starttime": "2019-12-01 10:54:12.0040",
+  "stoptime": "2019-12-01 11:09:59.2450",
+  "start station id": 3507,
+  "start station name": "Park Ave & E 124 St",
+  "start station latitude": 40.8045555,
+  "start station longitude": -73.9396861,
+  "end station id": 3542,
+  "end station name": "Amsterdam Ave & W 119 St",
+  "end station latitude": 40.8086249,
+  "end station longitude": -73.9596214,
+  "bikeid": 30651,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

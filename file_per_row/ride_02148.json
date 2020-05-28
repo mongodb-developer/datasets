@@ -1,0 +1,17 @@
+{
+  "tripduration": 2065,
+  "starttime": "2019-12-01 08:56:20.2840",
+  "stoptime": "2019-12-01 09:30:45.3300",
+  "start station id": 3728,
+  "start station name": "Pierrepont St & Monroe Pl",
+  "start station latitude": 40.69535693320225,
+  "start station longitude": -73.99344027042389,
+  "end station id": 3728,
+  "end station name": "Pierrepont St & Monroe Pl",
+  "end station latitude": 40.69535693320225,
+  "end station longitude": -73.99344027042389,
+  "bikeid": 20252,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

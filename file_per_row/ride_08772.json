@@ -1,0 +1,17 @@
+{
+  "tripduration": 383,
+  "starttime": "2019-12-01 17:16:14.1660",
+  "stoptime": "2019-12-01 17:22:37.2570",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 3112,
+  "end station name": "Milton St & Franklin St",
+  "end station latitude": 40.72906,
+  "end station longitude": -73.95779,
+  "bikeid": 19084,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

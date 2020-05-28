@@ -1,0 +1,17 @@
+{
+  "tripduration": 1718,
+  "starttime": "2019-12-01 19:53:58.0430",
+  "stoptime": "2019-12-01 20:22:36.0440",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 247,
+  "end station name": "Perry St & Bleecker St",
+  "end station latitude": 40.73535398,
+  "end station longitude": -74.00483091,
+  "bikeid": 39204,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

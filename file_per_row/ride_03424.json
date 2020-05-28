@@ -1,0 +1,17 @@
+{
+  "tripduration": 395,
+  "starttime": "2019-12-01 10:06:20.6550",
+  "stoptime": "2019-12-01 10:12:56.1730",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 41723,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

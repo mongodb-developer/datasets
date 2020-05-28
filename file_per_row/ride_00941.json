@@ -1,0 +1,17 @@
+{
+  "tripduration": 1160,
+  "starttime": "2019-12-01 04:07:35.1560",
+  "stoptime": "2019-12-01 04:26:55.9400",
+  "start station id": 291,
+  "start station name": "Madison St & Montgomery St",
+  "start station latitude": 40.713126,
+  "start station longitude": -73.984844,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 41421,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 254,
+  "starttime": "2019-12-01 00:56:14.8330",
+  "stoptime": "2019-12-01 01:00:28.9640",
+  "start station id": 3776,
+  "start station name": "Central Ave & Starr Street",
+  "start station latitude": 40.700003,
+  "start station longitude": -73.92834,
+  "end station id": 3849,
+  "end station name": "Suydam St & St. Nicholas Ave",
+  "end station latitude": 40.70636,
+  "end station longitude": -73.91945,
+  "bikeid": 20511,
+  "usertype": "Customer",
+  "birth year": 1991,
+  "gender": "male"
+}

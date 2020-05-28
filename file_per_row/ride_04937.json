@@ -1,0 +1,17 @@
+{
+  "tripduration": 410,
+  "starttime": "2019-12-01 11:08:27.9560",
+  "stoptime": "2019-12-01 11:15:18.3790",
+  "start station id": 3546,
+  "start station name": "Pacific St & Classon Ave",
+  "start station latitude": 40.6791944,
+  "start station longitude": -73.9587903,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 16290,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

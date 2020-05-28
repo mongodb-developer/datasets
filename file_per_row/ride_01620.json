@@ -1,0 +1,17 @@
+{
+  "tripduration": 270,
+  "starttime": "2019-12-01 08:09:20.7470",
+  "stoptime": "2019-12-01 08:13:51.7020",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 29092,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 174,
+  "starttime": "2019-12-01 13:04:09.4140",
+  "stoptime": "2019-12-01 13:07:04.2620",
+  "start station id": 309,
+  "start station name": "Murray St & West St",
+  "start station latitude": 40.7149787,
+  "start station longitude": -74.013012,
+  "end station id": 3002,
+  "end station name": "South End Ave & Liberty St",
+  "end station latitude": 40.711512,
+  "end station longitude": -74.015756,
+  "bikeid": 26581,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

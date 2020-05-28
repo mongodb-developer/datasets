@@ -1,0 +1,17 @@
+{
+  "tripduration": 277,
+  "starttime": "2019-12-01 09:56:01.4380",
+  "stoptime": "2019-12-01 10:00:39.2020",
+  "start station id": 2002,
+  "start station name": "Wythe Ave & Metropolitan Ave",
+  "start station latitude": 40.716887,
+  "start station longitude": -73.963198,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 33892,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

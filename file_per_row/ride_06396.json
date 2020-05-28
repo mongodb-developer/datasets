@@ -1,0 +1,17 @@
+{
+  "tripduration": 847,
+  "starttime": "2019-12-01 12:30:46.3100",
+  "stoptime": "2019-12-01 12:44:53.9540",
+  "start station id": 525,
+  "start station name": "W 34 St & 11 Ave",
+  "start station latitude": 40.75594159,
+  "start station longitude": -74.0021163,
+  "end station id": 518,
+  "end station name": "E 39 St & 2 Ave",
+  "end station latitude": 40.74780373,
+  "end station longitude": -73.9734419,
+  "bikeid": 30106,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

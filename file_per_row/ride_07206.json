@@ -1,0 +1,17 @@
+{
+  "tripduration": 1581,
+  "starttime": "2019-12-01 13:34:59.8350",
+  "stoptime": "2019-12-01 14:01:21.1160",
+  "start station id": 238,
+  "start station name": "Bank St & Washington St",
+  "start station latitude": 40.7361967,
+  "start station longitude": -74.00859207,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 39334,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

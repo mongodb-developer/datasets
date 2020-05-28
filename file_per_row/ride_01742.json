@@ -1,0 +1,17 @@
+{
+  "tripduration": 222,
+  "starttime": "2019-12-01 08:23:56.6130",
+  "stoptime": "2019-12-01 08:27:39.0360",
+  "start station id": 3364,
+  "start station name": "Carroll St & 5 Ave",
+  "start station latitude": 40.6751622,
+  "start station longitude": -73.9814832,
+  "end station id": 3407,
+  "end station name": "Union St & Nevins St",
+  "end station latitude": 40.67909799721684,
+  "end station longitude": -73.98765474557877,
+  "bikeid": 28642,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 599,
+  "starttime": "2019-12-01 11:32:46.3420",
+  "stoptime": "2019-12-01 11:42:45.9810",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3255,
+  "end station name": "8 Ave & W 31 St",
+  "end station latitude": 40.7505853470215,
+  "end station longitude": -73.9946848154068,
+  "bikeid": 41727,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

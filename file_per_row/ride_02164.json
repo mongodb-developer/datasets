@@ -1,0 +1,17 @@
+{
+  "tripduration": 138,
+  "starttime": "2019-12-01 08:57:23.9000",
+  "stoptime": "2019-12-01 08:59:42.0020",
+  "start station id": 3908,
+  "start station name": "Battery Pl & Greenwich St",
+  "start station latitude": 40.70463,
+  "start station longitude": -74.01507,
+  "end station id": 2008,
+  "end station name": "Little West St & 1 Pl",
+  "end station latitude": 40.70569254,
+  "end station longitude": -74.01677685,
+  "bikeid": 39850,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

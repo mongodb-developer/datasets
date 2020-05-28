@@ -1,0 +1,17 @@
+{
+  "tripduration": 499,
+  "starttime": "2019-12-01 04:01:11.5940",
+  "stoptime": "2019-12-01 04:09:30.6460",
+  "start station id": 323,
+  "start station name": "Lawrence St & Willoughby St",
+  "start station latitude": 40.69236178,
+  "start station longitude": -73.98631746,
+  "end station id": 3414,
+  "end station name": "Bergen St & Flatbush Ave",
+  "end station latitude": 40.680944723477296,
+  "end station longitude": -73.97567331790923,
+  "bikeid": 28222,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 624,
+  "starttime": "2019-12-01 00:00:22.0410",
+  "stoptime": "2019-12-01 00:10:46.4270",
+  "start station id": 469,
+  "start station name": "Broadway & W 53 St",
+  "start station latitude": 40.76344058,
+  "start station longitude": -73.98268129,
+  "end station id": 526,
+  "end station name": "E 33 St & 5 Ave",
+  "end station latitude": 40.74765947,
+  "end station longitude": -73.98490707,
+  "bikeid": 24934,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

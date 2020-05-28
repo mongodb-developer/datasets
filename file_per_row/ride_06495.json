@@ -1,0 +1,17 @@
+{
+  "tripduration": 370,
+  "starttime": "2019-12-01 12:35:53.6660",
+  "stoptime": "2019-12-01 12:42:04.1410",
+  "start station id": 422,
+  "start station name": "W 59 St & 10 Ave",
+  "start station latitude": 40.770513,
+  "start station longitude": -73.988038,
+  "end station id": 469,
+  "end station name": "Broadway & W 53 St",
+  "end station latitude": 40.76344058,
+  "end station longitude": -73.98268129,
+  "bikeid": 29405,
+  "usertype": "Customer",
+  "birth year": 1957,
+  "gender": "male"
+}

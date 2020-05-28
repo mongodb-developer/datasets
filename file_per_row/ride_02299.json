@@ -1,0 +1,17 @@
+{
+  "tripduration": 1518,
+  "starttime": "2019-12-01 09:07:59.0090",
+  "stoptime": "2019-12-01 09:33:17.3120",
+  "start station id": 364,
+  "start station name": "Lafayette Ave & Classon Ave",
+  "start station latitude": 40.68900443,
+  "start station longitude": -73.96023854,
+  "end station id": 418,
+  "end station name": "Front St & Gold St",
+  "end station latitude": 40.70224,
+  "end station longitude": -73.982578,
+  "bikeid": 19355,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

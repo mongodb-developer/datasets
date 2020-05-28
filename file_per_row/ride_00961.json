@@ -1,0 +1,17 @@
+{
+  "tripduration": 128,
+  "starttime": "2019-12-01 04:22:18.6420",
+  "stoptime": "2019-12-01 04:24:27.1300",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 437,
+  "end station name": "Macon St & Nostrand Ave",
+  "end station latitude": 40.6809833854,
+  "end station longitude": -73.9500479759,
+  "bikeid": 28662,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

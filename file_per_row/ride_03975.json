@@ -1,0 +1,17 @@
+{
+  "tripduration": 432,
+  "starttime": "2019-12-01 10:30:18.5270",
+  "stoptime": "2019-12-01 10:37:31.0220",
+  "start station id": 3236,
+  "start station name": "W 42 St & Dyer Ave",
+  "start station latitude": 40.75898481399634,
+  "start station longitude": -73.99379968643188,
+  "end station id": 3235,
+  "end station name": "E 41 St & Madison Ave",
+  "end station latitude": 40.752165280621966,
+  "end station longitude": -73.97992193698882,
+  "bikeid": 19682,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

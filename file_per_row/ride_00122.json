@@ -1,0 +1,17 @@
+{
+  "tripduration": 445,
+  "starttime": "2019-12-01 00:18:00.3370",
+  "stoptime": "2019-12-01 00:25:26.0750",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 16529,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

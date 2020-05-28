@@ -1,0 +1,17 @@
+{
+  "tripduration": 700,
+  "starttime": "2019-12-01 09:51:37.0990",
+  "stoptime": "2019-12-01 10:03:17.5170",
+  "start station id": 3509,
+  "start station name": "Lenox Ave & W 115 St",
+  "start station latitude": 40.8011939,
+  "start station longitude": -73.9500739,
+  "end station id": 3282,
+  "end station name": "5 Ave & E 88 St",
+  "end station latitude": 40.78307,
+  "end station longitude": -73.95939,
+  "bikeid": 32337,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

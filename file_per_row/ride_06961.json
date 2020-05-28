@@ -1,0 +1,17 @@
+{
+  "tripduration": 1004,
+  "starttime": "2019-12-01 13:07:44.6770",
+  "stoptime": "2019-12-01 13:24:29.2110",
+  "start station id": 532,
+  "start station name": "S 5 Pl & S 5 St",
+  "start station latitude": 40.710451,
+  "start station longitude": -73.960876,
+  "end station id": 532,
+  "end station name": "S 5 Pl & S 5 St",
+  "end station latitude": 40.710451,
+  "end station longitude": -73.960876,
+  "bikeid": 21105,
+  "usertype": "Customer",
+  "birth year": 1976,
+  "gender": "female"
+}

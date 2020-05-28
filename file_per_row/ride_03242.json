@@ -1,0 +1,17 @@
+{
+  "tripduration": 797,
+  "starttime": "2019-12-01 09:57:50.1880",
+  "stoptime": "2019-12-01 10:11:07.8540",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 3790,
+  "end station name": "Henry St & Middagh St",
+  "end station latitude": 40.7003,
+  "end station longitude": -73.991581,
+  "bikeid": 33054,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

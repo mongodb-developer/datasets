@@ -1,0 +1,17 @@
+{
+  "tripduration": 263,
+  "starttime": "2019-12-01 14:08:31.2920",
+  "stoptime": "2019-12-01 14:12:54.7700",
+  "start station id": 3572,
+  "start station name": "34 Ave & 38 St",
+  "start station latitude": 40.756913,
+  "start station longitude": -73.921631,
+  "end station id": 3575,
+  "end station name": "Crescent St & 34 Ave",
+  "end station latitude": 40.76108,
+  "end station longitude": -73.930562,
+  "bikeid": 38508,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 553,
+  "starttime": "2019-12-01 20:07:51.1570",
+  "stoptime": "2019-12-01 20:17:04.3700",
+  "start station id": 3598,
+  "start station name": "Newton Rd & 44 St",
+  "start station latitude": 40.7595701,
+  "start station longitude": -73.9142678,
+  "end station id": 3528,
+  "end station name": "Steinway St & 23 Ave",
+  "end station latitude": 40.7713937,
+  "end station longitude": -73.9077436,
+  "bikeid": 31093,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

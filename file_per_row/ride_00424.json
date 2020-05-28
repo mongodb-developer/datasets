@@ -1,0 +1,17 @@
+{
+  "tripduration": 576,
+  "starttime": "2019-12-01 01:08:37.7400",
+  "stoptime": "2019-12-01 01:18:14.1110",
+  "start station id": 479,
+  "start station name": "9 Ave & W 45 St",
+  "start station latitude": 40.76019252,
+  "start station longitude": -73.9912551,
+  "end station id": 508,
+  "end station name": "W 46 St & 11 Ave",
+  "end station latitude": 40.76341379,
+  "end station longitude": -73.99667444,
+  "bikeid": 33281,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

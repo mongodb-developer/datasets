@@ -1,0 +1,17 @@
+{
+  "tripduration": 1721,
+  "starttime": "2019-12-01 16:20:49.8630",
+  "stoptime": "2019-12-01 16:49:31.7620",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 251,
+  "end station name": "Mott St & Prince St",
+  "end station latitude": 40.72317958,
+  "end station longitude": -73.99480012,
+  "bikeid": 33016,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

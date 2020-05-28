@@ -1,0 +1,17 @@
+{
+  "tripduration": 670,
+  "starttime": "2019-12-01 10:35:42.3320",
+  "stoptime": "2019-12-01 10:46:52.5980",
+  "start station id": 344,
+  "start station name": "Monroe St & Bedford Ave",
+  "start station latitude": 40.6851443,
+  "start station longitude": -73.95380904,
+  "end station id": 3558,
+  "end station name": "Bergen St & Vanderbilt Ave",
+  "end station latitude": 40.6794388,
+  "end station longitude": -73.9680438,
+  "bikeid": 21561,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

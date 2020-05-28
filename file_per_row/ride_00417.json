@@ -1,0 +1,17 @@
+{
+  "tripduration": 520,
+  "starttime": "2019-12-01 01:06:47.4210",
+  "stoptime": "2019-12-01 01:15:28.3840",
+  "start station id": 474,
+  "start station name": "5 Ave & E 29 St",
+  "start station latitude": 40.7451677,
+  "start station longitude": -73.98683077,
+  "end station id": 2021,
+  "end station name": "W 45 St & 8 Ave",
+  "end station latitude": 40.75929124,
+  "end station longitude": -73.98859651,
+  "bikeid": 29004,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

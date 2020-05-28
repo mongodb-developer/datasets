@@ -1,0 +1,17 @@
+{
+  "tripduration": 542,
+  "starttime": "2019-12-01 09:13:30.6970",
+  "stoptime": "2019-12-01 09:22:33.1060",
+  "start station id": 385,
+  "start station name": "E 55 St & 2 Ave",
+  "start station latitude": 40.75797322,
+  "start station longitude": -73.96603308,
+  "end station id": 3141,
+  "end station name": "1 Ave & E 68 St",
+  "end station latitude": 40.76500525,
+  "end station longitude": -73.95818491,
+  "bikeid": 28608,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

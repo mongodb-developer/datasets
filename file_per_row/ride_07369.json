@@ -1,0 +1,17 @@
+{
+  "tripduration": 244,
+  "starttime": "2019-12-01 14:02:02.3170",
+  "stoptime": "2019-12-01 14:06:07.0940",
+  "start station id": 3817,
+  "start station name": "Withers St & Kingsland Ave",
+  "start station latitude": 40.71773,
+  "start station longitude": -73.94051,
+  "end station id": 3106,
+  "end station name": "Driggs Ave & N Henry St",
+  "end station latitude": 40.72325,
+  "end station longitude": -73.94308,
+  "bikeid": 40219,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

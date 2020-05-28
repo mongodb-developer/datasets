@@ -1,0 +1,17 @@
+{
+  "tripduration": 229,
+  "starttime": "2019-12-01 02:32:43.9740",
+  "stoptime": "2019-12-01 02:36:33.8930",
+  "start station id": 274,
+  "start station name": "Lafayette Ave & Fort Greene Pl",
+  "start station latitude": 40.68691865,
+  "start station longitude": -73.976682,
+  "end station id": 420,
+  "end station name": "Clermont Ave & Lafayette Ave",
+  "end station latitude": 40.68764484,
+  "end station longitude": -73.96968902,
+  "bikeid": 30940,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

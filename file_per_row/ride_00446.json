@@ -1,0 +1,17 @@
+{
+  "tripduration": 1523,
+  "starttime": "2019-12-01 01:14:07.5090",
+  "stoptime": "2019-12-01 01:39:31.1240",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 450,
+  "end station name": "W 49 St & 8 Ave",
+  "end station latitude": 40.76227205,
+  "end station longitude": -73.98788205,
+  "bikeid": 40561,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

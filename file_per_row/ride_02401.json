@@ -1,0 +1,17 @@
+{
+  "tripduration": 14291,
+  "starttime": "2019-12-01 09:13:52.9770",
+  "stoptime": "2019-12-01 13:12:04.8200",
+  "start station id": 72,
+  "start station name": "W 52 St & 11 Ave",
+  "start station latitude": 40.76727216,
+  "start station longitude": -73.99392888,
+  "end station id": 328,
+  "end station name": "Watts St & Greenwich St",
+  "end station latitude": 40.72405549,
+  "end station longitude": -74.00965965,
+  "bikeid": 20950,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

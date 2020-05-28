@@ -1,0 +1,17 @@
+{
+  "tripduration": 2903,
+  "starttime": "2019-12-01 01:33:07.8810",
+  "stoptime": "2019-12-01 02:21:31.2800",
+  "start station id": 514,
+  "start station name": "12 Ave & W 40 St",
+  "start station latitude": 40.76087502,
+  "start station longitude": -74.00277668,
+  "end station id": 3881,
+  "end station name": "12 Ave & W 125 St",
+  "end station latitude": 40.818299,
+  "end station longitude": -73.960405,
+  "bikeid": 38511,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 905,
+  "starttime": "2019-12-01 15:34:18.3910",
+  "stoptime": "2019-12-01 15:49:23.7120",
+  "start station id": 3086,
+  "start station name": "Graham Ave & Conselyea St",
+  "start station latitude": 40.715143,
+  "start station longitude": -73.944507,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 28373,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

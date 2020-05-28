@@ -1,0 +1,17 @@
+{
+  "tripduration": 421,
+  "starttime": "2019-12-01 10:48:20.3400",
+  "stoptime": "2019-12-01 10:55:21.6580",
+  "start station id": 493,
+  "start station name": "W 45 St & 6 Ave",
+  "start station latitude": 40.7568001,
+  "start station longitude": -73.98291153,
+  "end station id": 508,
+  "end station name": "W 46 St & 11 Ave",
+  "end station latitude": 40.76341379,
+  "end station longitude": -73.99667444,
+  "bikeid": 19717,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

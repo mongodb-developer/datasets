@@ -1,0 +1,17 @@
+{
+  "tripduration": 494,
+  "starttime": "2019-12-01 11:09:15.5960",
+  "stoptime": "2019-12-01 11:17:30.4700",
+  "start station id": 3413,
+  "start station name": "Wyckoff St & 3 Ave",
+  "start station latitude": 40.6827549,
+  "start station longitude": -73.98258555,
+  "end station id": 143,
+  "end station name": "Clinton St & Joralemon St",
+  "end station latitude": 40.69239502,
+  "end station longitude": -73.99337909,
+  "bikeid": 31431,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

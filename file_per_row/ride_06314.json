@@ -1,0 +1,17 @@
+{
+  "tripduration": 1291,
+  "starttime": "2019-12-01 12:26:32.3180",
+  "stoptime": "2019-12-01 12:48:04.1820",
+  "start station id": 464,
+  "start station name": "E 56 St & 3 Ave",
+  "start station latitude": 40.75934501,
+  "start station longitude": -73.96759673,
+  "end station id": 459,
+  "end station name": "W 20 St & 11 Ave",
+  "end station latitude": 40.746745,
+  "end station longitude": -74.007756,
+  "bikeid": 40195,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

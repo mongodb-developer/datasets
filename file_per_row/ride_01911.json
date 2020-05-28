@@ -1,0 +1,17 @@
+{
+  "tripduration": 1147,
+  "starttime": "2019-12-01 08:39:50.4660",
+  "stoptime": "2019-12-01 08:58:57.8180",
+  "start station id": 3042,
+  "start station name": "Fulton St & Utica Ave",
+  "start station latitude": 40.6794268,
+  "start station longitude": -73.9298911,
+  "end station id": 3041,
+  "end station name": "Kingston Ave & Herkimer St",
+  "end station latitude": 40.67890679,
+  "end station longitude": -73.94142771,
+  "bikeid": 40607,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

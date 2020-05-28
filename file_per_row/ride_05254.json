@@ -1,0 +1,17 @@
+{
+  "tripduration": 337,
+  "starttime": "2019-12-01 11:24:41.0450",
+  "stoptime": "2019-12-01 11:30:18.8010",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 383,
+  "end station name": "Greenwich Ave & Charles St",
+  "end station latitude": 40.735238,
+  "end station longitude": -74.000271,
+  "bikeid": 40151,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

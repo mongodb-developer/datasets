@@ -1,0 +1,17 @@
+{
+  "tripduration": 634,
+  "starttime": "2019-12-01 08:02:52.0040",
+  "stoptime": "2019-12-01 08:13:26.2540",
+  "start station id": 3141,
+  "start station name": "1 Ave & E 68 St",
+  "start station latitude": 40.76500525,
+  "start station longitude": -73.95818491,
+  "end station id": 367,
+  "end station name": "E 53 St & Lexington Ave",
+  "end station latitude": 40.75828065,
+  "end station longitude": -73.97069431,
+  "bikeid": 38743,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "female"
+}

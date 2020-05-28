@@ -1,0 +1,17 @@
+{
+  "tripduration": 339,
+  "starttime": "2019-12-01 00:22:51.2130",
+  "stoptime": "2019-12-01 00:28:30.3940",
+  "start station id": 3087,
+  "start station name": "Metropolitan Ave & Meeker Ave",
+  "start station latitude": 40.71413311,
+  "start station longitude": -73.95234386,
+  "end station id": 3693,
+  "end station name": "N 11 St & Kent Ave",
+  "end station latitude": 40.72248188638219,
+  "end station longitude": -73.95921930670738,
+  "bikeid": 34083,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

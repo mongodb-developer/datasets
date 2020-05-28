@@ -1,0 +1,17 @@
+{
+  "tripduration": 169,
+  "starttime": "2019-12-01 00:19:09.9480",
+  "stoptime": "2019-12-01 00:21:59.1990",
+  "start station id": 3689,
+  "start station name": "W 104 St & Amsterdam Ave",
+  "start station latitude": 40.799041392882984,
+  "start station longitude": -73.96649479866028,
+  "end station id": 3341,
+  "end station name": "Central Park West & W 102 St",
+  "end station latitude": 40.795346,
+  "end station longitude": -73.96186,
+  "bikeid": 30219,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

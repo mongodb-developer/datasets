@@ -1,0 +1,17 @@
+{
+  "tripduration": 652,
+  "starttime": "2019-12-01 20:35:31.1780",
+  "stoptime": "2019-12-01 20:46:24.1420",
+  "start station id": 3260,
+  "start station name": "Mercer St & Bleecker St",
+  "start station latitude": 40.72706363348306,
+  "start station longitude": -73.99662137031554,
+  "end station id": 534,
+  "end station name": "Water - Whitehall Plaza",
+  "end station latitude": 40.70255065,
+  "end station longitude": -74.0127234,
+  "bikeid": 29985,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

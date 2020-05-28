@@ -1,0 +1,17 @@
+{
+  "tripduration": 621,
+  "starttime": "2019-12-01 11:14:36.7020",
+  "stoptime": "2019-12-01 11:24:57.7670",
+  "start station id": 3168,
+  "start station name": "Central Park West & W 85 St",
+  "start station latitude": 40.78472675,
+  "start station longitude": -73.96961715,
+  "end station id": 3151,
+  "end station name": "E 81 St & York Ave",
+  "end station latitude": 40.7728384,
+  "end station longitude": -73.94989233,
+  "bikeid": 28224,
+  "usertype": "Customer",
+  "birth year": 1987,
+  "gender": "male"
+}

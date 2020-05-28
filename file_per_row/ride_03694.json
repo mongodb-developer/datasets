@@ -1,0 +1,17 @@
+{
+  "tripduration": 697,
+  "starttime": "2019-12-01 10:18:11.7710",
+  "stoptime": "2019-12-01 10:29:48.9960",
+  "start station id": 3132,
+  "start station name": "E 59 St & Madison Ave",
+  "start station latitude": 40.76350532,
+  "start station longitude": -73.97109243,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 31316,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

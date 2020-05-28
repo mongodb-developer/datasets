@@ -1,0 +1,17 @@
+{
+  "tripduration": 1849,
+  "starttime": "2019-12-01 16:27:45.8220",
+  "stoptime": "2019-12-01 16:58:35.3680",
+  "start station id": 349,
+  "start station name": "Rivington St & Ridge St",
+  "start station latitude": 40.71850211,
+  "start station longitude": -73.98329859,
+  "end station id": 119,
+  "end station name": "Park Ave & St Edwards St",
+  "end station latitude": 40.69608941,
+  "end station longitude": -73.97803415,
+  "bikeid": 38539,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

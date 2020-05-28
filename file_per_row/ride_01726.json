@@ -1,0 +1,17 @@
+{
+  "tripduration": 1296,
+  "starttime": "2019-12-01 08:22:13.3960",
+  "stoptime": "2019-12-01 08:43:50.2720",
+  "start station id": 3016,
+  "start station name": "Kent Ave & N 7 St",
+  "start station latitude": 40.72036775298455,
+  "start station longitude": -73.96165072917938,
+  "end station id": 242,
+  "end station name": "Carlton Ave & Flushing Ave",
+  "end station latitude": 40.697787,
+  "end station longitude": -73.973736,
+  "bikeid": 40227,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "male"
+}

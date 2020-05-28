@@ -1,0 +1,17 @@
+{
+  "tripduration": 735,
+  "starttime": "2019-12-01 11:18:08.3510",
+  "stoptime": "2019-12-01 11:30:23.9730",
+  "start station id": 238,
+  "start station name": "Bank St & Washington St",
+  "start station latitude": 40.7361967,
+  "start station longitude": -74.00859207,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 38899,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

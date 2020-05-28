@@ -1,0 +1,17 @@
+{
+  "tripduration": 313,
+  "starttime": "2019-12-01 02:51:11.5500",
+  "stoptime": "2019-12-01 02:56:25.3950",
+  "start station id": 347,
+  "start station name": "Greenwich St & W Houston St",
+  "start station latitude": 40.728846,
+  "start station longitude": -74.008591,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 31562,
+  "usertype": "Customer",
+  "birth year": 1991,
+  "gender": "male"
+}

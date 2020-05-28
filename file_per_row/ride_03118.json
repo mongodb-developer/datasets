@@ -1,0 +1,17 @@
+{
+  "tripduration": 540,
+  "starttime": "2019-12-01 09:52:34.1180",
+  "stoptime": "2019-12-01 10:01:34.3340",
+  "start station id": 3671,
+  "start station name": "E 81 St & 2 Ave",
+  "start station latitude": 40.774779448957275,
+  "start station longitude": -73.95427465438843,
+  "end station id": 3136,
+  "end station name": "5 Ave & E 63 St",
+  "end station latitude": 40.766368,
+  "end station longitude": -73.971518,
+  "bikeid": 33129,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

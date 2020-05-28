@@ -1,0 +1,17 @@
+{
+  "tripduration": 1182,
+  "starttime": "2019-12-01 15:48:15.3200",
+  "stoptime": "2019-12-01 16:07:57.4030",
+  "start station id": 3686,
+  "start station name": "Gansevoort St & Hudson St",
+  "start station latitude": 40.739448201304036,
+  "start station longitude": -74.00507032871246,
+  "end station id": 128,
+  "end station name": "MacDougal St & Prince St",
+  "end station latitude": 40.72710258,
+  "end station longitude": -74.00297088,
+  "bikeid": 28735,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

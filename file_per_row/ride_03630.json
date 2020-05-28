@@ -1,0 +1,17 @@
+{
+  "tripduration": 484,
+  "starttime": "2019-12-01 10:16:08.8060",
+  "stoptime": "2019-12-01 10:24:13.7010",
+  "start station id": 489,
+  "start station name": "10 Ave & W 28 St",
+  "start station latitude": 40.75066386,
+  "start station longitude": -74.00176802,
+  "end station id": 477,
+  "end station name": "W 41 St & 8 Ave",
+  "end station latitude": 40.75640548,
+  "end station longitude": -73.9900262,
+  "bikeid": 33562,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

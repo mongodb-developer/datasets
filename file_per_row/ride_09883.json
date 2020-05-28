@@ -1,0 +1,17 @@
+{
+  "tripduration": 1183,
+  "starttime": "2019-12-01 20:34:01.1560",
+  "stoptime": "2019-12-01 20:53:44.7590",
+  "start station id": 3141,
+  "start station name": "1 Ave & E 68 St",
+  "start station latitude": 40.76500525,
+  "start station longitude": -73.95818491,
+  "end station id": 450,
+  "end station name": "W 49 St & 8 Ave",
+  "end station latitude": 40.76227205,
+  "end station longitude": -73.98788205,
+  "bikeid": 40873,
+  "usertype": "Subscriber",
+  "birth year": 1948,
+  "gender": "female"
+}

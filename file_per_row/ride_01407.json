@@ -1,0 +1,17 @@
+{
+  "tripduration": 3736,
+  "starttime": "2019-12-01 07:41:47.6440",
+  "stoptime": "2019-12-01 08:44:04.3890",
+  "start station id": 236,
+  "start station name": "St Marks Pl & 2 Ave",
+  "start station latitude": 40.7284186,
+  "start station longitude": -73.98713956,
+  "end station id": 236,
+  "end station name": "St Marks Pl & 2 Ave",
+  "end station latitude": 40.7284186,
+  "end station longitude": -73.98713956,
+  "bikeid": 28250,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

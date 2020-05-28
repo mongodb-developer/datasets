@@ -1,0 +1,17 @@
+{
+  "tripduration": 310,
+  "starttime": "2019-12-01 09:46:05.7330",
+  "stoptime": "2019-12-01 09:51:16.5470",
+  "start station id": 331,
+  "start station name": "Pike St & Monroe St",
+  "start station latitude": 40.71173107,
+  "start station longitude": -73.99193043,
+  "end station id": 376,
+  "end station name": "John St & William St",
+  "end station latitude": 40.70862144,
+  "end station longitude": -74.00722156,
+  "bikeid": 27822,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

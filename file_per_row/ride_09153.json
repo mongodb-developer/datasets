@@ -1,0 +1,17 @@
+{
+  "tripduration": 391,
+  "starttime": "2019-12-01 18:28:20.0140",
+  "stoptime": "2019-12-01 18:34:51.8190",
+  "start station id": 417,
+  "start station name": "Barclay St & Church St",
+  "start station latitude": 40.71291224,
+  "start station longitude": -74.01020234,
+  "end station id": 2009,
+  "end station name": "Catherine St & Monroe St",
+  "end station latitude": 40.71117444,
+  "end station longitude": -73.99682619,
+  "bikeid": 31851,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

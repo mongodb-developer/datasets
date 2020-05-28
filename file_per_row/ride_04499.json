@@ -1,0 +1,17 @@
+{
+  "tripduration": 1159,
+  "starttime": "2019-12-01 10:52:01.3320",
+  "stoptime": "2019-12-01 11:11:20.9080",
+  "start station id": 3016,
+  "start station name": "Kent Ave & N 7 St",
+  "start station latitude": 40.72036775298455,
+  "start station longitude": -73.96165072917938,
+  "end station id": 251,
+  "end station name": "Mott St & Prince St",
+  "end station latitude": 40.72317958,
+  "end station longitude": -73.99480012,
+  "bikeid": 39293,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

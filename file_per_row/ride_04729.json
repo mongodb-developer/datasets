@@ -1,0 +1,17 @@
+{
+  "tripduration": 590,
+  "starttime": "2019-12-01 10:58:58.4100",
+  "stoptime": "2019-12-01 11:08:49.0630",
+  "start station id": 3145,
+  "start station name": "E 84 St & Park Ave",
+  "start station latitude": 40.77862688,
+  "start station longitude": -73.95772073,
+  "end station id": 281,
+  "end station name": "Grand Army Plaza & Central Park S",
+  "end station latitude": 40.7643971,
+  "end station longitude": -73.97371465,
+  "bikeid": 28737,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

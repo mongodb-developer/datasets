@@ -1,0 +1,17 @@
+{
+  "tripduration": 343,
+  "starttime": "2019-12-01 10:30:39.8900",
+  "stoptime": "2019-12-01 10:36:23.6890",
+  "start station id": 3135,
+  "start station name": "E 75 St & 3 Ave",
+  "start station latitude": 40.77112927,
+  "start station longitude": -73.95772297,
+  "end station id": 3286,
+  "end station name": "E 89 St & 3 Ave",
+  "end station latitude": 40.7806284,
+  "end station longitude": -73.9521667,
+  "bikeid": 14915,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

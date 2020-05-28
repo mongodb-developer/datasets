@@ -1,0 +1,17 @@
+{
+  "tripduration": 482,
+  "starttime": "2019-12-01 14:53:17.5030",
+  "stoptime": "2019-12-01 15:01:19.8870",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 33019,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

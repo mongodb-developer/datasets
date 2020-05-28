@@ -1,0 +1,17 @@
+{
+  "tripduration": 1059,
+  "starttime": "2019-12-01 00:00:14.7230",
+  "stoptime": "2019-12-01 00:17:54.1860",
+  "start station id": 500,
+  "start station name": "Broadway & W 51 St",
+  "start station latitude": 40.76228826,
+  "start station longitude": -73.98336183,
+  "end station id": 3323,
+  "end station name": "W 106 St & Central Park West",
+  "end station latitude": 40.7981856,
+  "end station longitude": -73.9605909006,
+  "bikeid": 40156,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

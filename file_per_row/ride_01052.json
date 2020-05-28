@@ -1,0 +1,17 @@
+{
+  "tripduration": 222,
+  "starttime": "2019-12-01 05:51:16.8570",
+  "stoptime": "2019-12-01 05:54:59.7050",
+  "start station id": 3664,
+  "start station name": "North Moore St & Greenwich St",
+  "start station latitude": 40.72019521437465,
+  "start station longitude": -74.0103006362915,
+  "end station id": 257,
+  "end station name": "Lispenard St & Broadway",
+  "end station latitude": 40.71939226,
+  "end station longitude": -74.00247214,
+  "bikeid": 30734,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

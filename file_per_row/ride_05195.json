@@ -1,0 +1,17 @@
+{
+  "tripduration": 473,
+  "starttime": "2019-12-01 11:21:52.3740",
+  "stoptime": "2019-12-01 11:29:45.6580",
+  "start station id": 310,
+  "start station name": "State St & Smith St",
+  "start station latitude": 40.68926942,
+  "start station longitude": -73.98912867,
+  "end station id": 217,
+  "end station name": "Old Fulton St",
+  "end station latitude": 40.70277159,
+  "end station longitude": -73.99383605,
+  "bikeid": 41389,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

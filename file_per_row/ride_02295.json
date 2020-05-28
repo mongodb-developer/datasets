@@ -1,0 +1,17 @@
+{
+  "tripduration": 1178,
+  "starttime": "2019-12-01 09:07:39.7060",
+  "stoptime": "2019-12-01 09:27:17.8700",
+  "start station id": 3370,
+  "start station name": "E 78 St & 2 Ave",
+  "start station latitude": 40.7727966,
+  "start station longitude": -73.95577801,
+  "end station id": 492,
+  "end station name": "W 33 St & 7 Ave",
+  "end station latitude": 40.75019995,
+  "end station longitude": -73.99093085,
+  "bikeid": 41902,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 394,
+  "starttime": "2019-12-01 10:49:40.9220",
+  "stoptime": "2019-12-01 10:56:15.3520",
+  "start station id": 3558,
+  "start station name": "Bergen St & Vanderbilt Ave",
+  "start station latitude": 40.6794388,
+  "start station longitude": -73.9680438,
+  "end station id": 3420,
+  "end station name": "Douglass St & 3 Ave",
+  "end station latitude": 40.6802133,
+  "end station longitude": -73.98432695,
+  "bikeid": 21561,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

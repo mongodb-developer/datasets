@@ -1,0 +1,17 @@
+{
+  "tripduration": 686,
+  "starttime": "2019-12-01 20:41:47.0190",
+  "stoptime": "2019-12-01 20:53:13.3840",
+  "start station id": 3345,
+  "start station name": "Madison Ave & E 99 St",
+  "start station latitude": 40.78948541553215,
+  "start station longitude": -73.95242929458618,
+  "end station id": 3534,
+  "end station name": "Frederick Douglass Blvd & W 117 St",
+  "end station latitude": 40.805159,
+  "end station longitude": -73.954692,
+  "bikeid": 34165,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

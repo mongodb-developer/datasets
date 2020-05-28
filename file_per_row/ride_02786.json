@@ -1,0 +1,17 @@
+{
+  "tripduration": 749,
+  "starttime": "2019-12-01 09:37:13.4080",
+  "stoptime": "2019-12-01 09:49:42.5970",
+  "start station id": 3793,
+  "start station name": "Stuyvesant Walk & 1 Av Loop",
+  "start station latitude": 40.732339777151054,
+  "start station longitude": -73.97898383438587,
+  "end station id": 459,
+  "end station name": "W 20 St & 11 Ave",
+  "end station latitude": 40.746745,
+  "end station longitude": -74.007756,
+  "bikeid": 39957,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

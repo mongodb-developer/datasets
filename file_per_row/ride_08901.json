@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 17:43:18.3200",
+  "stoptime": "2019-12-01 17:46:11.7090",
+  "start station id": 3544,
+  "start station name": "Underhill Ave & Pacific St",
+  "start station latitude": 40.6804836,
+  "start station longitude": -73.9646795,
+  "end station id": 3580,
+  "end station name": "St Johns Pl & Washington Ave",
+  "end station latitude": 40.6737236,
+  "end station longitude": -73.9631611,
+  "bikeid": 26794,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 423,
+  "starttime": "2019-12-01 10:06:36.4750",
+  "stoptime": "2019-12-01 10:13:39.7110",
+  "start station id": 3402,
+  "start station name": "Court St & State St",
+  "start station latitude": 40.6902375,
+  "start station longitude": -73.99203074,
+  "end station id": 157,
+  "end station name": "Henry St & Atlantic Ave",
+  "end station latitude": 40.69089272,
+  "end station longitude": -73.99612349,
+  "bikeid": 40607,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

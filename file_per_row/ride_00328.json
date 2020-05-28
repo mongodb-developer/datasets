@@ -1,0 +1,17 @@
+{
+  "tripduration": 444,
+  "starttime": "2019-12-01 00:50:51.3080",
+  "stoptime": "2019-12-01 00:58:15.9980",
+  "start station id": 3865,
+  "start station name": "Knickerbocker Ave & Cooper St",
+  "start station latitude": 40.69081,
+  "start station longitude": -73.90448,
+  "end station id": 3826,
+  "end station name": "Moffat St & Bushwick",
+  "end station latitude": 40.68458,
+  "end station longitude": -73.90925,
+  "bikeid": 38821,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

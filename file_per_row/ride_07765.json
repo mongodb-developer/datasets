@@ -1,0 +1,17 @@
+{
+  "tripduration": 223,
+  "starttime": "2019-12-01 14:53:18.3350",
+  "stoptime": "2019-12-01 14:57:01.8520",
+  "start station id": 3420,
+  "start station name": "Douglass St & 3 Ave",
+  "start station latitude": 40.6802133,
+  "start station longitude": -73.98432695,
+  "end station id": 3373,
+  "end station name": "3 St & 3 Ave",
+  "end station latitude": 40.6750705,
+  "end station longitude": -73.98775226,
+  "bikeid": 35257,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

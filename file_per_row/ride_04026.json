@@ -1,0 +1,17 @@
+{
+  "tripduration": 205,
+  "starttime": "2019-12-01 10:32:07.9800",
+  "stoptime": "2019-12-01 10:35:33.4750",
+  "start station id": 3886,
+  "start station name": "Menahan St & Onderdonk Ave",
+  "start station latitude": 40.70553,
+  "start station longitude": -73.9096,
+  "end station id": 3780,
+  "end station name": "Wyckoff Av & Stanhope St",
+  "end station latitude": 40.703545,
+  "end station longitude": -73.917775,
+  "bikeid": 33068,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

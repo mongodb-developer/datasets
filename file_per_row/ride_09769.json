@@ -1,0 +1,17 @@
+{
+  "tripduration": 342,
+  "starttime": "2019-12-01 20:12:48.6930",
+  "stoptime": "2019-12-01 20:18:31.5950",
+  "start station id": 326,
+  "start station name": "E 11 St & 1 Ave",
+  "start station latitude": 40.72953837,
+  "start station longitude": -73.98426726,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 41215,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

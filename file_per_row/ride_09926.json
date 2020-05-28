@@ -1,0 +1,17 @@
+{
+  "tripduration": 37162,
+  "starttime": "2019-12-01 20:41:04.2350",
+  "stoptime": "2019-12-02 07:00:26.3340",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 3788,
+  "end station name": "E 12 St & 4 Av",
+  "end station latitude": 40.73269,
+  "end station longitude": -73.98974,
+  "bikeid": 33908,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 644,
+  "starttime": "2019-12-01 14:57:17.4210",
+  "stoptime": "2019-12-01 15:08:01.4750",
+  "start station id": 296,
+  "start station name": "Division St & Bowery (old)",
+  "start station latitude": 40.71413089,
+  "start station longitude": -73.9970468,
+  "end station id": 295,
+  "end station name": "Pike St & E Broadway",
+  "end station latitude": 40.71406667,
+  "end station longitude": -73.99293911,
+  "bikeid": 27767,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

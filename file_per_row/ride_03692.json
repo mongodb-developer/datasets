@@ -1,0 +1,17 @@
+{
+  "tripduration": 325,
+  "starttime": "2019-12-01 10:18:11.0690",
+  "stoptime": "2019-12-01 10:23:36.8990",
+  "start station id": 490,
+  "start station name": "8 Ave & W 33 St",
+  "start station latitude": 40.751551,
+  "start station longitude": -73.993934,
+  "end station id": 465,
+  "end station name": "Broadway & W 41 St",
+  "end station latitude": 40.75513557,
+  "end station longitude": -73.98658032,
+  "bikeid": 32692,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

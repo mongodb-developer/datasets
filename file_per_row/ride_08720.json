@@ -1,0 +1,17 @@
+{
+  "tripduration": 247,
+  "starttime": "2019-12-01 17:05:03.9070",
+  "stoptime": "2019-12-01 17:09:11.8240",
+  "start station id": 3472,
+  "start station name": "W 15 St & 10 Ave",
+  "start station latitude": 40.742753828659026,
+  "start station longitude": -74.00747358798981,
+  "end station id": 482,
+  "end station name": "W 15 St & 7 Ave",
+  "end station latitude": 40.73935542,
+  "end station longitude": -73.99931783,
+  "bikeid": 40910,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

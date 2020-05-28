@@ -1,0 +1,17 @@
+{
+  "tripduration": 730,
+  "starttime": "2019-12-01 07:41:19.4660",
+  "stoptime": "2019-12-01 07:53:29.4660",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 528,
+  "end station name": "2 Ave & E 31 St",
+  "end station latitude": 40.74290902,
+  "end station longitude": -73.97706058,
+  "bikeid": 41261,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

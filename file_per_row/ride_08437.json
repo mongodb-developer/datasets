@@ -1,0 +1,17 @@
+{
+  "tripduration": 461,
+  "starttime": "2019-12-01 16:05:45.3440",
+  "stoptime": "2019-12-01 16:13:27.2140",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 301,
+  "end station name": "E 2 St & Avenue B",
+  "end station latitude": 40.72217444,
+  "end station longitude": -73.98368779,
+  "bikeid": 30534,
+  "usertype": "Subscriber",
+  "birth year": 2000,
+  "gender": "male"
+}

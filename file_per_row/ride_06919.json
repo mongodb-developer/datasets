@@ -1,0 +1,17 @@
+{
+  "tripduration": 416,
+  "starttime": "2019-12-01 13:03:55.8700",
+  "stoptime": "2019-12-01 13:10:51.9960",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 40808,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

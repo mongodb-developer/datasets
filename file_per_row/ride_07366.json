@@ -1,0 +1,17 @@
+{
+  "tripduration": 615,
+  "starttime": "2019-12-01 14:01:45.9210",
+  "stoptime": "2019-12-01 14:12:01.8860",
+  "start station id": 481,
+  "start station name": "S 3 St & Bedford Ave",
+  "start station latitude": 40.71260486,
+  "start station longitude": -73.96264403,
+  "end station id": 3083,
+  "end station name": "Bushwick Ave & Powers St",
+  "end station latitude": 40.71247661,
+  "end station longitude": -73.94100005,
+  "bikeid": 38497,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

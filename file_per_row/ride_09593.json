@@ -1,0 +1,17 @@
+{
+  "tripduration": 216,
+  "starttime": "2019-12-01 19:45:48.6170",
+  "stoptime": "2019-12-01 19:49:25.5620",
+  "start station id": 319,
+  "start station name": "Fulton St & Broadway",
+  "start station latitude": 40.711066,
+  "start station longitude": -74.009447,
+  "end station id": 3002,
+  "end station name": "South End Ave & Liberty St",
+  "end station latitude": 40.711512,
+  "end station longitude": -74.015756,
+  "bikeid": 31002,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

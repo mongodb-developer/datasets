@@ -1,0 +1,17 @@
+{
+  "tripduration": 535,
+  "starttime": "2019-12-01 12:11:43.0160",
+  "stoptime": "2019-12-01 12:20:38.1370",
+  "start station id": 3373,
+  "start station name": "3 St & 3 Ave",
+  "start station latitude": 40.6750705,
+  "start station longitude": -73.98775226,
+  "end station id": 3321,
+  "end station name": "Clinton St & Union St",
+  "end station latitude": 40.6831164,
+  "end station longitude": -73.99785267,
+  "bikeid": 17866,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

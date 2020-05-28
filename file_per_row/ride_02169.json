@@ -1,0 +1,17 @@
+{
+  "tripduration": 517,
+  "starttime": "2019-12-01 08:57:43.3910",
+  "stoptime": "2019-12-01 09:06:20.5440",
+  "start station id": 3766,
+  "start station name": "Sharon St & Olive St",
+  "start station latitude": 40.715353,
+  "start station longitude": -73.93856,
+  "end station id": 481,
+  "end station name": "S 3 St & Bedford Ave",
+  "end station latitude": 40.71260486,
+  "end station longitude": -73.96264403,
+  "bikeid": 39331,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

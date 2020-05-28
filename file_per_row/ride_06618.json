@@ -1,0 +1,17 @@
+{
+  "tripduration": 358,
+  "starttime": "2019-12-01 12:41:57.5240",
+  "stoptime": "2019-12-01 12:47:56.0320",
+  "start station id": 399,
+  "start station name": "Lafayette Ave & St James Pl",
+  "start station latitude": 40.68851534,
+  "start station longitude": -73.9647628,
+  "end station id": 241,
+  "end station name": "DeKalb Ave & S Portland Ave",
+  "end station latitude": 40.68981035,
+  "end station longitude": -73.97493121,
+  "bikeid": 33156,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

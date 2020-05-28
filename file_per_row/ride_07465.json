@@ -1,0 +1,17 @@
+{
+  "tripduration": 1177,
+  "starttime": "2019-12-01 14:16:29.0930",
+  "stoptime": "2019-12-01 14:36:06.3710",
+  "start station id": 3057,
+  "start station name": "Kosciuszko St & Tompkins Ave",
+  "start station latitude": 40.69128258,
+  "start station longitude": -73.9452416,
+  "end station id": 3415,
+  "end station name": "Prospect Pl & 6 Ave",
+  "end station latitude": 40.6793307,
+  "end station longitude": -73.97519523,
+  "bikeid": 41622,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

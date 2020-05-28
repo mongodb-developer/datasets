@@ -1,0 +1,17 @@
+{
+  "tripduration": 351,
+  "starttime": "2019-12-01 13:57:54.6010",
+  "stoptime": "2019-12-01 14:03:46.5780",
+  "start station id": 303,
+  "start station name": "Mercer St & Spring St",
+  "start station latitude": 40.72362738,
+  "start station longitude": -73.99949601,
+  "end station id": 251,
+  "end station name": "Mott St & Prince St",
+  "end station latitude": 40.72317958,
+  "end station longitude": -73.99480012,
+  "bikeid": 28690,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

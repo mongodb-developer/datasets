@@ -1,0 +1,17 @@
+{
+  "tripduration": 614,
+  "starttime": "2019-12-01 12:07:10.1330",
+  "stoptime": "2019-12-01 12:17:24.2240",
+  "start station id": 301,
+  "start station name": "E 2 St & Avenue B",
+  "start station latitude": 40.72217444,
+  "start station longitude": -73.98368779,
+  "end station id": 295,
+  "end station name": "Pike St & E Broadway",
+  "end station latitude": 40.71406667,
+  "end station longitude": -73.99293911,
+  "bikeid": 32603,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 10:52:53.8890",
+  "stoptime": "2019-12-01 11:00:46.0480",
+  "start station id": 3733,
+  "start station name": "Avenue C & E 18 St",
+  "start station latitude": 40.730563,
+  "start station longitude": -73.973984,
+  "end station id": 3737,
+  "end station name": "Stanton St & Norfolk St",
+  "end station latitude": 40.720747,
+  "end station longitude": -73.986274,
+  "bikeid": 41254,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

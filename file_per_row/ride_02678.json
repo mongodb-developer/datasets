@@ -1,0 +1,17 @@
+{
+  "tripduration": 283,
+  "starttime": "2019-12-01 09:31:50.9390",
+  "stoptime": "2019-12-01 09:36:33.9520",
+  "start station id": 3597,
+  "start station name": "43 St & Broadway",
+  "start station latitude": 40.7577284,
+  "start station longitude": -73.9166368,
+  "end station id": 3570,
+  "end station name": "35 Ave & 37 St",
+  "end station latitude": 40.7557327,
+  "end station longitude": -73.9236611,
+  "bikeid": 33224,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 705,
+  "starttime": "2019-12-01 11:06:45.0390",
+  "stoptime": "2019-12-01 11:18:30.0740",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 474,
+  "end station name": "5 Ave & E 29 St",
+  "end station latitude": 40.7451677,
+  "end station longitude": -73.98683077,
+  "bikeid": 40145,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

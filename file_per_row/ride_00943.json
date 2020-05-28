@@ -1,0 +1,17 @@
+{
+  "tripduration": 126,
+  "starttime": "2019-12-01 04:08:16.8340",
+  "stoptime": "2019-12-01 04:10:22.9010",
+  "start station id": 436,
+  "start station name": "Hancock St & Bedford Ave",
+  "start station latitude": 40.68216564,
+  "start station longitude": -73.95399026,
+  "end station id": 396,
+  "end station name": "Lefferts Pl & Franklin Ave",
+  "end station latitude": 40.680342423,
+  "end station longitude": -73.9557689392,
+  "bikeid": 39072,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

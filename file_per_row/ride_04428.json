@@ -1,0 +1,17 @@
+{
+  "tripduration": 379,
+  "starttime": "2019-12-01 10:48:52.4200",
+  "stoptime": "2019-12-01 10:55:11.5370",
+  "start station id": 3112,
+  "start station name": "Milton St & Franklin St",
+  "start station latitude": 40.72906,
+  "start station longitude": -73.95779,
+  "end station id": 3818,
+  "end station name": "Calyer St & Jewel St",
+  "end station latitude": 40.72984,
+  "end station longitude": -73.94839,
+  "bikeid": 35134,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

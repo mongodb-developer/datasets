@@ -1,0 +1,17 @@
+{
+  "tripduration": 989,
+  "starttime": "2019-12-01 17:33:38.5520",
+  "stoptime": "2019-12-01 17:50:08.1800",
+  "start station id": 3429,
+  "start station name": "Hanson Pl & Ashland Pl",
+  "start station latitude": 40.68506807308177,
+  "start station longitude": -73.97790759801863,
+  "end station id": 3050,
+  "end station name": "Putnam Ave & Throop Ave",
+  "end station latitude": 40.6851532,
+  "end station longitude": -73.94111,
+  "bikeid": 19412,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

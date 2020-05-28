@@ -1,0 +1,17 @@
+{
+  "tripduration": 441,
+  "starttime": "2019-12-01 03:28:38.4680",
+  "stoptime": "2019-12-01 03:35:59.9740",
+  "start station id": 401,
+  "start station name": "Allen St & Rivington St",
+  "start station latitude": 40.72019576,
+  "start station longitude": -73.98997825,
+  "end station id": 341,
+  "end station name": "Stanton St & Mangin St",
+  "end station latitude": 40.71782143,
+  "end station longitude": -73.97628939,
+  "bikeid": 34912,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

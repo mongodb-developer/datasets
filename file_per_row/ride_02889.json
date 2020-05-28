@@ -1,0 +1,17 @@
+{
+  "tripduration": 1898,
+  "starttime": "2019-12-01 09:42:24.6240",
+  "stoptime": "2019-12-01 10:14:03.3190",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3171,
+  "end station name": "Amsterdam Ave & W 82 St",
+  "end station latitude": 40.78524672,
+  "end station longitude": -73.97667321,
+  "bikeid": 34228,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

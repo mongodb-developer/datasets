@@ -1,0 +1,17 @@
+{
+  "tripduration": 519,
+  "starttime": "2019-12-01 07:19:18.7920",
+  "stoptime": "2019-12-01 07:27:58.7550",
+  "start station id": 291,
+  "start station name": "Madison St & Montgomery St",
+  "start station latitude": 40.713126,
+  "start station longitude": -73.984844,
+  "end station id": 316,
+  "end station name": "Fulton St & William St",
+  "end station latitude": 40.70955958,
+  "end station longitude": -74.00653609,
+  "bikeid": 30411,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 795,
+  "starttime": "2019-12-01 14:28:41.9560",
+  "stoptime": "2019-12-01 14:41:57.1650",
+  "start station id": 3690,
+  "start station name": "Park Pl & Church St",
+  "start station latitude": 40.71334184275907,
+  "start station longitude": -74.00935515761375,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 34153,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

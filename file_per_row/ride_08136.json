@@ -1,0 +1,17 @@
+{
+  "tripduration": 220,
+  "starttime": "2019-12-01 15:28:54.0130",
+  "stoptime": "2019-12-01 15:32:34.6950",
+  "start station id": 308,
+  "start station name": "St James Pl & Oliver St",
+  "start station latitude": 40.71307916,
+  "start station longitude": -73.99851193,
+  "end station id": 387,
+  "end station name": "Centre St & Chambers St",
+  "end station latitude": 40.71273266,
+  "end station longitude": -74.0046073,
+  "bikeid": 40927,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

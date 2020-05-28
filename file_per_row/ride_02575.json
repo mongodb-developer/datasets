@@ -1,0 +1,17 @@
+{
+  "tripduration": 370,
+  "starttime": "2019-12-01 09:26:01.8690",
+  "stoptime": "2019-12-01 09:32:11.9310",
+  "start station id": 3562,
+  "start station name": "Classon Ave & St Marks Ave",
+  "start station latitude": 40.6765198,
+  "start station longitude": -73.9596082,
+  "end station id": 3249,
+  "end station name": "Verona Pl & Fulton St",
+  "end station latitude": 40.6803560840434,
+  "end station longitude": -73.9476791024208,
+  "bikeid": 41921,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

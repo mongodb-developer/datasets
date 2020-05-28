@@ -1,0 +1,17 @@
+{
+  "tripduration": 766,
+  "starttime": "2019-12-01 18:26:25.3680",
+  "stoptime": "2019-12-01 18:39:12.2330",
+  "start station id": 412,
+  "start station name": "Forsyth St & Canal St",
+  "start station latitude": 40.7158155,
+  "start station longitude": -73.99422366,
+  "end station id": 386,
+  "end station name": "Centre St & Worth St",
+  "end station latitude": 40.71494807,
+  "end station longitude": -74.00234482,
+  "bikeid": 41415,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

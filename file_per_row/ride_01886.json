@@ -1,0 +1,17 @@
+{
+  "tripduration": 1050,
+  "starttime": "2019-12-01 08:37:15.9700",
+  "stoptime": "2019-12-01 08:54:46.1290",
+  "start station id": 3137,
+  "start station name": "5 Ave & E 73 St",
+  "start station latitude": 40.77282817,
+  "start station longitude": -73.96685276,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 33635,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

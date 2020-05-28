@@ -1,0 +1,17 @@
+{
+  "tripduration": 302,
+  "starttime": "2019-12-01 04:18:19.2070",
+  "stoptime": "2019-12-01 04:23:21.8180",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 289,
+  "end station name": "Monroe St & Classon Ave",
+  "end station latitude": 40.6845683,
+  "end station longitude": -73.95881081,
+  "bikeid": 29869,
+  "usertype": "Subscriber",
+  "birth year": 1938,
+  "gender": "female"
+}

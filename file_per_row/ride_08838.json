@@ -1,0 +1,17 @@
+{
+  "tripduration": 345,
+  "starttime": "2019-12-01 17:29:01.0790",
+  "stoptime": "2019-12-01 17:34:46.4850",
+  "start station id": 514,
+  "start station name": "12 Ave & W 40 St",
+  "start station latitude": 40.76087502,
+  "start station longitude": -74.00277668,
+  "end station id": 459,
+  "end station name": "W 20 St & 11 Ave",
+  "end station latitude": 40.746745,
+  "end station longitude": -74.007756,
+  "bikeid": 31210,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 307,
+  "starttime": "2019-12-01 08:28:56.3850",
+  "stoptime": "2019-12-01 08:34:04.1630",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 239,
+  "end station name": "Willoughby St & Fleet St",
+  "end station latitude": 40.69196566,
+  "end station longitude": -73.9813018,
+  "bikeid": 34013,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "female"
+}

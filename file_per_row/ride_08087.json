@@ -1,0 +1,17 @@
+{
+  "tripduration": 184,
+  "starttime": "2019-12-01 15:24:38.1590",
+  "stoptime": "2019-12-01 15:27:42.6740",
+  "start station id": 247,
+  "start station name": "Perry St & Bleecker St",
+  "start station latitude": 40.73535398,
+  "start station longitude": -74.00483091,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 40088,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

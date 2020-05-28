@@ -1,0 +1,17 @@
+{
+  "tripduration": 577,
+  "starttime": "2019-12-01 13:28:29.2710",
+  "stoptime": "2019-12-01 13:38:07.0020",
+  "start station id": 3307,
+  "start station name": "West End Ave & W 94 St",
+  "start station latitude": 40.7941654,
+  "start station longitude": -73.974124,
+  "end station id": 3360,
+  "end station name": "Amsterdam Ave & W 79 St",
+  "end station latitude": 40.7829391,
+  "end station longitude": -73.9786517,
+  "bikeid": 30108,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

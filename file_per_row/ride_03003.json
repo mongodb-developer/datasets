@@ -1,0 +1,17 @@
+{
+  "tripduration": 427,
+  "starttime": "2019-12-01 09:47:29.1650",
+  "stoptime": "2019-12-01 09:54:37.0380",
+  "start station id": 3690,
+  "start station name": "Park Pl & Church St",
+  "start station latitude": 40.71334184275907,
+  "start station longitude": -74.00935515761375,
+  "end station id": 415,
+  "end station name": "Pearl St & Hanover Square",
+  "end station latitude": 40.7047177,
+  "end station longitude": -74.00926027,
+  "bikeid": 40228,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

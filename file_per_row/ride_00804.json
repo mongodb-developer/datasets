@@ -1,0 +1,17 @@
+{
+  "tripduration": 447,
+  "starttime": "2019-12-01 02:58:50.4080",
+  "stoptime": "2019-12-01 03:06:17.9020",
+  "start station id": 3761,
+  "start station name": "Cedar St & Myrtle Ave",
+  "start station latitude": 40.697842,
+  "start station longitude": -73.926241,
+  "end station id": 3865,
+  "end station name": "Knickerbocker Ave & Cooper St",
+  "end station latitude": 40.69081,
+  "end station longitude": -73.90448,
+  "bikeid": 42000,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

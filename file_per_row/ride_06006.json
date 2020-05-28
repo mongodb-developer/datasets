@@ -1,0 +1,17 @@
+{
+  "tripduration": 419,
+  "starttime": "2019-12-01 12:08:43.5440",
+  "stoptime": "2019-12-01 12:15:42.8920",
+  "start station id": 3016,
+  "start station name": "Kent Ave & N 7 St",
+  "start station latitude": 40.72036775298455,
+  "start station longitude": -73.96165072917938,
+  "end station id": 3727,
+  "end station name": "Frost St & Meeker Ave",
+  "end station latitude": 40.71766197083994,
+  "end station longitude": -73.94880026578903,
+  "bikeid": 31493,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

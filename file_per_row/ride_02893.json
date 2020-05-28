@@ -1,0 +1,17 @@
+{
+  "tripduration": 762,
+  "starttime": "2019-12-01 09:42:38.4660",
+  "stoptime": "2019-12-01 09:55:20.8490",
+  "start station id": 462,
+  "start station name": "W 22 St & 10 Ave",
+  "start station latitude": 40.74691959,
+  "start station longitude": -74.00451887,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 34136,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 201,
+  "starttime": "2019-12-01 19:11:36.7040",
+  "stoptime": "2019-12-01 19:14:57.7650",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 410,
+  "end station name": "Suffolk St & Stanton St",
+  "end station latitude": 40.72066442,
+  "end station longitude": -73.98517977,
+  "bikeid": 40438,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 2025,
+  "starttime": "2019-12-01 20:21:22.1810",
+  "stoptime": "2019-12-01 20:55:07.9700",
+  "start station id": 3002,
+  "start station name": "South End Ave & Liberty St",
+  "start station latitude": 40.711512,
+  "start station longitude": -74.015756,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 38585,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

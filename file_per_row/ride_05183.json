@@ -1,0 +1,17 @@
+{
+  "tripduration": 346,
+  "starttime": "2019-12-01 11:21:17.8520",
+  "stoptime": "2019-12-01 11:27:03.9210",
+  "start station id": 354,
+  "start station name": "Emerson Pl & Myrtle Ave",
+  "start station latitude": 40.69363137,
+  "start station longitude": -73.96223558,
+  "end station id": 270,
+  "end station name": "Adelphi St & Myrtle Ave",
+  "end station latitude": 40.69308257,
+  "end station longitude": -73.97178913,
+  "bikeid": 16454,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "female"
+}

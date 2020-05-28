@@ -1,0 +1,17 @@
+{
+  "tripduration": 444,
+  "starttime": "2019-12-01 10:34:21.5140",
+  "stoptime": "2019-12-01 10:41:46.3200",
+  "start station id": 3856,
+  "start station name": "Kingsland Ave & Nassau Ave",
+  "start station latitude": 40.72577,
+  "start station longitude": -73.94173,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 39089,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1022,
+  "starttime": "2019-12-01 10:16:06.7410",
+  "stoptime": "2019-12-01 10:33:09.3570",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 501,
+  "end station name": "FDR Drive & E 35 St",
+  "end station latitude": 40.744219,
+  "end station longitude": -73.97121214,
+  "bikeid": 40916,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

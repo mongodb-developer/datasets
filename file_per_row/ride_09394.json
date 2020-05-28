@@ -1,0 +1,17 @@
+{
+  "tripduration": 658,
+  "starttime": "2019-12-01 19:11:16.1490",
+  "stoptime": "2019-12-01 19:22:14.2910",
+  "start station id": 461,
+  "start station name": "E 20 St & 2 Ave",
+  "start station latitude": 40.73587678,
+  "start station longitude": -73.98205027,
+  "end station id": 369,
+  "end station name": "Washington Pl & 6 Ave",
+  "end station latitude": 40.73224119,
+  "end station longitude": -74.00026394,
+  "bikeid": 30791,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

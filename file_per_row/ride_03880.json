@@ -1,0 +1,17 @@
+{
+  "tripduration": 360,
+  "starttime": "2019-12-01 10:26:00.3560",
+  "stoptime": "2019-12-01 10:32:00.9510",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 38879,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

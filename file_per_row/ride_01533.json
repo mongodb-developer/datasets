@@ -1,0 +1,17 @@
+{
+  "tripduration": 850,
+  "starttime": "2019-12-01 07:57:31.0900",
+  "stoptime": "2019-12-01 08:11:41.8200",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3162,
+  "end station name": "W 78 St & Broadway",
+  "end station latitude": 40.78339981,
+  "end station longitude": -73.98093133,
+  "bikeid": 30222,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 534,
+  "starttime": "2019-12-01 10:55:12.1290",
+  "stoptime": "2019-12-01 11:04:06.8040",
+  "start station id": 3630,
+  "start station name": "Frederick Douglass Blvd & W 115 St",
+  "start station latitude": 40.8038654,
+  "start station longitude": -73.9559308,
+  "end station id": 3367,
+  "end station name": "5 Ave & E 103 St",
+  "end station latitude": 40.7922553,
+  "end station longitude": -73.95249933,
+  "bikeid": 20579,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

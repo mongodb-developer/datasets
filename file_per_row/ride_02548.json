@@ -1,0 +1,17 @@
+{
+  "tripduration": 381,
+  "starttime": "2019-12-01 09:23:21.5810",
+  "stoptime": "2019-12-01 09:29:43.3310",
+  "start station id": 3102,
+  "start station name": "Driggs Ave & Lorimer St",
+  "start station latitude": 40.72179134,
+  "start station longitude": -73.9504154,
+  "end station id": 3086,
+  "end station name": "Graham Ave & Conselyea St",
+  "end station latitude": 40.715143,
+  "end station longitude": -73.944507,
+  "bikeid": 41492,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

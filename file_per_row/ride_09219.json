@@ -1,0 +1,17 @@
+{
+  "tripduration": 1764,
+  "starttime": "2019-12-01 18:40:45.7250",
+  "stoptime": "2019-12-01 19:10:10.4760",
+  "start station id": 319,
+  "start station name": "Fulton St & Broadway",
+  "start station latitude": 40.711066,
+  "start station longitude": -74.009447,
+  "end station id": 3733,
+  "end station name": "Avenue C & E 18 St",
+  "end station latitude": 40.730563,
+  "end station longitude": -73.973984,
+  "bikeid": 40678,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

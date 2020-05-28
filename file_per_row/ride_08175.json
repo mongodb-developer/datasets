@@ -1,0 +1,17 @@
+{
+  "tripduration": 385,
+  "starttime": "2019-12-01 15:33:04.3550",
+  "stoptime": "2019-12-01 15:39:29.7150",
+  "start station id": 3145,
+  "start station name": "E 84 St & Park Ave",
+  "start station latitude": 40.77862688,
+  "start station longitude": -73.95772073,
+  "end station id": 3336,
+  "end station name": "E 97 St & Madison Ave",
+  "end station latitude": 40.787801,
+  "end station longitude": -73.953559,
+  "bikeid": 16319,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

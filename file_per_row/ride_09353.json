@@ -1,0 +1,17 @@
+{
+  "tripduration": 255,
+  "starttime": "2019-12-01 19:05:14.6720",
+  "stoptime": "2019-12-01 19:09:29.6980",
+  "start station id": 3508,
+  "start station name": "St Nicholas Ave & Manhattan Ave",
+  "start station latitude": 40.809725,
+  "start station longitude": -73.953149,
+  "end station id": 3534,
+  "end station name": "Frederick Douglass Blvd & W 117 St",
+  "end station latitude": 40.805159,
+  "end station longitude": -73.954692,
+  "bikeid": 29861,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

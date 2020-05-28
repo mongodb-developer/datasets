@@ -1,0 +1,17 @@
+{
+  "tripduration": 307,
+  "starttime": "2019-12-01 19:40:31.1540",
+  "stoptime": "2019-12-01 19:45:38.9250",
+  "start station id": 344,
+  "start station name": "Monroe St & Bedford Ave",
+  "start station latitude": 40.6851443,
+  "start station longitude": -73.95380904,
+  "end station id": 364,
+  "end station name": "Lafayette Ave & Classon Ave",
+  "end station latitude": 40.68900443,
+  "end station longitude": -73.96023854,
+  "bikeid": 40528,
+  "usertype": "Subscriber",
+  "birth year": 1938,
+  "gender": "female"
+}

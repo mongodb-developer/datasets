@@ -1,0 +1,17 @@
+{
+  "tripduration": 212,
+  "starttime": "2019-12-01 12:22:13.8500",
+  "stoptime": "2019-12-01 12:25:46.2380",
+  "start station id": 412,
+  "start station name": "Forsyth St & Canal St",
+  "start station latitude": 40.7158155,
+  "start station longitude": -73.99422366,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 34308,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

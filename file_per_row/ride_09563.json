@@ -1,0 +1,17 @@
+{
+  "tripduration": 487,
+  "starttime": "2019-12-01 19:41:37.4590",
+  "stoptime": "2019-12-01 19:49:44.7220",
+  "start station id": 467,
+  "start station name": "Dean St & 4 Ave",
+  "start station latitude": 40.68312489,
+  "start station longitude": -73.97895137,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 31604,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

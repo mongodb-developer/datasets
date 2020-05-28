@@ -1,0 +1,17 @@
+{
+  "tripduration": 1252,
+  "starttime": "2019-12-01 01:59:40.7200",
+  "stoptime": "2019-12-01 02:20:32.8800",
+  "start station id": 3693,
+  "start station name": "N 11 St & Kent Ave",
+  "start station latitude": 40.72248188638219,
+  "start station longitude": -73.95921930670738,
+  "end station id": 3556,
+  "end station name": "24 St & 41 Ave",
+  "end station latitude": 40.7527085,
+  "end station longitude": -73.9397405,
+  "bikeid": 39218,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

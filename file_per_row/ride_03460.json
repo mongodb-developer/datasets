@@ -1,0 +1,17 @@
+{
+  "tripduration": 304,
+  "starttime": "2019-12-01 10:08:02.4970",
+  "stoptime": "2019-12-01 10:13:06.8990",
+  "start station id": 3608,
+  "start station name": "5 St & 51 Ave",
+  "start station latitude": 40.7423737,
+  "start station longitude": -73.9566,
+  "end station id": 3125,
+  "end station name": "45 Rd & 11 St",
+  "end station latitude": 40.74708586,
+  "end station longitude": -73.94977234,
+  "bikeid": 38488,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

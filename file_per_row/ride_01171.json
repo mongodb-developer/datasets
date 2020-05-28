@@ -1,0 +1,17 @@
+{
+  "tripduration": 1300,
+  "starttime": "2019-12-01 06:50:25.0610",
+  "stoptime": "2019-12-01 07:12:05.1690",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3908,
+  "end station name": "Battery Pl & Greenwich St",
+  "end station latitude": 40.70463,
+  "end station longitude": -74.01507,
+  "bikeid": 41117,
+  "usertype": "Customer",
+  "birth year": 1980,
+  "gender": "male"
+}

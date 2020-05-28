@@ -1,0 +1,17 @@
+{
+  "tripduration": 93,
+  "starttime": "2019-12-01 11:48:09.9520",
+  "stoptime": "2019-12-01 11:49:43.8230",
+  "start station id": 388,
+  "start station name": "W 26 St & 10 Ave",
+  "start station latitude": 40.749717753,
+  "start station longitude": -74.002950346,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 34015,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

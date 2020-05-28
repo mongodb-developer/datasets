@@ -1,0 +1,17 @@
+{
+  "tripduration": 1903,
+  "starttime": "2019-12-01 19:17:26.9450",
+  "stoptime": "2019-12-01 19:49:10.2900",
+  "start station id": 3244,
+  "start station name": "University Pl & E 8 St",
+  "start station latitude": 40.73143724085228,
+  "start station longitude": -73.99490341544151,
+  "end station id": 3244,
+  "end station name": "University Pl & E 8 St",
+  "end station latitude": 40.73143724085228,
+  "end station longitude": -73.99490341544151,
+  "bikeid": 17122,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

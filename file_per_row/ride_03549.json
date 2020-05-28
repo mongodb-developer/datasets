@@ -1,0 +1,17 @@
+{
+  "tripduration": 790,
+  "starttime": "2019-12-01 10:12:21.3920",
+  "stoptime": "2019-12-01 10:25:31.7330",
+  "start station id": 3076,
+  "start station name": "Scholes St & Manhattan Ave",
+  "start station latitude": 40.70870368,
+  "start station longitude": -73.9448625,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 40963,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

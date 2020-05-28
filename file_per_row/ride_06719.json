@@ -1,0 +1,17 @@
+{
+  "tripduration": 211,
+  "starttime": "2019-12-01 12:46:55.1100",
+  "stoptime": "2019-12-01 12:50:26.7510",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 34328,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 508,
+  "starttime": "2019-12-01 18:02:52.5430",
+  "stoptime": "2019-12-01 18:11:21.4330",
+  "start station id": 3319,
+  "start station name": "14 St & 5 Ave",
+  "start station latitude": 40.666287,
+  "start station longitude": -73.98895053,
+  "end station id": 3423,
+  "end station name": "West Drive & Prospect Park West",
+  "end station latitude": 40.6610633719006,
+  "end station longitude": -73.97945255041122,
+  "bikeid": 38661,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "female"
+}

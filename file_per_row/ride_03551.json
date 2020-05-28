@@ -1,0 +1,17 @@
+{
+  "tripduration": 209,
+  "starttime": "2019-12-01 10:12:23.7280",
+  "stoptime": "2019-12-01 10:15:53.0560",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 40776,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

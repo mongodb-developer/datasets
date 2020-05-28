@@ -1,0 +1,17 @@
+{
+  "tripduration": 451,
+  "starttime": "2019-12-01 08:56:41.2850",
+  "stoptime": "2019-12-01 09:04:13.1930",
+  "start station id": 2009,
+  "start station name": "Catherine St & Monroe St",
+  "start station latitude": 40.71117444,
+  "start station longitude": -73.99682619,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 34963,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

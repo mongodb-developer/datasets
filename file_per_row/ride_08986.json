@@ -1,0 +1,17 @@
+{
+  "tripduration": 413,
+  "starttime": "2019-12-01 17:57:56.9120",
+  "stoptime": "2019-12-01 18:04:50.2760",
+  "start station id": 3558,
+  "start station name": "Bergen St & Vanderbilt Ave",
+  "start station latitude": 40.6794388,
+  "start station longitude": -73.9680438,
+  "end station id": 3562,
+  "end station name": "Classon Ave & St Marks Ave",
+  "end station latitude": 40.6765198,
+  "end station longitude": -73.9596082,
+  "bikeid": 41223,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

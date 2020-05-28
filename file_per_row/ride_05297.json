@@ -1,0 +1,17 @@
+{
+  "tripduration": 1315,
+  "starttime": "2019-12-01 11:26:53.9750",
+  "stoptime": "2019-12-01 11:48:49.0690",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 363,
+  "end station name": "West Thames St",
+  "end station latitude": 40.70834698,
+  "end station longitude": -74.01713445,
+  "bikeid": 38585,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

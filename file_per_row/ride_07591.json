@@ -1,0 +1,17 @@
+{
+  "tripduration": 592,
+  "starttime": "2019-12-01 14:32:48.2200",
+  "stoptime": "2019-12-01 14:42:40.3900",
+  "start station id": 3377,
+  "start station name": "Carroll St & Bond St",
+  "start station latitude": 40.6786115,
+  "start station longitude": -73.99037292,
+  "end station id": 3358,
+  "end station name": "Garfield Pl & 8 Ave",
+  "end station latitude": 40.6711978,
+  "end station longitude": -73.97484126,
+  "bikeid": 20028,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "unknown"
+}

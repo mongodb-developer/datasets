@@ -1,0 +1,17 @@
+{
+  "tripduration": 212,
+  "starttime": "2019-12-01 14:15:41.6680",
+  "stoptime": "2019-12-01 14:19:14.3650",
+  "start station id": 3086,
+  "start station name": "Graham Ave & Conselyea St",
+  "start station latitude": 40.715143,
+  "start station longitude": -73.944507,
+  "end station id": 3454,
+  "end station name": "Leonard St & Maujer St",
+  "end station latitude": 40.7103685423523,
+  "end station longitude": -73.94705951213837,
+  "bikeid": 28526,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

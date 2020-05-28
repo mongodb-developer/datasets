@@ -1,0 +1,17 @@
+{
+  "tripduration": 316,
+  "starttime": "2019-12-01 16:28:21.5600",
+  "stoptime": "2019-12-01 16:33:37.7720",
+  "start station id": 3664,
+  "start station name": "North Moore St & Greenwich St",
+  "start station latitude": 40.72019521437465,
+  "start station longitude": -74.0103006362915,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 35094,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

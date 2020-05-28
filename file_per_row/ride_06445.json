@@ -1,0 +1,17 @@
+{
+  "tripduration": 829,
+  "starttime": "2019-12-01 12:33:34.1020",
+  "stoptime": "2019-12-01 12:47:24.1000",
+  "start station id": 3521,
+  "start station name": "Lenox Ave & W 111 St",
+  "start station latitude": 40.7987859,
+  "start station longitude": -73.9523,
+  "end station id": 3170,
+  "end station name": "W 84 St & Columbus Ave",
+  "end station latitude": 40.78499979,
+  "end station longitude": -73.97283406,
+  "bikeid": 40456,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

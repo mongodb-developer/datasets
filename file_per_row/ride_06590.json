@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 12:41:05.8950",
+  "stoptime": "2019-12-01 12:48:57.9100",
+  "start station id": 487,
+  "start station name": "E 20 St & FDR Drive",
+  "start station latitude": 40.73314259,
+  "start station longitude": -73.97573881,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 39207,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

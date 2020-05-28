@@ -1,0 +1,17 @@
+{
+  "tripduration": 935,
+  "starttime": "2019-12-01 13:37:53.0500",
+  "stoptime": "2019-12-01 13:53:28.5000",
+  "start station id": 479,
+  "start station name": "9 Ave & W 45 St",
+  "start station latitude": 40.76019252,
+  "start station longitude": -73.9912551,
+  "end station id": 3709,
+  "end station name": "W 15 St & 6 Ave",
+  "end station latitude": 40.738046142482766,
+  "end station longitude": -73.99642959237099,
+  "bikeid": 28969,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "unknown"
+}

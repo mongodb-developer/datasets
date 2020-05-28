@@ -1,0 +1,17 @@
+{
+  "tripduration": 237,
+  "starttime": "2019-12-01 13:07:26.6190",
+  "stoptime": "2019-12-01 13:11:23.6480",
+  "start station id": 3882,
+  "start station name": "Norman St & Wyckoff Ave",
+  "start station latitude": 40.69517,
+  "start station longitude": -73.90311,
+  "end station id": 3868,
+  "end station name": "Knickerbocker Ave & Halsey St",
+  "end station latitude": 40.693,
+  "end station longitude": -73.90824,
+  "bikeid": 40308,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "unknown"
+}

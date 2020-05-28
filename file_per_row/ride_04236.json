@@ -1,0 +1,17 @@
+{
+  "tripduration": 355,
+  "starttime": "2019-12-01 10:40:42.8390",
+  "stoptime": "2019-12-01 10:46:38.5240",
+  "start station id": 247,
+  "start station name": "Perry St & Bleecker St",
+  "start station latitude": 40.73535398,
+  "start station longitude": -74.00483091,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 19109,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

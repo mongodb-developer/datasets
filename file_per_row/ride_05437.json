@@ -1,0 +1,17 @@
+{
+  "tripduration": 145,
+  "starttime": "2019-12-01 11:35:17.8740",
+  "stoptime": "2019-12-01 11:37:43.6500",
+  "start station id": 252,
+  "start station name": "MacDougal St & Washington Sq",
+  "start station latitude": 40.73226398,
+  "start station longitude": -73.99852205,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 30932,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

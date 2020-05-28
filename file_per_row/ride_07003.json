@@ -1,0 +1,17 @@
+{
+  "tripduration": 583,
+  "starttime": "2019-12-01 13:12:21.7290",
+  "stoptime": "2019-12-01 13:22:05.6300",
+  "start station id": 3142,
+  "start station name": "1 Ave & E 62 St",
+  "start station latitude": 40.7612274,
+  "start station longitude": -73.96094022,
+  "end station id": 3150,
+  "end station name": "E 85 St & York Ave",
+  "end station latitude": 40.77536905,
+  "end station longitude": -73.94803392,
+  "bikeid": 35203,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

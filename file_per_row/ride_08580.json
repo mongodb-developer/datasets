@@ -1,0 +1,17 @@
+{
+  "tripduration": 433,
+  "starttime": "2019-12-01 16:37:19.3270",
+  "stoptime": "2019-12-01 16:44:32.3730",
+  "start station id": 3416,
+  "start station name": "7 Ave & Park Pl",
+  "start station latitude": 40.6776147,
+  "start station longitude": -73.97324283,
+  "end station id": 3300,
+  "end station name": "Prospect Park West & 8 St",
+  "end station latitude": 40.66514681533792,
+  "end station longitude": -73.97637605667114,
+  "bikeid": 39684,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 271,
+  "starttime": "2019-12-01 11:50:31.0000",
+  "stoptime": "2019-12-01 11:55:02.0260",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 361,
+  "end station name": "Allen St & Hester St",
+  "end station latitude": 40.71605866,
+  "end station longitude": -73.99190759,
+  "bikeid": 27475,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

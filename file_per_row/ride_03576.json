@@ -1,0 +1,17 @@
+{
+  "tripduration": 1865,
+  "starttime": "2019-12-01 10:13:25.0820",
+  "stoptime": "2019-12-01 10:44:30.8140",
+  "start station id": 3061,
+  "start station name": "Throop Ave & Myrtle Ave",
+  "start station latitude": 40.69622937,
+  "start station longitude": -73.94371094,
+  "end station id": 363,
+  "end station name": "West Thames St",
+  "end station latitude": 40.70834698,
+  "end station longitude": -74.01713445,
+  "bikeid": 39114,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

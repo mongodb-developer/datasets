@@ -1,0 +1,17 @@
+{
+  "tripduration": 526,
+  "starttime": "2019-12-01 06:15:20.5200",
+  "stoptime": "2019-12-01 06:24:06.7710",
+  "start station id": 3118,
+  "start station name": "McGuinness Blvd & Eagle St",
+  "start station latitude": 40.73555,
+  "start station longitude": -73.95284,
+  "end station id": 3125,
+  "end station name": "45 Rd & 11 St",
+  "end station latitude": 40.74708586,
+  "end station longitude": -73.94977234,
+  "bikeid": 41447,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1063,
+  "starttime": "2019-12-01 07:51:22.7420",
+  "stoptime": "2019-12-01 08:09:06.6310",
+  "start station id": 317,
+  "start station name": "E 6 St & Avenue B",
+  "start station latitude": 40.72453734,
+  "start station longitude": -73.98185424,
+  "end station id": 3734,
+  "end station name": "E 58 St &  1 Ave (NW Corner)",
+  "end station latitude": 40.759125,
+  "end station longitude": -73.962658,
+  "bikeid": 33987,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

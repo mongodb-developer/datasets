@@ -1,0 +1,17 @@
+{
+  "tripduration": 246,
+  "starttime": "2019-12-01 14:31:43.4180",
+  "stoptime": "2019-12-01 14:35:49.4310",
+  "start station id": 3109,
+  "start station name": "Banker St & Meserole Ave",
+  "start station latitude": 40.72606,
+  "start station longitude": -73.95621,
+  "end station id": 3668,
+  "end station name": "Leonard St & Nassau Ave",
+  "end station latitude": 40.7239567849954,
+  "end station longitude": -73.94984364509583,
+  "bikeid": 35272,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 560,
+  "starttime": "2019-12-01 08:53:40.4100",
+  "stoptime": "2019-12-01 09:03:01.1820",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 497,
+  "end station name": "E 17 St & Broadway",
+  "end station latitude": 40.73704984,
+  "end station longitude": -73.99009296,
+  "bikeid": 17013,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

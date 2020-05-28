@@ -1,0 +1,17 @@
+{
+  "tripduration": 300,
+  "starttime": "2019-12-01 08:03:33.6500",
+  "stoptime": "2019-12-01 08:08:34.2010",
+  "start station id": 3649,
+  "start station name": "W 129 St & Convent Ave",
+  "start station latitude": 40.814394437915816,
+  "start station longitude": -73.95324736833572,
+  "end station id": 3520,
+  "end station name": "Adam Clayton Powell Blvd & W 118 St",
+  "end station latitude": 40.804372,
+  "end station longitude": -73.951475,
+  "bikeid": 28135,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

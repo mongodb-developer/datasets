@@ -1,0 +1,17 @@
+{
+  "tripduration": 956,
+  "starttime": "2019-12-01 09:33:46.5500",
+  "stoptime": "2019-12-01 09:49:42.6020",
+  "start station id": 3788,
+  "start station name": "E 12 St & 4 Av",
+  "start station latitude": 40.73269,
+  "start station longitude": -73.98974,
+  "end station id": 485,
+  "end station name": "W 37 St & 5 Ave",
+  "end station latitude": 40.75038009,
+  "end station longitude": -73.98338988,
+  "bikeid": 41709,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

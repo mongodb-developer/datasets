@@ -1,0 +1,17 @@
+{
+  "tripduration": 1355,
+  "starttime": "2019-12-01 17:31:08.0360",
+  "stoptime": "2019-12-01 17:53:43.0440",
+  "start station id": 485,
+  "start station name": "W 37 St & 5 Ave",
+  "start station latitude": 40.75038009,
+  "start station longitude": -73.98338988,
+  "end station id": 523,
+  "end station name": "W 38 St & 8 Ave",
+  "end station latitude": 40.75466591,
+  "end station longitude": -73.99138152,
+  "bikeid": 21688,
+  "usertype": "Customer",
+  "birth year": 1994,
+  "gender": "male"
+}

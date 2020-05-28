@@ -1,0 +1,17 @@
+{
+  "tripduration": 1567,
+  "starttime": "2019-12-01 10:20:39.1540",
+  "stoptime": "2019-12-01 10:46:46.4110",
+  "start station id": 3673,
+  "start station name": "Dean St & Franklin Ave",
+  "start station latitude": 40.67759206937376,
+  "start station longitude": -73.955637216568,
+  "end station id": 3849,
+  "end station name": "Suydam St & St. Nicholas Ave",
+  "end station latitude": 40.70636,
+  "end station longitude": -73.91945,
+  "bikeid": 32332,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

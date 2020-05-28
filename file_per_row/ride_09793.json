@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 20:16:57.1720",
+  "stoptime": "2019-12-01 20:22:25.0730",
+  "start station id": 3110,
+  "start station name": "Meserole Ave & Manhattan Ave",
+  "start station latitude": 40.72708584,
+  "start station longitude": -73.95299117,
+  "end station id": 3452,
+  "end station name": "Bayard St & Leonard St",
+  "end station latitude": 40.71915571696044,
+  "end station longitude": -73.94885390996933,
+  "bikeid": 15324,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 416,
+  "starttime": "2019-12-01 10:27:15.8690",
+  "stoptime": "2019-12-01 10:34:12.2240",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 3110,
+  "end station name": "Meserole Ave & Manhattan Ave",
+  "end station latitude": 40.72708584,
+  "end station longitude": -73.95299117,
+  "bikeid": 39372,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1107,
+  "starttime": "2019-12-01 05:23:07.6320",
+  "stoptime": "2019-12-01 05:41:35.3310",
+  "start station id": 3059,
+  "start station name": "Pulaski St & Marcus Garvey Blvd",
+  "start station latitude": 40.6933982,
+  "start station longitude": -73.939877,
+  "end station id": 3825,
+  "end station name": "Broadway & Furman Ave",
+  "end station latitude": 40.68139,
+  "end station longitude": -73.90756,
+  "bikeid": 30322,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

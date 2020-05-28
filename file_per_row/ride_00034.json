@@ -1,0 +1,17 @@
+{
+  "tripduration": 1237,
+  "starttime": "2019-12-01 00:03:52.8850",
+  "stoptime": "2019-12-01 00:24:30.1500",
+  "start station id": 440,
+  "start station name": "E 45 St & 3 Ave",
+  "start station latitude": 40.75255434,
+  "start station longitude": -73.97282625,
+  "end station id": 3858,
+  "end station name": "Kent St & McGuinness Blvd",
+  "end station latitude": 40.73124,
+  "end station longitude": -73.95161,
+  "bikeid": 40213,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

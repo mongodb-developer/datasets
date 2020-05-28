@@ -1,0 +1,17 @@
+{
+  "tripduration": 1299,
+  "starttime": "2019-12-01 06:59:09.8320",
+  "stoptime": "2019-12-01 07:20:49.0760",
+  "start station id": 3323,
+  "start station name": "W 106 St & Central Park West",
+  "start station latitude": 40.7981856,
+  "start station longitude": -73.9605909006,
+  "end station id": 3159,
+  "end station name": "W 67 St & Broadway",
+  "end station latitude": 40.77492513,
+  "end station longitude": -73.98266566,
+  "bikeid": 29405,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

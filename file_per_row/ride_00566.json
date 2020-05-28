@@ -1,0 +1,17 @@
+{
+  "tripduration": 120,
+  "starttime": "2019-12-01 01:51:33.0810",
+  "stoptime": "2019-12-01 01:53:33.1810",
+  "start station id": 3453,
+  "start station name": "Devoe St & Lorimer St",
+  "start station latitude": 40.71335226222875,
+  "start station longitude": -73.9491033554077,
+  "end station id": 3727,
+  "end station name": "Frost St & Meeker Ave",
+  "end station latitude": 40.71766197083994,
+  "end station longitude": -73.94880026578903,
+  "bikeid": 33009,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1429,
+  "starttime": "2019-12-01 12:17:01.7860",
+  "stoptime": "2019-12-01 12:40:51.5470",
+  "start station id": 3693,
+  "start station name": "N 11 St & Kent Ave",
+  "start station latitude": 40.72248188638219,
+  "start station longitude": -73.95921930670738,
+  "end station id": 3673,
+  "end station name": "Dean St & Franklin Ave",
+  "end station latitude": 40.67759206937376,
+  "end station longitude": -73.955637216568,
+  "bikeid": 40806,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

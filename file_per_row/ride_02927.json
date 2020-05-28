@@ -1,0 +1,17 @@
+{
+  "tripduration": 272,
+  "starttime": "2019-12-01 09:43:54.6150",
+  "stoptime": "2019-12-01 09:48:27.4120",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 14763,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

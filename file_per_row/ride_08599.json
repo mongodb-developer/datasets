@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 16:41:17.8600",
+  "stoptime": "2019-12-01 16:49:10.6680",
+  "start station id": 3233,
+  "start station name": "E 48 St & 5 Ave",
+  "start station latitude": 40.75724567911726,
+  "start station longitude": -73.97805914282799,
+  "end station id": 385,
+  "end station name": "E 55 St & 2 Ave",
+  "end station latitude": 40.75797322,
+  "end station longitude": -73.96603308,
+  "bikeid": 38179,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

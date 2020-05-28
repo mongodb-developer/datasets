@@ -1,0 +1,17 @@
+{
+  "tripduration": 575,
+  "starttime": "2019-12-01 08:46:28.2860",
+  "stoptime": "2019-12-01 08:56:03.5910",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 529,
+  "end station name": "W 42 St & 8 Ave",
+  "end station latitude": 40.7575699,
+  "end station longitude": -73.99098507,
+  "bikeid": 40691,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 496,
+  "starttime": "2019-12-01 10:25:19.0320",
+  "stoptime": "2019-12-01 10:33:35.4440",
+  "start station id": 3725,
+  "start station name": "2 Ave & E 72 St",
+  "start station latitude": 40.7687620293096,
+  "start station longitude": -73.95840793848038,
+  "end station id": 3136,
+  "end station name": "5 Ave & E 63 St",
+  "end station latitude": 40.766368,
+  "end station longitude": -73.971518,
+  "bikeid": 40328,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 309,
+  "starttime": "2019-12-01 15:43:34.8250",
+  "stoptime": "2019-12-01 15:48:44.6200",
+  "start station id": 366,
+  "start station name": "Clinton Ave & Myrtle Ave",
+  "start station latitude": 40.693261,
+  "start station longitude": -73.968896,
+  "end station id": 239,
+  "end station name": "Willoughby St & Fleet St",
+  "end station latitude": 40.69196566,
+  "end station longitude": -73.9813018,
+  "bikeid": 20367,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

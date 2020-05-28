@@ -1,0 +1,17 @@
+{
+  "tripduration": 421,
+  "starttime": "2019-12-01 07:40:46.3640",
+  "stoptime": "2019-12-01 07:47:48.3390",
+  "start station id": 311,
+  "start station name": "Norfolk St & Broome St",
+  "start station latitude": 40.7172274,
+  "start station longitude": -73.98802084,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 31124,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

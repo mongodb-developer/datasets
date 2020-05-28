@@ -1,0 +1,17 @@
+{
+  "tripduration": 210,
+  "starttime": "2019-12-01 19:18:18.5660",
+  "stoptime": "2019-12-01 19:21:48.9710",
+  "start station id": 369,
+  "start station name": "Washington Pl & 6 Ave",
+  "start station latitude": 40.73224119,
+  "start station longitude": -74.00026394,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 34379,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

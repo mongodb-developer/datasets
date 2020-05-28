@@ -1,0 +1,17 @@
+{
+  "tripduration": 1975,
+  "starttime": "2019-12-01 08:52:28.4660",
+  "stoptime": "2019-12-01 09:25:23.5740",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 32451,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "female"
+}

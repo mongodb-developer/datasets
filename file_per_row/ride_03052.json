@@ -1,0 +1,17 @@
+{
+  "tripduration": 1209,
+  "starttime": "2019-12-01 09:49:05.3210",
+  "stoptime": "2019-12-01 10:09:15.3200",
+  "start station id": 3472,
+  "start station name": "W 15 St & 10 Ave",
+  "start station latitude": 40.742753828659026,
+  "start station longitude": -74.00747358798981,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 30454,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

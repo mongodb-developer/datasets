@@ -1,0 +1,17 @@
+{
+  "tripduration": 1079,
+  "starttime": "2019-12-01 09:28:34.0540",
+  "stoptime": "2019-12-01 09:46:33.4570",
+  "start station id": 3456,
+  "start station name": "Jackson St & Leonard St",
+  "start station latitude": 40.71638031973561,
+  "start station longitude": -73.94821286201477,
+  "end station id": 3772,
+  "end station name": "Devoe St & Morgan Ave",
+  "end station latitude": 40.713811,
+  "end station longitude": -73.93515,
+  "bikeid": 40374,
+  "usertype": "Subscriber",
+  "birth year": 1952,
+  "gender": "female"
+}

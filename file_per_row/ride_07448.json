@@ -1,0 +1,17 @@
+{
+  "tripduration": 238,
+  "starttime": "2019-12-01 14:13:44.0570",
+  "stoptime": "2019-12-01 14:17:42.8800",
+  "start station id": 3156,
+  "start station name": "E 72 St & York Ave",
+  "start station latitude": 40.76663814,
+  "start station longitude": -73.95348296,
+  "end station id": 3150,
+  "end station name": "E 85 St & York Ave",
+  "end station latitude": 40.77536905,
+  "end station longitude": -73.94803392,
+  "bikeid": 39470,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

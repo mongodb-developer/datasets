@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 11:05:33.3870",
+  "stoptime": "2019-12-01 11:08:27.0320",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 30300,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

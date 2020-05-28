@@ -1,0 +1,17 @@
+{
+  "tripduration": 2207,
+  "starttime": "2019-12-01 12:44:50.5650",
+  "stoptime": "2019-12-01 13:21:37.9910",
+  "start station id": 531,
+  "start station name": "Forsyth St & Broome St",
+  "start station latitude": 40.71893904,
+  "start station longitude": -73.99266288,
+  "end station id": 386,
+  "end station name": "Centre St & Worth St",
+  "end station latitude": 40.71494807,
+  "end station longitude": -74.00234482,
+  "bikeid": 38553,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

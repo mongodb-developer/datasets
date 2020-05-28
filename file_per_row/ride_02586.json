@@ -1,0 +1,17 @@
+{
+  "tripduration": 247,
+  "starttime": "2019-12-01 09:26:48.0800",
+  "stoptime": "2019-12-01 09:30:55.4840",
+  "start station id": 3109,
+  "start station name": "Banker St & Meserole Ave",
+  "start station latitude": 40.72606,
+  "start station longitude": -73.95621,
+  "end station id": 3016,
+  "end station name": "Kent Ave & N 7 St",
+  "end station latitude": 40.72036775298455,
+  "end station longitude": -73.96165072917938,
+  "bikeid": 20876,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

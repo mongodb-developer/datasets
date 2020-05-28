@@ -1,0 +1,17 @@
+{
+  "tripduration": 290,
+  "starttime": "2019-12-01 01:27:15.3550",
+  "stoptime": "2019-12-01 01:32:05.5100",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 3712,
+  "end station name": "W 35 St & Dyer Ave",
+  "end station latitude": 40.754691750226016,
+  "end station longitude": -73.99740189313889,
+  "bikeid": 29965,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

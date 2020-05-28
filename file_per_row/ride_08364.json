@@ -1,0 +1,17 @@
+{
+  "tripduration": 967,
+  "starttime": "2019-12-01 15:53:44.1510",
+  "stoptime": "2019-12-01 16:09:51.2260",
+  "start station id": 79,
+  "start station name": "Franklin St & W Broadway",
+  "start station latitude": 40.71911552,
+  "start station longitude": -74.00666661,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 30363,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

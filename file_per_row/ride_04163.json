@@ -1,0 +1,17 @@
+{
+  "tripduration": 187,
+  "starttime": "2019-12-01 10:37:46.0130",
+  "stoptime": "2019-12-01 10:40:53.8170",
+  "start station id": 3125,
+  "start station name": "45 Rd & 11 St",
+  "start station latitude": 40.74708586,
+  "start station longitude": -73.94977234,
+  "end station id": 3119,
+  "end station name": "Vernon Blvd & 50 Ave",
+  "end station latitude": 40.74232744,
+  "end station longitude": -73.95411749,
+  "bikeid": 39852,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

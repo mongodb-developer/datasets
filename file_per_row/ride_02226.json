@@ -1,0 +1,17 @@
+{
+  "tripduration": 1095,
+  "starttime": "2019-12-01 09:02:22.4860",
+  "stoptime": "2019-12-01 09:20:38.3520",
+  "start station id": 3066,
+  "start station name": "Tompkins Ave & Hopkins St",
+  "start station latitude": 40.69957608,
+  "start station longitude": -73.94708417,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 16918,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "male"
+}

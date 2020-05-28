@@ -1,0 +1,17 @@
+{
+  "tripduration": 494,
+  "starttime": "2019-12-01 14:12:52.8410",
+  "stoptime": "2019-12-01 14:21:07.4470",
+  "start station id": 2006,
+  "start station name": "Central Park S & 6 Ave",
+  "start station latitude": 40.76590936,
+  "start station longitude": -73.97634151,
+  "end station id": 3158,
+  "end station name": "W 63 St & Broadway",
+  "end station latitude": 40.77163851,
+  "end station longitude": -73.98261428,
+  "bikeid": 40437,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

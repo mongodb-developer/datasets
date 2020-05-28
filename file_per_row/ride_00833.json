@@ -1,0 +1,17 @@
+{
+  "tripduration": 382,
+  "starttime": "2019-12-01 03:13:59.2530",
+  "stoptime": "2019-12-01 03:20:21.7480",
+  "start station id": 410,
+  "start station name": "Suffolk St & Stanton St",
+  "start station latitude": 40.72066442,
+  "start station longitude": -73.98517977,
+  "end station id": 3718,
+  "end station name": "E 11 St & Avenue B",
+  "end station latitude": 40.72746420692392,
+  "end station longitude": -73.97950418293476,
+  "bikeid": 17438,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 597,
+  "starttime": "2019-12-01 13:15:23.4740",
+  "stoptime": "2019-12-01 13:25:20.9490",
+  "start station id": 3830,
+  "start station name": "Halsey St & Evergreen Ave",
+  "start station latitude": 40.68858,
+  "start station longitude": -73.91227,
+  "end station id": 3846,
+  "end station name": "Central Ave & Himrod St",
+  "end station latitude": 40.69676,
+  "end station longitude": -73.92302,
+  "bikeid": 40256,
+  "usertype": "Customer",
+  "birth year": 1987,
+  "gender": "male"
+}

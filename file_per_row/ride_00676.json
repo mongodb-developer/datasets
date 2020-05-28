@@ -1,0 +1,17 @@
+{
+  "tripduration": 341,
+  "starttime": "2019-12-01 02:22:58.6900",
+  "stoptime": "2019-12-01 02:28:40.2550",
+  "start station id": 3526,
+  "start station name": "31 St & 23 Ave",
+  "start station latitude": 40.7747878,
+  "start station longitude": -73.9125551,
+  "end station id": 3532,
+  "end station name": "Ditmars Blvd & 19 St",
+  "end station latitude": 40.78145,
+  "end station longitude": -73.9183302,
+  "bikeid": 18029,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 459,
+  "starttime": "2019-12-01 12:27:47.5610",
+  "stoptime": "2019-12-01 12:35:26.8460",
+  "start station id": 3838,
+  "start station name": "Bushwick Ave & Harman St",
+  "start station latitude": 40.69356,
+  "start station longitude": -73.92524,
+  "end station id": 3779,
+  "end station name": "Hart St & Wyckoff Ave",
+  "end station latitude": 40.704876,
+  "end station longitude": -73.919911,
+  "bikeid": 41111,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

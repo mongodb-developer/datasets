@@ -1,0 +1,17 @@
+{
+  "tripduration": 614,
+  "starttime": "2019-12-01 12:06:27.4110",
+  "stoptime": "2019-12-01 12:16:42.2790",
+  "start station id": 437,
+  "start station name": "Macon St & Nostrand Ave",
+  "start station latitude": 40.6809833854,
+  "start station longitude": -73.9500479759,
+  "end station id": 3580,
+  "end station name": "St Johns Pl & Washington Ave",
+  "end station latitude": 40.6737236,
+  "end station longitude": -73.9631611,
+  "bikeid": 33335,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 138,
+  "starttime": "2019-12-01 12:10:36.8510",
+  "stoptime": "2019-12-01 12:12:54.8860",
+  "start station id": 3139,
+  "start station name": "E 72 St & Park Ave",
+  "start station latitude": 40.77118287540658,
+  "start station longitude": -73.96409422159195,
+  "end station id": 3378,
+  "end station name": "E 76 St & Park Ave",
+  "end station latitude": 40.773763,
+  "end station longitude": -73.96222088,
+  "bikeid": 21145,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

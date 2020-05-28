@@ -1,0 +1,17 @@
+{
+  "tripduration": 665,
+  "starttime": "2019-12-01 09:26:57.6660",
+  "stoptime": "2019-12-01 09:38:03.5500",
+  "start station id": 380,
+  "start station name": "W 4 St & 7 Ave S",
+  "start station latitude": 40.73401143,
+  "start station longitude": -74.00293877,
+  "end station id": 405,
+  "end station name": "Washington St & Gansevoort St",
+  "end station latitude": 40.739323,
+  "end station longitude": -74.008119,
+  "bikeid": 15927,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

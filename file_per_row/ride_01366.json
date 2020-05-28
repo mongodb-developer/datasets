@@ -1,0 +1,17 @@
+{
+  "tripduration": 1230,
+  "starttime": "2019-12-01 07:35:32.1700",
+  "stoptime": "2019-12-01 07:56:02.2720",
+  "start station id": 261,
+  "start station name": "Johnson St & Gold St",
+  "start station latitude": 40.69474881,
+  "start station longitude": -73.98362464,
+  "end station id": 355,
+  "end station name": "Bayard St & Baxter St",
+  "end station latitude": 40.71602118,
+  "end station longitude": -73.99974372,
+  "bikeid": 30966,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

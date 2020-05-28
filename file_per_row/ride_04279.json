@@ -1,0 +1,17 @@
+{
+  "tripduration": 403,
+  "starttime": "2019-12-01 10:42:48.0280",
+  "stoptime": "2019-12-01 10:49:31.2120",
+  "start station id": 3577,
+  "start station name": "34 Ave & 21 St",
+  "start station latitude": 40.7628138,
+  "start station longitude": -73.9342862,
+  "end station id": 3572,
+  "end station name": "34 Ave & 38 St",
+  "end station latitude": 40.756913,
+  "end station longitude": -73.921631,
+  "bikeid": 40407,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

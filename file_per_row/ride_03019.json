@@ -1,0 +1,17 @@
+{
+  "tripduration": 1068,
+  "starttime": "2019-12-01 09:48:00.6250",
+  "stoptime": "2019-12-01 10:05:49.1400",
+  "start station id": 3420,
+  "start station name": "Douglass St & 3 Ave",
+  "start station latitude": 40.6802133,
+  "start station longitude": -73.98432695,
+  "end station id": 262,
+  "end station name": "Washington Park",
+  "end station latitude": 40.6917823,
+  "end station longitude": -73.9737299,
+  "bikeid": 41295,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

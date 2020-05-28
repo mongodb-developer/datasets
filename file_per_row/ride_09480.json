@@ -1,0 +1,17 @@
+{
+  "tripduration": 538,
+  "starttime": "2019-12-01 19:26:22.6000",
+  "stoptime": "2019-12-01 19:35:21.2680",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 502,
+  "end station name": "Henry St & Grand St",
+  "end station latitude": 40.714211,
+  "end station longitude": -73.981095,
+  "bikeid": 14763,
+  "usertype": "Subscriber",
+  "birth year": 1946,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 304,
+  "starttime": "2019-12-01 12:39:58.6330",
+  "stoptime": "2019-12-01 12:45:03.4780",
+  "start station id": 3417,
+  "start station name": "Baltic St & 5 Ave",
+  "start station latitude": 40.6795766,
+  "start station longitude": -73.97854971,
+  "end station id": 3410,
+  "end station name": "Dean St & Hoyt St",
+  "end station latitude": 40.6864442,
+  "end station longitude": -73.98759104,
+  "bikeid": 40976,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

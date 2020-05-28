@@ -1,0 +1,17 @@
+{
+  "tripduration": 149,
+  "starttime": "2019-12-01 18:13:57.3120",
+  "stoptime": "2019-12-01 18:16:26.3560",
+  "start station id": 3895,
+  "start station name": "Cypress Ave & Palmetto St",
+  "start station latitude": 40.701573408737914,
+  "start station longitude": -73.90876293182373,
+  "end station id": 3844,
+  "end station name": "Myrtle Ave & Linden St",
+  "end station latitude": 40.69943,
+  "end station longitude": -73.91337,
+  "bikeid": 20272,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

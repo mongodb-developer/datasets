@@ -1,0 +1,17 @@
+{
+  "tripduration": 2255,
+  "starttime": "2019-12-01 03:18:04.3460",
+  "stoptime": "2019-12-01 03:55:39.7730",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 39753,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

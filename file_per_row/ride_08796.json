@@ -1,0 +1,17 @@
+{
+  "tripduration": 1355,
+  "starttime": "2019-12-01 17:21:39.0880",
+  "stoptime": "2019-12-01 17:44:14.5390",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 356,
+  "end station name": "Bialystoker Pl & Delancey St",
+  "end station latitude": 40.71622644,
+  "end station longitude": -73.98261206,
+  "bikeid": 38489,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

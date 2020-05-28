@@ -1,0 +1,17 @@
+{
+  "tripduration": 724,
+  "starttime": "2019-12-01 10:39:50.1070",
+  "stoptime": "2019-12-01 10:51:54.2010",
+  "start station id": 342,
+  "start station name": "Columbia St & Rivington St",
+  "start station latitude": 40.71739973,
+  "start station longitude": -73.98016555,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 16578,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "female"
+}

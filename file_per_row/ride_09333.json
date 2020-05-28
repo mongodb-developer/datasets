@@ -1,0 +1,17 @@
+{
+  "tripduration": 247,
+  "starttime": "2019-12-01 19:02:01.3200",
+  "stoptime": "2019-12-01 19:06:09.0250",
+  "start station id": 464,
+  "start station name": "E 56 St & 3 Ave",
+  "start station latitude": 40.75934501,
+  "start station longitude": -73.96759673,
+  "end station id": 516,
+  "end station name": "E 47 St & 1 Ave",
+  "end station latitude": 40.75206862,
+  "end station longitude": -73.96784384,
+  "bikeid": 40096,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 2029,
+  "starttime": "2019-12-01 16:01:08.9390",
+  "stoptime": "2019-12-01 16:34:58.1830",
+  "start station id": 470,
+  "start station name": "W 20 St & 8 Ave",
+  "start station latitude": 40.74345335,
+  "start station longitude": -74.00004031,
+  "end station id": 363,
+  "end station name": "West Thames St",
+  "end station latitude": 40.70834698,
+  "end station longitude": -74.01713445,
+  "bikeid": 40711,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

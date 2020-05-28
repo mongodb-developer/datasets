@@ -1,0 +1,17 @@
+{
+  "tripduration": 1213,
+  "starttime": "2019-12-01 14:34:36.9640",
+  "stoptime": "2019-12-01 14:54:50.3680",
+  "start station id": 316,
+  "start station name": "Fulton St & William St",
+  "start station latitude": 40.70955958,
+  "start station longitude": -74.00653609,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 17977,
+  "usertype": "Customer",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 419,
+  "starttime": "2019-12-01 14:15:47.3720",
+  "stoptime": "2019-12-01 14:22:46.8280",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 3241,
+  "end station name": "Monroe St & Tompkins Ave",
+  "end station latitude": 40.686203,
+  "end station longitude": -73.944694,
+  "bikeid": 35119,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

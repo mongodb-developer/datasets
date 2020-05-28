@@ -1,0 +1,17 @@
+{
+  "tripduration": 801,
+  "starttime": "2019-12-01 10:05:20.0260",
+  "stoptime": "2019-12-01 10:18:41.8400",
+  "start station id": 468,
+  "start station name": "Broadway & W 56 St",
+  "start station latitude": 40.7652654,
+  "start station longitude": -73.98192338,
+  "end station id": 525,
+  "end station name": "W 34 St & 11 Ave",
+  "end station latitude": 40.75594159,
+  "end station longitude": -74.0021163,
+  "bikeid": 30561,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

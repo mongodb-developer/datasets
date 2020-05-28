@@ -1,0 +1,17 @@
+{
+  "tripduration": 419,
+  "starttime": "2019-12-01 10:59:44.3140",
+  "stoptime": "2019-12-01 11:06:44.3060",
+  "start station id": 2012,
+  "start station name": "E 27 St & 1 Ave",
+  "start station latitude": 40.739445,
+  "start station longitude": -73.976806,
+  "end station id": 167,
+  "end station name": "E 39 St & 3 Ave",
+  "end station latitude": 40.7489006,
+  "end station longitude": -73.97604882,
+  "bikeid": 28992,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

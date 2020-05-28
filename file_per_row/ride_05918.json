@@ -1,0 +1,17 @@
+{
+  "tripduration": 326,
+  "starttime": "2019-12-01 12:03:36.5290",
+  "stoptime": "2019-12-01 12:09:03.5110",
+  "start station id": 3100,
+  "start station name": "Nassau Ave & Newell St",
+  "start station latitude": 40.724812564400175,
+  "start station longitude": -73.94752621650696,
+  "end station id": 3715,
+  "end station name": "Driggs Ave & N 9 St",
+  "end station latitude": 40.71816969454208,
+  "end station longitude": -73.95520135760307,
+  "bikeid": 41063,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

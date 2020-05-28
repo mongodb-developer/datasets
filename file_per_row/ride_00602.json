@@ -1,0 +1,17 @@
+{
+  "tripduration": 255,
+  "starttime": "2019-12-01 02:04:13.4650",
+  "stoptime": "2019-12-01 02:08:28.9630",
+  "start station id": 3574,
+  "start station name": "Prospect Pl & Underhill Ave",
+  "start station latitude": 40.6769694,
+  "start station longitude": -73.96579,
+  "end station id": 3582,
+  "end station name": "Lincoln Pl & Classon Ave",
+  "end station latitude": 40.6721683,
+  "end station longitude": -73.9609,
+  "bikeid": 38118,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 731,
+  "starttime": "2019-12-01 12:51:35.8500",
+  "stoptime": "2019-12-01 13:03:47.5420",
+  "start station id": 3504,
+  "start station name": "E 123 St & Lexington Ave",
+  "start station latitude": 40.8029263,
+  "start station longitude": -73.9379,
+  "end station id": 3323,
+  "end station name": "W 106 St & Central Park West",
+  "end station latitude": 40.7981856,
+  "end station longitude": -73.9605909006,
+  "bikeid": 39420,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 688,
+  "starttime": "2019-12-01 01:42:05.2840",
+  "stoptime": "2019-12-01 01:53:34.1060",
+  "start station id": 347,
+  "start station name": "Greenwich St & W Houston St",
+  "start station latitude": 40.728846,
+  "start station longitude": -74.008591,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 39818,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

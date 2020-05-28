@@ -1,0 +1,17 @@
+{
+  "tripduration": 535,
+  "starttime": "2019-12-01 15:09:17.9310",
+  "stoptime": "2019-12-01 15:18:13.3830",
+  "start station id": 360,
+  "start station name": "William St & Pine St",
+  "start station latitude": 40.70717936,
+  "start station longitude": -74.00887308,
+  "end station id": 330,
+  "end station name": "Reade St & Broadway",
+  "end station latitude": 40.71450451,
+  "end station longitude": -74.00562789,
+  "bikeid": 41770,
+  "usertype": "Subscriber",
+  "birth year": 1951,
+  "gender": "male"
+}

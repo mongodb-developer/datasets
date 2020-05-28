@@ -1,0 +1,17 @@
+{
+  "tripduration": 888,
+  "starttime": "2019-12-01 12:25:21.9770",
+  "stoptime": "2019-12-01 12:40:10.2290",
+  "start station id": 3283,
+  "start station name": "W 89 St & Columbus Ave",
+  "start station latitude": 40.7882213,
+  "start station longitude": -73.97041561,
+  "end station id": 3355,
+  "end station name": "E 66 St & Madison Ave",
+  "end station latitude": 40.76800889305947,
+  "end station longitude": -73.96845281124115,
+  "bikeid": 27827,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

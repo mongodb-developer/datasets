@@ -1,0 +1,17 @@
+{
+  "tripduration": 204,
+  "starttime": "2019-12-01 00:56:16.7450",
+  "stoptime": "2019-12-01 00:59:41.5600",
+  "start station id": 3100,
+  "start station name": "Nassau Ave & Newell St",
+  "start station latitude": 40.724812564400175,
+  "start station longitude": -73.94752621650696,
+  "end station id": 3110,
+  "end station name": "Meserole Ave & Manhattan Ave",
+  "end station latitude": 40.72708584,
+  "end station longitude": -73.95299117,
+  "bikeid": 30660,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

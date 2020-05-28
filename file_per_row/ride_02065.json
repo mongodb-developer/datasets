@@ -1,0 +1,17 @@
+{
+  "tripduration": 2888,
+  "starttime": "2019-12-01 08:50:09.4190",
+  "stoptime": "2019-12-01 09:38:17.9940",
+  "start station id": 466,
+  "start station name": "W 25 St & 6 Ave",
+  "start station latitude": 40.74395411,
+  "start station longitude": -73.99144871,
+  "end station id": 307,
+  "end station name": "Canal St & Rutgers St",
+  "end station latitude": 40.71427487,
+  "end station longitude": -73.98990025,
+  "bikeid": 41421,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

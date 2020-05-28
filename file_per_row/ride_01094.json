@@ -1,0 +1,17 @@
+{
+  "tripduration": 1447,
+  "starttime": "2019-12-01 06:21:34.1860",
+  "stoptime": "2019-12-01 06:45:41.4610",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 523,
+  "end station name": "W 38 St & 8 Ave",
+  "end station latitude": 40.75466591,
+  "end station longitude": -73.99138152,
+  "bikeid": 39031,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1059,
+  "starttime": "2019-12-01 09:29:01.1870",
+  "stoptime": "2019-12-01 09:46:40.8830",
+  "start station id": 3699,
+  "start station name": "W 50 St & 9 Ave",
+  "start station latitude": 40.763604677958625,
+  "start station longitude": -73.98917958140373,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 32042,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

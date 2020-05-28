@@ -1,0 +1,17 @@
+{
+  "tripduration": 794,
+  "starttime": "2019-12-01 07:40:36.4290",
+  "stoptime": "2019-12-01 07:53:51.3890",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 3159,
+  "end station name": "W 67 St & Broadway",
+  "end station latitude": 40.77492513,
+  "end station longitude": -73.98266566,
+  "bikeid": 29848,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

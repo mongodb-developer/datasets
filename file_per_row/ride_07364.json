@@ -1,0 +1,17 @@
+{
+  "tripduration": 804,
+  "starttime": "2019-12-01 14:01:28.0680",
+  "stoptime": "2019-12-01 14:14:52.4550",
+  "start station id": 3709,
+  "start station name": "W 15 St & 6 Ave",
+  "start station latitude": 40.738046142482766,
+  "start station longitude": -73.99642959237099,
+  "end station id": 3733,
+  "end station name": "Avenue C & E 18 St",
+  "end station latitude": 40.730563,
+  "end station longitude": -73.973984,
+  "bikeid": 27375,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "unknown"
+}

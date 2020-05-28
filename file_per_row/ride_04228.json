@@ -1,0 +1,17 @@
+{
+  "tripduration": 570,
+  "starttime": "2019-12-01 10:40:27.6800",
+  "stoptime": "2019-12-01 10:49:58.1270",
+  "start station id": 223,
+  "start station name": "W 13 St & 7 Ave",
+  "start station latitude": 40.73781509,
+  "start station longitude": -73.99994661,
+  "end station id": 491,
+  "end station name": "E 24 St & Park Ave S",
+  "end station latitude": 40.74096374,
+  "end station longitude": -73.98602213,
+  "bikeid": 33937,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

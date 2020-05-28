@@ -1,0 +1,17 @@
+{
+  "tripduration": 281,
+  "starttime": "2019-12-01 13:13:15.0340",
+  "stoptime": "2019-12-01 13:17:56.6300",
+  "start station id": 146,
+  "start station name": "Hudson St & Reade St",
+  "start station latitude": 40.71625008,
+  "start station longitude": -74.0091059,
+  "end station id": 328,
+  "end station name": "Watts St & Greenwich St",
+  "end station latitude": 40.72405549,
+  "end station longitude": -74.00965965,
+  "bikeid": 40312,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

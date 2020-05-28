@@ -1,0 +1,17 @@
+{
+  "tripduration": 872,
+  "starttime": "2019-12-01 12:28:30.8430",
+  "stoptime": "2019-12-01 12:43:03.4280",
+  "start station id": 3574,
+  "start station name": "Prospect Pl & Underhill Ave",
+  "start station latitude": 40.6769694,
+  "start station longitude": -73.96579,
+  "end station id": 3048,
+  "end station name": "Putnam Ave & Nostrand Ave",
+  "end station latitude": 40.68402,
+  "end station longitude": -73.94977,
+  "bikeid": 30940,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

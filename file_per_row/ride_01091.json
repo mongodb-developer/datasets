@@ -1,0 +1,17 @@
+{
+  "tripduration": 1342,
+  "starttime": "2019-12-01 06:20:25.0450",
+  "stoptime": "2019-12-01 06:42:47.8640",
+  "start station id": 310,
+  "start station name": "State St & Smith St",
+  "start station latitude": 40.68926942,
+  "start station longitude": -73.98912867,
+  "end station id": 2009,
+  "end station name": "Catherine St & Monroe St",
+  "end station latitude": 40.71117444,
+  "end station longitude": -73.99682619,
+  "bikeid": 35324,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

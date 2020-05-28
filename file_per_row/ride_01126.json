@@ -1,0 +1,17 @@
+{
+  "tripduration": 806,
+  "starttime": "2019-12-01 06:32:07.1820",
+  "stoptime": "2019-12-01 06:45:34.1480",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 519,
+  "end station name": "Pershing Square North",
+  "end station latitude": 40.751873,
+  "end station longitude": -73.977706,
+  "bikeid": 35303,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

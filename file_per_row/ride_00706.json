@@ -1,0 +1,17 @@
+{
+  "tripduration": 2302,
+  "starttime": "2019-12-01 02:30:04.7980",
+  "stoptime": "2019-12-01 03:08:27.1070",
+  "start station id": 3850,
+  "start station name": "Jefferson St & Cypress Ave",
+  "start station latitude": 40.70907,
+  "start station longitude": -73.92157,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 32414,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

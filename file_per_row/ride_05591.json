@@ -1,0 +1,17 @@
+{
+  "tripduration": 1826,
+  "starttime": "2019-12-01 11:44:42.2210",
+  "stoptime": "2019-12-01 12:15:09.0030",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 3137,
+  "end station name": "5 Ave & E 73 St",
+  "end station latitude": 40.77282817,
+  "end station longitude": -73.96685276,
+  "bikeid": 34145,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "female"
+}

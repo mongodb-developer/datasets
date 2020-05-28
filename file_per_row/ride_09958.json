@@ -1,0 +1,17 @@
+{
+  "tripduration": 321,
+  "starttime": "2019-12-01 20:48:31.7330",
+  "stoptime": "2019-12-01 20:53:53.0350",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 3109,
+  "end station name": "Banker St & Meserole Ave",
+  "end station latitude": 40.72606,
+  "end station longitude": -73.95621,
+  "bikeid": 39659,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

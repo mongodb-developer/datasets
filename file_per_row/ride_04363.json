@@ -1,0 +1,17 @@
+{
+  "tripduration": 326,
+  "starttime": "2019-12-01 10:46:30.6230",
+  "stoptime": "2019-12-01 10:51:56.6320",
+  "start station id": 499,
+  "start station name": "Broadway & W 60 St",
+  "start station latitude": 40.76915505,
+  "start station longitude": -73.98191841,
+  "end station id": 281,
+  "end station name": "Grand Army Plaza & Central Park S",
+  "end station latitude": 40.7643971,
+  "end station longitude": -73.97371465,
+  "bikeid": 30174,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 837,
+  "starttime": "2019-12-01 10:09:19.0010",
+  "stoptime": "2019-12-01 10:23:16.7280",
+  "start station id": 3641,
+  "start station name": "Broadway & W 25 St",
+  "start station latitude": 40.74286877312112,
+  "start station longitude": -73.98918628692627,
+  "end station id": 2021,
+  "end station name": "W 45 St & 8 Ave",
+  "end station latitude": 40.75929124,
+  "end station longitude": -73.98859651,
+  "bikeid": 41273,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

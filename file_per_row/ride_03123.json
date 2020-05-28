@@ -1,0 +1,17 @@
+{
+  "tripduration": 165,
+  "starttime": "2019-12-01 09:52:45.9920",
+  "stoptime": "2019-12-01 09:55:31.1240",
+  "start station id": 3389,
+  "start station name": "Carroll St & Columbia St",
+  "start station latitude": 40.6830456,
+  "start station longitude": -74.00348559,
+  "end station id": 3315,
+  "end station name": "Henry St & Degraw St",
+  "end station latitude": 40.6847514,
+  "end station longitude": -73.99917254,
+  "bikeid": 41786,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

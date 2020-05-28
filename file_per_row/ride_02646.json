@@ -1,0 +1,17 @@
+{
+  "tripduration": 560,
+  "starttime": "2019-12-01 09:30:02.6120",
+  "stoptime": "2019-12-01 09:39:23.5470",
+  "start station id": 3359,
+  "start station name": "E 68 St & Madison Ave",
+  "start station latitude": 40.7691572,
+  "start station longitude": -73.96703464,
+  "end station id": 3158,
+  "end station name": "W 63 St & Broadway",
+  "end station latitude": 40.77163851,
+  "end station longitude": -73.98261428,
+  "bikeid": 16673,
+  "usertype": "Subscriber",
+  "birth year": 1947,
+  "gender": "male"
+}

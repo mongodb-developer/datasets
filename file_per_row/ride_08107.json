@@ -1,0 +1,17 @@
+{
+  "tripduration": 755,
+  "starttime": "2019-12-01 15:26:32.2370",
+  "stoptime": "2019-12-01 15:39:07.6460",
+  "start station id": 3308,
+  "start station name": "Kane St & Clinton St",
+  "start station latitude": 40.6861758,
+  "start station longitude": -73.99645295,
+  "end station id": 3315,
+  "end station name": "Henry St & Degraw St",
+  "end station latitude": 40.6847514,
+  "end station longitude": -73.99917254,
+  "bikeid": 39202,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 508,
+  "starttime": "2019-12-01 11:39:26.2890",
+  "stoptime": "2019-12-01 11:47:54.8930",
+  "start station id": 503,
+  "start station name": "E 20 St & Park Ave",
+  "start station latitude": 40.73827428,
+  "start station longitude": -73.98751968,
+  "end station id": 326,
+  "end station name": "E 11 St & 1 Ave",
+  "end station latitude": 40.72953837,
+  "end station longitude": -73.98426726,
+  "bikeid": 38967,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

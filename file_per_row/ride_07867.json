@@ -1,0 +1,17 @@
+{
+  "tripduration": 439,
+  "starttime": "2019-12-01 15:02:38.1610",
+  "stoptime": "2019-12-01 15:09:57.3270",
+  "start station id": 72,
+  "start station name": "W 52 St & 11 Ave",
+  "start station latitude": 40.76727216,
+  "start station longitude": -73.99392888,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 39809,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "female"
+}

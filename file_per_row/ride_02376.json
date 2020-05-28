@@ -1,0 +1,17 @@
+{
+  "tripduration": 250,
+  "starttime": "2019-12-01 09:12:13.3760",
+  "stoptime": "2019-12-01 09:16:23.8910",
+  "start station id": 3166,
+  "start station name": "Riverside Dr & W 72 St",
+  "start station latitude": 40.78057799010334,
+  "start station longitude": -73.98562431335449,
+  "end station id": 3697,
+  "end station name": "W 64 St & Thelonious Monk Circle",
+  "end station latitude": 40.77515953434235,
+  "end station longitude": -73.98918695747852,
+  "bikeid": 39744,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

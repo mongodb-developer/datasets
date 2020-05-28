@@ -1,0 +1,17 @@
+{
+  "tripduration": 782,
+  "starttime": "2019-12-01 10:53:37.3880",
+  "stoptime": "2019-12-01 11:06:39.8330",
+  "start station id": 3699,
+  "start station name": "W 50 St & 9 Ave",
+  "start station latitude": 40.763604677958625,
+  "start station longitude": -73.98917958140373,
+  "end station id": 474,
+  "end station name": "5 Ave & E 29 St",
+  "end station latitude": 40.7451677,
+  "end station longitude": -73.98683077,
+  "bikeid": 38780,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 223,
+  "starttime": "2019-12-01 02:08:29.2610",
+  "stoptime": "2019-12-01 02:12:12.9730",
+  "start station id": 3641,
+  "start station name": "Broadway & W 25 St",
+  "start station latitude": 40.74286877312112,
+  "start station longitude": -73.98918628692627,
+  "end station id": 446,
+  "end station name": "W 24 St & 7 Ave",
+  "end station latitude": 40.74487634,
+  "end station longitude": -73.99529885,
+  "bikeid": 27723,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 250,
+  "starttime": "2019-12-01 07:55:05.0320",
+  "stoptime": "2019-12-01 07:59:15.3860",
+  "start station id": 486,
+  "start station name": "Broadway & W 29 St",
+  "start station latitude": 40.7462009,
+  "start station longitude": -73.98855723,
+  "end station id": 2012,
+  "end station name": "E 27 St & 1 Ave",
+  "end station latitude": 40.739445,
+  "end station longitude": -73.976806,
+  "bikeid": 28992,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

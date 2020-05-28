@@ -1,0 +1,17 @@
+{
+  "tripduration": 522,
+  "starttime": "2019-12-01 10:38:16.4210",
+  "stoptime": "2019-12-01 10:46:59.0190",
+  "start station id": 3680,
+  "start station name": "E 43 St & 5 Ave",
+  "start station latitude": 40.754120810779256,
+  "start station longitude": -73.98025184869766,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 38812,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

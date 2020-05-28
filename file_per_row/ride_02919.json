@@ -1,0 +1,17 @@
+{
+  "tripduration": 295,
+  "starttime": "2019-12-01 09:43:31.8790",
+  "stoptime": "2019-12-01 09:48:27.5450",
+  "start station id": 174,
+  "start station name": "E 25 St & 1 Ave",
+  "start station latitude": 40.7381765,
+  "start station longitude": -73.97738662,
+  "end station id": 2003,
+  "end station name": "1 Ave & E 18 St",
+  "end station latitude": 40.733812191966315,
+  "end station longitude": -73.98054420948029,
+  "bikeid": 30545,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

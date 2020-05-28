@@ -1,0 +1,17 @@
+{
+  "tripduration": 1153,
+  "starttime": "2019-12-01 13:57:51.7740",
+  "stoptime": "2019-12-01 14:17:05.6970",
+  "start station id": 3081,
+  "start station name": "Graham Ave & Grand St",
+  "start station latitude": 40.711863,
+  "start station longitude": -73.944024,
+  "end station id": 3094,
+  "end station name": "Graham Ave & Withers St",
+  "end station latitude": 40.7169811,
+  "end station longitude": -73.94485918,
+  "bikeid": 21058,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

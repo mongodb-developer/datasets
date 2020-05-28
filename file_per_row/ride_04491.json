@@ -1,0 +1,17 @@
+{
+  "tripduration": 116,
+  "starttime": "2019-12-01 10:51:24.3490",
+  "stoptime": "2019-12-01 10:53:20.8860",
+  "start station id": 376,
+  "start station name": "John St & William St",
+  "start station latitude": 40.70862144,
+  "start station longitude": -74.00722156,
+  "end station id": 360,
+  "end station name": "William St & Pine St",
+  "end station latitude": 40.70717936,
+  "end station longitude": -74.00887308,
+  "bikeid": 39911,
+  "usertype": "Subscriber",
+  "birth year": 1950,
+  "gender": "male"
+}

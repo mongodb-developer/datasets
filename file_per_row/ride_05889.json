@@ -1,0 +1,17 @@
+{
+  "tripduration": 261,
+  "starttime": "2019-12-01 12:02:23.1070",
+  "stoptime": "2019-12-01 12:06:44.6800",
+  "start station id": 347,
+  "start station name": "Greenwich St & W Houston St",
+  "start station latitude": 40.728846,
+  "start station longitude": -74.008591,
+  "end station id": 247,
+  "end station name": "Perry St & Bleecker St",
+  "end station latitude": 40.73535398,
+  "end station longitude": -74.00483091,
+  "bikeid": 41713,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

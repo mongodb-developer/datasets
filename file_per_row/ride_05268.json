@@ -1,0 +1,17 @@
+{
+  "tripduration": 847,
+  "starttime": "2019-12-01 11:25:18.4370",
+  "stoptime": "2019-12-01 11:39:26.0190",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 38194,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "female"
+}

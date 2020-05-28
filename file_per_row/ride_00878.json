@@ -1,0 +1,17 @@
+{
+  "tripduration": 1056,
+  "starttime": "2019-12-01 03:36:30.7230",
+  "stoptime": "2019-12-01 03:54:07.2110",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 15273,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

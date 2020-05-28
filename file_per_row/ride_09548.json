@@ -1,0 +1,17 @@
+{
+  "tripduration": 485,
+  "starttime": "2019-12-01 19:37:58.2560",
+  "stoptime": "2019-12-01 19:46:03.5480",
+  "start station id": 507,
+  "start station name": "E 25 St & 2 Ave",
+  "start station latitude": 40.73912601,
+  "start station longitude": -73.97973776,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 28614,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

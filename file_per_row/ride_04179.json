@@ -1,0 +1,17 @@
+{
+  "tripduration": 163,
+  "starttime": "2019-12-01 10:38:39.1530",
+  "stoptime": "2019-12-01 10:41:22.3250",
+  "start station id": 3074,
+  "start station name": "Montrose Ave & Bushwick Ave",
+  "start station latitude": 40.70767788,
+  "start station longitude": -73.94016171,
+  "end station id": 3068,
+  "end station name": "Humboldt St & Varet St",
+  "end station latitude": 40.7031724,
+  "end station longitude": -73.940636,
+  "bikeid": 18504,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

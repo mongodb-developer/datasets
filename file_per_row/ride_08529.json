@@ -1,0 +1,17 @@
+{
+  "tripduration": 801,
+  "starttime": "2019-12-01 16:23:38.8560",
+  "stoptime": "2019-12-01 16:37:00.6000",
+  "start station id": 3422,
+  "start station name": "Columbia St & Degraw St",
+  "start station latitude": 40.6859296,
+  "start station longitude": -74.00242364,
+  "end station id": 3409,
+  "end station name": "Bergen St & Smith St",
+  "end station latitude": 40.6867443,
+  "end station longitude": -73.99063168,
+  "bikeid": 41354,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

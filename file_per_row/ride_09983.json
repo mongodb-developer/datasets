@@ -1,0 +1,17 @@
+{
+  "tripduration": 325,
+  "starttime": "2019-12-01 20:52:59.6920",
+  "stoptime": "2019-12-01 20:58:24.8050",
+  "start station id": 3415,
+  "start station name": "Prospect Pl & 6 Ave",
+  "start station latitude": 40.6793307,
+  "start station longitude": -73.97519523,
+  "end station id": 3420,
+  "end station name": "Douglass St & 3 Ave",
+  "end station latitude": 40.6802133,
+  "end station longitude": -73.98432695,
+  "bikeid": 17842,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

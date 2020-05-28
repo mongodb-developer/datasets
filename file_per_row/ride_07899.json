@@ -1,0 +1,17 @@
+{
+  "tripduration": 368,
+  "starttime": "2019-12-01 15:05:23.5600",
+  "stoptime": "2019-12-01 15:11:31.6000",
+  "start station id": 3078,
+  "start station name": "Broadway & Roebling St",
+  "start station latitude": 40.70924826276157,
+  "start station longitude": -73.96063148975372,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 40448,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

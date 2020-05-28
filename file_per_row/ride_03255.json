@@ -1,0 +1,17 @@
+{
+  "tripduration": 400,
+  "starttime": "2019-12-01 09:58:12.9060",
+  "stoptime": "2019-12-01 10:04:53.2780",
+  "start station id": 3637,
+  "start station name": "Fulton St & Waverly Ave",
+  "start station latitude": 40.683238654603414,
+  "start station longitude": -73.96599590778351,
+  "end station id": 3581,
+  "end station name": "Underhill Ave & Lincoln Pl",
+  "end station latitude": 40.6740123,
+  "end station longitude": -73.9671457,
+  "bikeid": 15539,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 531,
+  "starttime": "2019-12-01 09:16:54.2110",
+  "stoptime": "2019-12-01 09:25:45.7560",
+  "start station id": 363,
+  "start station name": "West Thames St",
+  "start station latitude": 40.70834698,
+  "start station longitude": -74.01713445,
+  "end station id": 195,
+  "end station name": "Liberty St & Broadway",
+  "end station latitude": 40.70905623,
+  "end station longitude": -74.01043382,
+  "bikeid": 16137,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

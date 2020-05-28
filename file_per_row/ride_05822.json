@@ -1,0 +1,17 @@
+{
+  "tripduration": 762,
+  "starttime": "2019-12-01 11:58:48.6320",
+  "stoptime": "2019-12-01 12:11:30.9080",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 3429,
+  "end station name": "Hanson Pl & Ashland Pl",
+  "end station latitude": 40.68506807308177,
+  "end station longitude": -73.97790759801863,
+  "bikeid": 30552,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

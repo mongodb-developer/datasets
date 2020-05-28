@@ -1,0 +1,17 @@
+{
+  "tripduration": 2240,
+  "starttime": "2019-12-01 00:58:32.3190",
+  "stoptime": "2019-12-01 01:35:53.1110",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 266,
+  "end station name": "Avenue D & E 8 St",
+  "end station latitude": 40.72368361,
+  "end station longitude": -73.97574813,
+  "bikeid": 38300,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "female"
+}

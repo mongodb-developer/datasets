@@ -1,0 +1,17 @@
+{
+  "tripduration": 989,
+  "starttime": "2019-12-01 08:21:07.3340",
+  "stoptime": "2019-12-01 08:37:36.7200",
+  "start station id": 326,
+  "start station name": "E 11 St & 1 Ave",
+  "start station latitude": 40.72953837,
+  "start station longitude": -73.98426726,
+  "end station id": 386,
+  "end station name": "Centre St & Worth St",
+  "end station latitude": 40.71494807,
+  "end station longitude": -74.00234482,
+  "bikeid": 39845,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

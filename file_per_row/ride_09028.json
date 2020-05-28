@@ -1,0 +1,17 @@
+{
+  "tripduration": 156,
+  "starttime": "2019-12-01 18:06:35.2050",
+  "stoptime": "2019-12-01 18:09:11.7980",
+  "start station id": 459,
+  "start station name": "W 20 St & 11 Ave",
+  "start station latitude": 40.746745,
+  "start station longitude": -74.007756,
+  "end station id": 470,
+  "end station name": "W 20 St & 8 Ave",
+  "end station latitude": 40.74345335,
+  "end station longitude": -74.00004031,
+  "bikeid": 40690,
+  "usertype": "Subscriber",
+  "birth year": 2002,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 356,
+  "starttime": "2019-12-01 13:37:38.7050",
+  "stoptime": "2019-12-01 13:43:35.3300",
+  "start station id": 3409,
+  "start station name": "Bergen St & Smith St",
+  "start station latitude": 40.6867443,
+  "start station longitude": -73.99063168,
+  "end station id": 3386,
+  "end station name": "1 Pl & Clinton St",
+  "end station latitude": 40.6809591,
+  "end station longitude": -73.99905709,
+  "bikeid": 38178,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

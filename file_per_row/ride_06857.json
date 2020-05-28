@@ -1,0 +1,17 @@
+{
+  "tripduration": 207,
+  "starttime": "2019-12-01 12:57:36.1420",
+  "stoptime": "2019-12-01 13:01:03.9140",
+  "start station id": 3382,
+  "start station name": "Carroll St & Smith St",
+  "start station latitude": 40.680611,
+  "start station longitude": -73.99475825,
+  "end station id": 3298,
+  "end station name": "Warren St & Court St",
+  "end station latitude": 40.686371,
+  "end station longitude": -73.99383324,
+  "bikeid": 30682,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

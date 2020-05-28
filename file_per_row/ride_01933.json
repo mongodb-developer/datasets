@@ -1,0 +1,17 @@
+{
+  "tripduration": 570,
+  "starttime": "2019-12-01 08:41:20.9080",
+  "stoptime": "2019-12-01 08:50:51.8840",
+  "start station id": 3749,
+  "start station name": "Lexington Ave & E 36 St",
+  "start station latitude": 40.747573958954796,
+  "start station longitude": -73.9788007736206,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 26603,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

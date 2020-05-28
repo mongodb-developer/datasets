@@ -1,0 +1,17 @@
+{
+  "tripduration": 798,
+  "starttime": "2019-12-01 11:20:14.6630",
+  "stoptime": "2019-12-01 11:33:32.9780",
+  "start station id": 411,
+  "start station name": "E 6 St & Avenue D",
+  "start station latitude": 40.72228087,
+  "start station longitude": -73.97668709,
+  "end station id": 331,
+  "end station name": "Pike St & Monroe St",
+  "end station latitude": 40.71173107,
+  "end station longitude": -73.99193043,
+  "bikeid": 17766,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

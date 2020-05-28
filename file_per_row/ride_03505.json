@@ -1,0 +1,17 @@
+{
+  "tripduration": 626,
+  "starttime": "2019-12-01 10:09:54.5450",
+  "stoptime": "2019-12-01 10:20:20.9630",
+  "start station id": 3495,
+  "start station name": "E 114 St & 1 Ave",
+  "start station latitude": 40.7945663,
+  "start station longitude": -73.9362541,
+  "end station id": 3527,
+  "end station name": "5 Ave & E 126 St",
+  "end station latitude": 40.80698,
+  "end station longitude": -73.941747,
+  "bikeid": 21459,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

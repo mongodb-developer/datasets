@@ -1,0 +1,17 @@
+{
+  "tripduration": 550,
+  "starttime": "2019-12-01 11:22:24.5310",
+  "stoptime": "2019-12-01 11:31:35.3170",
+  "start station id": 3746,
+  "start station name": "6 Ave & Broome St",
+  "start station latitude": 40.724308321602166,
+  "start station longitude": -74.00473035871983,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 39354,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "female"
+}

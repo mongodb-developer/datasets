@@ -1,0 +1,17 @@
+{
+  "tripduration": 2580,
+  "starttime": "2019-12-01 03:58:43.7680",
+  "stoptime": "2019-12-01 04:41:43.8660",
+  "start station id": 471,
+  "start station name": "Grand St & Havemeyer St",
+  "start station latitude": 40.71286844,
+  "start station longitude": -73.95698119,
+  "end station id": 3599,
+  "end station name": "Franklin Ave & Empire Blvd",
+  "end station latitude": 40.66314,
+  "end station longitude": -73.9605695,
+  "bikeid": 30142,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

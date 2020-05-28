@@ -1,0 +1,17 @@
+{
+  "tripduration": 1060,
+  "starttime": "2019-12-01 09:42:00.2720",
+  "stoptime": "2019-12-01 09:59:40.7660",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 33404,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

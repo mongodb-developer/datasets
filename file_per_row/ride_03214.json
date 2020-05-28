@@ -1,0 +1,17 @@
+{
+  "tripduration": 215,
+  "starttime": "2019-12-01 09:56:33.5740",
+  "stoptime": "2019-12-01 10:00:09.0930",
+  "start station id": 3463,
+  "start station name": "E 16 St & Irving Pl",
+  "start station latitude": 40.735367055605394,
+  "start station longitude": -73.98797392845154,
+  "end station id": 2003,
+  "end station name": "1 Ave & E 18 St",
+  "end station latitude": 40.733812191966315,
+  "end station longitude": -73.98054420948029,
+  "bikeid": 35054,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

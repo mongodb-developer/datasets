@@ -1,0 +1,17 @@
+{
+  "tripduration": 660,
+  "starttime": "2019-12-01 08:36:54.9070",
+  "stoptime": "2019-12-01 08:47:55.8610",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 35588,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

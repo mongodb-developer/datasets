@@ -1,0 +1,17 @@
+{
+  "tripduration": 317,
+  "starttime": "2019-12-01 20:35:10.4970",
+  "stoptime": "2019-12-01 20:40:27.7230",
+  "start station id": 3077,
+  "start station name": "Stagg St & Union Ave",
+  "start station latitude": 40.70877084,
+  "start station longitude": -73.95095259,
+  "end station id": 3066,
+  "end station name": "Tompkins Ave & Hopkins St",
+  "end station latitude": 40.69957608,
+  "end station longitude": -73.94708417,
+  "bikeid": 27325,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

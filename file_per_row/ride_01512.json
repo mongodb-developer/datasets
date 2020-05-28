@@ -1,0 +1,17 @@
+{
+  "tripduration": 1780,
+  "starttime": "2019-12-01 07:55:27.2550",
+  "stoptime": "2019-12-01 08:25:07.2890",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3680,
+  "end station name": "E 43 St & 5 Ave",
+  "end station latitude": 40.754120810779256,
+  "end station longitude": -73.98025184869766,
+  "bikeid": 38812,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

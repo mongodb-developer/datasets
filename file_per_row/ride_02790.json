@@ -1,0 +1,17 @@
+{
+  "tripduration": 1081,
+  "starttime": "2019-12-01 09:37:25.9960",
+  "stoptime": "2019-12-01 09:55:27.7840",
+  "start station id": 331,
+  "start station name": "Pike St & Monroe St",
+  "start station latitude": 40.71173107,
+  "start station longitude": -73.99193043,
+  "end station id": 379,
+  "end station name": "W 31 St & 7 Ave",
+  "end station latitude": 40.749156,
+  "end station longitude": -73.9916,
+  "bikeid": 40422,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

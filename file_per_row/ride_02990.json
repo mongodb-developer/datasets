@@ -1,0 +1,17 @@
+{
+  "tripduration": 1211,
+  "starttime": "2019-12-01 09:46:52.6500",
+  "stoptime": "2019-12-01 10:07:04.3440",
+  "start station id": 3135,
+  "start station name": "E 75 St & 3 Ave",
+  "start station latitude": 40.77112927,
+  "start station longitude": -73.95772297,
+  "end station id": 533,
+  "end station name": "Broadway & W 38 St",
+  "end station latitude": 40.75299641,
+  "end station longitude": -73.98721619,
+  "bikeid": 40846,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

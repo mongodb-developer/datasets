@@ -1,0 +1,17 @@
+{
+  "tripduration": 792,
+  "starttime": "2019-12-01 10:19:14.9050",
+  "stoptime": "2019-12-01 10:32:27.4650",
+  "start station id": 3860,
+  "start station name": "Wilson Ave & Troutman St",
+  "start station latitude": 40.70166,
+  "start station longitude": -73.92754,
+  "end station id": 3241,
+  "end station name": "Monroe St & Tompkins Ave",
+  "end station latitude": 40.686203,
+  "end station longitude": -73.944694,
+  "bikeid": 35119,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

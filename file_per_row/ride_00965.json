@@ -1,0 +1,17 @@
+{
+  "tripduration": 137,
+  "starttime": "2019-12-01 04:24:27.4330",
+  "stoptime": "2019-12-01 04:26:45.2260",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 41986,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

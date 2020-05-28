@@ -1,0 +1,17 @@
+{
+  "tripduration": 2327,
+  "starttime": "2019-12-01 09:57:12.0500",
+  "stoptime": "2019-12-01 10:35:59.6720",
+  "start station id": 321,
+  "start station name": "Cadman Plaza E & Red Cross Pl",
+  "start station latitude": 40.69991755,
+  "start station longitude": -73.98971773,
+  "end station id": 173,
+  "end station name": "Broadway & W 49 St",
+  "end station latitude": 40.76068327096592,
+  "end station longitude": -73.9845272898674,
+  "bikeid": 38974,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

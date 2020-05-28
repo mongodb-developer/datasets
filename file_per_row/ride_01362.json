@@ -1,0 +1,17 @@
+{
+  "tripduration": 870,
+  "starttime": "2019-12-01 07:34:43.1530",
+  "stoptime": "2019-12-01 07:49:13.5960",
+  "start station id": 3336,
+  "start station name": "E 97 St & Madison Ave",
+  "start station latitude": 40.787801,
+  "start station longitude": -73.953559,
+  "end station id": 3623,
+  "end station name": "W 120 St & Claremont Ave",
+  "end station latitude": 40.8109494,
+  "end station longitude": -73.9634,
+  "bikeid": 38983,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

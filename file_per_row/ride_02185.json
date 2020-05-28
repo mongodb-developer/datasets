@@ -1,0 +1,17 @@
+{
+  "tripduration": 216,
+  "starttime": "2019-12-01 08:58:58.5200",
+  "stoptime": "2019-12-01 09:02:34.7400",
+  "start station id": 369,
+  "start station name": "Washington Pl & 6 Ave",
+  "start station latitude": 40.73224119,
+  "start station longitude": -74.00026394,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 38585,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 396,
+  "starttime": "2019-12-01 12:23:54.6040",
+  "stoptime": "2019-12-01 12:30:31.0310",
+  "start station id": 3674,
+  "start station name": "Jay St & York St",
+  "start station latitude": 40.701403172577244,
+  "start station longitude": -73.98672670125961,
+  "end station id": 239,
+  "end station name": "Willoughby St & Fleet St",
+  "end station latitude": 40.69196566,
+  "end station longitude": -73.9813018,
+  "bikeid": 30610,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

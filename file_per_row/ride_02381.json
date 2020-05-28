@@ -1,0 +1,17 @@
+{
+  "tripduration": 146,
+  "starttime": "2019-12-01 09:12:18.4440",
+  "stoptime": "2019-12-01 09:14:45.3400",
+  "start station id": 3430,
+  "start station name": "Richardson St & N Henry St",
+  "start station latitude": 40.71907891179564,
+  "start station longitude": -73.94223690032959,
+  "end station id": 3086,
+  "end station name": "Graham Ave & Conselyea St",
+  "end station latitude": 40.715143,
+  "end station longitude": -73.944507,
+  "bikeid": 30334,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

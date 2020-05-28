@@ -1,0 +1,17 @@
+{
+  "tripduration": 453,
+  "starttime": "2019-12-01 02:26:09.9590",
+  "stoptime": "2019-12-01 02:33:43.6440",
+  "start station id": 321,
+  "start station name": "Cadman Plaza E & Red Cross Pl",
+  "start station latitude": 40.69991755,
+  "start station longitude": -73.98971773,
+  "end station id": 406,
+  "end station name": "Hicks St & Montague St",
+  "end station latitude": 40.69512845,
+  "end station longitude": -73.99595065,
+  "bikeid": 38560,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "female"
+}

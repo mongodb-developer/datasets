@@ -1,0 +1,17 @@
+{
+  "tripduration": 1851,
+  "starttime": "2019-12-01 09:46:23.9790",
+  "stoptime": "2019-12-01 10:17:15.6800",
+  "start station id": 3486,
+  "start station name": "Schermerhorn St & Bond St",
+  "start station latitude": 40.688417427540834,
+  "start station longitude": -73.98451656103134,
+  "end station id": 3774,
+  "end station name": "Knickerbocker Ave & George St",
+  "end station latitude": 40.704425,
+  "end station longitude": -73.92836,
+  "bikeid": 28231,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

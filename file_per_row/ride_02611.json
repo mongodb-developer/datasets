@@ -1,0 +1,17 @@
+{
+  "tripduration": 1022,
+  "starttime": "2019-12-01 09:27:51.8720",
+  "stoptime": "2019-12-01 09:44:54.7890",
+  "start station id": 3718,
+  "start station name": "E 11 St & Avenue B",
+  "start station latitude": 40.72746420692392,
+  "start station longitude": -73.97950418293476,
+  "end station id": 505,
+  "end station name": "6 Ave & W 33 St",
+  "end station latitude": 40.74901271,
+  "end station longitude": -73.98848395,
+  "bikeid": 31801,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

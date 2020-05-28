@@ -1,0 +1,17 @@
+{
+  "tripduration": 799,
+  "starttime": "2019-12-01 09:10:10.8580",
+  "stoptime": "2019-12-01 09:23:30.6990",
+  "start station id": 340,
+  "start station name": "Madison St & Clinton St",
+  "start station latitude": 40.71269042,
+  "start station longitude": -73.98776323,
+  "end station id": 161,
+  "end station name": "LaGuardia Pl & W 3 St",
+  "end station latitude": 40.72917025,
+  "end station longitude": -73.99810231,
+  "bikeid": 28156,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

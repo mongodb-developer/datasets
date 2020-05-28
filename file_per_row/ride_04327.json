@@ -1,0 +1,17 @@
+{
+  "tripduration": 1038,
+  "starttime": "2019-12-01 10:44:58.5500",
+  "stoptime": "2019-12-01 11:02:16.7280",
+  "start station id": 484,
+  "start station name": "W 44 St & 5 Ave",
+  "start station latitude": 40.75500254,
+  "start station longitude": -73.98014437,
+  "end station id": 476,
+  "end station name": "E 31 St & 3 Ave",
+  "end station latitude": 40.74394314,
+  "end station longitude": -73.97966069,
+  "bikeid": 30326,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

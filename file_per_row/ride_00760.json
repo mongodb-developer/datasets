@@ -1,0 +1,17 @@
+{
+  "tripduration": 334,
+  "starttime": "2019-12-01 02:48:26.2500",
+  "stoptime": "2019-12-01 02:54:00.7640",
+  "start station id": 336,
+  "start station name": "Sullivan St & Washington Sq",
+  "start station latitude": 40.73047747,
+  "start station longitude": -73.99906065,
+  "end station id": 439,
+  "end station name": "E 4 St & 2 Ave",
+  "end station latitude": 40.7262807,
+  "end station longitude": -73.98978041,
+  "bikeid": 16537,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

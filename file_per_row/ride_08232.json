@@ -1,0 +1,17 @@
+{
+  "tripduration": 405,
+  "starttime": "2019-12-01 15:40:14.2860",
+  "stoptime": "2019-12-01 15:46:59.6450",
+  "start station id": 244,
+  "start station name": "Willoughby Ave & Hall St",
+  "start station latitude": 40.69196035,
+  "start station longitude": -73.96536851,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 39635,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

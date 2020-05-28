@@ -1,0 +1,17 @@
+{
+  "tripduration": 358,
+  "starttime": "2019-12-01 12:28:09.2970",
+  "stoptime": "2019-12-01 12:34:07.9530",
+  "start station id": 3535,
+  "start station name": "Mt Morris Park W & W 120 St",
+  "start station latitude": 40.804038,
+  "start station longitude": -73.945925,
+  "end station id": 3540,
+  "end station name": "Morningside Ave & W 123 St",
+  "end station latitude": 40.81,
+  "end station longitude": -73.9551508,
+  "bikeid": 28483,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

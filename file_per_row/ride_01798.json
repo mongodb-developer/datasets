@@ -1,0 +1,17 @@
+{
+  "tripduration": 1419,
+  "starttime": "2019-12-01 08:30:01.9630",
+  "stoptime": "2019-12-01 08:53:41.1500",
+  "start station id": 487,
+  "start station name": "E 20 St & FDR Drive",
+  "start station latitude": 40.73314259,
+  "start station longitude": -73.97573881,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 40138,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

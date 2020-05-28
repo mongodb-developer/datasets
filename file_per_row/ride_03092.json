@@ -1,0 +1,17 @@
+{
+  "tripduration": 550,
+  "starttime": "2019-12-01 09:51:07.5970",
+  "stoptime": "2019-12-01 10:00:18.0380",
+  "start station id": 476,
+  "start station name": "E 31 St & 3 Ave",
+  "start station latitude": 40.74394314,
+  "start station longitude": -73.97966069,
+  "end station id": 267,
+  "end station name": "Broadway & W 36 St",
+  "end station latitude": 40.75097711,
+  "end station longitude": -73.98765428,
+  "bikeid": 17713,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

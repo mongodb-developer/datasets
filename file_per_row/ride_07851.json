@@ -1,0 +1,17 @@
+{
+  "tripduration": 995,
+  "starttime": "2019-12-01 15:01:18.1680",
+  "stoptime": "2019-12-01 15:17:53.4420",
+  "start station id": 173,
+  "start station name": "Broadway & W 49 St",
+  "start station latitude": 40.76068327096592,
+  "start station longitude": -73.9845272898674,
+  "end station id": 482,
+  "end station name": "W 15 St & 7 Ave",
+  "end station latitude": 40.73935542,
+  "end station longitude": -73.99931783,
+  "bikeid": 41262,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "female"
+}

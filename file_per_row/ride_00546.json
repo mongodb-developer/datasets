@@ -1,0 +1,17 @@
+{
+  "tripduration": 567,
+  "starttime": "2019-12-01 01:46:12.7860",
+  "stoptime": "2019-12-01 01:55:40.4330",
+  "start station id": 3870,
+  "start station name": "Melrose St & Broadway",
+  "start station latitude": 40.697481,
+  "start station longitude": -73.935877,
+  "end station id": 3846,
+  "end station name": "Central Ave & Himrod St",
+  "end station latitude": 40.69676,
+  "end station longitude": -73.92302,
+  "bikeid": 38764,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

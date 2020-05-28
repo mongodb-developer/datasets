@@ -1,0 +1,17 @@
+{
+  "tripduration": 2342,
+  "starttime": "2019-12-01 18:45:59.6220",
+  "stoptime": "2019-12-01 19:25:02.5380",
+  "start station id": 387,
+  "start station name": "Centre St & Chambers St",
+  "start station latitude": 40.71273266,
+  "start station longitude": -74.0046073,
+  "end station id": 330,
+  "end station name": "Reade St & Broadway",
+  "end station latitude": 40.71450451,
+  "end station longitude": -74.00562789,
+  "bikeid": 38565,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

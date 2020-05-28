@@ -1,0 +1,17 @@
+{
+  "tripduration": 316,
+  "starttime": "2019-12-01 18:52:21.8870",
+  "stoptime": "2019-12-01 18:57:38.2150",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 284,
+  "end station name": "Greenwich Ave & 8 Ave",
+  "end station latitude": 40.7390169121,
+  "end station longitude": -74.0026376103,
+  "bikeid": 34316,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "female"
+}

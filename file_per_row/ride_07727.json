@@ -1,0 +1,17 @@
+{
+  "tripduration": 595,
+  "starttime": "2019-12-01 14:50:04.2340",
+  "stoptime": "2019-12-01 14:59:59.9400",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 41404,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

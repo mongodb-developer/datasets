@@ -1,0 +1,17 @@
+{
+  "tripduration": 361,
+  "starttime": "2019-12-01 14:34:10.4260",
+  "stoptime": "2019-12-01 14:40:11.5650",
+  "start station id": 3368,
+  "start station name": "5 Ave & 3 St",
+  "start station latitude": 40.6728155,
+  "start station longitude": -73.98352355,
+  "end station id": 467,
+  "end station name": "Dean St & 4 Ave",
+  "end station latitude": 40.68312489,
+  "end station longitude": -73.97895137,
+  "bikeid": 32931,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

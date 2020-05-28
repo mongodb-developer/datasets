@@ -1,0 +1,17 @@
+{
+  "tripduration": 1710,
+  "starttime": "2019-12-01 17:52:09.5820",
+  "stoptime": "2019-12-01 18:20:40.1680",
+  "start station id": 3820,
+  "start station name": "Willoughby Ave & Myrtle Ave",
+  "start station latitude": 40.69757,
+  "start station longitude": -73.93098,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 32148,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

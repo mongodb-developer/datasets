@@ -1,0 +1,17 @@
+{
+  "tripduration": 444,
+  "starttime": "2019-12-01 15:05:35.5230",
+  "stoptime": "2019-12-01 15:12:59.7200",
+  "start station id": 216,
+  "start station name": "Columbia Heights & Cranberry St",
+  "start station latitude": 40.70037867,
+  "start station longitude": -73.99548059,
+  "end station id": 3298,
+  "end station name": "Warren St & Court St",
+  "end station latitude": 40.686371,
+  "end station longitude": -73.99383324,
+  "bikeid": 41682,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

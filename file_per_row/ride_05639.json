@@ -1,0 +1,17 @@
+{
+  "tripduration": 949,
+  "starttime": "2019-12-01 11:48:11.1570",
+  "stoptime": "2019-12-01 12:04:00.2130",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 3414,
+  "end station name": "Bergen St & Flatbush Ave",
+  "end station latitude": 40.680944723477296,
+  "end station longitude": -73.97567331790923,
+  "bikeid": 27535,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

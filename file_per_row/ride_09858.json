@@ -1,0 +1,17 @@
+{
+  "tripduration": 421,
+  "starttime": "2019-12-01 20:29:04.6580",
+  "stoptime": "2019-12-01 20:36:06.5390",
+  "start station id": 289,
+  "start station name": "Monroe St & Classon Ave",
+  "start station latitude": 40.6845683,
+  "start station longitude": -73.95881081,
+  "end station id": 3241,
+  "end station name": "Monroe St & Tompkins Ave",
+  "end station latitude": 40.686203,
+  "end station longitude": -73.944694,
+  "bikeid": 40528,
+  "usertype": "Subscriber",
+  "birth year": 1938,
+  "gender": "female"
+}

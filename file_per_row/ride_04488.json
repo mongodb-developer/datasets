@@ -1,0 +1,17 @@
+{
+  "tripduration": 156,
+  "starttime": "2019-12-01 10:51:15.5930",
+  "stoptime": "2019-12-01 10:53:52.2390",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 31141,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

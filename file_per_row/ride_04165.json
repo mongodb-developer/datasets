@@ -1,0 +1,17 @@
+{
+  "tripduration": 310,
+  "starttime": "2019-12-01 10:37:51.7680",
+  "stoptime": "2019-12-01 10:43:02.2610",
+  "start station id": 143,
+  "start station name": "Clinton St & Joralemon St",
+  "start station latitude": 40.69239502,
+  "start station longitude": -73.99337909,
+  "end station id": 3486,
+  "end station name": "Schermerhorn St & Bond St",
+  "end station latitude": 40.688417427540834,
+  "end station longitude": -73.98451656103134,
+  "bikeid": 32654,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

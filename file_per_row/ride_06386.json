@@ -1,0 +1,17 @@
+{
+  "tripduration": 128,
+  "starttime": "2019-12-01 12:30:07.2440",
+  "stoptime": "2019-12-01 12:32:15.3920",
+  "start station id": 3686,
+  "start station name": "Gansevoort St & Hudson St",
+  "start station latitude": 40.739448201304036,
+  "start station longitude": -74.00507032871246,
+  "end station id": 247,
+  "end station name": "Perry St & Bleecker St",
+  "end station latitude": 40.73535398,
+  "end station longitude": -74.00483091,
+  "bikeid": 40088,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

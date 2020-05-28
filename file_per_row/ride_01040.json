@@ -1,0 +1,17 @@
+{
+  "tripduration": 745,
+  "starttime": "2019-12-01 05:35:21.2850",
+  "stoptime": "2019-12-01 05:47:46.4170",
+  "start station id": 334,
+  "start station name": "W 20 St & 7 Ave",
+  "start station latitude": 40.74238787,
+  "start station longitude": -73.99726235,
+  "end station id": 3687,
+  "end station name": "E 33 St & 1 Ave",
+  "end station latitude": 40.74322681432173,
+  "end station longitude": -73.97449783980846,
+  "bikeid": 38876,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

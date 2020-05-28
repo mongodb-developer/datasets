@@ -1,0 +1,17 @@
+{
+  "tripduration": 272,
+  "starttime": "2019-12-01 18:17:40.7310",
+  "stoptime": "2019-12-01 18:22:13.0860",
+  "start station id": 143,
+  "start station name": "Clinton St & Joralemon St",
+  "start station latitude": 40.69239502,
+  "start station longitude": -73.99337909,
+  "end station id": 390,
+  "end station name": "Duffield St & Willoughby St",
+  "end station latitude": 40.69221589,
+  "end station longitude": -73.9842844,
+  "bikeid": 28464,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

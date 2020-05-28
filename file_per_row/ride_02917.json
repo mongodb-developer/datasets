@@ -1,0 +1,17 @@
+{
+  "tripduration": 731,
+  "starttime": "2019-12-01 09:43:29.9600",
+  "stoptime": "2019-12-01 09:55:41.8480",
+  "start station id": 3156,
+  "start station name": "E 72 St & York Ave",
+  "start station latitude": 40.76663814,
+  "start station longitude": -73.95348296,
+  "end station id": 3161,
+  "end station name": "W 76 St & Columbus Ave",
+  "end station latitude": 40.7801839724239,
+  "end station longitude": -73.97728532552719,
+  "bikeid": 38420,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 226,
+  "starttime": "2019-12-01 13:22:53.3450",
+  "stoptime": "2019-12-01 13:26:39.5270",
+  "start station id": 3231,
+  "start station name": "E 67 St & Park Ave",
+  "start station latitude": 40.76780080148132,
+  "start station longitude": -73.96592080593109,
+  "end station id": 3137,
+  "end station name": "5 Ave & E 73 St",
+  "end station latitude": 40.77282817,
+  "end station longitude": -73.96685276,
+  "bikeid": 41623,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

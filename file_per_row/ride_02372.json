@@ -1,0 +1,17 @@
+{
+  "tripduration": 359,
+  "starttime": "2019-12-01 09:11:50.8730",
+  "stoptime": "2019-12-01 09:17:50.3180",
+  "start station id": 390,
+  "start station name": "Duffield St & Willoughby St",
+  "start station latitude": 40.69221589,
+  "start station longitude": -73.9842844,
+  "end station id": 270,
+  "end station name": "Adelphi St & Myrtle Ave",
+  "end station latitude": 40.69308257,
+  "end station longitude": -73.97178913,
+  "bikeid": 39391,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

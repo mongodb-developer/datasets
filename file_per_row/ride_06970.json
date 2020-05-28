@@ -1,0 +1,17 @@
+{
+  "tripduration": 445,
+  "starttime": "2019-12-01 13:09:07.3120",
+  "stoptime": "2019-12-01 13:16:32.4500",
+  "start station id": 3673,
+  "start station name": "Dean St & Franklin Ave",
+  "start station latitude": 40.67759206937376,
+  "start station longitude": -73.955637216568,
+  "end station id": 3537,
+  "end station name": "Carlton Ave & Dean St",
+  "end station latitude": 40.6809741,
+  "end station longitude": -73.9710097,
+  "bikeid": 41221,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 303,
+  "starttime": "2019-12-01 15:13:59.0540",
+  "stoptime": "2019-12-01 15:19:02.9060",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 356,
+  "end station name": "Bialystoker Pl & Delancey St",
+  "end station latitude": 40.71622644,
+  "end station longitude": -73.98261206,
+  "bikeid": 40855,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "female"
+}

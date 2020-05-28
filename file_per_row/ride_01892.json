@@ -1,0 +1,17 @@
+{
+  "tripduration": 1024,
+  "starttime": "2019-12-01 08:37:31.8880",
+  "stoptime": "2019-12-01 08:54:36.1740",
+  "start station id": 3118,
+  "start station name": "McGuinness Blvd & Eagle St",
+  "start station latitude": 40.73555,
+  "start station longitude": -73.95284,
+  "end station id": 3734,
+  "end station name": "E 58 St &  1 Ave (NW Corner)",
+  "end station latitude": 40.759125,
+  "end station longitude": -73.962658,
+  "bikeid": 28454,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 900,
+  "starttime": "2019-12-01 07:37:32.4510",
+  "stoptime": "2019-12-01 07:52:33.0630",
+  "start station id": 3686,
+  "start station name": "Gansevoort St & Hudson St",
+  "start station latitude": 40.739448201304036,
+  "start station longitude": -74.00507032871246,
+  "end station id": 309,
+  "end station name": "Murray St & West St",
+  "end station latitude": 40.7149787,
+  "end station longitude": -74.013012,
+  "bikeid": 15634,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

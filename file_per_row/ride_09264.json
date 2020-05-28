@@ -1,0 +1,17 @@
+{
+  "tripduration": 787,
+  "starttime": "2019-12-01 18:49:06.9910",
+  "stoptime": "2019-12-01 19:02:14.3950",
+  "start station id": 265,
+  "start station name": "Stanton St & Chrystie St",
+  "start station latitude": 40.72229346,
+  "start station longitude": -73.99147535,
+  "end station id": 412,
+  "end station name": "Forsyth St & Canal St",
+  "end station latitude": 40.7158155,
+  "end station longitude": -73.99422366,
+  "bikeid": 32187,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 543,
+  "starttime": "2019-12-01 20:24:05.3940",
+  "stoptime": "2019-12-01 20:33:08.4240",
+  "start station id": 3338,
+  "start station name": "2 Ave & E 99 St",
+  "start station latitude": 40.7862586,
+  "start station longitude": -73.94552579,
+  "end station id": 3495,
+  "end station name": "E 114 St & 1 Ave",
+  "end station latitude": 40.7945663,
+  "end station longitude": -73.9362541,
+  "bikeid": 40850,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

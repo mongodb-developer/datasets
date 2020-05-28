@@ -1,0 +1,17 @@
+{
+  "tripduration": 123,
+  "starttime": "2019-12-01 20:30:12.3830",
+  "stoptime": "2019-12-01 20:32:16.2010",
+  "start station id": 3429,
+  "start station name": "Hanson Pl & Ashland Pl",
+  "start station latitude": 40.68506807308177,
+  "start station longitude": -73.97790759801863,
+  "end station id": 353,
+  "end station name": "S Portland Ave & Hanson Pl",
+  "end station latitude": 40.68539567,
+  "end station longitude": -73.97431458,
+  "bikeid": 42034,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "unknown"
+}

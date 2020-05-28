@@ -1,0 +1,17 @@
+{
+  "tripduration": 455,
+  "starttime": "2019-12-01 11:00:52.1160",
+  "stoptime": "2019-12-01 11:08:27.8860",
+  "start station id": 257,
+  "start station name": "Lispenard St & Broadway",
+  "start station latitude": 40.71939226,
+  "start station longitude": -74.00247214,
+  "end station id": 3709,
+  "end station name": "W 15 St & 6 Ave",
+  "end station latitude": 40.738046142482766,
+  "end station longitude": -73.99642959237099,
+  "bikeid": 41982,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

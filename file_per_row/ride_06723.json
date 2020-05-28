@@ -1,0 +1,17 @@
+{
+  "tripduration": 385,
+  "starttime": "2019-12-01 12:47:00.8450",
+  "stoptime": "2019-12-01 12:53:26.4270",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3102,
+  "end station name": "Driggs Ave & Lorimer St",
+  "end station latitude": 40.72179134,
+  "end station longitude": -73.9504154,
+  "bikeid": 41431,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

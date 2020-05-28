@@ -1,0 +1,17 @@
+{
+  "tripduration": 251,
+  "starttime": "2019-12-01 19:59:39.6150",
+  "stoptime": "2019-12-01 20:03:50.7370",
+  "start station id": 3329,
+  "start station name": "Degraw St & Smith St",
+  "start station latitude": 40.6829151,
+  "start station longitude": -73.99318208,
+  "end station id": 3408,
+  "end station name": "Congress St & Clinton St",
+  "end station latitude": 40.6881529,
+  "end station longitude": -73.99520919,
+  "bikeid": 41789,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "female"
+}

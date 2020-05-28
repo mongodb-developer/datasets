@@ -1,0 +1,17 @@
+{
+  "tripduration": 301,
+  "starttime": "2019-12-01 09:42:57.6240",
+  "stoptime": "2019-12-01 09:47:58.7560",
+  "start station id": 3535,
+  "start station name": "Mt Morris Park W & W 120 St",
+  "start station latitude": 40.804038,
+  "start station longitude": -73.945925,
+  "end station id": 3533,
+  "end station name": "St. Nicholas Ave & W 126 St",
+  "end station latitude": 40.8114323,
+  "end station longitude": -73.9518776,
+  "bikeid": 42028,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

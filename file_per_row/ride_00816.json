@@ -1,0 +1,17 @@
+{
+  "tripduration": 587,
+  "starttime": "2019-12-01 03:04:25.0440",
+  "stoptime": "2019-12-01 03:14:12.8800",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3139,
+  "end station name": "E 72 St & Park Ave",
+  "end station latitude": 40.77118287540658,
+  "end station longitude": -73.96409422159195,
+  "bikeid": 18625,
+  "usertype": "Subscriber",
+  "birth year": 1949,
+  "gender": "male"
+}

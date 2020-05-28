@@ -1,0 +1,17 @@
+{
+  "tripduration": 800,
+  "starttime": "2019-12-01 09:44:44.5220",
+  "stoptime": "2019-12-01 09:58:05.1790",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 27622,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 577,
+  "starttime": "2019-12-01 15:23:50.2300",
+  "stoptime": "2019-12-01 15:33:27.5700",
+  "start station id": 3130,
+  "start station name": "21 St & Queens Plaza North",
+  "start station latitude": 40.75325964,
+  "start station longitude": -73.94335788,
+  "end station id": 3118,
+  "end station name": "McGuinness Blvd & Eagle St",
+  "end station latitude": 40.73555,
+  "end station longitude": -73.95284,
+  "bikeid": 31259,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

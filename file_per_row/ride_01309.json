@@ -1,0 +1,17 @@
+{
+  "tripduration": 252,
+  "starttime": "2019-12-01 07:25:38.4190",
+  "stoptime": "2019-12-01 07:29:50.5470",
+  "start station id": 3076,
+  "start station name": "Scholes St & Manhattan Ave",
+  "start station latitude": 40.70870368,
+  "start station longitude": -73.9448625,
+  "end station id": 3714,
+  "end station name": "Division Ave & Hooper St",
+  "end station latitude": 40.70684203101325,
+  "end station longitude": -73.9544353965357,
+  "bikeid": 41993,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

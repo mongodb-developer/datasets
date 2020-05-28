@@ -1,0 +1,17 @@
+{
+  "tripduration": 1960,
+  "starttime": "2019-12-01 14:47:06.5440",
+  "stoptime": "2019-12-01 15:19:47.0370",
+  "start station id": 3764,
+  "start station name": "Bushwick Ave & McKibbin St",
+  "start station latitude": 40.705517,
+  "start station longitude": -73.93936,
+  "end station id": 3304,
+  "end station name": "6 Ave & 9 St",
+  "end station latitude": 40.668127,
+  "end station longitude": -73.98377641,
+  "bikeid": 28211,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1875,
+  "starttime": "2019-12-01 12:28:04.6580",
+  "stoptime": "2019-12-01 12:59:19.6910",
+  "start station id": 343,
+  "start station name": "Clinton Ave & Flushing Ave",
+  "start station latitude": 40.69794,
+  "start station longitude": -73.96986848,
+  "end station id": 387,
+  "end station name": "Centre St & Chambers St",
+  "end station latitude": 40.71273266,
+  "end station longitude": -74.0046073,
+  "bikeid": 31080,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "female"
+}

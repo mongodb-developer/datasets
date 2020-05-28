@@ -1,0 +1,17 @@
+{
+  "tripduration": 720,
+  "starttime": "2019-12-01 19:32:29.3470",
+  "stoptime": "2019-12-01 19:44:29.4600",
+  "start station id": 426,
+  "start station name": "West St & Chambers St",
+  "start station latitude": 40.71754834,
+  "start station longitude": -74.01322069,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 33532,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 381,
+  "starttime": "2019-12-01 16:16:12.7540",
+  "stoptime": "2019-12-01 16:22:34.1240",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 3733,
+  "end station name": "Avenue C & E 18 St",
+  "end station latitude": 40.730563,
+  "end station longitude": -73.973984,
+  "bikeid": 39036,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "female"
+}

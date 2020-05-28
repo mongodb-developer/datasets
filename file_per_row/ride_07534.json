@@ -1,0 +1,17 @@
+{
+  "tripduration": 406,
+  "starttime": "2019-12-01 14:26:59.5970",
+  "stoptime": "2019-12-01 14:33:45.6510",
+  "start station id": 3804,
+  "start station name": "Front St & Jay St",
+  "start station latitude": 40.702461,
+  "start station longitude": -73.986842,
+  "end station id": 3246,
+  "end station name": "Montague St & Clinton St",
+  "end station latitude": 40.694281141397326,
+  "end station longitude": -73.99230033159256,
+  "bikeid": 18769,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

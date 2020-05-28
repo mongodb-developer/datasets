@@ -1,0 +1,17 @@
+{
+  "tripduration": 192,
+  "starttime": "2019-12-01 12:27:06.5390",
+  "stoptime": "2019-12-01 12:30:18.8750",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 356,
+  "end station name": "Bialystoker Pl & Delancey St",
+  "end station latitude": 40.71622644,
+  "end station longitude": -73.98261206,
+  "bikeid": 40130,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "female"
+}

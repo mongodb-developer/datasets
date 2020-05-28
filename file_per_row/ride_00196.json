@@ -1,0 +1,17 @@
+{
+  "tripduration": 215,
+  "starttime": "2019-12-01 00:28:49.9700",
+  "stoptime": "2019-12-01 00:32:25.4050",
+  "start station id": 3574,
+  "start station name": "Prospect Pl & Underhill Ave",
+  "start station latitude": 40.6769694,
+  "start station longitude": -73.96579,
+  "end station id": 3637,
+  "end station name": "Fulton St & Waverly Ave",
+  "end station latitude": 40.683238654603414,
+  "end station longitude": -73.96599590778351,
+  "bikeid": 30610,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

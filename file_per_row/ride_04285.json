@@ -1,0 +1,17 @@
+{
+  "tripduration": 256,
+  "starttime": "2019-12-01 10:43:05.9800",
+  "stoptime": "2019-12-01 10:47:22.6580",
+  "start station id": 3327,
+  "start station name": "3 Ave & E 100 St",
+  "start station latitude": 40.7877214,
+  "start station longitude": -73.94728331,
+  "end station id": 3305,
+  "end station name": "E 91 St & 2 Ave",
+  "end station latitude": 40.78112229934166,
+  "end station longitude": -73.94965589046478,
+  "bikeid": 40177,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

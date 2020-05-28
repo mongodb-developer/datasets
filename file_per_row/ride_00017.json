@@ -1,0 +1,17 @@
+{
+  "tripduration": 370,
+  "starttime": "2019-12-01 00:01:31.1430",
+  "stoptime": "2019-12-01 00:07:41.3720",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 17278,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1257,
+  "starttime": "2019-12-01 00:00:20.3490",
+  "stoptime": "2019-12-01 00:21:18.2990",
+  "start station id": 340,
+  "start station name": "Madison St & Clinton St",
+  "start station latitude": 40.71269042,
+  "start station longitude": -73.98776323,
+  "end station id": 340,
+  "end station name": "Madison St & Clinton St",
+  "end station latitude": 40.71269042,
+  "end station longitude": -73.98776323,
+  "bikeid": 40829,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

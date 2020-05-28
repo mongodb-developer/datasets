@@ -1,0 +1,17 @@
+{
+  "tripduration": 343,
+  "starttime": "2019-12-01 06:45:23.1540",
+  "stoptime": "2019-12-01 06:51:06.6300",
+  "start station id": 3437,
+  "start station name": "Riverside Dr & W 91 St",
+  "start station latitude": 40.79313480986663,
+  "start station longitude": -73.97700369358063,
+  "end station id": 3331,
+  "end station name": "Riverside Dr & W 104 St",
+  "end station latitude": 40.8013434,
+  "end station longitude": -73.9711457439,
+  "bikeid": 29703,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

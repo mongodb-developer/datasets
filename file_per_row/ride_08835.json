@@ -1,0 +1,17 @@
+{
+  "tripduration": 2219,
+  "starttime": "2019-12-01 17:28:21.8480",
+  "stoptime": "2019-12-01 18:05:21.2770",
+  "start station id": 325,
+  "start station name": "E 19 St & 3 Ave",
+  "start station latitude": 40.73624527,
+  "start station longitude": -73.98473765,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 32675,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

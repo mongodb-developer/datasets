@@ -1,0 +1,17 @@
+{
+  "tripduration": 280,
+  "starttime": "2019-12-01 09:47:40.2270",
+  "stoptime": "2019-12-01 09:52:20.3480",
+  "start station id": 281,
+  "start station name": "Grand Army Plaza & Central Park S",
+  "start station latitude": 40.7643971,
+  "start station longitude": -73.97371465,
+  "end station id": 3233,
+  "end station name": "E 48 St & 5 Ave",
+  "end station latitude": 40.75724567911726,
+  "end station longitude": -73.97805914282799,
+  "bikeid": 18011,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

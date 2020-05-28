@@ -1,0 +1,17 @@
+{
+  "tripduration": 579,
+  "starttime": "2019-12-01 00:04:08.4760",
+  "stoptime": "2019-12-01 00:13:47.7300",
+  "start station id": 405,
+  "start station name": "Washington St & Gansevoort St",
+  "start station latitude": 40.739323,
+  "start station longitude": -74.008119,
+  "end station id": 494,
+  "end station name": "W 26 St & 8 Ave",
+  "end station latitude": 40.74734825,
+  "end station longitude": -73.99723551,
+  "bikeid": 18448,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

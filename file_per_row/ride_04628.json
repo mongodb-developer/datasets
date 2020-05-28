@@ -1,0 +1,17 @@
+{
+  "tripduration": 291,
+  "starttime": "2019-12-01 10:55:38.2950",
+  "stoptime": "2019-12-01 11:00:29.6840",
+  "start station id": 3298,
+  "start station name": "Warren St & Court St",
+  "start station latitude": 40.686371,
+  "start station longitude": -73.99383324,
+  "end station id": 3396,
+  "end station name": "Clinton St & 4 Place",
+  "end station latitude": 40.6783563,
+  "end station longitude": -74.00014502,
+  "bikeid": 31077,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

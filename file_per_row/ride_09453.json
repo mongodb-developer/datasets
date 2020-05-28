@@ -1,0 +1,17 @@
+{
+  "tripduration": 946,
+  "starttime": "2019-12-01 19:21:15.6800",
+  "stoptime": "2019-12-01 19:37:02.5990",
+  "start station id": 3868,
+  "start station name": "Knickerbocker Ave & Halsey St",
+  "start station latitude": 40.693,
+  "start station longitude": -73.90824,
+  "end station id": 3829,
+  "end station name": "Central Ave & Decatur St",
+  "end station latitude": 40.6882,
+  "end station longitude": -73.90798,
+  "bikeid": 40308,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "female"
+}

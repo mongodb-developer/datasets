@@ -1,0 +1,17 @@
+{
+  "tripduration": 200,
+  "starttime": "2019-12-01 19:58:36.6460",
+  "stoptime": "2019-12-01 20:01:57.3120",
+  "start station id": 301,
+  "start station name": "E 2 St & Avenue B",
+  "start station latitude": 40.72217444,
+  "start station longitude": -73.98368779,
+  "end station id": 302,
+  "end station name": "Avenue D & E 3 St",
+  "end station latitude": 40.72082834,
+  "end station longitude": -73.97793172,
+  "bikeid": 40384,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1103,
+  "starttime": "2019-12-01 20:32:56.0780",
+  "stoptime": "2019-12-01 20:51:19.0930",
+  "start station id": 326,
+  "start station name": "E 11 St & 1 Ave",
+  "start station latitude": 40.72953837,
+  "start station longitude": -73.98426726,
+  "end station id": 336,
+  "end station name": "Sullivan St & Washington Sq",
+  "end station latitude": 40.73047747,
+  "end station longitude": -73.99906065,
+  "bikeid": 33821,
+  "usertype": "Customer",
+  "birth year": 1999,
+  "gender": "male"
+}

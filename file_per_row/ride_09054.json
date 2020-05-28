@@ -1,0 +1,17 @@
+{
+  "tripduration": 643,
+  "starttime": "2019-12-01 18:11:25.7380",
+  "stoptime": "2019-12-01 18:22:08.8950",
+  "start station id": 536,
+  "start station name": "1 Ave & E 30 St",
+  "start station latitude": 40.74144387,
+  "start station longitude": -73.97536082,
+  "end station id": 446,
+  "end station name": "W 24 St & 7 Ave",
+  "end station latitude": 40.74487634,
+  "end station longitude": -73.99529885,
+  "bikeid": 41773,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

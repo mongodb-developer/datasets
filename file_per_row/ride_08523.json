@@ -1,0 +1,17 @@
+{
+  "tripduration": 557,
+  "starttime": "2019-12-01 16:22:36.5730",
+  "stoptime": "2019-12-01 16:31:53.7240",
+  "start station id": 3812,
+  "start station name": "University Pl & E 14 St",
+  "start station latitude": 40.734814,
+  "start station longitude": -73.992085,
+  "end station id": 212,
+  "end station name": "W 16 St & The High Line",
+  "end station latitude": 40.74334935,
+  "end station longitude": -74.00681753,
+  "bikeid": 32119,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

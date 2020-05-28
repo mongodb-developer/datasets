@@ -1,0 +1,17 @@
+{
+  "tripduration": 1188,
+  "starttime": "2019-12-01 10:37:23.7890",
+  "stoptime": "2019-12-01 10:57:11.8770",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 3817,
+  "end station name": "Withers St & Kingsland Ave",
+  "end station latitude": 40.71773,
+  "end station longitude": -73.94051,
+  "bikeid": 40219,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

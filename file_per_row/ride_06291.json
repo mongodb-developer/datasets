@@ -1,0 +1,17 @@
+{
+  "tripduration": 637,
+  "starttime": "2019-12-01 12:25:06.0920",
+  "stoptime": "2019-12-01 12:35:43.1320",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 507,
+  "end station name": "E 25 St & 2 Ave",
+  "end station latitude": 40.73912601,
+  "end station longitude": -73.97973776,
+  "bikeid": 29413,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

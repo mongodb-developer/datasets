@@ -1,0 +1,17 @@
+{
+  "tripduration": 284,
+  "starttime": "2019-12-01 15:00:26.5270",
+  "stoptime": "2019-12-01 15:05:11.3010",
+  "start station id": 3356,
+  "start station name": "Amsterdam Ave & W 66 St",
+  "start station latitude": 40.7746671,
+  "start station longitude": -73.98470567,
+  "end station id": 499,
+  "end station name": "Broadway & W 60 St",
+  "end station latitude": 40.76915505,
+  "end station longitude": -73.98191841,
+  "bikeid": 28725,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

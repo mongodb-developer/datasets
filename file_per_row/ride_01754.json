@@ -1,0 +1,17 @@
+{
+  "tripduration": 600,
+  "starttime": "2019-12-01 08:24:53.9070",
+  "stoptime": "2019-12-01 08:34:54.6520",
+  "start station id": 440,
+  "start station name": "E 45 St & 3 Ave",
+  "start station latitude": 40.75255434,
+  "start station longitude": -73.97282625,
+  "end station id": 3641,
+  "end station name": "Broadway & W 25 St",
+  "end station latitude": 40.74286877312112,
+  "end station longitude": -73.98918628692627,
+  "bikeid": 21133,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

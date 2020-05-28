@@ -1,0 +1,17 @@
+{
+  "tripduration": 179,
+  "starttime": "2019-12-01 11:48:14.0230",
+  "stoptime": "2019-12-01 11:51:13.6520",
+  "start station id": 3564,
+  "start station name": "21 St & 36 Ave",
+  "start station latitude": 40.7601853,
+  "start station longitude": -73.9362726,
+  "end station id": 3646,
+  "end station name": "35 Ave & 10 St",
+  "end station latitude": 40.76315481910373,
+  "end station longitude": -73.93985509872437,
+  "bikeid": 41372,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1881,
+  "starttime": "2019-12-01 12:41:04.5860",
+  "stoptime": "2019-12-01 13:12:25.8020",
+  "start station id": 297,
+  "start station name": "E 15 St & 3 Ave",
+  "start station latitude": 40.734232,
+  "start station longitude": -73.986923,
+  "end station id": 3308,
+  "end station name": "Kane St & Clinton St",
+  "end station latitude": 40.6861758,
+  "end station longitude": -73.99645295,
+  "bikeid": 41136,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "female"
+}

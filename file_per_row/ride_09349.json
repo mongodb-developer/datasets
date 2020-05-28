@@ -1,0 +1,17 @@
+{
+  "tripduration": 846,
+  "starttime": "2019-12-01 19:04:48.7500",
+  "stoptime": "2019-12-01 19:18:55.5640",
+  "start station id": 3139,
+  "start station name": "E 72 St & Park Ave",
+  "start station latitude": 40.77118287540658,
+  "start station longitude": -73.96409422159195,
+  "end station id": 3293,
+  "end station name": "W 92 St & Broadway",
+  "end station latitude": 40.7921,
+  "end station longitude": -73.9739,
+  "bikeid": 16093,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

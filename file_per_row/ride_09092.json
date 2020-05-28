@@ -1,0 +1,17 @@
+{
+  "tripduration": 820,
+  "starttime": "2019-12-01 18:16:04.6480",
+  "stoptime": "2019-12-01 18:29:45.1200",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3376,
+  "end station name": "E 65 St & 2 Ave",
+  "end station latitude": 40.76471851944339,
+  "end station longitude": -73.96222069859505,
+  "bikeid": 28979,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

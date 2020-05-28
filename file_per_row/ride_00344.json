@@ -1,0 +1,17 @@
+{
+  "tripduration": 2152,
+  "starttime": "2019-12-01 00:53:36.7830",
+  "stoptime": "2019-12-01 01:29:28.8280",
+  "start station id": 3783,
+  "start station name": "Cliff St & Fulton St",
+  "start station latitude": 40.70838,
+  "start station longitude": -74.00495,
+  "end station id": 514,
+  "end station name": "12 Ave & W 40 St",
+  "end station latitude": 40.76087502,
+  "end station longitude": -74.00277668,
+  "bikeid": 38511,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

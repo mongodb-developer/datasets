@@ -1,0 +1,17 @@
+{
+  "tripduration": 1435,
+  "starttime": "2019-12-01 10:48:25.4440",
+  "stoptime": "2019-12-01 11:12:20.4810",
+  "start station id": 3648,
+  "start station name": "Flushing Ave & Vanderbilt Ave",
+  "start station latitude": 40.697950315695444,
+  "start station longitude": -73.97077560424805,
+  "end station id": 3820,
+  "end station name": "Willoughby Ave & Myrtle Ave",
+  "end station latitude": 40.69757,
+  "end station longitude": -73.93098,
+  "bikeid": 40726,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "female"
+}

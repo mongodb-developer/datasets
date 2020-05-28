@@ -1,0 +1,17 @@
+{
+  "tripduration": 404,
+  "starttime": "2019-12-01 00:52:49.8120",
+  "stoptime": "2019-12-01 00:59:34.5020",
+  "start station id": 3107,
+  "start station name": "Bedford Ave & Nassau Ave",
+  "start station latitude": 40.72311651,
+  "start station longitude": -73.95212324,
+  "end station id": 3118,
+  "end station name": "McGuinness Blvd & Eagle St",
+  "end station latitude": 40.73555,
+  "end station longitude": -73.95284,
+  "bikeid": 33993,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

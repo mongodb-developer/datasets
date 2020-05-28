@@ -1,0 +1,17 @@
+{
+  "tripduration": 626,
+  "starttime": "2019-12-01 12:05:23.2500",
+  "stoptime": "2019-12-01 12:15:49.6520",
+  "start station id": 3313,
+  "start station name": "6 Ave & 12 St",
+  "start station latitude": 40.6663181,
+  "start station longitude": -73.9854617,
+  "end station id": 3417,
+  "end station name": "Baltic St & 5 Ave",
+  "end station latitude": 40.6795766,
+  "end station longitude": -73.97854971,
+  "bikeid": 28427,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

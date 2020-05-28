@@ -1,0 +1,17 @@
+{
+  "tripduration": 359,
+  "starttime": "2019-12-01 12:11:40.8750",
+  "stoptime": "2019-12-01 12:17:39.9130",
+  "start station id": 3086,
+  "start station name": "Graham Ave & Conselyea St",
+  "start station latitude": 40.715143,
+  "start station longitude": -73.944507,
+  "end station id": 3715,
+  "end station name": "Driggs Ave & N 9 St",
+  "end station latitude": 40.71816969454208,
+  "end station longitude": -73.95520135760307,
+  "bikeid": 38094,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 2496,
+  "starttime": "2019-12-01 15:04:36.3340",
+  "stoptime": "2019-12-01 15:46:13.0380",
+  "start station id": 3768,
+  "start station name": "Waterbury St & Stagg St",
+  "start station latitude": 40.71019,
+  "start station longitude": -73.93734,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 33598,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

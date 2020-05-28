@@ -1,0 +1,17 @@
+{
+  "tripduration": 201,
+  "starttime": "2019-12-01 09:57:19.9900",
+  "stoptime": "2019-12-01 10:00:41.8670",
+  "start station id": 3080,
+  "start station name": "S 4 St & Rodney St",
+  "start station latitude": 40.70934,
+  "start station longitude": -73.95608,
+  "end station id": 3085,
+  "end station name": "Roebling St & N 4 St",
+  "end station latitude": 40.71469,
+  "end station longitude": -73.95739,
+  "bikeid": 31961,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

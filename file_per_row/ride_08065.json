@@ -1,0 +1,17 @@
+{
+  "tripduration": 777,
+  "starttime": "2019-12-01 15:22:11.8020",
+  "stoptime": "2019-12-01 15:35:09.0660",
+  "start station id": 453,
+  "start station name": "W 22 St & 8 Ave",
+  "start station latitude": 40.74475148,
+  "start station longitude": -73.99915362,
+  "end station id": 448,
+  "end station name": "W 37 St & 10 Ave",
+  "end station latitude": 40.75660359,
+  "end station longitude": -73.9979009,
+  "bikeid": 40654,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

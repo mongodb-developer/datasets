@@ -1,0 +1,17 @@
+{
+  "tripduration": 290,
+  "starttime": "2019-12-01 12:15:07.8560",
+  "stoptime": "2019-12-01 12:19:57.9180",
+  "start station id": 491,
+  "start station name": "E 24 St & Park Ave S",
+  "start station latitude": 40.74096374,
+  "start station longitude": -73.98602213,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 30798,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

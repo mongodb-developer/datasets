@@ -1,0 +1,17 @@
+{
+  "tripduration": 1972,
+  "starttime": "2019-12-01 08:14:07.3410",
+  "stoptime": "2019-12-01 08:47:00.1570",
+  "start station id": 2009,
+  "start station name": "Catherine St & Monroe St",
+  "start station latitude": 40.71117444,
+  "start station longitude": -73.99682619,
+  "end station id": 3236,
+  "end station name": "W 42 St & Dyer Ave",
+  "end station latitude": 40.75898481399634,
+  "end station longitude": -73.99379968643188,
+  "bikeid": 15773,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

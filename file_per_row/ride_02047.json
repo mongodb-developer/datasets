@@ -1,0 +1,17 @@
+{
+  "tripduration": 1079,
+  "starttime": "2019-12-01 08:48:52.6540",
+  "stoptime": "2019-12-01 09:06:52.4130",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 3287,
+  "end station name": "W 87 St & West End Ave",
+  "end station latitude": 40.789622,
+  "end station longitude": -73.97757,
+  "bikeid": 16827,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 681,
+  "starttime": "2019-12-01 14:50:59.5240",
+  "stoptime": "2019-12-01 15:02:20.6040",
+  "start station id": 295,
+  "start station name": "Pike St & E Broadway",
+  "start station latitude": 40.71406667,
+  "start station longitude": -73.99293911,
+  "end station id": 266,
+  "end station name": "Avenue D & E 8 St",
+  "end station latitude": 40.72368361,
+  "end station longitude": -73.97574813,
+  "bikeid": 27434,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

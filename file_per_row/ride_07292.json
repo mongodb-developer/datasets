@@ -1,0 +1,17 @@
+{
+  "tripduration": 208,
+  "starttime": "2019-12-01 13:48:51.3720",
+  "stoptime": "2019-12-01 13:52:19.4030",
+  "start station id": 439,
+  "start station name": "E 4 St & 2 Ave",
+  "start station latitude": 40.7262807,
+  "start station longitude": -73.98978041,
+  "end station id": 3788,
+  "end station name": "E 12 St & 4 Av",
+  "end station latitude": 40.73269,
+  "end station longitude": -73.98974,
+  "bikeid": 41023,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

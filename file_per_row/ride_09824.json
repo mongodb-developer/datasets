@@ -1,0 +1,17 @@
+{
+  "tripduration": 660,
+  "starttime": "2019-12-01 20:22:55.8500",
+  "stoptime": "2019-12-01 20:33:55.9950",
+  "start station id": 496,
+  "start station name": "E 16 St & 5 Ave",
+  "start station latitude": 40.73726186,
+  "start station longitude": -73.99238967,
+  "end station id": 432,
+  "end station name": "E 7 St & Avenue A",
+  "end station latitude": 40.72621788,
+  "end station longitude": -73.98379855,
+  "bikeid": 15193,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

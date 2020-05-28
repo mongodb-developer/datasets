@@ -1,0 +1,17 @@
+{
+  "tripduration": 226,
+  "starttime": "2019-12-01 12:54:53.2980",
+  "stoptime": "2019-12-01 12:58:40.1350",
+  "start station id": 3899,
+  "start station name": "Manhattan Av & Leonard St",
+  "start station latitude": 40.72084,
+  "start station longitude": -73.94844,
+  "end station id": 3715,
+  "end station name": "Driggs Ave & N 9 St",
+  "end station latitude": 40.71816969454208,
+  "end station longitude": -73.95520135760307,
+  "bikeid": 40687,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

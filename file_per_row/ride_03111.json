@@ -1,0 +1,17 @@
+{
+  "tripduration": 107,
+  "starttime": "2019-12-01 09:52:05.1990",
+  "stoptime": "2019-12-01 09:53:53.1360",
+  "start station id": 3315,
+  "start station name": "Henry St & Degraw St",
+  "start station latitude": 40.6847514,
+  "start station longitude": -73.99917254,
+  "end station id": 3321,
+  "end station name": "Clinton St & Union St",
+  "end station latitude": 40.6831164,
+  "end station longitude": -73.99785267,
+  "bikeid": 19946,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

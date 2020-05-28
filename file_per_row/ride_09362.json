@@ -1,0 +1,17 @@
+{
+  "tripduration": 385,
+  "starttime": "2019-12-01 19:06:31.3090",
+  "stoptime": "2019-12-01 19:12:56.8110",
+  "start station id": 361,
+  "start station name": "Allen St & Hester St",
+  "start station latitude": 40.71605866,
+  "start station longitude": -73.99190759,
+  "end station id": 356,
+  "end station name": "Bialystoker Pl & Delancey St",
+  "end station latitude": 40.71622644,
+  "end station longitude": -73.98261206,
+  "bikeid": 30440,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "female"
+}

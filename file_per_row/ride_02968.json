@@ -1,0 +1,17 @@
+{
+  "tripduration": 864,
+  "starttime": "2019-12-01 09:45:51.0770",
+  "stoptime": "2019-12-01 10:00:15.3720",
+  "start station id": 3142,
+  "start station name": "1 Ave & E 62 St",
+  "start station latitude": 40.7612274,
+  "start station longitude": -73.96094022,
+  "end station id": 3615,
+  "end station name": "44 Dr & 21 St",
+  "end station latitude": 40.748,
+  "end station longitude": -73.9460927,
+  "bikeid": 34846,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 450,
+  "starttime": "2019-12-01 01:36:24.8290",
+  "stoptime": "2019-12-01 01:43:54.8470",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 127,
+  "end station name": "Barrow St & Hudson St",
+  "end station latitude": 40.73172428,
+  "end station longitude": -74.00674436,
+  "bikeid": 35303,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

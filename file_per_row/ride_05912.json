@@ -1,0 +1,17 @@
+{
+  "tripduration": 358,
+  "starttime": "2019-12-01 12:03:29.5360",
+  "stoptime": "2019-12-01 12:09:27.9620",
+  "start station id": 3283,
+  "start station name": "W 89 St & Columbus Ave",
+  "start station latitude": 40.7882213,
+  "start station longitude": -73.97041561,
+  "end station id": 3320,
+  "end station name": "Central Park West & W 100 St",
+  "end station latitude": 40.79406660818552,
+  "end station longitude": -73.96286845207214,
+  "bikeid": 30256,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 567,
+  "starttime": "2019-12-01 17:30:46.6510",
+  "stoptime": "2019-12-01 17:40:14.6160",
+  "start station id": 3687,
+  "start station name": "E 33 St & 1 Ave",
+  "start station latitude": 40.74322681432173,
+  "start station longitude": -73.97449783980846,
+  "end station id": 497,
+  "end station name": "E 17 St & Broadway",
+  "end station latitude": 40.73704984,
+  "end station longitude": -73.99009296,
+  "bikeid": 15997,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

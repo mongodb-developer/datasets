@@ -1,0 +1,17 @@
+{
+  "tripduration": 334,
+  "starttime": "2019-12-01 04:15:20.0150",
+  "stoptime": "2019-12-01 04:20:54.8830",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 265,
+  "end station name": "Stanton St & Chrystie St",
+  "end station latitude": 40.72229346,
+  "end station longitude": -73.99147535,
+  "bikeid": 35106,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 537,
+  "starttime": "2019-12-01 15:22:43.3220",
+  "stoptime": "2019-12-01 15:31:40.7800",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3086,
+  "end station name": "Graham Ave & Conselyea St",
+  "end station latitude": 40.715143,
+  "end station longitude": -73.944507,
+  "bikeid": 16809,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

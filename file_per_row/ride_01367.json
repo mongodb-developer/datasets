@@ -1,0 +1,17 @@
+{
+  "tripduration": 390,
+  "starttime": "2019-12-01 07:35:37.8290",
+  "stoptime": "2019-12-01 07:42:07.9190",
+  "start station id": 3535,
+  "start station name": "Mt Morris Park W & W 120 St",
+  "start station latitude": 40.804038,
+  "start station longitude": -73.945925,
+  "end station id": 3630,
+  "end station name": "Frederick Douglass Blvd & W 115 St",
+  "end station latitude": 40.8038654,
+  "end station longitude": -73.9559308,
+  "bikeid": 33385,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "female"
+}

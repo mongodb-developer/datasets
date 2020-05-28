@@ -1,0 +1,17 @@
+{
+  "tripduration": 88,
+  "starttime": "2019-12-01 12:29:24.6100",
+  "stoptime": "2019-12-01 12:30:53.2610",
+  "start station id": 3122,
+  "start station name": "48 Ave & 5 St",
+  "start station latitude": 40.744363287066875,
+  "start station longitude": -73.9558732509613,
+  "end station id": 3122,
+  "end station name": "48 Ave & 5 St",
+  "end station latitude": 40.744363287066875,
+  "end station longitude": -73.9558732509613,
+  "bikeid": 38310,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

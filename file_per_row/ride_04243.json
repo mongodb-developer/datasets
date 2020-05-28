@@ -1,0 +1,17 @@
+{
+  "tripduration": 795,
+  "starttime": "2019-12-01 10:41:03.9350",
+  "stoptime": "2019-12-01 10:54:19.1010",
+  "start station id": 274,
+  "start station name": "Lafayette Ave & Fort Greene Pl",
+  "start station latitude": 40.68691865,
+  "start station longitude": -73.976682,
+  "end station id": 3674,
+  "end station name": "Jay St & York St",
+  "end station latitude": 40.701403172577244,
+  "end station longitude": -73.98672670125961,
+  "bikeid": 40692,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

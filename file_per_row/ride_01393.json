@@ -1,0 +1,17 @@
+{
+  "tripduration": 330,
+  "starttime": "2019-12-01 07:40:17.7730",
+  "stoptime": "2019-12-01 07:45:48.0160",
+  "start station id": 3514,
+  "start station name": "Astoria Park S & Shore Blvd",
+  "start station latitude": 40.7767,
+  "start station longitude": -73.927631,
+  "end station id": 3517,
+  "end station name": "31 St & Hoyt Ave N",
+  "end station latitude": 40.7711528,
+  "end station longitude": -73.9170074,
+  "bikeid": 20783,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

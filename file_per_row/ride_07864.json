@@ -1,0 +1,17 @@
+{
+  "tripduration": 293,
+  "starttime": "2019-12-01 15:02:08.8240",
+  "stoptime": "2019-12-01 15:07:02.5240",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 486,
+  "end station name": "Broadway & W 29 St",
+  "end station latitude": 40.7462009,
+  "end station longitude": -73.98855723,
+  "bikeid": 38841,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

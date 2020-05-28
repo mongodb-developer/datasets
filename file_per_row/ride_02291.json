@@ -1,0 +1,17 @@
+{
+  "tripduration": 554,
+  "starttime": "2019-12-01 09:07:28.9920",
+  "stoptime": "2019-12-01 09:16:43.4330",
+  "start station id": 482,
+  "start station name": "W 15 St & 7 Ave",
+  "start station latitude": 40.73935542,
+  "start station longitude": -73.99931783,
+  "end station id": 503,
+  "end station name": "E 20 St & Park Ave",
+  "end station latitude": 40.73827428,
+  "end station longitude": -73.98751968,
+  "bikeid": 32274,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

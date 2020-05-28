@@ -1,0 +1,17 @@
+{
+  "tripduration": 533,
+  "starttime": "2019-12-01 09:34:29.6670",
+  "stoptime": "2019-12-01 09:43:23.4110",
+  "start station id": 3709,
+  "start station name": "W 15 St & 6 Ave",
+  "start station latitude": 40.738046142482766,
+  "start station longitude": -73.99642959237099,
+  "end station id": 388,
+  "end station name": "W 26 St & 10 Ave",
+  "end station latitude": 40.749717753,
+  "end station longitude": -74.002950346,
+  "bikeid": 38960,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

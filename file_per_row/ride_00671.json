@@ -1,0 +1,17 @@
+{
+  "tripduration": 335,
+  "starttime": "2019-12-01 02:20:58.3030",
+  "stoptime": "2019-12-01 02:26:33.3650",
+  "start station id": 3130,
+  "start station name": "21 St & Queens Plaza North",
+  "start station latitude": 40.75325964,
+  "start station longitude": -73.94335788,
+  "end station id": 3586,
+  "end station name": "34 Ave & 13 St",
+  "end station latitude": 40.7638753,
+  "end station longitude": -73.9364848,
+  "bikeid": 38703,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

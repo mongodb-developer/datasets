@@ -1,0 +1,17 @@
+{
+  "tripduration": 472,
+  "starttime": "2019-12-01 11:49:40.1420",
+  "stoptime": "2019-12-01 11:57:32.5480",
+  "start station id": 3440,
+  "start station name": "Fulton St & Adams St",
+  "start station latitude": 40.692418292578466,
+  "start station longitude": -73.98949474096298,
+  "end station id": 3386,
+  "end station name": "1 Pl & Clinton St",
+  "end station latitude": 40.6809591,
+  "end station longitude": -73.99905709,
+  "bikeid": 26043,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

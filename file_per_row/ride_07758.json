@@ -1,0 +1,17 @@
+{
+  "tripduration": 1647,
+  "starttime": "2019-12-01 14:52:38.6090",
+  "stoptime": "2019-12-01 15:20:06.2220",
+  "start station id": 3461,
+  "start station name": "Murray St & Greenwich St",
+  "start station latitude": 40.714851505262516,
+  "start station longitude": -74.01122331619263,
+  "end station id": 307,
+  "end station name": "Canal St & Rutgers St",
+  "end station latitude": 40.71427487,
+  "end station longitude": -73.98990025,
+  "bikeid": 33091,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

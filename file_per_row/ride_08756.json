@@ -1,0 +1,17 @@
+{
+  "tripduration": 215,
+  "starttime": "2019-12-01 17:10:38.5470",
+  "stoptime": "2019-12-01 17:14:13.6470",
+  "start station id": 167,
+  "start station name": "E 39 St & 3 Ave",
+  "start station latitude": 40.7489006,
+  "start station longitude": -73.97604882,
+  "end station id": 540,
+  "end station name": "Lexington Ave & E 29 St",
+  "end station latitude": 40.74311555376486,
+  "end station longitude": -73.98215353488922,
+  "bikeid": 38168,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

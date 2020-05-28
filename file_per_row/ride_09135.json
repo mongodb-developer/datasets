@@ -1,0 +1,17 @@
+{
+  "tripduration": 356,
+  "starttime": "2019-12-01 18:25:04.1670",
+  "stoptime": "2019-12-01 18:31:00.3620",
+  "start station id": 2017,
+  "start station name": "E 43 St & 2 Ave",
+  "start station latitude": 40.75022392,
+  "start station longitude": -73.97121414,
+  "end station id": 385,
+  "end station name": "E 55 St & 2 Ave",
+  "end station latitude": 40.75797322,
+  "end station longitude": -73.96603308,
+  "bikeid": 32575,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

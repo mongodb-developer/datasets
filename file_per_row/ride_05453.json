@@ -1,0 +1,17 @@
+{
+  "tripduration": 191,
+  "starttime": "2019-12-01 11:36:10.5580",
+  "stoptime": "2019-12-01 11:39:22.2630",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 41616,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 571,
+  "starttime": "2019-12-01 12:36:47.9770",
+  "stoptime": "2019-12-01 12:46:19.1980",
+  "start station id": 3362,
+  "start station name": "Madison Ave & E 82 St",
+  "start station latitude": 40.7781314,
+  "start station longitude": -73.96069399,
+  "end station id": 3136,
+  "end station name": "5 Ave & E 63 St",
+  "end station latitude": 40.766368,
+  "end station longitude": -73.971518,
+  "bikeid": 39512,
+  "usertype": "Subscriber",
+  "birth year": 1941,
+  "gender": "female"
+}

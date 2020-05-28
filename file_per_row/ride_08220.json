@@ -1,0 +1,17 @@
+{
+  "tripduration": 597,
+  "starttime": "2019-12-01 15:39:22.6170",
+  "stoptime": "2019-12-01 15:49:19.8890",
+  "start station id": 496,
+  "start station name": "E 16 St & 5 Ave",
+  "start station latitude": 40.73726186,
+  "start station longitude": -73.99238967,
+  "end station id": 251,
+  "end station name": "Mott St & Prince St",
+  "end station latitude": 40.72317958,
+  "end station longitude": -73.99480012,
+  "bikeid": 34149,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

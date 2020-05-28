@@ -1,0 +1,17 @@
+{
+  "tripduration": 208,
+  "starttime": "2019-12-01 09:52:54.6000",
+  "stoptime": "2019-12-01 09:56:22.7950",
+  "start station id": 386,
+  "start station name": "Centre St & Worth St",
+  "start station latitude": 40.71494807,
+  "start station longitude": -74.00234482,
+  "end station id": 82,
+  "end station name": "St James Pl & Pearl St",
+  "end station latitude": 40.71117416,
+  "end station longitude": -74.00016545,
+  "bikeid": 38950,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

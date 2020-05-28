@@ -1,0 +1,17 @@
+{
+  "tripduration": 727,
+  "starttime": "2019-12-01 09:27:35.7650",
+  "stoptime": "2019-12-01 09:39:43.6080",
+  "start station id": 410,
+  "start station name": "Suffolk St & Stanton St",
+  "start station latitude": 40.72066442,
+  "start station longitude": -73.98517977,
+  "end station id": 532,
+  "end station name": "S 5 Pl & S 5 St",
+  "end station latitude": 40.710451,
+  "end station longitude": -73.960876,
+  "bikeid": 41936,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

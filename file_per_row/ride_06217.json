@@ -1,0 +1,17 @@
+{
+  "tripduration": 576,
+  "starttime": "2019-12-01 12:21:08.8420",
+  "stoptime": "2019-12-01 12:30:45.5020",
+  "start station id": 2000,
+  "start station name": "Front St & Washington St",
+  "start station latitude": 40.70255088,
+  "start station longitude": -73.98940236,
+  "end station id": 418,
+  "end station name": "Front St & Gold St",
+  "end station latitude": 40.70224,
+  "end station longitude": -73.982578,
+  "bikeid": 41074,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 395,
+  "starttime": "2019-12-01 12:17:04.8680",
+  "stoptime": "2019-12-01 12:23:40.0720",
+  "start station id": 3071,
+  "start station name": "Boerum St & Broadway",
+  "start station latitude": 40.70538077,
+  "start station longitude": -73.94976519,
+  "end station id": 389,
+  "end station name": "Broadway & Berry St",
+  "end station latitude": 40.71044554,
+  "end station longitude": -73.96525063,
+  "bikeid": 35171,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

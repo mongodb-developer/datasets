@@ -1,0 +1,17 @@
+{
+  "tripduration": 694,
+  "starttime": "2019-12-01 10:43:54.9930",
+  "stoptime": "2019-12-01 10:55:29.8470",
+  "start station id": 503,
+  "start station name": "E 20 St & Park Ave",
+  "start station latitude": 40.73827428,
+  "start station longitude": -73.98751968,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 19403,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

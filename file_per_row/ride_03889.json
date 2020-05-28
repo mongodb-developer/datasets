@@ -1,0 +1,17 @@
+{
+  "tripduration": 681,
+  "starttime": "2019-12-01 10:26:19.4450",
+  "stoptime": "2019-12-01 10:37:41.3650",
+  "start station id": 259,
+  "start station name": "South St & Whitehall St",
+  "start station latitude": 40.70122128,
+  "start station longitude": -74.01234218,
+  "end station id": 308,
+  "end station name": "St James Pl & Oliver St",
+  "end station latitude": 40.71307916,
+  "end station longitude": -73.99851193,
+  "bikeid": 17381,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

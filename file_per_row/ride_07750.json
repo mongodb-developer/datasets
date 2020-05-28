@@ -1,0 +1,17 @@
+{
+  "tripduration": 308,
+  "starttime": "2019-12-01 14:51:49.4740",
+  "stoptime": "2019-12-01 14:56:57.8420",
+  "start station id": 520,
+  "start station name": "W 52 St & 5 Ave",
+  "start station latitude": 40.75992262,
+  "start station longitude": -73.97648516,
+  "end station id": 464,
+  "end station name": "E 56 St & 3 Ave",
+  "end station latitude": 40.75934501,
+  "end station longitude": -73.96759673,
+  "bikeid": 38675,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "female"
+}

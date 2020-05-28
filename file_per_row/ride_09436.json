@@ -1,0 +1,17 @@
+{
+  "tripduration": 584,
+  "starttime": "2019-12-01 19:18:01.8010",
+  "stoptime": "2019-12-01 19:27:46.3000",
+  "start station id": 320,
+  "start station name": "Leonard St & Church St",
+  "start station latitude": 40.717571,
+  "start station longitude": -74.005549,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 39306,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 940,
+  "starttime": "2019-12-01 03:54:40.3820",
+  "stoptime": "2019-12-01 04:10:20.9480",
+  "start station id": 336,
+  "start station name": "Sullivan St & Washington Sq",
+  "start station latitude": 40.73047747,
+  "start station longitude": -73.99906065,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 31797,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 420,
+  "starttime": "2019-12-01 13:21:15.4030",
+  "stoptime": "2019-12-01 13:28:15.4420",
+  "start station id": 3566,
+  "start station name": "Crescent St & 35 Ave",
+  "start station latitude": 40.7596276,
+  "start station longitude": -73.9321455,
+  "end station id": 3555,
+  "end station name": "28 St & 41 Ave",
+  "end station latitude": 40.751047,
+  "end station longitude": -73.93797,
+  "bikeid": 34277,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

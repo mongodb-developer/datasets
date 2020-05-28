@@ -1,0 +1,17 @@
+{
+  "tripduration": 1206,
+  "starttime": "2019-12-01 00:00:10.9630",
+  "stoptime": "2019-12-01 00:20:17.8820",
+  "start station id": 362,
+  "start station name": "Broadway & W 37 St",
+  "start station latitude": 40.75172632,
+  "start station longitude": -73.98753523,
+  "end station id": 500,
+  "end station name": "Broadway & W 51 St",
+  "end station latitude": 40.76228826,
+  "end station longitude": -73.98336183,
+  "bikeid": 18869,
+  "usertype": "Customer",
+  "birth year": 1999,
+  "gender": "male"
+}

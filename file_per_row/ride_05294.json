@@ -1,0 +1,17 @@
+{
+  "tripduration": 1182,
+  "starttime": "2019-12-01 11:26:37.8440",
+  "stoptime": "2019-12-01 11:46:20.0220",
+  "start station id": 427,
+  "start station name": "Bus Slip & State St",
+  "start station latitude": 40.701907,
+  "start station longitude": -74.013942,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 31651,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

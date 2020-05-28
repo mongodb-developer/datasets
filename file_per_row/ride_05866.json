@@ -1,0 +1,17 @@
+{
+  "tripduration": 212,
+  "starttime": "2019-12-01 12:01:22.4210",
+  "stoptime": "2019-12-01 12:04:54.6770",
+  "start station id": 3668,
+  "start station name": "Leonard St & Nassau Ave",
+  "start station latitude": 40.7239567849954,
+  "start station longitude": -73.94984364509583,
+  "end station id": 3452,
+  "end station name": "Bayard St & Leonard St",
+  "end station latitude": 40.71915571696044,
+  "end station longitude": -73.94885390996933,
+  "bikeid": 34907,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 611,
+  "starttime": "2019-12-01 13:09:18.5650",
+  "stoptime": "2019-12-01 13:19:30.5370",
+  "start station id": 3767,
+  "start station name": "Powers St & Olive St",
+  "start station latitude": 40.71323,
+  "start station longitude": -73.93894,
+  "end station id": 3066,
+  "end station name": "Tompkins Ave & Hopkins St",
+  "end station latitude": 40.69957608,
+  "end station longitude": -73.94708417,
+  "bikeid": 39824,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 449,
+  "starttime": "2019-12-01 08:32:30.1800",
+  "stoptime": "2019-12-01 08:39:59.4260",
+  "start station id": 546,
+  "start station name": "E 30 St & Park Ave S",
+  "start station latitude": 40.74444921,
+  "start station longitude": -73.98303529,
+  "end station id": 494,
+  "end station name": "W 26 St & 8 Ave",
+  "end station latitude": 40.74734825,
+  "end station longitude": -73.99723551,
+  "bikeid": 38114,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

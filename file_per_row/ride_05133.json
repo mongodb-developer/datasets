@@ -1,0 +1,17 @@
+{
+  "tripduration": 578,
+  "starttime": "2019-12-01 11:18:43.1070",
+  "stoptime": "2019-12-01 11:28:21.4120",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 503,
+  "end station name": "E 20 St & Park Ave",
+  "end station latitude": 40.73827428,
+  "end station longitude": -73.98751968,
+  "bikeid": 38967,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

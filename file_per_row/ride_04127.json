@@ -1,0 +1,17 @@
+{
+  "tripduration": 1411,
+  "starttime": "2019-12-01 10:36:04.0300",
+  "stoptime": "2019-12-01 10:59:35.8800",
+  "start station id": 3763,
+  "start station name": "Wyckoff Av & Jefferson St",
+  "start station latitude": 40.707165,
+  "start station longitude": -73.923711,
+  "end station id": 3115,
+  "end station name": "India St & Manhattan Ave",
+  "end station latitude": 40.73232194,
+  "end station longitude": -73.9550858,
+  "bikeid": 40807,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

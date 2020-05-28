@@ -1,0 +1,17 @@
+{
+  "tripduration": 414,
+  "starttime": "2019-12-01 15:29:44.6890",
+  "stoptime": "2019-12-01 15:36:39.2610",
+  "start station id": 3429,
+  "start station name": "Hanson Pl & Ashland Pl",
+  "start station latitude": 40.68506807308177,
+  "start station longitude": -73.97790759801863,
+  "end station id": 3335,
+  "end station name": "Union St & 4 Ave",
+  "end station latitude": 40.6772744,
+  "end station longitude": -73.98282002,
+  "bikeid": 27051,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

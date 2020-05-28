@@ -1,0 +1,17 @@
+{
+  "tripduration": 265,
+  "starttime": "2019-12-01 19:53:54.7860",
+  "stoptime": "2019-12-01 19:58:20.0380",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 39961,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

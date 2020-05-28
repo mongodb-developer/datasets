@@ -1,0 +1,17 @@
+{
+  "tripduration": 795,
+  "starttime": "2019-12-01 19:46:30.5540",
+  "stoptime": "2019-12-01 19:59:46.0180",
+  "start station id": 3242,
+  "start station name": "Schermerhorn St & Court St",
+  "start station latitude": 40.69102925677968,
+  "start station longitude": -73.99183362722397,
+  "end station id": 3429,
+  "end station name": "Hanson Pl & Ashland Pl",
+  "end station latitude": 40.68506807308177,
+  "end station longitude": -73.97790759801863,
+  "bikeid": 16619,
+  "usertype": "Customer",
+  "birth year": 1984,
+  "gender": "male"
+}

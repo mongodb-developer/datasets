@@ -1,0 +1,17 @@
+{
+  "tripduration": 349,
+  "starttime": "2019-12-01 19:14:47.9440",
+  "stoptime": "2019-12-01 19:20:37.4200",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 3724,
+  "end station name": "7 Ave & Central Park South",
+  "end station latitude": 40.7667405590595,
+  "end station longitude": -73.9790689945221,
+  "bikeid": 35106,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

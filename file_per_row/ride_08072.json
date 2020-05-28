@@ -1,0 +1,17 @@
+{
+  "tripduration": 258,
+  "starttime": "2019-12-01 15:23:04.4510",
+  "stoptime": "2019-12-01 15:27:22.6530",
+  "start station id": 3840,
+  "start station name": "Putnam Ave & Wyckoff Ave",
+  "start station latitude": 40.69811,
+  "start station longitude": -73.90904,
+  "end station id": 3863,
+  "end station name": "Central Ave & Woodbine St",
+  "end station latitude": 40.69296,
+  "end station longitude": -73.91605,
+  "bikeid": 33806,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

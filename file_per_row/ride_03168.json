@@ -1,0 +1,17 @@
+{
+  "tripduration": 1395,
+  "starttime": "2019-12-01 09:54:34.1910",
+  "stoptime": "2019-12-01 10:17:49.4780",
+  "start station id": 3734,
+  "start station name": "E 58 St &  1 Ave (NW Corner)",
+  "start station latitude": 40.759125,
+  "start station longitude": -73.962658,
+  "end station id": 496,
+  "end station name": "E 16 St & 5 Ave",
+  "end station latitude": 40.73726186,
+  "end station longitude": -73.99238967,
+  "bikeid": 30798,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "female"
+}

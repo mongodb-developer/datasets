@@ -1,0 +1,17 @@
+{
+  "tripduration": 1939,
+  "starttime": "2019-12-01 12:44:50.2260",
+  "stoptime": "2019-12-01 13:17:10.0080",
+  "start station id": 3125,
+  "start station name": "45 Rd & 11 St",
+  "start station latitude": 40.74708586,
+  "start station longitude": -73.94977234,
+  "end station id": 416,
+  "end station name": "Cumberland St & Lafayette Ave",
+  "end station latitude": 40.68753406,
+  "end station longitude": -73.97265183,
+  "bikeid": 40833,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

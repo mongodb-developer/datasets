@@ -1,0 +1,17 @@
+{
+  "tripduration": 566,
+  "starttime": "2019-12-01 07:33:21.3080",
+  "stoptime": "2019-12-01 07:42:48.0190",
+  "start station id": 3826,
+  "start station name": "Moffat St & Bushwick",
+  "start station latitude": 40.68458,
+  "start station longitude": -73.90925,
+  "end station id": 3043,
+  "end station name": "Lewis Ave & Decatur St",
+  "end station latitude": 40.6814598,
+  "end station longitude": -73.934903,
+  "bikeid": 38334,
+  "usertype": "Customer",
+  "birth year": 1998,
+  "gender": "male"
+}

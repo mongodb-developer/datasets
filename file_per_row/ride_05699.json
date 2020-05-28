@@ -1,0 +1,17 @@
+{
+  "tripduration": 373,
+  "starttime": "2019-12-01 11:51:05.7680",
+  "stoptime": "2019-12-01 11:57:19.0790",
+  "start station id": 252,
+  "start station name": "MacDougal St & Washington Sq",
+  "start station latitude": 40.73226398,
+  "start station longitude": -73.99852205,
+  "end station id": 236,
+  "end station name": "St Marks Pl & 2 Ave",
+  "end station latitude": 40.7284186,
+  "end station longitude": -73.98713956,
+  "bikeid": 38979,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

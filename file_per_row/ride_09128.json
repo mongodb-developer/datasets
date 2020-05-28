@@ -1,0 +1,17 @@
+{
+  "tripduration": 473,
+  "starttime": "2019-12-01 18:23:39.9660",
+  "stoptime": "2019-12-01 18:31:33.7280",
+  "start station id": 3857,
+  "start station name": "Engert Ave & McGuinness Blvd",
+  "start station latitude": 40.72158,
+  "start station longitude": -73.94546,
+  "end station id": 3077,
+  "end station name": "Stagg St & Union Ave",
+  "end station latitude": 40.70877084,
+  "end station longitude": -73.95095259,
+  "bikeid": 41134,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

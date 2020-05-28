@@ -1,0 +1,17 @@
+{
+  "tripduration": 782,
+  "starttime": "2019-12-01 10:28:47.2320",
+  "stoptime": "2019-12-01 10:41:49.4520",
+  "start station id": 507,
+  "start station name": "E 25 St & 2 Ave",
+  "start station latitude": 40.73912601,
+  "start station longitude": -73.97973776,
+  "end station id": 383,
+  "end station name": "Greenwich Ave & Charles St",
+  "end station latitude": 40.735238,
+  "end station longitude": -74.000271,
+  "bikeid": 41815,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

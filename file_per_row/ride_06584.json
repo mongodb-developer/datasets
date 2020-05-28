@@ -1,0 +1,17 @@
+{
+  "tripduration": 734,
+  "starttime": "2019-12-01 12:40:47.2380",
+  "stoptime": "2019-12-01 12:53:01.6710",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 41145,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "female"
+}

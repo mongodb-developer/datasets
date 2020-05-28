@@ -1,0 +1,17 @@
+{
+  "tripduration": 365,
+  "starttime": "2019-12-01 11:55:07.5920",
+  "stoptime": "2019-12-01 12:01:12.6030",
+  "start station id": 3579,
+  "start station name": "Sterling Pl & Bedford Ave",
+  "start station latitude": 40.672695,
+  "start station longitude": -73.954131,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 40653,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

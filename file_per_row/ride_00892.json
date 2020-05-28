@@ -1,0 +1,17 @@
+{
+  "tripduration": 1583,
+  "starttime": "2019-12-01 03:42:03.1290",
+  "stoptime": "2019-12-01 04:08:26.3580",
+  "start station id": 385,
+  "start station name": "E 55 St & 2 Ave",
+  "start station latitude": 40.75797322,
+  "start station longitude": -73.96603308,
+  "end station id": 3383,
+  "end station name": "Cathedral Pkwy & Broadway",
+  "end station latitude": 40.804213,
+  "end station longitude": -73.96699104,
+  "bikeid": 32909,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

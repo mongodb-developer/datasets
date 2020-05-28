@@ -1,0 +1,17 @@
+{
+  "tripduration": 726,
+  "starttime": "2019-12-01 10:20:48.6350",
+  "stoptime": "2019-12-01 10:32:54.9760",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 28838,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 193,
+  "starttime": "2019-12-01 07:25:31.9230",
+  "stoptime": "2019-12-01 07:28:45.4320",
+  "start station id": 241,
+  "start station name": "DeKalb Ave & S Portland Ave",
+  "start station latitude": 40.68981035,
+  "start station longitude": -73.97493121,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 39778,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

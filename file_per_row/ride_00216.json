@@ -1,0 +1,17 @@
+{
+  "tripduration": 277,
+  "starttime": "2019-12-01 00:33:02.4260",
+  "stoptime": "2019-12-01 00:37:40.0010",
+  "start station id": 526,
+  "start station name": "E 33 St & 5 Ave",
+  "start station latitude": 40.74765947,
+  "start station longitude": -73.98490707,
+  "end station id": 402,
+  "end station name": "Broadway & E 22 St",
+  "end station latitude": 40.7403432,
+  "end station longitude": -73.98955109,
+  "bikeid": 32979,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

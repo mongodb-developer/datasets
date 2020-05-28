@@ -1,0 +1,17 @@
+{
+  "tripduration": 139,
+  "starttime": "2019-12-01 14:55:52.3750",
+  "stoptime": "2019-12-01 14:58:11.5760",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 19960,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

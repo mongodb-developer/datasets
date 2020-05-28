@@ -1,0 +1,17 @@
+{
+  "tripduration": 273,
+  "starttime": "2019-12-01 12:52:57.9660",
+  "stoptime": "2019-12-01 12:57:31.0080",
+  "start station id": 3576,
+  "start station name": "Park Pl & Vanderbilt Ave",
+  "start station latitude": 40.6767,
+  "start station longitude": -73.969024,
+  "end station id": 3414,
+  "end station name": "Bergen St & Flatbush Ave",
+  "end station latitude": 40.680944723477296,
+  "end station longitude": -73.97567331790923,
+  "bikeid": 41211,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

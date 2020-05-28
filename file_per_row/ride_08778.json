@@ -1,0 +1,17 @@
+{
+  "tripduration": 307,
+  "starttime": "2019-12-01 17:17:56.0820",
+  "stoptime": "2019-12-01 17:23:03.2810",
+  "start station id": 3148,
+  "start station name": "E 84 St & 1 Ave",
+  "start station latitude": 40.77565541,
+  "start station longitude": -73.95068615,
+  "end station id": 3369,
+  "end station name": "E 82 St & East End Ave",
+  "end station latitude": 40.7724607,
+  "end station longitude": -73.9468208,
+  "bikeid": 19238,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 404,
+  "starttime": "2019-12-01 00:00:12.2200",
+  "stoptime": "2019-12-01 00:06:56.8860",
+  "start station id": 3834,
+  "start station name": "Irving Ave & Halsey St",
+  "start station latitude": 40.69467,
+  "start station longitude": -73.90663,
+  "end station id": 3827,
+  "end station name": "Halsey St & Broadway",
+  "end station latitude": 40.68565,
+  "end station longitude": -73.91564,
+  "bikeid": 41692,
+  "usertype": "Customer",
+  "birth year": 1995,
+  "gender": "male"
+}

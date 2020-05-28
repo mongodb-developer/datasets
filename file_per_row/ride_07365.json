@@ -1,0 +1,17 @@
+{
+  "tripduration": 1613,
+  "starttime": "2019-12-01 14:01:32.4100",
+  "stoptime": "2019-12-01 14:28:26.1030",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 3737,
+  "end station name": "Stanton St & Norfolk St",
+  "end station latitude": 40.720747,
+  "end station longitude": -73.986274,
+  "bikeid": 29699,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

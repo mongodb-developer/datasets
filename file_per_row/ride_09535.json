@@ -1,0 +1,17 @@
+{
+  "tripduration": 816,
+  "starttime": "2019-12-01 19:35:20.1200",
+  "stoptime": "2019-12-01 19:48:56.8980",
+  "start station id": 258,
+  "start station name": "DeKalb Ave & Vanderbilt Ave",
+  "start station latitude": 40.68940747,
+  "start station longitude": -73.96885458,
+  "end station id": 3059,
+  "end station name": "Pulaski St & Marcus Garvey Blvd",
+  "end station latitude": 40.6933982,
+  "end station longitude": -73.939877,
+  "bikeid": 31179,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

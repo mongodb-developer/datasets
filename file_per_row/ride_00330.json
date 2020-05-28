@@ -1,0 +1,17 @@
+{
+  "tripduration": 165,
+  "starttime": "2019-12-01 00:51:15.7060",
+  "stoptime": "2019-12-01 00:54:01.3880",
+  "start station id": 3584,
+  "start station name": "Eastern Pkwy & Franklin Ave",
+  "start station latitude": 40.6707767,
+  "start station longitude": -73.9576801,
+  "end station id": 3579,
+  "end station name": "Sterling Pl & Bedford Ave",
+  "end station latitude": 40.672695,
+  "end station longitude": -73.954131,
+  "bikeid": 28642,
+  "usertype": "Subscriber",
+  "birth year": 1951,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 99,
+  "starttime": "2019-12-01 08:22:22.4610",
+  "stoptime": "2019-12-01 08:24:02.0400",
+  "start station id": 3606,
+  "start station name": "49 Ave & 21 St",
+  "start station latitude": 40.74252,
+  "start station longitude": -73.948852,
+  "end station id": 3121,
+  "end station name": "Jackson Ave & 46 Rd",
+  "end station latitude": 40.74524768,
+  "end station longitude": -73.94733276,
+  "bikeid": 39913,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

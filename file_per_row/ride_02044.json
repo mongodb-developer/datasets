@@ -1,0 +1,17 @@
+{
+  "tripduration": 1105,
+  "starttime": "2019-12-01 08:48:43.2480",
+  "stoptime": "2019-12-01 09:07:08.4260",
+  "start station id": 3047,
+  "start station name": "Halsey St & Tompkins Ave",
+  "start station latitude": 40.6823687,
+  "start station longitude": -73.944118,
+  "end station id": 242,
+  "end station name": "Carlton Ave & Flushing Ave",
+  "end station latitude": 40.697787,
+  "end station longitude": -73.973736,
+  "bikeid": 35047,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

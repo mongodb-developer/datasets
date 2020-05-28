@@ -1,0 +1,17 @@
+{
+  "tripduration": 304,
+  "starttime": "2019-12-01 09:25:18.7850",
+  "stoptime": "2019-12-01 09:30:22.9690",
+  "start station id": 3304,
+  "start station name": "6 Ave & 9 St",
+  "start station latitude": 40.668127,
+  "start station longitude": -73.98377641,
+  "end station id": 3346,
+  "end station name": "Berkeley Pl & 7 Ave",
+  "end station latitude": 40.675146838709786,
+  "end station longitude": -73.97523209452629,
+  "bikeid": 41474,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

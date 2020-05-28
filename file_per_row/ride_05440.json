@@ -1,0 +1,17 @@
+{
+  "tripduration": 165,
+  "starttime": "2019-12-01 11:35:22.5150",
+  "stoptime": "2019-12-01 11:38:07.6560",
+  "start station id": 455,
+  "start station name": "1 Ave & E 44 St",
+  "start station latitude": 40.75001986,
+  "start station longitude": -73.96905301,
+  "end station id": 516,
+  "end station name": "E 47 St & 1 Ave",
+  "end station latitude": 40.75206862,
+  "end station longitude": -73.96784384,
+  "bikeid": 20368,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

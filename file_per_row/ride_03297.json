@@ -1,0 +1,17 @@
+{
+  "tripduration": 211,
+  "starttime": "2019-12-01 10:00:09.3780",
+  "stoptime": "2019-12-01 10:03:41.3640",
+  "start station id": 3558,
+  "start station name": "Bergen St & Vanderbilt Ave",
+  "start station latitude": 40.6794388,
+  "start station longitude": -73.9680438,
+  "end station id": 3546,
+  "end station name": "Pacific St & Classon Ave",
+  "end station latitude": 40.6791944,
+  "end station longitude": -73.9587903,
+  "bikeid": 14786,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

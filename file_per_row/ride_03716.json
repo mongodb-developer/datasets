@@ -1,0 +1,17 @@
+{
+  "tripduration": 310,
+  "starttime": "2019-12-01 10:18:58.8570",
+  "stoptime": "2019-12-01 10:24:08.9760",
+  "start station id": 3726,
+  "start station name": "Center Blvd & 51 Ave",
+  "start station latitude": 40.743366080270214,
+  "start station longitude": -73.95960688591003,
+  "end station id": 3125,
+  "end station name": "45 Rd & 11 St",
+  "end station latitude": 40.74708586,
+  "end station longitude": -73.94977234,
+  "bikeid": 39757,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 295,
+  "starttime": "2019-12-01 16:07:37.0480",
+  "stoptime": "2019-12-01 16:12:33.0340",
+  "start station id": 296,
+  "start station name": "Division St & Bowery (old)",
+  "start station latitude": 40.71413089,
+  "start station longitude": -73.9970468,
+  "end station id": 340,
+  "end station name": "Madison St & Clinton St",
+  "end station latitude": 40.71269042,
+  "end station longitude": -73.98776323,
+  "bikeid": 39257,
+  "usertype": "Subscriber",
+  "birth year": 1951,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 479,
+  "starttime": "2019-12-01 10:30:24.5520",
+  "stoptime": "2019-12-01 10:38:23.9190",
+  "start station id": 3128,
+  "start station name": "21 St & 43 Ave",
+  "start station latitude": 40.75052534,
+  "start station longitude": -73.94594845,
+  "end station id": 3115,
+  "end station name": "India St & Manhattan Ave",
+  "end station latitude": 40.73232194,
+  "end station longitude": -73.9550858,
+  "bikeid": 28566,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

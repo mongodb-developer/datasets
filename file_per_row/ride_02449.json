@@ -1,0 +1,17 @@
+{
+  "tripduration": 516,
+  "starttime": "2019-12-01 09:17:13.0200",
+  "stoptime": "2019-12-01 09:25:49.1990",
+  "start station id": 3680,
+  "start station name": "E 43 St & 5 Ave",
+  "start station latitude": 40.754120810779256,
+  "start station longitude": -73.98025184869766,
+  "end station id": 468,
+  "end station name": "Broadway & W 56 St",
+  "end station latitude": 40.7652654,
+  "end station longitude": -73.98192338,
+  "bikeid": 16608,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1034,
+  "starttime": "2019-12-01 18:11:26.5160",
+  "stoptime": "2019-12-01 18:28:41.0900",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 41719,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

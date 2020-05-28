@@ -1,0 +1,17 @@
+{
+  "tripduration": 2415,
+  "starttime": "2019-12-01 16:43:03.3020",
+  "stoptime": "2019-12-01 17:23:18.8150",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 252,
+  "end station name": "MacDougal St & Washington Sq",
+  "end station latitude": 40.73226398,
+  "end station longitude": -73.99852205,
+  "bikeid": 34042,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

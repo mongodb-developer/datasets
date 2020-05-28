@@ -1,0 +1,17 @@
+{
+  "tripduration": 600,
+  "starttime": "2019-12-01 20:32:59.3560",
+  "stoptime": "2019-12-01 20:42:59.6170",
+  "start station id": 456,
+  "start station name": "E 53 St & Madison Ave",
+  "start station latitude": 40.7597108,
+  "start station longitude": -73.97402311,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 40288,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

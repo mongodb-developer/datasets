@@ -1,0 +1,17 @@
+{
+  "tripduration": 1294,
+  "starttime": "2019-12-01 05:06:43.2800",
+  "stoptime": "2019-12-01 05:28:17.4330",
+  "start station id": 3092,
+  "start station name": "Berry St & N 8 St",
+  "start station latitude": 40.7190095,
+  "start station longitude": -73.95852515,
+  "end station id": 3074,
+  "end station name": "Montrose Ave & Bushwick Ave",
+  "end station latitude": 40.70767788,
+  "end station longitude": -73.94016171,
+  "bikeid": 41508,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

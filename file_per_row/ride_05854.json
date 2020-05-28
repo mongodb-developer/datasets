@@ -1,0 +1,17 @@
+{
+  "tripduration": 436,
+  "starttime": "2019-12-01 12:00:22.8430",
+  "stoptime": "2019-12-01 12:07:39.4050",
+  "start station id": 3092,
+  "start station name": "Berry St & N 8 St",
+  "start station latitude": 40.7190095,
+  "start station longitude": -73.95852515,
+  "end station id": 3080,
+  "end station name": "S 4 St & Rodney St",
+  "end station latitude": 40.70934,
+  "end station longitude": -73.95608,
+  "bikeid": 31315,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

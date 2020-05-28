@@ -1,0 +1,17 @@
+{
+  "tripduration": 87,
+  "starttime": "2019-12-01 17:57:33.2580",
+  "stoptime": "2019-12-01 17:59:01.2190",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 301,
+  "end station name": "E 2 St & Avenue B",
+  "end station latitude": 40.72217444,
+  "end station longitude": -73.98368779,
+  "bikeid": 28928,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

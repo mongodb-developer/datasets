@@ -1,0 +1,17 @@
+{
+  "tripduration": 941,
+  "starttime": "2019-12-01 16:47:48.5460",
+  "stoptime": "2019-12-01 17:03:29.9480",
+  "start station id": 3106,
+  "start station name": "Driggs Ave & N Henry St",
+  "start station latitude": 40.72325,
+  "start station longitude": -73.94308,
+  "end station id": 3857,
+  "end station name": "Engert Ave & McGuinness Blvd",
+  "end station latitude": 40.72158,
+  "end station longitude": -73.94546,
+  "bikeid": 41134,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "female"
+}

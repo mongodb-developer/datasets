@@ -1,0 +1,17 @@
+{
+  "tripduration": 435,
+  "starttime": "2019-12-01 08:34:57.1880",
+  "stoptime": "2019-12-01 08:42:12.6970",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 339,
+  "end station name": "Avenue D & E 12 St",
+  "end station latitude": 40.72580614,
+  "end station longitude": -73.97422494,
+  "bikeid": 27463,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

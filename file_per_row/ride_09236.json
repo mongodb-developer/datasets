@@ -1,0 +1,17 @@
+{
+  "tripduration": 629,
+  "starttime": "2019-12-01 18:44:01.0570",
+  "stoptime": "2019-12-01 18:54:30.5230",
+  "start station id": 3118,
+  "start station name": "McGuinness Blvd & Eagle St",
+  "start station latitude": 40.73555,
+  "start station longitude": -73.95284,
+  "end station id": 3715,
+  "end station name": "Driggs Ave & N 9 St",
+  "end station latitude": 40.71816969454208,
+  "end station longitude": -73.95520135760307,
+  "bikeid": 32688,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

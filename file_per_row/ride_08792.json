@@ -1,0 +1,17 @@
+{
+  "tripduration": 799,
+  "starttime": "2019-12-01 17:20:56.3580",
+  "stoptime": "2019-12-01 17:34:15.8560",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3529,
+  "end station name": "Lenox Ave & W 130 St",
+  "end station latitude": 40.8107922,
+  "end station longitude": -73.9430681,
+  "bikeid": 26456,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

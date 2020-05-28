@@ -1,0 +1,17 @@
+{
+  "tripduration": 366,
+  "starttime": "2019-12-01 12:36:41.8750",
+  "stoptime": "2019-12-01 12:42:48.6160",
+  "start station id": 268,
+  "start station name": "Howard St & Centre St",
+  "start station latitude": 40.71910537,
+  "start station longitude": -73.99973337,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 20756,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

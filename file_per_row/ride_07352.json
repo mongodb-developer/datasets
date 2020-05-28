@@ -1,0 +1,17 @@
+{
+  "tripduration": 275,
+  "starttime": "2019-12-01 13:58:26.4350",
+  "stoptime": "2019-12-01 14:03:02.3840",
+  "start station id": 3541,
+  "start station name": "Amsterdam Ave & W 125 St",
+  "start station latitude": 40.813358,
+  "start station longitude": -73.956461,
+  "end station id": 3518,
+  "end station name": "Lenox Ave & W 126 St",
+  "end station latitude": 40.808442,
+  "end station longitude": -73.9452087,
+  "bikeid": 32420,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

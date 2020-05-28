@@ -1,0 +1,17 @@
+{
+  "tripduration": 94,
+  "starttime": "2019-12-01 01:29:03.9850",
+  "stoptime": "2019-12-01 01:30:38.6040",
+  "start station id": 3294,
+  "start station name": "E 91 St & Park Ave",
+  "start station latitude": 40.7835016,
+  "start station longitude": -73.955327,
+  "end station id": 3286,
+  "end station name": "E 89 St & 3 Ave",
+  "end station latitude": 40.7806284,
+  "end station longitude": -73.9521667,
+  "bikeid": 19375,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

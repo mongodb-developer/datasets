@@ -1,0 +1,17 @@
+{
+  "tripduration": 292794,
+  "starttime": "2019-12-01 04:23:52.2320",
+  "stoptime": "2019-12-04 13:43:46.9490",
+  "start station id": 3764,
+  "start station name": "Bushwick Ave & McKibbin St",
+  "start station latitude": 40.705517,
+  "start station longitude": -73.93936,
+  "end station id": 3763,
+  "end station name": "Wyckoff Av & Jefferson St",
+  "end station latitude": 40.707165,
+  "end station longitude": -73.923711,
+  "bikeid": 17363,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

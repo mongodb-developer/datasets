@@ -1,0 +1,17 @@
+{
+  "tripduration": 438,
+  "starttime": "2019-12-01 10:48:08.9080",
+  "stoptime": "2019-12-01 10:55:27.7650",
+  "start station id": 440,
+  "start station name": "E 45 St & 3 Ave",
+  "start station latitude": 40.75255434,
+  "start station longitude": -73.97282625,
+  "end station id": 456,
+  "end station name": "E 53 St & Madison Ave",
+  "end station latitude": 40.7597108,
+  "end station longitude": -73.97402311,
+  "bikeid": 29164,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

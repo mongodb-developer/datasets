@@ -1,0 +1,17 @@
+{
+  "tripduration": 1261,
+  "starttime": "2019-12-01 11:07:10.2190",
+  "stoptime": "2019-12-01 11:28:11.6510",
+  "start station id": 3508,
+  "start station name": "St Nicholas Ave & Manhattan Ave",
+  "start station latitude": 40.809725,
+  "start station longitude": -73.953149,
+  "end station id": 3156,
+  "end station name": "E 72 St & York Ave",
+  "end station latitude": 40.76663814,
+  "end station longitude": -73.95348296,
+  "bikeid": 32571,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 649,
+  "starttime": "2019-12-01 15:48:42.2070",
+  "stoptime": "2019-12-01 15:59:31.3410",
+  "start station id": 3525,
+  "start station name": "23 Ave & 27 St",
+  "start station latitude": 40.776165,
+  "start station longitude": -73.9153175,
+  "end station id": 3614,
+  "end station name": "Crescent St & 30 Ave",
+  "end station latitude": 40.768692,
+  "end station longitude": -73.9249574,
+  "bikeid": 17488,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

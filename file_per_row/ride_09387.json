@@ -1,0 +1,17 @@
+{
+  "tripduration": 339,
+  "starttime": "2019-12-01 19:09:46.5930",
+  "stoptime": "2019-12-01 19:15:26.1880",
+  "start station id": 366,
+  "start station name": "Clinton Ave & Myrtle Ave",
+  "start station latitude": 40.693261,
+  "start station longitude": -73.968896,
+  "end station id": 120,
+  "end station name": "Lexington Ave & Classon Ave",
+  "end station latitude": 40.68676793,
+  "end station longitude": -73.95928168,
+  "bikeid": 41580,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

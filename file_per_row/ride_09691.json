@@ -1,0 +1,17 @@
+{
+  "tripduration": 338,
+  "starttime": "2019-12-01 20:00:05.0190",
+  "stoptime": "2019-12-01 20:05:43.1910",
+  "start station id": 280,
+  "start station name": "E 10 St & 5 Ave",
+  "start station latitude": 40.73331967,
+  "start station longitude": -73.99510132,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 27363,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

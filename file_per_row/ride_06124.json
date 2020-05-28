@@ -1,0 +1,17 @@
+{
+  "tripduration": 1441,
+  "starttime": "2019-12-01 12:15:59.5100",
+  "stoptime": "2019-12-01 12:40:00.8860",
+  "start station id": 3352,
+  "start station name": "Sigourney St & Columbia St",
+  "start station latitude": 40.67267243410948,
+  "start station longitude": -74.0087952464819,
+  "end station id": 3429,
+  "end station name": "Hanson Pl & Ashland Pl",
+  "end station latitude": 40.68506807308177,
+  "end station longitude": -73.97790759801863,
+  "bikeid": 42034,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

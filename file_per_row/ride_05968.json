@@ -1,0 +1,17 @@
+{
+  "tripduration": 377,
+  "starttime": "2019-12-01 12:06:43.9280",
+  "stoptime": "2019-12-01 12:13:01.8990",
+  "start station id": 3615,
+  "start station name": "44 Dr & 21 St",
+  "start station latitude": 40.748,
+  "start station longitude": -73.9460927,
+  "end station id": 3122,
+  "end station name": "48 Ave & 5 St",
+  "end station latitude": 40.744363287066875,
+  "end station longitude": -73.9558732509613,
+  "bikeid": 21583,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

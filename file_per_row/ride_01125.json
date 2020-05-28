@@ -1,0 +1,17 @@
+{
+  "tripduration": 503,
+  "starttime": "2019-12-01 06:31:55.0370",
+  "stoptime": "2019-12-01 06:40:18.4680",
+  "start station id": 450,
+  "start station name": "W 49 St & 8 Ave",
+  "start station latitude": 40.76227205,
+  "start station longitude": -73.98788205,
+  "end station id": 3680,
+  "end station name": "E 43 St & 5 Ave",
+  "end station latitude": 40.754120810779256,
+  "end station longitude": -73.98025184869766,
+  "bikeid": 16106,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

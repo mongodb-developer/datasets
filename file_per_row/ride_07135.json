@@ -1,0 +1,17 @@
+{
+  "tripduration": 271,
+  "starttime": "2019-12-01 13:26:12.3340",
+  "stoptime": "2019-12-01 13:30:43.4370",
+  "start station id": 3687,
+  "start station name": "E 33 St & 1 Ave",
+  "start station latitude": 40.74322681432173,
+  "start station longitude": -73.97449783980846,
+  "end station id": 167,
+  "end station name": "E 39 St & 3 Ave",
+  "end station latitude": 40.7489006,
+  "end station longitude": -73.97604882,
+  "bikeid": 40919,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

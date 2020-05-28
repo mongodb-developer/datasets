@@ -1,0 +1,17 @@
+{
+  "tripduration": 209,
+  "starttime": "2019-12-01 08:29:42.6520",
+  "stoptime": "2019-12-01 08:33:12.5950",
+  "start station id": 2003,
+  "start station name": "1 Ave & E 18 St",
+  "start station latitude": 40.733812191966315,
+  "start station longitude": -73.98054420948029,
+  "end station id": 487,
+  "end station name": "E 20 St & FDR Drive",
+  "end station latitude": 40.73314259,
+  "end station longitude": -73.97573881,
+  "bikeid": 38811,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

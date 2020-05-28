@@ -1,0 +1,17 @@
+{
+  "tripduration": 1515,
+  "starttime": "2019-12-01 10:43:03.3560",
+  "stoptime": "2019-12-01 11:08:18.8830",
+  "start station id": 3668,
+  "start station name": "Leonard St & Nassau Ave",
+  "start station latitude": 40.7239567849954,
+  "start station longitude": -73.94984364509583,
+  "end station id": 3410,
+  "end station name": "Dean St & Hoyt St",
+  "end station latitude": 40.6864442,
+  "end station longitude": -73.98759104,
+  "bikeid": 29001,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

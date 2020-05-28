@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 08:50:21.2900",
+  "stoptime": "2019-12-01 08:53:14.5390",
+  "start station id": 483,
+  "start station name": "E 12 St & 3 Ave",
+  "start station latitude": 40.73223272,
+  "start station longitude": -73.98889957,
+  "end station id": 254,
+  "end station name": "W 11 St & 6 Ave",
+  "end station latitude": 40.73532427,
+  "end station longitude": -73.99800419,
+  "bikeid": 33522,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

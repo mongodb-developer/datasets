@@ -1,0 +1,17 @@
+{
+  "tripduration": 286,
+  "starttime": "2019-12-01 10:40:48.4700",
+  "stoptime": "2019-12-01 10:45:35.3750",
+  "start station id": 446,
+  "start station name": "W 24 St & 7 Ave",
+  "start station latitude": 40.74487634,
+  "start station longitude": -73.99529885,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 34370,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

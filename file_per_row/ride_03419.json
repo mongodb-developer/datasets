@@ -1,0 +1,17 @@
+{
+  "tripduration": 1315,
+  "starttime": "2019-12-01 10:06:08.2550",
+  "stoptime": "2019-12-01 10:28:03.7430",
+  "start station id": 316,
+  "start station name": "Fulton St & William St",
+  "start station latitude": 40.70955958,
+  "start station longitude": -74.00653609,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 40997,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

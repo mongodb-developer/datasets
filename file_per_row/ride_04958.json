@@ -1,0 +1,17 @@
+{
+  "tripduration": 366,
+  "starttime": "2019-12-01 11:09:08.4610",
+  "stoptime": "2019-12-01 11:15:15.1840",
+  "start station id": 313,
+  "start station name": "Washington Ave & Park Ave",
+  "start station latitude": 40.69610226,
+  "start station longitude": -73.96751037,
+  "end station id": 373,
+  "end station name": "Willoughby Ave & Walworth St",
+  "end station latitude": 40.69331716,
+  "end station longitude": -73.95381995,
+  "bikeid": 32490,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

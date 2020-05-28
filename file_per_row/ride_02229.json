@@ -1,0 +1,17 @@
+{
+  "tripduration": 1319,
+  "starttime": "2019-12-01 09:02:30.2160",
+  "stoptime": "2019-12-01 09:24:29.5440",
+  "start station id": 3571,
+  "start station name": "Bedford Ave & Bergen St",
+  "start station latitude": 40.676368,
+  "start station longitude": -73.952918,
+  "end station id": 298,
+  "end station name": "3 Ave & Schermerhorn St",
+  "end station latitude": 40.68683208,
+  "end station longitude": -73.9796772,
+  "bikeid": 39413,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

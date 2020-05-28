@@ -1,0 +1,17 @@
+{
+  "tripduration": 502,
+  "starttime": "2019-12-01 12:50:39.4460",
+  "stoptime": "2019-12-01 12:59:01.8440",
+  "start station id": 474,
+  "start station name": "5 Ave & E 29 St",
+  "start station latitude": 40.7451677,
+  "start station longitude": -73.98683077,
+  "end station id": 461,
+  "end station name": "E 20 St & 2 Ave",
+  "end station latitude": 40.73587678,
+  "end station longitude": -73.98205027,
+  "bikeid": 39338,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

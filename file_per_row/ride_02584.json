@@ -1,0 +1,17 @@
+{
+  "tripduration": 831,
+  "starttime": "2019-12-01 09:26:32.3090",
+  "stoptime": "2019-12-01 09:40:23.7110",
+  "start station id": 354,
+  "start station name": "Emerson Pl & Myrtle Ave",
+  "start station latitude": 40.69363137,
+  "start station longitude": -73.96223558,
+  "end station id": 481,
+  "end station name": "S 3 St & Bedford Ave",
+  "end station latitude": 40.71260486,
+  "end station longitude": -73.96264403,
+  "bikeid": 39734,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

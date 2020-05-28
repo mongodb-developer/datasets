@@ -1,0 +1,17 @@
+{
+  "tripduration": 92,
+  "starttime": "2019-12-01 20:10:05.2070",
+  "stoptime": "2019-12-01 20:11:38.0180",
+  "start station id": 443,
+  "start station name": "Bedford Ave & S 9 St",
+  "start station latitude": 40.70853074,
+  "start station longitude": -73.96408963,
+  "end station id": 389,
+  "end station name": "Broadway & Berry St",
+  "end station latitude": 40.71044554,
+  "end station longitude": -73.96525063,
+  "bikeid": 39811,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 616,
+  "starttime": "2019-12-01 20:18:42.5080",
+  "stoptime": "2019-12-01 20:28:59.4540",
+  "start station id": 401,
+  "start station name": "Allen St & Rivington St",
+  "start station latitude": 40.72019576,
+  "start station longitude": -73.98997825,
+  "end station id": 351,
+  "end station name": "Front St & Maiden Ln",
+  "end station latitude": 40.70530954,
+  "end station longitude": -74.00612572,
+  "bikeid": 38566,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

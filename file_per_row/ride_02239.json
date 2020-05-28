@@ -1,0 +1,17 @@
+{
+  "tripduration": 465,
+  "starttime": "2019-12-01 09:03:03.8560",
+  "stoptime": "2019-12-01 09:10:49.0150",
+  "start station id": 3146,
+  "start station name": "E 81 St & 3 Ave",
+  "start station latitude": 40.77573034,
+  "start station longitude": -73.9567526,
+  "end station id": 3142,
+  "end station name": "1 Ave & E 62 St",
+  "end station latitude": 40.7612274,
+  "end station longitude": -73.96094022,
+  "bikeid": 40942,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

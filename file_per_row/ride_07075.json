@@ -1,0 +1,17 @@
+{
+  "tripduration": 356,
+  "starttime": "2019-12-01 13:19:29.9420",
+  "stoptime": "2019-12-01 13:25:26.4600",
+  "start station id": 439,
+  "start station name": "E 4 St & 2 Ave",
+  "start station latitude": 40.7262807,
+  "start station longitude": -73.98978041,
+  "end station id": 361,
+  "end station name": "Allen St & Hester St",
+  "end station latitude": 40.71605866,
+  "end station longitude": -73.99190759,
+  "bikeid": 30440,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

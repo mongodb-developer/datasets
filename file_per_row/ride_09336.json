@@ -1,0 +1,17 @@
+{
+  "tripduration": 346,
+  "starttime": "2019-12-01 19:02:41.7730",
+  "stoptime": "2019-12-01 19:08:28.1990",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 460,
+  "end station name": "S 4 St & Wythe Ave",
+  "end station latitude": 40.71285887,
+  "end station longitude": -73.96590294,
+  "bikeid": 18479,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

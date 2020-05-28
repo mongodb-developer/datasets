@@ -1,0 +1,17 @@
+{
+  "tripduration": 1104,
+  "starttime": "2019-12-01 03:56:12.4200",
+  "stoptime": "2019-12-01 04:14:37.0190",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3814,
+  "end station name": "E 56 St & Madison Ave",
+  "end station latitude": 40.761573,
+  "end station longitude": -73.972628,
+  "bikeid": 39753,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

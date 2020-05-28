@@ -1,0 +1,17 @@
+{
+  "tripduration": 1361,
+  "starttime": "2019-12-01 09:37:48.7830",
+  "stoptime": "2019-12-01 10:00:29.8620",
+  "start station id": 3305,
+  "start station name": "E 91 St & 2 Ave",
+  "start station latitude": 40.78112229934166,
+  "start station longitude": -73.94965589046478,
+  "end station id": 515,
+  "end station name": "W 43 St & 10 Ave",
+  "end station latitude": 40.76009437,
+  "end station longitude": -73.99461843,
+  "bikeid": 17506,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

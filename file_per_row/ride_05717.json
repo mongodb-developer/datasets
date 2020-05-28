@@ -1,0 +1,17 @@
+{
+  "tripduration": 490,
+  "starttime": "2019-12-01 11:52:14.8140",
+  "stoptime": "2019-12-01 12:00:25.5240",
+  "start station id": 3294,
+  "start station name": "E 91 St & Park Ave",
+  "start station latitude": 40.7835016,
+  "start station longitude": -73.955327,
+  "end station id": 3301,
+  "end station name": "Columbus Ave & W 95 St",
+  "end station latitude": 40.7919557,
+  "end station longitude": -73.968087,
+  "bikeid": 25495,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

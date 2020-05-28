@@ -1,0 +1,17 @@
+{
+  "tripduration": 854,
+  "starttime": "2019-12-01 11:13:05.3340",
+  "stoptime": "2019-12-01 11:27:19.5140",
+  "start station id": 3241,
+  "start station name": "Monroe St & Tompkins Ave",
+  "start station latitude": 40.686203,
+  "start station longitude": -73.944694,
+  "end station id": 3096,
+  "end station name": "Union Ave & N 12 St",
+  "end station latitude": 40.71924,
+  "end station longitude": -73.95242,
+  "bikeid": 38984,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1862,
+  "starttime": "2019-12-01 12:33:16.9140",
+  "stoptime": "2019-12-01 13:04:19.0620",
+  "start station id": 3456,
+  "start station name": "Jackson St & Leonard St",
+  "start station latitude": 40.71638031973561,
+  "start station longitude": -73.94821286201477,
+  "end station id": 3558,
+  "end station name": "Bergen St & Vanderbilt Ave",
+  "end station latitude": 40.6794388,
+  "end station longitude": -73.9680438,
+  "bikeid": 31017,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 186,
+  "starttime": "2019-12-01 10:08:34.7760",
+  "stoptime": "2019-12-01 10:11:41.2010",
+  "start station id": 520,
+  "start station name": "W 52 St & 5 Ave",
+  "start station latitude": 40.75992262,
+  "start station longitude": -73.97648516,
+  "end station id": 3132,
+  "end station name": "E 59 St & Madison Ave",
+  "end station latitude": 40.76350532,
+  "end station longitude": -73.97109243,
+  "bikeid": 31316,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

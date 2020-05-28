@@ -1,0 +1,17 @@
+{
+  "tripduration": 424,
+  "starttime": "2019-12-01 09:26:59.1600",
+  "stoptime": "2019-12-01 09:34:03.6760",
+  "start station id": 3847,
+  "start station name": "Cedar St & Evergreen Ave",
+  "start station latitude": 40.69671,
+  "start station longitude": -73.92807,
+  "end station id": 3758,
+  "end station name": "George St & Wilson Ave",
+  "end station latitude": 40.702997,
+  "end station longitude": -73.92997,
+  "bikeid": 33800,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1339,
+  "starttime": "2019-12-01 14:55:35.5160",
+  "stoptime": "2019-12-01 15:17:55.3620",
+  "start station id": 3674,
+  "start station name": "Jay St & York St",
+  "start station latitude": 40.701403172577244,
+  "start station longitude": -73.98672670125961,
+  "end station id": 337,
+  "end station name": "Old Slip & Front St",
+  "end station latitude": 40.7037992,
+  "end station longitude": -74.00838676,
+  "bikeid": 35091,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

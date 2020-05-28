@@ -1,0 +1,17 @@
+{
+  "tripduration": 275,
+  "starttime": "2019-12-01 03:24:45.6520",
+  "stoptime": "2019-12-01 03:29:21.4160",
+  "start station id": 3255,
+  "start station name": "8 Ave & W 31 St",
+  "start station latitude": 40.7505853470215,
+  "start station longitude": -73.9946848154068,
+  "end station id": 448,
+  "end station name": "W 37 St & 10 Ave",
+  "end station latitude": 40.75660359,
+  "end station longitude": -73.9979009,
+  "bikeid": 39272,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

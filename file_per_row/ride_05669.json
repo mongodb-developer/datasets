@@ -1,0 +1,17 @@
+{
+  "tripduration": 529,
+  "starttime": "2019-12-01 11:49:48.6500",
+  "stoptime": "2019-12-01 11:58:38.5270",
+  "start station id": 3092,
+  "start station name": "Berry St & N 8 St",
+  "start station latitude": 40.7190095,
+  "start station longitude": -73.95852515,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 34335,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

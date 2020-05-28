@@ -1,0 +1,17 @@
+{
+  "tripduration": 156,
+  "starttime": "2019-12-01 06:22:10.6010",
+  "stoptime": "2019-12-01 06:24:47.3820",
+  "start station id": 3242,
+  "start station name": "Schermerhorn St & Court St",
+  "start station latitude": 40.69102925677968,
+  "start station longitude": -73.99183362722397,
+  "end station id": 3303,
+  "end station name": "Butler St & Court St",
+  "end station latitude": 40.6849894,
+  "end station longitude": -73.99440329,
+  "bikeid": 41030,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

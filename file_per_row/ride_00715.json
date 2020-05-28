@@ -1,0 +1,17 @@
+{
+  "tripduration": 1122,
+  "starttime": "2019-12-01 02:32:36.7810",
+  "stoptime": "2019-12-01 02:51:19.0960",
+  "start station id": 412,
+  "start station name": "Forsyth St & Canal St",
+  "start station latitude": 40.7158155,
+  "start station longitude": -73.99422366,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 31030,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 261,
+  "starttime": "2019-12-01 09:32:13.2520",
+  "stoptime": "2019-12-01 09:36:34.9890",
+  "start station id": 291,
+  "start station name": "Madison St & Montgomery St",
+  "start station latitude": 40.713126,
+  "start station longitude": -73.984844,
+  "end station id": 412,
+  "end station name": "Forsyth St & Canal St",
+  "end station latitude": 40.7158155,
+  "end station longitude": -73.99422366,
+  "bikeid": 35173,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

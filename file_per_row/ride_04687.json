@@ -1,0 +1,17 @@
+{
+  "tripduration": 298,
+  "starttime": "2019-12-01 10:57:27.8970",
+  "stoptime": "2019-12-01 11:02:26.6100",
+  "start station id": 540,
+  "start station name": "Lexington Ave & E 29 St",
+  "start station latitude": 40.74311555376486,
+  "start station longitude": -73.98215353488922,
+  "end station id": 486,
+  "end station name": "Broadway & W 29 St",
+  "end station latitude": 40.7462009,
+  "end station longitude": -73.98855723,
+  "bikeid": 33767,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

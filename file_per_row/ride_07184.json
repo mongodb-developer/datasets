@@ -1,0 +1,17 @@
+{
+  "tripduration": 583,
+  "starttime": "2019-12-01 13:32:12.3200",
+  "stoptime": "2019-12-01 13:41:56.2040",
+  "start station id": 3882,
+  "start station name": "Norman St & Wyckoff Ave",
+  "start station latitude": 40.69517,
+  "start station longitude": -73.90311,
+  "end station id": 3832,
+  "end station name": "Central Ave & Weirfield St",
+  "end station latitude": 40.69055,
+  "end station longitude": -73.91181,
+  "bikeid": 41692,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "female"
+}

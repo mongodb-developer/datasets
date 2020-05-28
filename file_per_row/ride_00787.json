@@ -1,0 +1,17 @@
+{
+  "tripduration": 537,
+  "starttime": "2019-12-01 02:56:03.4660",
+  "stoptime": "2019-12-01 03:05:00.7820",
+  "start station id": 3846,
+  "start station name": "Central Ave & Himrod St",
+  "start station latitude": 40.69676,
+  "start station longitude": -73.92302,
+  "end station id": 3179,
+  "end station name": "Park Ave & Marcus Garvey Blvd",
+  "end station latitude": 40.698617,
+  "end station longitude": -73.941342,
+  "bikeid": 40087,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

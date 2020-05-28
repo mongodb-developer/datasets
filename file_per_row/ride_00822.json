@@ -1,0 +1,17 @@
+{
+  "tripduration": 1974,
+  "starttime": "2019-12-01 03:08:02.9750",
+  "stoptime": "2019-12-01 03:40:57.8270",
+  "start station id": 3127,
+  "start station name": "9 St & 44 Rd",
+  "start station latitude": 40.74966,
+  "start station longitude": -73.9521,
+  "end station id": 3127,
+  "end station name": "9 St & 44 Rd",
+  "end station latitude": 40.74966,
+  "end station longitude": -73.9521,
+  "bikeid": 33139,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "male"
+}

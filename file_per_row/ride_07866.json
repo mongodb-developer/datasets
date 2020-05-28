@@ -1,0 +1,17 @@
+{
+  "tripduration": 200,
+  "starttime": "2019-12-01 15:02:35.0310",
+  "stoptime": "2019-12-01 15:05:55.5580",
+  "start station id": 3715,
+  "start station name": "Driggs Ave & N 9 St",
+  "start station latitude": 40.71816969454208,
+  "start station longitude": -73.95520135760307,
+  "end station id": 539,
+  "end station name": "Metropolitan Ave & Bedford Ave",
+  "end station latitude": 40.71534825,
+  "end station longitude": -73.96024116,
+  "bikeid": 41596,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

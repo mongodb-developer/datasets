@@ -1,0 +1,17 @@
+{
+  "tripduration": 824,
+  "starttime": "2019-12-01 11:27:44.4600",
+  "stoptime": "2019-12-01 11:41:28.8030",
+  "start station id": 3082,
+  "start station name": "Hope St & Union Ave",
+  "start station latitude": 40.71167351,
+  "start station longitude": -73.95141312,
+  "end station id": 3113,
+  "end station name": "Greenpoint Ave & Manhattan Ave",
+  "end station latitude": 40.73026,
+  "end station longitude": -73.95394,
+  "bikeid": 39332,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

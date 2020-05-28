@@ -1,0 +1,17 @@
+{
+  "tripduration": 743,
+  "starttime": "2019-12-01 11:45:57.8670",
+  "stoptime": "2019-12-01 11:58:20.9620",
+  "start station id": 3375,
+  "start station name": "3 Ave & E 72 St",
+  "start station latitude": 40.7699426,
+  "start station longitude": -73.96060712,
+  "end station id": 3173,
+  "end station name": "Riverside Blvd & W 67 St",
+  "end station latitude": 40.777507027547976,
+  "end station longitude": -73.98888587951659,
+  "bikeid": 19160,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

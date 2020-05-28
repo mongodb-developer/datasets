@@ -1,0 +1,17 @@
+{
+  "tripduration": 394,
+  "starttime": "2019-12-01 16:40:44.0540",
+  "stoptime": "2019-12-01 16:47:18.6980",
+  "start station id": 270,
+  "start station name": "Adelphi St & Myrtle Ave",
+  "start station latitude": 40.69308257,
+  "start station longitude": -73.97178913,
+  "end station id": 3486,
+  "end station name": "Schermerhorn St & Bond St",
+  "end station latitude": 40.688417427540834,
+  "end station longitude": -73.98451656103134,
+  "bikeid": 30610,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

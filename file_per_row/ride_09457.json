@@ -1,0 +1,17 @@
+{
+  "tripduration": 302,
+  "starttime": "2019-12-01 19:22:11.4640",
+  "stoptime": "2019-12-01 19:27:14.1740",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3453,
+  "end station name": "Devoe St & Lorimer St",
+  "end station latitude": 40.71335226222875,
+  "end station longitude": -73.9491033554077,
+  "bikeid": 41999,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

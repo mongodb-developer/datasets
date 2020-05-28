@@ -1,0 +1,17 @@
+{
+  "tripduration": 818,
+  "starttime": "2019-12-01 03:09:58.9540",
+  "stoptime": "2019-12-01 03:23:37.8870",
+  "start station id": 279,
+  "start station name": "Peck Slip & Front St",
+  "start station latitude": 40.707873,
+  "start station longitude": -74.00167,
+  "end station id": 326,
+  "end station name": "E 11 St & 1 Ave",
+  "end station latitude": 40.72953837,
+  "end station longitude": -73.98426726,
+  "bikeid": 32096,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

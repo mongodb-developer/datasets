@@ -1,0 +1,17 @@
+{
+  "tripduration": 426,
+  "starttime": "2019-12-01 09:10:33.4840",
+  "stoptime": "2019-12-01 09:17:39.6710",
+  "start station id": 3383,
+  "start station name": "Cathedral Pkwy & Broadway",
+  "start station latitude": 40.804213,
+  "start station longitude": -73.96699104,
+  "end station id": 3881,
+  "end station name": "12 Ave & W 125 St",
+  "end station latitude": 40.818299,
+  "end station longitude": -73.960405,
+  "bikeid": 38698,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

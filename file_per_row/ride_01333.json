@@ -1,0 +1,17 @@
+{
+  "tripduration": 509,
+  "starttime": "2019-12-01 07:29:45.5800",
+  "stoptime": "2019-12-01 07:38:14.6790",
+  "start station id": 3115,
+  "start station name": "India St & Manhattan Ave",
+  "start station latitude": 40.73232194,
+  "start station longitude": -73.9550858,
+  "end station id": 3087,
+  "end station name": "Metropolitan Ave & Meeker Ave",
+  "end station latitude": 40.71413311,
+  "end station longitude": -73.95234386,
+  "bikeid": 32377,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

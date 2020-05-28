@@ -1,0 +1,17 @@
+{
+  "tripduration": 129,
+  "starttime": "2019-12-01 10:46:30.9610",
+  "stoptime": "2019-12-01 10:48:40.8750",
+  "start station id": 298,
+  "start station name": "3 Ave & Schermerhorn St",
+  "start station latitude": 40.68683208,
+  "start station longitude": -73.9796772,
+  "end station id": 3486,
+  "end station name": "Schermerhorn St & Bond St",
+  "end station latitude": 40.688417427540834,
+  "end station longitude": -73.98451656103134,
+  "bikeid": 30669,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

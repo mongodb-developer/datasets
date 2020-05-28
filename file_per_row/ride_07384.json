@@ -1,0 +1,17 @@
+{
+  "tripduration": 502,
+  "starttime": "2019-12-01 14:04:32.2730",
+  "stoptime": "2019-12-01 14:12:55.0520",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 410,
+  "end station name": "Suffolk St & Stanton St",
+  "end station latitude": 40.72066442,
+  "end station longitude": -73.98517977,
+  "bikeid": 40591,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

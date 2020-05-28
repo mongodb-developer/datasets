@@ -1,0 +1,17 @@
+{
+  "tripduration": 280,
+  "starttime": "2019-12-01 09:52:57.2280",
+  "stoptime": "2019-12-01 09:57:38.1410",
+  "start station id": 3630,
+  "start station name": "Frederick Douglass Blvd & W 115 St",
+  "start station latitude": 40.8038654,
+  "start station longitude": -73.9559308,
+  "end station id": 3541,
+  "end station name": "Amsterdam Ave & W 125 St",
+  "end station latitude": 40.813358,
+  "end station longitude": -73.956461,
+  "bikeid": 40955,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

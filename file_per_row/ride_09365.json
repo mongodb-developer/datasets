@@ -1,0 +1,17 @@
+{
+  "tripduration": 222,
+  "starttime": "2019-12-01 19:06:59.6150",
+  "stoptime": "2019-12-01 19:10:42.2310",
+  "start station id": 3841,
+  "start station name": "Menahan St & Central Ave",
+  "start station latitude": 40.69543,
+  "start station longitude": -73.9196,
+  "end station id": 3861,
+  "end station name": "Menahan St & Wyckoff Ave",
+  "end station latitude": 40.70113,
+  "end station longitude": -73.91422,
+  "bikeid": 34243,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

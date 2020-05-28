@@ -1,0 +1,17 @@
+{
+  "tripduration": 666,
+  "starttime": "2019-12-01 16:51:22.2500",
+  "stoptime": "2019-12-01 17:02:28.5960",
+  "start station id": 364,
+  "start station name": "Lafayette Ave & Classon Ave",
+  "start station latitude": 40.68900443,
+  "start station longitude": -73.96023854,
+  "end station id": 366,
+  "end station name": "Clinton Ave & Myrtle Ave",
+  "end station latitude": 40.693261,
+  "end station longitude": -73.968896,
+  "bikeid": 38843,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

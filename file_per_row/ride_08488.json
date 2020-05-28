@@ -1,0 +1,17 @@
+{
+  "tripduration": 174,
+  "starttime": "2019-12-01 16:15:00.9580",
+  "stoptime": "2019-12-01 16:17:55.1530",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 33091,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

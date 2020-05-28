@@ -1,0 +1,17 @@
+{
+  "tripduration": 659,
+  "starttime": "2019-12-01 10:00:53.5630",
+  "stoptime": "2019-12-01 10:11:53.1620",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 28045,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "female"
+}

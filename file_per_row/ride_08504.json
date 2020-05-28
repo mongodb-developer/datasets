@@ -1,0 +1,17 @@
+{
+  "tripduration": 881,
+  "starttime": "2019-12-01 16:18:14.8190",
+  "stoptime": "2019-12-01 16:32:56.4000",
+  "start station id": 3850,
+  "start station name": "Jefferson St & Cypress Ave",
+  "start station latitude": 40.70907,
+  "start station longitude": -73.92157,
+  "end station id": 481,
+  "end station name": "S 3 St & Bedford Ave",
+  "end station latitude": 40.71260486,
+  "end station longitude": -73.96264403,
+  "bikeid": 33289,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

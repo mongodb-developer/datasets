@@ -1,0 +1,17 @@
+{
+  "tripduration": 318,
+  "starttime": "2019-12-01 10:05:38.0550",
+  "stoptime": "2019-12-01 10:10:56.4630",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 30812,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

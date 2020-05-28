@@ -1,0 +1,17 @@
+{
+  "tripduration": 152,
+  "starttime": "2019-12-01 09:05:12.1170",
+  "stoptime": "2019-12-01 09:07:44.5320",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 38623,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

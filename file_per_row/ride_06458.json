@@ -1,0 +1,17 @@
+{
+  "tripduration": 421,
+  "starttime": "2019-12-01 12:34:12.1850",
+  "stoptime": "2019-12-01 12:41:13.5540",
+  "start station id": 3134,
+  "start station name": "3 Ave & E 62 St",
+  "start station latitude": 40.76312584,
+  "start station longitude": -73.96526895,
+  "end station id": 3372,
+  "end station name": "E 74 St & 1 Ave",
+  "end station latitude": 40.7689738,
+  "end station longitude": -73.95482273,
+  "bikeid": 31348,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

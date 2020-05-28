@@ -1,0 +1,17 @@
+{
+  "tripduration": 1073,
+  "starttime": "2019-12-01 16:16:41.3920",
+  "stoptime": "2019-12-01 16:34:34.8680",
+  "start station id": 3615,
+  "start station name": "44 Dr & 21 St",
+  "start station latitude": 40.748,
+  "start station longitude": -73.9460927,
+  "end station id": 3106,
+  "end station name": "Driggs Ave & N Henry St",
+  "end station latitude": 40.72325,
+  "end station longitude": -73.94308,
+  "bikeid": 41269,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "female"
+}

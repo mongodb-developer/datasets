@@ -1,0 +1,17 @@
+{
+  "tripduration": 406,
+  "starttime": "2019-12-01 12:59:07.5020",
+  "stoptime": "2019-12-01 13:05:53.8320",
+  "start station id": 144,
+  "start station name": "Nassau St & Navy St",
+  "start station latitude": 40.69839895,
+  "start station longitude": -73.98068914,
+  "end station id": 313,
+  "end station name": "Washington Ave & Park Ave",
+  "end station latitude": 40.69610226,
+  "end station longitude": -73.96751037,
+  "bikeid": 38592,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

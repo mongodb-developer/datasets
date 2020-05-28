@@ -1,0 +1,17 @@
+{
+  "tripduration": 245,
+  "starttime": "2019-12-01 07:52:50.3160",
+  "stoptime": "2019-12-01 07:56:55.5780",
+  "start station id": 3320,
+  "start station name": "Central Park West & W 100 St",
+  "start station latitude": 40.79406660818552,
+  "start station longitude": -73.96286845207214,
+  "end station id": 3343,
+  "end station name": "W 107 St & Columbus Ave",
+  "end station latitude": 40.7997568,
+  "end station longitude": -73.9621128676,
+  "bikeid": 40217,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

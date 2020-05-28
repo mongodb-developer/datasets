@@ -1,0 +1,17 @@
+{
+  "tripduration": 597,
+  "starttime": "2019-12-01 14:44:29.7850",
+  "stoptime": "2019-12-01 14:54:27.1340",
+  "start station id": 482,
+  "start station name": "W 15 St & 7 Ave",
+  "start station latitude": 40.73935542,
+  "start station longitude": -73.99931783,
+  "end station id": 3463,
+  "end station name": "E 16 St & Irving Pl",
+  "end station latitude": 40.735367055605394,
+  "end station longitude": -73.98797392845154,
+  "bikeid": 33912,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "female"
+}

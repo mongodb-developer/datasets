@@ -1,0 +1,17 @@
+{
+  "tripduration": 563,
+  "starttime": "2019-12-01 11:08:27.5420",
+  "stoptime": "2019-12-01 11:17:51.3550",
+  "start station id": 501,
+  "start station name": "FDR Drive & E 35 St",
+  "start station latitude": 40.744219,
+  "start station longitude": -73.97121214,
+  "end station id": 474,
+  "end station name": "5 Ave & E 29 St",
+  "end station latitude": 40.7451677,
+  "end station longitude": -73.98683077,
+  "bikeid": 41660,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

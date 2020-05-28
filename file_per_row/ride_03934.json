@@ -1,0 +1,17 @@
+{
+  "tripduration": 646,
+  "starttime": "2019-12-01 10:28:29.9890",
+  "stoptime": "2019-12-01 10:39:16.6150",
+  "start station id": 529,
+  "start station name": "W 42 St & 8 Ave",
+  "start station latitude": 40.7575699,
+  "start station longitude": -73.99098507,
+  "end station id": 476,
+  "end station name": "E 31 St & 3 Ave",
+  "end station latitude": 40.74394314,
+  "end station longitude": -73.97966069,
+  "bikeid": 39469,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

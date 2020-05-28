@@ -1,0 +1,17 @@
+{
+  "tripduration": 647,
+  "starttime": "2019-12-01 10:18:48.1560",
+  "stoptime": "2019-12-01 10:29:35.7580",
+  "start station id": 3734,
+  "start station name": "E 58 St &  1 Ave (NW Corner)",
+  "start station latitude": 40.759125,
+  "start station longitude": -73.962658,
+  "end station id": 3128,
+  "end station name": "21 St & 43 Ave",
+  "end station latitude": 40.75052534,
+  "end station longitude": -73.94594845,
+  "bikeid": 28454,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 651,
+  "starttime": "2019-12-01 10:52:41.1320",
+  "stoptime": "2019-12-01 11:03:32.4160",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 127,
+  "end station name": "Barrow St & Hudson St",
+  "end station latitude": 40.73172428,
+  "end station longitude": -74.00674436,
+  "bikeid": 40543,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

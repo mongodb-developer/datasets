@@ -1,0 +1,17 @@
+{
+  "tripduration": 671,
+  "starttime": "2019-12-01 17:09:20.7670",
+  "stoptime": "2019-12-01 17:20:32.4850",
+  "start station id": 3242,
+  "start station name": "Schermerhorn St & Court St",
+  "start station latitude": 40.69102925677968,
+  "start station longitude": -73.99183362722397,
+  "end station id": 3384,
+  "end station name": "Smith St & 3 St",
+  "end station latitude": 40.6787242,
+  "end station longitude": -73.99599099,
+  "bikeid": 41651,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

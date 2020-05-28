@@ -1,0 +1,17 @@
+{
+  "tripduration": 271,
+  "starttime": "2019-12-01 10:04:20.6660",
+  "stoptime": "2019-12-01 10:08:52.0870",
+  "start station id": 3319,
+  "start station name": "14 St & 5 Ave",
+  "start station latitude": 40.666287,
+  "start station longitude": -73.98895053,
+  "end station id": 3373,
+  "end station name": "3 St & 3 Ave",
+  "end station latitude": 40.6750705,
+  "end station longitude": -73.98775226,
+  "bikeid": 39504,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 278,
+  "starttime": "2019-12-01 10:12:16.5170",
+  "stoptime": "2019-12-01 10:16:54.9220",
+  "start station id": 150,
+  "start station name": "E 2 St & Avenue C",
+  "start station latitude": 40.7208736,
+  "start station longitude": -73.98085795,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 35209,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

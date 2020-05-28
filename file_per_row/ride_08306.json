@@ -1,0 +1,17 @@
+{
+  "tripduration": 797,
+  "starttime": "2019-12-01 15:47:32.8750",
+  "stoptime": "2019-12-01 16:00:50.1970",
+  "start station id": 411,
+  "start station name": "E 6 St & Avenue D",
+  "start station latitude": 40.72228087,
+  "start station longitude": -73.97668709,
+  "end station id": 531,
+  "end station name": "Forsyth St & Broome St",
+  "end station latitude": 40.71893904,
+  "end station longitude": -73.99266288,
+  "bikeid": 33133,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

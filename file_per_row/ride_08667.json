@@ -1,0 +1,17 @@
+{
+  "tripduration": 471,
+  "starttime": "2019-12-01 16:53:26.6680",
+  "stoptime": "2019-12-01 17:01:18.0530",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 367,
+  "end station name": "E 53 St & Lexington Ave",
+  "end station latitude": 40.75828065,
+  "end station longitude": -73.97069431,
+  "bikeid": 17276,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

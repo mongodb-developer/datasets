@@ -1,0 +1,17 @@
+{
+  "tripduration": 872,
+  "starttime": "2019-12-01 10:58:58.9170",
+  "stoptime": "2019-12-01 11:13:31.7570",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 2021,
+  "end station name": "W 45 St & 8 Ave",
+  "end station latitude": 40.75929124,
+  "end station longitude": -73.98859651,
+  "bikeid": 20005,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "male"
+}

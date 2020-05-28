@@ -1,0 +1,17 @@
+{
+  "tripduration": 2778,
+  "starttime": "2019-12-01 18:38:47.3370",
+  "stoptime": "2019-12-01 19:25:05.9080",
+  "start station id": 405,
+  "start station name": "Washington St & Gansevoort St",
+  "start station latitude": 40.739323,
+  "start station longitude": -74.008119,
+  "end station id": 252,
+  "end station name": "MacDougal St & Washington Sq",
+  "end station latitude": 40.73226398,
+  "end station longitude": -73.99852205,
+  "bikeid": 41340,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

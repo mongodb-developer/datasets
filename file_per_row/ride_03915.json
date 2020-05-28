@@ -1,0 +1,17 @@
+{
+  "tripduration": 459,
+  "starttime": "2019-12-01 10:27:25.5500",
+  "stoptime": "2019-12-01 10:35:04.8550",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 446,
+  "end station name": "W 24 St & 7 Ave",
+  "end station latitude": 40.74487634,
+  "end station longitude": -73.99529885,
+  "bikeid": 34406,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

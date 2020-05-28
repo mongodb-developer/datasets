@@ -1,0 +1,17 @@
+{
+  "tripduration": 369,
+  "starttime": "2019-12-01 08:16:44.1560",
+  "stoptime": "2019-12-01 08:22:53.1670",
+  "start station id": 493,
+  "start station name": "W 45 St & 6 Ave",
+  "start station latitude": 40.7568001,
+  "start station longitude": -73.98291153,
+  "end station id": 2006,
+  "end station name": "Central Park S & 6 Ave",
+  "end station latitude": 40.76590936,
+  "end station longitude": -73.97634151,
+  "bikeid": 27416,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "female"
+}

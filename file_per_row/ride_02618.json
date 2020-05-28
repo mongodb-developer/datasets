@@ -1,0 +1,17 @@
+{
+  "tripduration": 1485,
+  "starttime": "2019-12-01 09:28:18.8850",
+  "stoptime": "2019-12-01 09:53:04.0740",
+  "start station id": 332,
+  "start station name": "Cherry St",
+  "start station latitude": 40.71219906,
+  "start station longitude": -73.97948148,
+  "end station id": 259,
+  "end station name": "South St & Whitehall St",
+  "end station latitude": 40.70122128,
+  "end station longitude": -74.01234218,
+  "bikeid": 39548,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

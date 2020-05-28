@@ -1,0 +1,17 @@
+{
+  "tripduration": 465,
+  "starttime": "2019-12-01 09:42:26.9490",
+  "stoptime": "2019-12-01 09:50:12.1850",
+  "start station id": 3110,
+  "start station name": "Meserole Ave & Manhattan Ave",
+  "start station latitude": 40.72708584,
+  "start station longitude": -73.95299117,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 30660,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

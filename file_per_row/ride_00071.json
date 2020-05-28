@@ -1,0 +1,17 @@
+{
+  "tripduration": 225,
+  "starttime": "2019-12-01 00:10:42.0560",
+  "stoptime": "2019-12-01 00:14:28.0530",
+  "start station id": 3092,
+  "start station name": "Berry St & N 8 St",
+  "start station latitude": 40.7190095,
+  "start station longitude": -73.95852515,
+  "end station id": 3109,
+  "end station name": "Banker St & Meserole Ave",
+  "end station latitude": 40.72606,
+  "end station longitude": -73.95621,
+  "bikeid": 14865,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "female"
+}

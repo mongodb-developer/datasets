@@ -1,0 +1,17 @@
+{
+  "tripduration": 171,
+  "starttime": "2019-12-01 15:31:16.1330",
+  "stoptime": "2019-12-01 15:34:07.2420",
+  "start station id": 3469,
+  "start station name": "India St & West St",
+  "start station latitude": 40.73181401720966,
+  "start station longitude": -73.95995020866394,
+  "end station id": 3117,
+  "end station name": "Franklin St & Dupont St",
+  "end station latitude": 40.73564,
+  "end station longitude": -73.95866,
+  "bikeid": 40370,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

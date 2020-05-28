@@ -1,0 +1,17 @@
+{
+  "tripduration": 199,
+  "starttime": "2019-12-01 12:58:45.1800",
+  "stoptime": "2019-12-01 13:02:04.5880",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 39835,
+  "usertype": "Subscriber",
+  "birth year": 2001,
+  "gender": "male"
+}

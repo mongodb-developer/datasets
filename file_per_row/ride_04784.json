@@ -1,0 +1,17 @@
+{
+  "tripduration": 661,
+  "starttime": "2019-12-01 11:01:11.1790",
+  "stoptime": "2019-12-01 11:12:12.4260",
+  "start station id": 487,
+  "start station name": "E 20 St & FDR Drive",
+  "start station latitude": 40.73314259,
+  "start station longitude": -73.97573881,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 39182,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "female"
+}

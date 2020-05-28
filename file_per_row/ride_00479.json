@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 01:24:26.8380",
+  "stoptime": "2019-12-01 01:29:54.3910",
+  "start station id": 383,
+  "start station name": "Greenwich Ave & Charles St",
+  "start station latitude": 40.735238,
+  "start station longitude": -74.000271,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 41791,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

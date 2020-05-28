@@ -1,0 +1,17 @@
+{
+  "tripduration": 705,
+  "starttime": "2019-12-01 12:59:17.4530",
+  "stoptime": "2019-12-01 13:11:02.9370",
+  "start station id": 436,
+  "start station name": "Hancock St & Bedford Ave",
+  "start station latitude": 40.68216564,
+  "start station longitude": -73.95399026,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 33231,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

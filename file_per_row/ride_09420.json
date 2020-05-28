@@ -1,0 +1,17 @@
+{
+  "tripduration": 759,
+  "starttime": "2019-12-01 19:15:46.5150",
+  "stoptime": "2019-12-01 19:28:25.5430",
+  "start station id": 517,
+  "start station name": "Pershing Square South",
+  "start station latitude": 40.751581,
+  "start station longitude": -73.97791,
+  "end station id": 513,
+  "end station name": "W 56 St & 10 Ave",
+  "end station latitude": 40.768254,
+  "end station longitude": -73.988639,
+  "bikeid": 38993,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "male"
+}

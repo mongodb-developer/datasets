@@ -1,0 +1,17 @@
+{
+  "tripduration": 527,
+  "starttime": "2019-12-01 12:26:40.4720",
+  "stoptime": "2019-12-01 12:35:27.5870",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 3463,
+  "end station name": "E 16 St & Irving Pl",
+  "end station latitude": 40.735367055605394,
+  "end station longitude": -73.98797392845154,
+  "bikeid": 32529,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

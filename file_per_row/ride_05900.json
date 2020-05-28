@@ -1,0 +1,17 @@
+{
+  "tripduration": 443,
+  "starttime": "2019-12-01 12:02:56.4290",
+  "stoptime": "2019-12-01 12:10:19.6400",
+  "start station id": 3288,
+  "start station name": "E 88 St & 1 Ave",
+  "start station latitude": 40.778301,
+  "start station longitude": -73.9488134,
+  "end station id": 3146,
+  "end station name": "E 81 St & 3 Ave",
+  "end station latitude": 40.77573034,
+  "end station longitude": -73.9567526,
+  "bikeid": 26810,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

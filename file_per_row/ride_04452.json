@@ -1,0 +1,17 @@
+{
+  "tripduration": 1180,
+  "starttime": "2019-12-01 10:49:58.3660",
+  "stoptime": "2019-12-01 11:09:38.4420",
+  "start station id": 3810,
+  "start station name": "Central Park West & W 82 St",
+  "start station latitude": 40.782593,
+  "start station longitude": -73.971211,
+  "end station id": 448,
+  "end station name": "W 37 St & 10 Ave",
+  "end station latitude": 40.75660359,
+  "end station longitude": -73.9979009,
+  "bikeid": 38664,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 2994,
+  "starttime": "2019-12-01 19:29:10.3110",
+  "stoptime": "2019-12-01 20:19:04.6780",
+  "start station id": 268,
+  "start station name": "Howard St & Centre St",
+  "start station latitude": 40.71910537,
+  "start station longitude": -73.99973337,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 16216,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 455,
+  "starttime": "2019-12-01 11:17:16.6640",
+  "stoptime": "2019-12-01 11:24:52.0170",
+  "start station id": 157,
+  "start station name": "Henry St & Atlantic Ave",
+  "start station latitude": 40.69089272,
+  "start station longitude": -73.99612349,
+  "end station id": 392,
+  "end station name": "Jay St & Tech Pl",
+  "end station latitude": 40.695065,
+  "end station longitude": -73.987167,
+  "bikeid": 40761,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

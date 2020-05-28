@@ -1,0 +1,17 @@
+{
+  "tripduration": 1708,
+  "starttime": "2019-12-01 08:24:50.3690",
+  "stoptime": "2019-12-01 08:53:18.3850",
+  "start station id": 3500,
+  "start station name": "E 115 St & Madison Ave",
+  "start station latitude": 40.7989445,
+  "start station longitude": -73.944846,
+  "end station id": 383,
+  "end station name": "Greenwich Ave & Charles St",
+  "end station latitude": 40.735238,
+  "end station longitude": -74.000271,
+  "bikeid": 39345,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "female"
+}

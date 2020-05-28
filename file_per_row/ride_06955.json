@@ -1,0 +1,17 @@
+{
+  "tripduration": 400,
+  "starttime": "2019-12-01 13:07:23.0260",
+  "stoptime": "2019-12-01 13:14:03.9330",
+  "start station id": 3061,
+  "start station name": "Throop Ave & Myrtle Ave",
+  "start station latitude": 40.69622937,
+  "start station longitude": -73.94371094,
+  "end station id": 3770,
+  "end station name": "Central Ave & Flushing Ave",
+  "end station latitude": 40.702831,
+  "end station longitude": -73.9333,
+  "bikeid": 41933,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

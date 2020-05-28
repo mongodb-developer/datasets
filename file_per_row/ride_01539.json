@@ -1,0 +1,17 @@
+{
+  "tripduration": 470,
+  "starttime": "2019-12-01 07:59:10.1910",
+  "stoptime": "2019-12-01 08:07:00.3150",
+  "start station id": 508,
+  "start station name": "W 46 St & 11 Ave",
+  "start station latitude": 40.76341379,
+  "start station longitude": -73.99667444,
+  "end station id": 3441,
+  "end station name": "10 Hudson Yards",
+  "end station latitude": 40.752957,
+  "end station longitude": -74.00264,
+  "bikeid": 28722,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 352,
+  "starttime": "2019-12-01 00:39:19.5630",
+  "stoptime": "2019-12-01 00:45:12.0230",
+  "start station id": 3693,
+  "start station name": "N 11 St & Kent Ave",
+  "start station latitude": 40.72248188638219,
+  "start station longitude": -73.95921930670738,
+  "end station id": 532,
+  "end station name": "S 5 Pl & S 5 St",
+  "end station latitude": 40.710451,
+  "end station longitude": -73.960876,
+  "bikeid": 27054,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

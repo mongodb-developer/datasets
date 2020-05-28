@@ -1,0 +1,17 @@
+{
+  "tripduration": 763,
+  "starttime": "2019-12-01 01:50:57.9140",
+  "stoptime": "2019-12-01 02:03:41.6630",
+  "start station id": 472,
+  "start station name": "E 32 St & Park Ave",
+  "start station latitude": 40.7457121,
+  "start station longitude": -73.98194829,
+  "end station id": 2021,
+  "end station name": "W 45 St & 8 Ave",
+  "end station latitude": 40.75929124,
+  "end station longitude": -73.98859651,
+  "bikeid": 38106,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

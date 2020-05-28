@@ -1,0 +1,17 @@
+{
+  "tripduration": 431,
+  "starttime": "2019-12-01 13:03:06.8440",
+  "stoptime": "2019-12-01 13:10:18.1500",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 28928,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

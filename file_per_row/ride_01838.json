@@ -1,0 +1,17 @@
+{
+  "tripduration": 523,
+  "starttime": "2019-12-01 08:33:11.7150",
+  "stoptime": "2019-12-01 08:41:55.1790",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 3172,
+  "end station name": "W 74 St & Columbus Ave",
+  "end station latitude": 40.7785669,
+  "end station longitude": -73.97754961,
+  "bikeid": 41156,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

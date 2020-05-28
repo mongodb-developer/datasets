@@ -1,0 +1,17 @@
+{
+  "tripduration": 301,
+  "starttime": "2019-12-01 08:25:08.6250",
+  "stoptime": "2019-12-01 08:30:09.9530",
+  "start station id": 3161,
+  "start station name": "W 76 St & Columbus Ave",
+  "start station latitude": 40.7801839724239,
+  "start station longitude": -73.97728532552719,
+  "end station id": 3159,
+  "end station name": "W 67 St & Broadway",
+  "end station latitude": 40.77492513,
+  "end station longitude": -73.98266566,
+  "bikeid": 41769,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

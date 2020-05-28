@@ -1,0 +1,17 @@
+{
+  "tripduration": 332,
+  "starttime": "2019-12-01 11:21:36.3450",
+  "stoptime": "2019-12-01 11:27:08.4060",
+  "start station id": 3413,
+  "start station name": "Wyckoff St & 3 Ave",
+  "start station latitude": 40.6827549,
+  "start station longitude": -73.98258555,
+  "end station id": 3410,
+  "end station name": "Dean St & Hoyt St",
+  "end station latitude": 40.6864442,
+  "end station longitude": -73.98759104,
+  "bikeid": 32410,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

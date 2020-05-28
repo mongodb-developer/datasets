@@ -1,0 +1,17 @@
+{
+  "tripduration": 845,
+  "starttime": "2019-12-01 09:58:39.9280",
+  "stoptime": "2019-12-01 10:12:45.8340",
+  "start station id": 275,
+  "start station name": "Washington Ave & Greene Ave",
+  "start station latitude": 40.68650065,
+  "start station longitude": -73.96563307,
+  "end station id": 3440,
+  "end station name": "Fulton St & Adams St",
+  "end station latitude": 40.692418292578466,
+  "end station longitude": -73.98949474096298,
+  "bikeid": 38792,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 571,
+  "starttime": "2019-12-01 06:16:20.6700",
+  "stoptime": "2019-12-01 06:25:52.5700",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 412,
+  "end station name": "Forsyth St & Canal St",
+  "end station latitude": 40.7158155,
+  "end station longitude": -73.99422366,
+  "bikeid": 30258,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

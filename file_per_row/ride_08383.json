@@ -1,0 +1,17 @@
+{
+  "tripduration": 263,
+  "starttime": "2019-12-01 15:56:08.6060",
+  "stoptime": "2019-12-01 16:00:32.4500",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3293,
+  "end station name": "W 92 St & Broadway",
+  "end station latitude": 40.7921,
+  "end station longitude": -73.9739,
+  "bikeid": 32616,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 994,
+  "starttime": "2019-12-01 10:16:19.1710",
+  "stoptime": "2019-12-01 10:32:53.6380",
+  "start station id": 3712,
+  "start station name": "W 35 St & Dyer Ave",
+  "start station latitude": 40.754691750226016,
+  "start station longitude": -73.99740189313889,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 35267,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

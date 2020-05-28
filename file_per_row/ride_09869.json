@@ -1,0 +1,17 @@
+{
+  "tripduration": 1895,
+  "starttime": "2019-12-01 20:30:41.9220",
+  "stoptime": "2019-12-01 21:02:17.6210",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 39385,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 423,
+  "starttime": "2019-12-01 10:26:15.8940",
+  "stoptime": "2019-12-01 10:33:19.6480",
+  "start station id": 295,
+  "start station name": "Pike St & E Broadway",
+  "start station latitude": 40.71406667,
+  "start station longitude": -73.99293911,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 15761,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

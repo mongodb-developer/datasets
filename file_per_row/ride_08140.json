@@ -1,0 +1,17 @@
+{
+  "tripduration": 630,
+  "starttime": "2019-12-01 15:29:05.9460",
+  "stoptime": "2019-12-01 15:39:36.4770",
+  "start station id": 3558,
+  "start station name": "Bergen St & Vanderbilt Ave",
+  "start station latitude": 40.6794388,
+  "start station longitude": -73.9680438,
+  "end station id": 3440,
+  "end station name": "Fulton St & Adams St",
+  "end station latitude": 40.692418292578466,
+  "end station longitude": -73.98949474096298,
+  "bikeid": 26794,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 574,
+  "starttime": "2019-12-01 04:31:18.7530",
+  "stoptime": "2019-12-01 04:40:53.3230",
+  "start station id": 396,
+  "start station name": "Lefferts Pl & Franklin Ave",
+  "start station latitude": 40.680342423,
+  "start station longitude": -73.9557689392,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 30847,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

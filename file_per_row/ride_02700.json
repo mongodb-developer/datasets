@@ -1,0 +1,17 @@
+{
+  "tripduration": 686,
+  "starttime": "2019-12-01 09:32:56.3700",
+  "stoptime": "2019-12-01 09:44:22.5690",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 236,
+  "end station name": "St Marks Pl & 2 Ave",
+  "end station latitude": 40.7284186,
+  "end station longitude": -73.98713956,
+  "bikeid": 21637,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

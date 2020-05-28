@@ -1,0 +1,17 @@
+{
+  "tripduration": 1115,
+  "starttime": "2019-12-01 16:51:00.8150",
+  "stoptime": "2019-12-01 17:09:36.1080",
+  "start station id": 465,
+  "start station name": "Broadway & W 41 St",
+  "start station latitude": 40.75513557,
+  "start station longitude": -73.98658032,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 32692,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

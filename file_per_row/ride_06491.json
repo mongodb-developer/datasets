@@ -1,0 +1,17 @@
+{
+  "tripduration": 1440,
+  "starttime": "2019-12-01 12:35:41.7160",
+  "stoptime": "2019-12-01 12:59:41.9320",
+  "start station id": 356,
+  "start station name": "Bialystoker Pl & Delancey St",
+  "start station latitude": 40.71622644,
+  "start station longitude": -73.98261206,
+  "end station id": 458,
+  "end station name": "11 Ave & W 27 St",
+  "end station latitude": 40.751396,
+  "end station longitude": -74.005226,
+  "bikeid": 40130,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

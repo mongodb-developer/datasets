@@ -1,0 +1,17 @@
+{
+  "tripduration": 390,
+  "starttime": "2019-12-01 10:18:57.9670",
+  "stoptime": "2019-12-01 10:25:28.9660",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 168,
+  "end station name": "W 18 St & 6 Ave",
+  "end station latitude": 40.73971301,
+  "end station longitude": -73.99456405,
+  "bikeid": 38673,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

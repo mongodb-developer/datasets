@@ -1,0 +1,17 @@
+{
+  "tripduration": 122,
+  "starttime": "2019-12-01 11:47:44.0170",
+  "stoptime": "2019-12-01 11:49:46.3010",
+  "start station id": 3571,
+  "start station name": "Bedford Ave & Bergen St",
+  "start station latitude": 40.676368,
+  "start station longitude": -73.952918,
+  "end station id": 3673,
+  "end station name": "Dean St & Franklin Ave",
+  "end station latitude": 40.67759206937376,
+  "end station longitude": -73.955637216568,
+  "bikeid": 33259,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

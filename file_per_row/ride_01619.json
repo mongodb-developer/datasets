@@ -1,0 +1,17 @@
+{
+  "tripduration": 493,
+  "starttime": "2019-12-01 08:09:15.0350",
+  "stoptime": "2019-12-01 08:17:28.6700",
+  "start station id": 3094,
+  "start station name": "Graham Ave & Withers St",
+  "start station latitude": 40.7169811,
+  "start station longitude": -73.94485918,
+  "end station id": 3085,
+  "end station name": "Roebling St & N 4 St",
+  "end station latitude": 40.71469,
+  "end station longitude": -73.95739,
+  "bikeid": 40818,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

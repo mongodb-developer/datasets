@@ -1,0 +1,17 @@
+{
+  "tripduration": 381,
+  "starttime": "2019-12-01 12:15:29.2700",
+  "stoptime": "2019-12-01 12:21:50.5760",
+  "start station id": 3668,
+  "start station name": "Leonard St & Nassau Ave",
+  "start station latitude": 40.7239567849954,
+  "start station longitude": -73.94984364509583,
+  "end station id": 3453,
+  "end station name": "Devoe St & Lorimer St",
+  "end station latitude": 40.71335226222875,
+  "end station longitude": -73.9491033554077,
+  "bikeid": 40295,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

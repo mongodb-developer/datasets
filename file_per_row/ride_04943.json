@@ -1,0 +1,17 @@
+{
+  "tripduration": 195,
+  "starttime": "2019-12-01 11:08:37.8910",
+  "stoptime": "2019-12-01 11:11:53.4380",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 40404,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

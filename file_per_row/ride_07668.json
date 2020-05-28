@@ -1,0 +1,17 @@
+{
+  "tripduration": 957,
+  "starttime": "2019-12-01 14:42:46.2110",
+  "stoptime": "2019-12-01 14:58:43.4670",
+  "start station id": 525,
+  "start station name": "W 34 St & 11 Ave",
+  "start station latitude": 40.75594159,
+  "start station longitude": -74.0021163,
+  "end station id": 501,
+  "end station name": "FDR Drive & E 35 St",
+  "end station latitude": 40.744219,
+  "end station longitude": -73.97121214,
+  "bikeid": 41965,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

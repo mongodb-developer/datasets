@@ -1,0 +1,17 @@
+{
+  "tripduration": 114,
+  "starttime": "2019-12-01 03:31:49.6910",
+  "stoptime": "2019-12-01 03:33:43.8920",
+  "start station id": 3232,
+  "start station name": "Bond St & Fulton St",
+  "start station latitude": 40.68962188790333,
+  "start station longitude": -73.98304268717766,
+  "end station id": 323,
+  "end station name": "Lawrence St & Willoughby St",
+  "end station latitude": 40.69236178,
+  "end station longitude": -73.98631746,
+  "bikeid": 28222,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

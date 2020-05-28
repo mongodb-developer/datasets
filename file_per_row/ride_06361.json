@@ -1,0 +1,17 @@
+{
+  "tripduration": 284,
+  "starttime": "2019-12-01 12:29:02.1590",
+  "stoptime": "2019-12-01 12:33:46.2360",
+  "start station id": 328,
+  "start station name": "Watts St & Greenwich St",
+  "start station latitude": 40.72405549,
+  "start station longitude": -74.00965965,
+  "end station id": 426,
+  "end station name": "West St & Chambers St",
+  "end station latitude": 40.71754834,
+  "end station longitude": -74.01322069,
+  "bikeid": 31443,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

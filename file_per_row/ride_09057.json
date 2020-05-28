@@ -1,0 +1,17 @@
+{
+  "tripduration": 399,
+  "starttime": "2019-12-01 18:11:27.7980",
+  "stoptime": "2019-12-01 18:18:07.4120",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 3298,
+  "end station name": "Warren St & Court St",
+  "end station latitude": 40.686371,
+  "end station longitude": -73.99383324,
+  "bikeid": 24737,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

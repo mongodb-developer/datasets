@@ -1,0 +1,17 @@
+{
+  "tripduration": 753,
+  "starttime": "2019-12-01 07:31:31.5250",
+  "stoptime": "2019-12-01 07:44:04.5880",
+  "start station id": 291,
+  "start station name": "Madison St & Montgomery St",
+  "start station latitude": 40.713126,
+  "start station longitude": -73.984844,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 27599,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "female"
+}

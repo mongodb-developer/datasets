@@ -1,0 +1,17 @@
+{
+  "tripduration": 401,
+  "starttime": "2019-12-01 11:35:40.7500",
+  "stoptime": "2019-12-01 11:42:22.0910",
+  "start station id": 3057,
+  "start station name": "Kosciuszko St & Tompkins Ave",
+  "start station latitude": 40.69128258,
+  "start station longitude": -73.9452416,
+  "end station id": 289,
+  "end station name": "Monroe St & Classon Ave",
+  "end station latitude": 40.6845683,
+  "end station longitude": -73.95881081,
+  "bikeid": 38240,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

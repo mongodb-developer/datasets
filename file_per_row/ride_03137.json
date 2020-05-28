@@ -1,0 +1,17 @@
+{
+  "tripduration": 576,
+  "starttime": "2019-12-01 09:53:11.3690",
+  "stoptime": "2019-12-01 10:02:47.6320",
+  "start station id": 415,
+  "start station name": "Pearl St & Hanover Square",
+  "start station latitude": 40.7047177,
+  "start station longitude": -74.00926027,
+  "end station id": 146,
+  "end station name": "Hudson St & Reade St",
+  "end station latitude": 40.71625008,
+  "end station longitude": -74.0091059,
+  "bikeid": 41648,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 291,
+  "starttime": "2019-12-01 15:01:31.4420",
+  "stoptime": "2019-12-01 15:06:23.4350",
+  "start station id": 3132,
+  "start station name": "E 59 St & Madison Ave",
+  "start station latitude": 40.76350532,
+  "start station longitude": -73.97109243,
+  "end station id": 2006,
+  "end station name": "Central Park S & 6 Ave",
+  "end station latitude": 40.76590936,
+  "end station longitude": -73.97634151,
+  "bikeid": 27406,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

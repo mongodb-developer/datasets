@@ -1,0 +1,17 @@
+{
+  "tripduration": 216,
+  "starttime": "2019-12-01 03:41:49.4030",
+  "stoptime": "2019-12-01 03:45:25.6170",
+  "start station id": 3693,
+  "start station name": "N 11 St & Kent Ave",
+  "start station latitude": 40.72248188638219,
+  "start station longitude": -73.95921930670738,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 40728,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

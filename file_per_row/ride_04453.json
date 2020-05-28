@@ -1,0 +1,17 @@
+{
+  "tripduration": 361,
+  "starttime": "2019-12-01 10:50:03.5100",
+  "stoptime": "2019-12-01 10:56:05.2060",
+  "start station id": 239,
+  "start station name": "Willoughby St & Fleet St",
+  "start station latitude": 40.69196566,
+  "start station longitude": -73.9813018,
+  "end station id": 3332,
+  "end station name": "Degraw St & Hoyt St",
+  "end station latitude": 40.681990442707026,
+  "end station longitude": -73.99079024791718,
+  "bikeid": 41556,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

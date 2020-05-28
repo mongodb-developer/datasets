@@ -1,0 +1,17 @@
+{
+  "tripduration": 257,
+  "starttime": "2019-12-01 11:22:45.2530",
+  "stoptime": "2019-12-01 11:27:02.6330",
+  "start station id": 3088,
+  "start station name": "Union Ave & Jackson St",
+  "start station latitude": 40.7160751,
+  "start station longitude": -73.952029,
+  "end station id": 3086,
+  "end station name": "Graham Ave & Conselyea St",
+  "end station latitude": 40.715143,
+  "end station longitude": -73.944507,
+  "bikeid": 28373,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

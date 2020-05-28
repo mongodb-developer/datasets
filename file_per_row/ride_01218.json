@@ -1,0 +1,17 @@
+{
+  "tripduration": 148,
+  "starttime": "2019-12-01 07:00:39.9770",
+  "stoptime": "2019-12-01 07:03:08.5390",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 157,
+  "end station name": "Henry St & Atlantic Ave",
+  "end station latitude": 40.69089272,
+  "end station longitude": -73.99612349,
+  "bikeid": 42016,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

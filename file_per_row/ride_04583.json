@@ -1,0 +1,17 @@
+{
+  "tripduration": 422,
+  "starttime": "2019-12-01 10:54:14.7780",
+  "stoptime": "2019-12-01 11:01:17.0800",
+  "start station id": 454,
+  "start station name": "E 51 St & 1 Ave",
+  "start station latitude": 40.75455731,
+  "start station longitude": -73.96592976,
+  "end station id": 520,
+  "end station name": "W 52 St & 5 Ave",
+  "end station latitude": 40.75992262,
+  "end station longitude": -73.97648516,
+  "bikeid": 41145,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

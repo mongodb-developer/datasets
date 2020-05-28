@@ -1,0 +1,17 @@
+{
+  "tripduration": 1568,
+  "starttime": "2019-12-01 11:24:38.3440",
+  "stoptime": "2019-12-01 11:50:46.8630",
+  "start station id": 313,
+  "start station name": "Washington Ave & Park Ave",
+  "start station latitude": 40.69610226,
+  "start station longitude": -73.96751037,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 15696,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

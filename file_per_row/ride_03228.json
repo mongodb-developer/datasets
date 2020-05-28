@@ -1,0 +1,17 @@
+{
+  "tripduration": 1000,
+  "starttime": "2019-12-01 09:57:17.4360",
+  "stoptime": "2019-12-01 10:13:57.8350",
+  "start station id": 397,
+  "start station name": "Fulton St & Clermont Ave",
+  "start station latitude": 40.68415748,
+  "start station longitude": -73.96922273,
+  "end station id": 3067,
+  "end station name": "Broadway & Whipple St",
+  "end station latitude": 40.7016657,
+  "end station longitude": -73.9437303,
+  "bikeid": 38187,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

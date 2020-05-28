@@ -1,0 +1,17 @@
+{
+  "tripduration": 1327,
+  "starttime": "2019-12-01 09:13:18.0970",
+  "stoptime": "2019-12-01 09:35:25.7980",
+  "start station id": 144,
+  "start station name": "Nassau St & Navy St",
+  "start station latitude": 40.69839895,
+  "start station longitude": -73.98068914,
+  "end station id": 412,
+  "end station name": "Forsyth St & Canal St",
+  "end station latitude": 40.7158155,
+  "end station longitude": -73.99422366,
+  "bikeid": 32373,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "male"
+}

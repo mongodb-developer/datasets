@@ -1,0 +1,17 @@
+{
+  "tripduration": 1833,
+  "starttime": "2019-12-01 12:30:15.2880",
+  "stoptime": "2019-12-01 13:00:48.9610",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3295,
+  "end station name": "Central Park W & W 96 St",
+  "end station latitude": 40.79127,
+  "end station longitude": -73.964839,
+  "bikeid": 30108,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

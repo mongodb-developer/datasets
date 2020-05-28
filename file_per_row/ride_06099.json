@@ -1,0 +1,17 @@
+{
+  "tripduration": 428,
+  "starttime": "2019-12-01 12:14:46.2820",
+  "stoptime": "2019-12-01 12:21:54.3960",
+  "start station id": 3076,
+  "start station name": "Scholes St & Manhattan Ave",
+  "start station latitude": 40.70870368,
+  "start station longitude": -73.9448625,
+  "end station id": 3076,
+  "end station name": "Scholes St & Manhattan Ave",
+  "end station latitude": 40.70870368,
+  "end station longitude": -73.9448625,
+  "bikeid": 28207,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

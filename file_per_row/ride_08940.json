@@ -1,0 +1,17 @@
+{
+  "tripduration": 137,
+  "starttime": "2019-12-01 17:49:28.8430",
+  "stoptime": "2019-12-01 17:51:46.7460",
+  "start station id": 3113,
+  "start station name": "Greenpoint Ave & Manhattan Ave",
+  "start station latitude": 40.73026,
+  "start station longitude": -73.95394,
+  "end station id": 3118,
+  "end station name": "McGuinness Blvd & Eagle St",
+  "end station latitude": 40.73555,
+  "end station longitude": -73.95284,
+  "bikeid": 21584,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "female"
+}

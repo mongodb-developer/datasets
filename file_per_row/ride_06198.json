@@ -1,0 +1,17 @@
+{
+  "tripduration": 767,
+  "starttime": "2019-12-01 12:20:02.7310",
+  "stoptime": "2019-12-01 12:32:50.0990",
+  "start station id": 446,
+  "start station name": "W 24 St & 7 Ave",
+  "start station latitude": 40.74487634,
+  "start station longitude": -73.99529885,
+  "end station id": 3793,
+  "end station name": "Stuyvesant Walk & 1 Av Loop",
+  "end station latitude": 40.732339777151054,
+  "end station longitude": -73.97898383438587,
+  "bikeid": 38333,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

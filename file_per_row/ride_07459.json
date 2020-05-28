@@ -1,0 +1,17 @@
+{
+  "tripduration": 799,
+  "starttime": "2019-12-01 14:16:01.2520",
+  "stoptime": "2019-12-01 14:29:21.1090",
+  "start station id": 3812,
+  "start station name": "University Pl & E 14 St",
+  "start station latitude": 40.734814,
+  "start station longitude": -73.992085,
+  "end station id": 339,
+  "end station name": "Avenue D & E 12 St",
+  "end station latitude": 40.72580614,
+  "end station longitude": -73.97422494,
+  "bikeid": 14583,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

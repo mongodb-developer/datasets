@@ -1,0 +1,17 @@
+{
+  "tripduration": 1212,
+  "starttime": "2019-12-01 11:58:48.3290",
+  "stoptime": "2019-12-01 12:19:00.7600",
+  "start station id": 3041,
+  "start station name": "Kingston Ave & Herkimer St",
+  "start station latitude": 40.67890679,
+  "start station longitude": -73.94142771,
+  "end station id": 3349,
+  "end station name": "Grand Army Plaza & Plaza St West",
+  "end station latitude": 40.6729679,
+  "end station longitude": -73.97087984,
+  "bikeid": 40780,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

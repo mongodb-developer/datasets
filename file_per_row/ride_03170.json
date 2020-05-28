@@ -1,0 +1,17 @@
+{
+  "tripduration": 457,
+  "starttime": "2019-12-01 09:54:37.3770",
+  "stoptime": "2019-12-01 10:02:15.1270",
+  "start station id": 150,
+  "start station name": "E 2 St & Avenue C",
+  "start station latitude": 40.7208736,
+  "start station longitude": -73.98085795,
+  "end station id": 531,
+  "end station name": "Forsyth St & Broome St",
+  "end station latitude": 40.71893904,
+  "end station longitude": -73.99266288,
+  "bikeid": 35194,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

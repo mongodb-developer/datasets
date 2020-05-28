@@ -1,0 +1,17 @@
+{
+  "tripduration": 194,
+  "starttime": "2019-12-01 20:44:11.0690",
+  "stoptime": "2019-12-01 20:47:25.8090",
+  "start station id": 3086,
+  "start station name": "Graham Ave & Conselyea St",
+  "start station latitude": 40.715143,
+  "start station longitude": -73.944507,
+  "end station id": 3453,
+  "end station name": "Devoe St & Lorimer St",
+  "end station latitude": 40.71335226222875,
+  "end station longitude": -73.9491033554077,
+  "bikeid": 24892,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

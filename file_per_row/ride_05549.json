@@ -1,0 +1,17 @@
+{
+  "tripduration": 344,
+  "starttime": "2019-12-01 11:41:58.9370",
+  "stoptime": "2019-12-01 11:47:43.2460",
+  "start station id": 282,
+  "start station name": "Kent Ave & S 11 St",
+  "start station latitude": 40.707644944175705,
+  "start station longitude": -73.96841526031494,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 34156,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

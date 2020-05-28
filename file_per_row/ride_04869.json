@@ -1,0 +1,17 @@
+{
+  "tripduration": 220,
+  "starttime": "2019-12-01 11:05:02.7230",
+  "stoptime": "2019-12-01 11:08:43.1810",
+  "start station id": 79,
+  "start station name": "Franklin St & W Broadway",
+  "start station latitude": 40.71911552,
+  "start station longitude": -74.00666661,
+  "end station id": 248,
+  "end station name": "Laight St & Hudson St",
+  "end station latitude": 40.72185379,
+  "end station longitude": -74.00771779,
+  "bikeid": 41984,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

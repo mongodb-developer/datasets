@@ -1,0 +1,17 @@
+{
+  "tripduration": 256,
+  "starttime": "2019-12-01 00:53:51.0790",
+  "stoptime": "2019-12-01 00:58:07.3930",
+  "start station id": 3147,
+  "start station name": "E 85 St & 3 Ave",
+  "start station latitude": 40.77801203,
+  "start station longitude": -73.95407149,
+  "end station id": 3362,
+  "end station name": "Madison Ave & E 82 St",
+  "end station latitude": 40.7781314,
+  "end station longitude": -73.96069399,
+  "bikeid": 41716,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

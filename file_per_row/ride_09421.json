@@ -1,0 +1,17 @@
+{
+  "tripduration": 542,
+  "starttime": "2019-12-01 19:15:47.2180",
+  "stoptime": "2019-12-01 19:24:49.3050",
+  "start station id": 3383,
+  "start station name": "Cathedral Pkwy & Broadway",
+  "start station latitude": 40.804213,
+  "start station longitude": -73.96699104,
+  "end station id": 3400,
+  "end station name": "E 110 St & Madison Ave",
+  "end station latitude": 40.7961535,
+  "end station longitude": -73.94782145,
+  "bikeid": 30012,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

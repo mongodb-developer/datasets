@@ -1,0 +1,17 @@
+{
+  "tripduration": 883,
+  "starttime": "2019-12-01 08:59:47.8540",
+  "stoptime": "2019-12-01 09:14:31.4810",
+  "start station id": 3400,
+  "start station name": "E 110 St & Madison Ave",
+  "start station latitude": 40.7961535,
+  "start station longitude": -73.94782145,
+  "end station id": 3140,
+  "end station name": "1 Ave & E 78 St",
+  "end station latitude": 40.77140426,
+  "end station longitude": -73.9535166,
+  "bikeid": 30112,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

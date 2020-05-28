@@ -1,0 +1,17 @@
+{
+  "tripduration": 392,
+  "starttime": "2019-12-01 18:41:20.3740",
+  "stoptime": "2019-12-01 18:47:52.8990",
+  "start station id": 3100,
+  "start station name": "Nassau Ave & Newell St",
+  "start station latitude": 40.724812564400175,
+  "start station longitude": -73.94752621650696,
+  "end station id": 3115,
+  "end station name": "India St & Manhattan Ave",
+  "end station latitude": 40.73232194,
+  "end station longitude": -73.9550858,
+  "bikeid": 35138,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "female"
+}

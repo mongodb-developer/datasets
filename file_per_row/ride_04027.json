@@ -1,0 +1,17 @@
+{
+  "tripduration": 215,
+  "starttime": "2019-12-01 10:32:21.0570",
+  "stoptime": "2019-12-01 10:35:56.8310",
+  "start station id": 245,
+  "start station name": "Myrtle Ave & St Edwards St",
+  "start station latitude": 40.69327018,
+  "start station longitude": -73.97703874,
+  "end station id": 241,
+  "end station name": "DeKalb Ave & S Portland Ave",
+  "end station latitude": 40.68981035,
+  "end station longitude": -73.97493121,
+  "bikeid": 33795,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

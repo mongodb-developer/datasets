@@ -1,0 +1,17 @@
+{
+  "tripduration": 433,
+  "starttime": "2019-12-01 10:09:11.9980",
+  "stoptime": "2019-12-01 10:16:25.1090",
+  "start station id": 3707,
+  "start station name": "Lexington Ave & E 26 St",
+  "start station latitude": 40.741459,
+  "start station longitude": -73.983293,
+  "end station id": 280,
+  "end station name": "E 10 St & 5 Ave",
+  "end station latitude": 40.73331967,
+  "end station longitude": -73.99510132,
+  "bikeid": 28989,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

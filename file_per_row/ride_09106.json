@@ -1,0 +1,17 @@
+{
+  "tripduration": 387,
+  "starttime": "2019-12-01 18:18:52.3610",
+  "stoptime": "2019-12-01 18:25:20.3370",
+  "start station id": 3086,
+  "start station name": "Graham Ave & Conselyea St",
+  "start station latitude": 40.715143,
+  "start station longitude": -73.944507,
+  "end station id": 3108,
+  "end station name": "Nassau Ave & Russell St",
+  "end station latitude": 40.72557,
+  "end station longitude": -73.94434,
+  "bikeid": 30334,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

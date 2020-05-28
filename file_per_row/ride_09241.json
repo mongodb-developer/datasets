@@ -1,0 +1,17 @@
+{
+  "tripduration": 351,
+  "starttime": "2019-12-01 18:44:51.5580",
+  "stoptime": "2019-12-01 18:50:43.4890",
+  "start station id": 3087,
+  "start station name": "Metropolitan Ave & Meeker Ave",
+  "start station latitude": 40.71413311,
+  "start station longitude": -73.95234386,
+  "end station id": 539,
+  "end station name": "Metropolitan Ave & Bedford Ave",
+  "end station latitude": 40.71534825,
+  "end station longitude": -73.96024116,
+  "bikeid": 19806,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

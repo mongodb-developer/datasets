@@ -1,0 +1,17 @@
+{
+  "tripduration": 686,
+  "starttime": "2019-12-01 09:17:27.5070",
+  "stoptime": "2019-12-01 09:28:53.6910",
+  "start station id": 3687,
+  "start station name": "E 33 St & 1 Ave",
+  "start station latitude": 40.74322681432173,
+  "start station longitude": -73.97449783980846,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 28820,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

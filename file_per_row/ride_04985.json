@@ -1,0 +1,17 @@
+{
+  "tripduration": 518,
+  "starttime": "2019-12-01 11:10:05.8230",
+  "stoptime": "2019-12-01 11:18:44.7860",
+  "start station id": 483,
+  "start station name": "E 12 St & 3 Ave",
+  "start station latitude": 40.73223272,
+  "start station longitude": -73.98889957,
+  "end station id": 461,
+  "end station name": "E 20 St & 2 Ave",
+  "end station latitude": 40.73587678,
+  "end station longitude": -73.98205027,
+  "bikeid": 28962,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

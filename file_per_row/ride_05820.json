@@ -1,0 +1,17 @@
+{
+  "tripduration": 700,
+  "starttime": "2019-12-01 11:58:44.2150",
+  "stoptime": "2019-12-01 12:10:24.9570",
+  "start station id": 490,
+  "start station name": "8 Ave & W 33 St",
+  "start station latitude": 40.751551,
+  "start station longitude": -73.993934,
+  "end station id": 3712,
+  "end station name": "W 35 St & Dyer Ave",
+  "end station latitude": 40.754691750226016,
+  "end station longitude": -73.99740189313889,
+  "bikeid": 25694,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

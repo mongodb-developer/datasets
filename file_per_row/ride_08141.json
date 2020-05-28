@@ -1,0 +1,17 @@
+{
+  "tripduration": 661,
+  "starttime": "2019-12-01 15:29:20.2260",
+  "stoptime": "2019-12-01 15:40:22.0840",
+  "start station id": 3843,
+  "start station name": "Myrtle Ave & Grove St",
+  "start station latitude": 40.69905,
+  "start station longitude": -73.91516,
+  "end station id": 3074,
+  "end station name": "Montrose Ave & Bushwick Ave",
+  "end station latitude": 40.70767788,
+  "end station longitude": -73.94016171,
+  "bikeid": 30503,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

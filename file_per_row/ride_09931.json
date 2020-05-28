@@ -1,0 +1,17 @@
+{
+  "tripduration": 1599,
+  "starttime": "2019-12-01 20:42:15.2180",
+  "stoptime": "2019-12-01 21:08:54.6200",
+  "start station id": 3755,
+  "start station name": "DeKalb Ave & Franklin Ave",
+  "start station latitude": 40.69064807082943,
+  "start station longitude": -73.95746178925037,
+  "end station id": 3112,
+  "end station name": "Milton St & Franklin St",
+  "end station latitude": 40.72906,
+  "end station longitude": -73.95779,
+  "bikeid": 41510,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

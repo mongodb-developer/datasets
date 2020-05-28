@@ -1,0 +1,17 @@
+{
+  "tripduration": 1679,
+  "starttime": "2019-12-01 10:28:51.1290",
+  "stoptime": "2019-12-01 10:56:50.4520",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 3686,
+  "end station name": "Gansevoort St & Hudson St",
+  "end station latitude": 40.739448201304036,
+  "end station longitude": -74.00507032871246,
+  "bikeid": 32553,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

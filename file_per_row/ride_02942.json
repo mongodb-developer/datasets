@@ -1,0 +1,17 @@
+{
+  "tripduration": 141,
+  "starttime": "2019-12-01 09:44:44.0560",
+  "stoptime": "2019-12-01 09:47:05.7010",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 3016,
+  "end station name": "Kent Ave & N 7 St",
+  "end station latitude": 40.72036775298455,
+  "end station longitude": -73.96165072917938,
+  "bikeid": 18624,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

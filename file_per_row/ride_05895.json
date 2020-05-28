@@ -1,0 +1,17 @@
+{
+  "tripduration": 1885,
+  "starttime": "2019-12-01 12:02:39.6160",
+  "stoptime": "2019-12-01 12:34:04.7180",
+  "start station id": 399,
+  "start station name": "Lafayette Ave & St James Pl",
+  "start station latitude": 40.68851534,
+  "start station longitude": -73.9647628,
+  "end station id": 250,
+  "end station name": "Lafayette St & Jersey St",
+  "end station latitude": 40.72456089,
+  "end station longitude": -73.99565293,
+  "bikeid": 41963,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "unknown"
+}

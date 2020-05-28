@@ -1,0 +1,17 @@
+{
+  "tripduration": 489,
+  "starttime": "2019-12-01 13:11:32.5160",
+  "stoptime": "2019-12-01 13:19:41.7340",
+  "start station id": 434,
+  "start station name": "9 Ave & W 18 St",
+  "start station latitude": 40.74317449,
+  "start station longitude": -74.00366443,
+  "end station id": 3712,
+  "end station name": "W 35 St & Dyer Ave",
+  "end station latitude": 40.754691750226016,
+  "end station longitude": -73.99740189313889,
+  "bikeid": 29954,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

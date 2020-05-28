@@ -1,0 +1,17 @@
+{
+  "tripduration": 2132,
+  "starttime": "2019-12-01 00:06:29.5940",
+  "stoptime": "2019-12-01 00:42:02.0210",
+  "start station id": 3763,
+  "start station name": "Wyckoff Av & Jefferson St",
+  "start station latitude": 40.707165,
+  "start station longitude": -73.923711,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 32991,
+  "usertype": "Customer",
+  "birth year": 2000,
+  "gender": "male"
+}

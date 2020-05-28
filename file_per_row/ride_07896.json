@@ -1,0 +1,17 @@
+{
+  "tripduration": 262,
+  "starttime": "2019-12-01 15:04:55.6870",
+  "stoptime": "2019-12-01 15:09:17.8300",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 377,
+  "end station name": "6 Ave & Canal St",
+  "end station latitude": 40.72243797,
+  "end station longitude": -74.00566443,
+  "bikeid": 40567,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

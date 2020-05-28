@@ -1,0 +1,17 @@
+{
+  "tripduration": 781,
+  "starttime": "2019-12-01 09:06:30.9520",
+  "stoptime": "2019-12-01 09:19:32.7460",
+  "start station id": 468,
+  "start station name": "Broadway & W 56 St",
+  "start station latitude": 40.7652654,
+  "start station longitude": -73.98192338,
+  "end station id": 3144,
+  "end station name": "E 81 St & Park Ave",
+  "end station latitude": 40.77677702,
+  "end station longitude": -73.9590097,
+  "bikeid": 42006,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

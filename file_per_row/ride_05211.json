@@ -1,0 +1,17 @@
+{
+  "tripduration": 398,
+  "starttime": "2019-12-01 11:22:36.0420",
+  "stoptime": "2019-12-01 11:29:14.2690",
+  "start station id": 293,
+  "start station name": "Lafayette St & E 8 St",
+  "start station latitude": 40.73020660529954,
+  "start station longitude": -73.99102628231049,
+  "end station id": 402,
+  "end station name": "Broadway & E 22 St",
+  "end station latitude": 40.7403432,
+  "end station longitude": -73.98955109,
+  "bikeid": 34914,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

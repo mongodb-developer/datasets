@@ -1,0 +1,17 @@
+{
+  "tripduration": 423,
+  "starttime": "2019-12-01 17:22:58.2340",
+  "stoptime": "2019-12-01 17:30:02.0260",
+  "start station id": 3110,
+  "start station name": "Meserole Ave & Manhattan Ave",
+  "start station latitude": 40.72708584,
+  "start station longitude": -73.95299117,
+  "end station id": 3106,
+  "end station name": "Driggs Ave & N Henry St",
+  "end station latitude": 40.72325,
+  "end station longitude": -73.94308,
+  "bikeid": 20896,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

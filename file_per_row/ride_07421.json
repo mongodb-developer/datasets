@@ -1,0 +1,17 @@
+{
+  "tripduration": 263,
+  "starttime": "2019-12-01 14:11:06.2600",
+  "stoptime": "2019-12-01 14:15:29.6540",
+  "start station id": 513,
+  "start station name": "W 56 St & 10 Ave",
+  "start station latitude": 40.768254,
+  "start station longitude": -73.988639,
+  "end station id": 3158,
+  "end station name": "W 63 St & Broadway",
+  "end station latitude": 40.77163851,
+  "end station longitude": -73.98261428,
+  "bikeid": 35088,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

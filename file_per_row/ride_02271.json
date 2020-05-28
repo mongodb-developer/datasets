@@ -1,0 +1,17 @@
+{
+  "tripduration": 389,
+  "starttime": "2019-12-01 09:06:00.5830",
+  "stoptime": "2019-12-01 09:12:30.1970",
+  "start station id": 3637,
+  "start station name": "Fulton St & Waverly Ave",
+  "start station latitude": 40.683238654603414,
+  "start station longitude": -73.96599590778351,
+  "end station id": 324,
+  "end station name": "DeKalb Ave & Hudson Ave",
+  "end station latitude": 40.689888,
+  "end station longitude": -73.981013,
+  "bikeid": 38364,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

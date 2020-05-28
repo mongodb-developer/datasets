@@ -1,0 +1,17 @@
+{
+  "tripduration": 363,
+  "starttime": "2019-12-01 11:38:57.0930",
+  "stoptime": "2019-12-01 11:45:00.8820",
+  "start station id": 3508,
+  "start station name": "St Nicholas Ave & Manhattan Ave",
+  "start station latitude": 40.809725,
+  "start station longitude": -73.953149,
+  "end station id": 3527,
+  "end station name": "5 Ave & E 126 St",
+  "end station latitude": 40.80698,
+  "end station longitude": -73.941747,
+  "bikeid": 33072,
+  "usertype": "Subscriber",
+  "birth year": 1954,
+  "gender": "male"
+}

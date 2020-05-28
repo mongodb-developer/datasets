@@ -1,0 +1,17 @@
+{
+  "tripduration": 812,
+  "starttime": "2019-12-01 10:36:39.5580",
+  "stoptime": "2019-12-01 10:50:12.0930",
+  "start station id": 3323,
+  "start station name": "W 106 St & Central Park West",
+  "start station latitude": 40.7981856,
+  "start station longitude": -73.9605909006,
+  "end station id": 3294,
+  "end station name": "E 91 St & Park Ave",
+  "end station latitude": 40.7835016,
+  "end station longitude": -73.955327,
+  "bikeid": 30774,
+  "usertype": "Subscriber",
+  "birth year": 1952,
+  "gender": "male"
+}

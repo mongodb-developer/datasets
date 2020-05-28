@@ -1,0 +1,17 @@
+{
+  "tripduration": 735,
+  "starttime": "2019-12-01 17:24:12.3900",
+  "stoptime": "2019-12-01 17:36:27.7660",
+  "start station id": 460,
+  "start station name": "S 4 St & Wythe Ave",
+  "start station latitude": 40.71285887,
+  "start station longitude": -73.96590294,
+  "end station id": 3074,
+  "end station name": "Montrose Ave & Bushwick Ave",
+  "end station latitude": 40.70767788,
+  "end station longitude": -73.94016171,
+  "bikeid": 32047,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

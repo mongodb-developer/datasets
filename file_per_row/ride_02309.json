@@ -1,0 +1,17 @@
+{
+  "tripduration": 546,
+  "starttime": "2019-12-01 09:08:23.3500",
+  "stoptime": "2019-12-01 09:17:29.5060",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 3707,
+  "end station name": "Lexington Ave & E 26 St",
+  "end station latitude": 40.741459,
+  "end station longitude": -73.983293,
+  "bikeid": 29911,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

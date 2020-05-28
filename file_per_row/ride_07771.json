@@ -1,0 +1,17 @@
+{
+  "tripduration": 385,
+  "starttime": "2019-12-01 14:53:57.9020",
+  "stoptime": "2019-12-01 15:00:23.5540",
+  "start station id": 3558,
+  "start station name": "Bergen St & Vanderbilt Ave",
+  "start station latitude": 40.6794388,
+  "start station longitude": -73.9680438,
+  "end station id": 3413,
+  "end station name": "Wyckoff St & 3 Ave",
+  "end station latitude": 40.6827549,
+  "end station longitude": -73.98258555,
+  "bikeid": 31017,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

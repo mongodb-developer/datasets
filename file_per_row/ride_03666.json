@@ -1,0 +1,17 @@
+{
+  "tripduration": 1330,
+  "starttime": "2019-12-01 10:17:29.3630",
+  "stoptime": "2019-12-01 10:39:39.9170",
+  "start station id": 3232,
+  "start station name": "Bond St & Fulton St",
+  "start station latitude": 40.68962188790333,
+  "start station longitude": -73.98304268717766,
+  "end station id": 3571,
+  "end station name": "Bedford Ave & Bergen St",
+  "end station latitude": 40.676368,
+  "end station longitude": -73.952918,
+  "bikeid": 33259,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 950,
+  "starttime": "2019-12-01 09:14:45.1580",
+  "stoptime": "2019-12-01 09:30:35.7380",
+  "start station id": 3803,
+  "start station name": "Bedford Ave & Montgomery St",
+  "start station latitude": 40.665816,
+  "start station longitude": -73.956934,
+  "end station id": 289,
+  "end station name": "Monroe St & Classon Ave",
+  "end station latitude": 40.6845683,
+  "end station longitude": -73.95881081,
+  "bikeid": 33781,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

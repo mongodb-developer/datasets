@@ -1,0 +1,17 @@
+{
+  "tripduration": 258,
+  "starttime": "2019-12-01 15:41:04.7570",
+  "stoptime": "2019-12-01 15:45:23.0530",
+  "start station id": 3537,
+  "start station name": "Carlton Ave & Dean St",
+  "start station latitude": 40.6809741,
+  "start station longitude": -73.9710097,
+  "end station id": 3346,
+  "end station name": "Berkeley Pl & 7 Ave",
+  "end station latitude": 40.675146838709786,
+  "end station longitude": -73.97523209452629,
+  "bikeid": 41221,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

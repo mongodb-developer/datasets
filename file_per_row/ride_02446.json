@@ -1,0 +1,17 @@
+{
+  "tripduration": 341,
+  "starttime": "2019-12-01 09:16:57.4480",
+  "stoptime": "2019-12-01 09:22:38.6280",
+  "start station id": 3102,
+  "start station name": "Driggs Ave & Lorimer St",
+  "start station latitude": 40.72179134,
+  "start station longitude": -73.9504154,
+  "end station id": 3016,
+  "end station name": "Kent Ave & N 7 St",
+  "end station latitude": 40.72036775298455,
+  "end station longitude": -73.96165072917938,
+  "bikeid": 31355,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 209,
+  "starttime": "2019-12-01 02:22:59.2450",
+  "stoptime": "2019-12-01 02:26:28.7640",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 41889,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

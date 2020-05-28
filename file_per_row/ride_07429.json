@@ -1,0 +1,17 @@
+{
+  "tripduration": 1170,
+  "starttime": "2019-12-01 14:11:59.2750",
+  "stoptime": "2019-12-01 14:31:29.8060",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 29567,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 297,
+  "starttime": "2019-12-01 00:27:57.3000",
+  "stoptime": "2019-12-01 00:32:55.1460",
+  "start station id": 3071,
+  "start station name": "Boerum St & Broadway",
+  "start station latitude": 40.70538077,
+  "start station longitude": -73.94976519,
+  "end station id": 3068,
+  "end station name": "Humboldt St & Varet St",
+  "end station latitude": 40.7031724,
+  "end station longitude": -73.940636,
+  "bikeid": 41638,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

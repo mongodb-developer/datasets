@@ -1,0 +1,17 @@
+{
+  "tripduration": 970,
+  "starttime": "2019-12-01 13:49:09.0790",
+  "stoptime": "2019-12-01 14:05:19.5140",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 472,
+  "end station name": "E 32 St & Park Ave",
+  "end station latitude": 40.7457121,
+  "end station longitude": -73.98194829,
+  "bikeid": 29730,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

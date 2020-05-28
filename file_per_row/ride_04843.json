@@ -1,0 +1,17 @@
+{
+  "tripduration": 134,
+  "starttime": "2019-12-01 11:04:04.6600",
+  "stoptime": "2019-12-01 11:06:19.2770",
+  "start station id": 386,
+  "start station name": "Centre St & Worth St",
+  "start station latitude": 40.71494807,
+  "start station longitude": -74.00234482,
+  "end station id": 330,
+  "end station name": "Reade St & Broadway",
+  "end station latitude": 40.71450451,
+  "end station longitude": -74.00562789,
+  "bikeid": 39261,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

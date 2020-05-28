@@ -1,0 +1,17 @@
+{
+  "tripduration": 717,
+  "starttime": "2019-12-01 05:22:52.4930",
+  "stoptime": "2019-12-01 05:34:49.8830",
+  "start station id": 3506,
+  "start station name": "Lexington Ave & E 120 St",
+  "start station latitude": 40.8013066,
+  "start station longitude": -73.9398167,
+  "end station id": 3518,
+  "end station name": "Lenox Ave & W 126 St",
+  "end station latitude": 40.808442,
+  "end station longitude": -73.9452087,
+  "bikeid": 32316,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "female"
+}

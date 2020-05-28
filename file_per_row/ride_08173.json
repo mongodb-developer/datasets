@@ -1,0 +1,17 @@
+{
+  "tripduration": 938,
+  "starttime": "2019-12-01 15:32:41.4790",
+  "stoptime": "2019-12-01 15:48:20.1030",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 21337,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

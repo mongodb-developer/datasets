@@ -1,0 +1,17 @@
+{
+  "tripduration": 215,
+  "starttime": "2019-12-01 06:38:29.4300",
+  "stoptime": "2019-12-01 06:42:04.6580",
+  "start station id": 369,
+  "start station name": "Washington Pl & 6 Ave",
+  "start station latitude": 40.73224119,
+  "start station longitude": -74.00026394,
+  "end station id": 127,
+  "end station name": "Barrow St & Hudson St",
+  "end station latitude": 40.73172428,
+  "end station longitude": -74.00674436,
+  "bikeid": 40426,
+  "usertype": "Customer",
+  "birth year": 1998,
+  "gender": "male"
+}

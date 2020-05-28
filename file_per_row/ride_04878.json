@@ -1,0 +1,17 @@
+{
+  "tripduration": 451,
+  "starttime": "2019-12-01 11:05:34.9320",
+  "stoptime": "2019-12-01 11:13:06.1350",
+  "start station id": 421,
+  "start station name": "Clermont Ave & Park Ave",
+  "start station latitude": 40.69573398,
+  "start station longitude": -73.97129668,
+  "end station id": 324,
+  "end station name": "DeKalb Ave & Hudson Ave",
+  "end station latitude": 40.689888,
+  "end station longitude": -73.981013,
+  "bikeid": 34303,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

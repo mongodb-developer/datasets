@@ -1,0 +1,17 @@
+{
+  "tripduration": 183,
+  "starttime": "2019-12-01 09:41:50.4090",
+  "stoptime": "2019-12-01 09:44:53.8290",
+  "start station id": 3674,
+  "start station name": "Jay St & York St",
+  "start station latitude": 40.701403172577244,
+  "start station longitude": -73.98672670125961,
+  "end station id": 144,
+  "end station name": "Nassau St & Navy St",
+  "end station latitude": 40.69839895,
+  "end station longitude": -73.98068914,
+  "bikeid": 15240,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

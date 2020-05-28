@@ -1,0 +1,17 @@
+{
+  "tripduration": 230,
+  "starttime": "2019-12-01 17:46:13.4090",
+  "stoptime": "2019-12-01 17:50:04.4070",
+  "start station id": 3501,
+  "start station name": "E 118 St & Madison Ave",
+  "start station latitude": 40.8014866,
+  "start station longitude": -73.9442507,
+  "end station id": 3507,
+  "end station name": "Park Ave & E 124 St",
+  "end station latitude": 40.8045555,
+  "end station longitude": -73.9396861,
+  "bikeid": 17733,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

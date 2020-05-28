@@ -1,0 +1,17 @@
+{
+  "tripduration": 182,
+  "starttime": "2019-12-01 08:45:47.2290",
+  "stoptime": "2019-12-01 08:48:50.0050",
+  "start station id": 3336,
+  "start station name": "E 97 St & Madison Ave",
+  "start station latitude": 40.787801,
+  "start station longitude": -73.953559,
+  "end station id": 3367,
+  "end station name": "5 Ave & E 103 St",
+  "end station latitude": 40.7922553,
+  "end station longitude": -73.95249933,
+  "bikeid": 39274,
+  "usertype": "Subscriber",
+  "birth year": 1949,
+  "gender": "male"
+}

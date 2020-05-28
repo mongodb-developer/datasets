@@ -1,0 +1,17 @@
+{
+  "tripduration": 2421,
+  "starttime": "2019-12-01 18:37:46.7480",
+  "stoptime": "2019-12-01 19:18:08.2120",
+  "start station id": 3461,
+  "start station name": "Murray St & Greenwich St",
+  "start station latitude": 40.714851505262516,
+  "start station longitude": -74.01122331619263,
+  "end station id": 386,
+  "end station name": "Centre St & Worth St",
+  "end station latitude": 40.71494807,
+  "end station longitude": -74.00234482,
+  "bikeid": 40270,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

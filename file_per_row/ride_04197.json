@@ -1,0 +1,17 @@
+{
+  "tripduration": 124,
+  "starttime": "2019-12-01 10:39:31.2220",
+  "stoptime": "2019-12-01 10:41:35.9790",
+  "start station id": 3664,
+  "start station name": "North Moore St & Greenwich St",
+  "start station latitude": 40.72019521437465,
+  "start station longitude": -74.0103006362915,
+  "end station id": 79,
+  "end station name": "Franklin St & W Broadway",
+  "end station latitude": 40.71911552,
+  "end station longitude": -74.00666661,
+  "bikeid": 35216,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

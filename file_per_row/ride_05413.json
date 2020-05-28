@@ -1,0 +1,17 @@
+{
+  "tripduration": 299,
+  "starttime": "2019-12-01 11:34:04.5810",
+  "stoptime": "2019-12-01 11:39:03.8550",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 38282,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 551,
+  "starttime": "2019-12-01 12:14:55.0040",
+  "stoptime": "2019-12-01 12:24:06.0110",
+  "start station id": 361,
+  "start station name": "Allen St & Hester St",
+  "start station latitude": 40.71605866,
+  "start station longitude": -73.99190759,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 41761,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 704,
+  "starttime": "2019-12-01 15:01:47.1850",
+  "stoptime": "2019-12-01 15:13:31.5520",
+  "start station id": 3734,
+  "start station name": "E 58 St &  1 Ave (NW Corner)",
+  "start station latitude": 40.759125,
+  "start station longitude": -73.962658,
+  "end station id": 3284,
+  "end station name": "E 88 St & Park Ave",
+  "end station latitude": 40.781410700190015,
+  "end station longitude": -73.95595908164978,
+  "bikeid": 41274,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

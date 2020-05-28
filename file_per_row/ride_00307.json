@@ -1,0 +1,17 @@
+{
+  "tripduration": 278,
+  "starttime": "2019-12-01 00:46:20.3190",
+  "stoptime": "2019-12-01 00:50:58.8270",
+  "start station id": 3504,
+  "start station name": "E 123 St & Lexington Ave",
+  "start station latitude": 40.8029263,
+  "start station longitude": -73.9379,
+  "end station id": 3497,
+  "end station name": "Pleasant Ave & E 116 St",
+  "end station latitude": 40.7949879,
+  "end station longitude": -73.9333349,
+  "bikeid": 18182,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

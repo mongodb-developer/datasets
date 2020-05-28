@@ -1,0 +1,17 @@
+{
+  "tripduration": 499,
+  "starttime": "2019-12-01 11:38:04.5180",
+  "stoptime": "2019-12-01 11:46:24.1540",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3374,
+  "end station name": "Central Park North & Adam Clayton Powell Blvd",
+  "end station latitude": 40.799484,
+  "end station longitude": -73.955613,
+  "bikeid": 41255,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 467,
+  "starttime": "2019-12-01 11:05:46.3400",
+  "stoptime": "2019-12-01 11:13:33.4380",
+  "start station id": 483,
+  "start station name": "E 12 St & 3 Ave",
+  "start station latitude": 40.73223272,
+  "start station longitude": -73.98889957,
+  "end station id": 128,
+  "end station name": "MacDougal St & Prince St",
+  "end station latitude": 40.72710258,
+  "end station longitude": -74.00297088,
+  "bikeid": 41438,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

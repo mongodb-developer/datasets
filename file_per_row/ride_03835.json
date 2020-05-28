@@ -1,0 +1,17 @@
+{
+  "tripduration": 212,
+  "starttime": "2019-12-01 10:24:08.5890",
+  "stoptime": "2019-12-01 10:27:40.7040",
+  "start station id": 3178,
+  "start station name": "Riverside Dr & W 78 St",
+  "start station latitude": 40.78414472,
+  "start station longitude": -73.98362492,
+  "end station id": 3166,
+  "end station name": "Riverside Dr & W 72 St",
+  "end station latitude": 40.78057799010334,
+  "end station longitude": -73.98562431335449,
+  "bikeid": 41829,
+  "usertype": "Subscriber",
+  "birth year": 1954,
+  "gender": "male"
+}

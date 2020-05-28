@@ -1,0 +1,17 @@
+{
+  "tripduration": 1091,
+  "starttime": "2019-12-01 11:17:55.0210",
+  "stoptime": "2019-12-01 11:36:06.4690",
+  "start station id": 3044,
+  "start station name": "Albany Ave & Fulton St",
+  "start station latitude": 40.6800105,
+  "start station longitude": -73.938475,
+  "end station id": 3404,
+  "end station name": "7 St & 5 Ave",
+  "end station latitude": 40.6704922,
+  "end station longitude": -73.98541675,
+  "bikeid": 41423,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

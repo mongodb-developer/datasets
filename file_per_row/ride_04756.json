@@ -1,0 +1,17 @@
+{
+  "tripduration": 198,
+  "starttime": "2019-12-01 10:59:46.8420",
+  "stoptime": "2019-12-01 11:03:05.6560",
+  "start station id": 2000,
+  "start station name": "Front St & Washington St",
+  "start station latitude": 40.70255088,
+  "start station longitude": -73.98940236,
+  "end station id": 321,
+  "end station name": "Cadman Plaza E & Red Cross Pl",
+  "end station latitude": 40.69991755,
+  "end station longitude": -73.98971773,
+  "bikeid": 31192,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

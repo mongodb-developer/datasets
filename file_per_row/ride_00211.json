@@ -1,0 +1,17 @@
+{
+  "tripduration": 631,
+  "starttime": "2019-12-01 00:31:11.5770",
+  "stoptime": "2019-12-01 00:41:43.2030",
+  "start station id": 3244,
+  "start station name": "University Pl & E 8 St",
+  "start station latitude": 40.73143724085228,
+  "start station longitude": -73.99490341544151,
+  "end station id": 505,
+  "end station name": "6 Ave & W 33 St",
+  "end station latitude": 40.74901271,
+  "end station longitude": -73.98848395,
+  "bikeid": 25131,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

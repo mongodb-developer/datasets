@@ -1,0 +1,17 @@
+{
+  "tripduration": 659,
+  "starttime": "2019-12-01 08:25:47.4140",
+  "stoptime": "2019-12-01 08:36:46.7700",
+  "start station id": 3320,
+  "start station name": "Central Park West & W 100 St",
+  "start station latitude": 40.79406660818552,
+  "start station longitude": -73.96286845207214,
+  "end station id": 3552,
+  "end station name": "W 113 St & Broadway",
+  "end station latitude": 40.805973,
+  "end station longitude": -73.964928,
+  "bikeid": 34936,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

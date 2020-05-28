@@ -1,0 +1,17 @@
+{
+  "tripduration": 211,
+  "starttime": "2019-12-01 09:46:43.9630",
+  "stoptime": "2019-12-01 09:50:15.3710",
+  "start station id": 363,
+  "start station name": "West Thames St",
+  "start station latitude": 40.70834698,
+  "start station longitude": -74.01713445,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 41476,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

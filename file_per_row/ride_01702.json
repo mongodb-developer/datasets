@@ -1,0 +1,17 @@
+{
+  "tripduration": 309,
+  "starttime": "2019-12-01 08:20:07.8700",
+  "stoptime": "2019-12-01 08:25:17.0360",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 34087,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

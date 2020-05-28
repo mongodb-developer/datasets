@@ -1,0 +1,17 @@
+{
+  "tripduration": 309,
+  "starttime": "2019-12-01 03:49:30.8040",
+  "stoptime": "2019-12-01 03:54:40.2060",
+  "start station id": 403,
+  "start station name": "E 2 St & 2 Ave",
+  "start station latitude": 40.72502876,
+  "start station longitude": -73.99069656,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 30139,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

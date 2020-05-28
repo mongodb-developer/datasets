@@ -1,0 +1,17 @@
+{
+  "tripduration": 780,
+  "starttime": "2019-12-01 11:47:00.0350",
+  "stoptime": "2019-12-01 12:00:00.8680",
+  "start station id": 3429,
+  "start station name": "Hanson Pl & Ashland Pl",
+  "start station latitude": 40.68506807308177,
+  "start station longitude": -73.97790759801863,
+  "end station id": 289,
+  "end station name": "Monroe St & Classon Ave",
+  "end station latitude": 40.6845683,
+  "end station longitude": -73.95881081,
+  "bikeid": 28574,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

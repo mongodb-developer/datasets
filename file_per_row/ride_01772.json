@@ -1,0 +1,17 @@
+{
+  "tripduration": 614,
+  "starttime": "2019-12-01 08:26:53.2790",
+  "stoptime": "2019-12-01 08:37:08.1540",
+  "start station id": 3168,
+  "start station name": "Central Park West & W 85 St",
+  "start station latitude": 40.78472675,
+  "start station longitude": -73.96961715,
+  "end station id": 3443,
+  "end station name": "W 52 St & 6 Ave",
+  "end station latitude": 40.76132983124814,
+  "end station longitude": -73.97982001304626,
+  "bikeid": 41972,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

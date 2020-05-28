@@ -1,0 +1,17 @@
+{
+  "tripduration": 891,
+  "starttime": "2019-12-01 09:41:50.7890",
+  "stoptime": "2019-12-01 09:56:42.5390",
+  "start station id": 461,
+  "start station name": "E 20 St & 2 Ave",
+  "start station latitude": 40.73587678,
+  "start station longitude": -73.98205027,
+  "end station id": 3233,
+  "end station name": "E 48 St & 5 Ave",
+  "end station latitude": 40.75724567911726,
+  "end station longitude": -73.97805914282799,
+  "bikeid": 28905,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

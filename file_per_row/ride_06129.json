@@ -1,0 +1,17 @@
+{
+  "tripduration": 298,
+  "starttime": "2019-12-01 12:16:10.2390",
+  "stoptime": "2019-12-01 12:21:09.0310",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 266,
+  "end station name": "Avenue D & E 8 St",
+  "end station latitude": 40.72368361,
+  "end station longitude": -73.97574813,
+  "bikeid": 39194,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

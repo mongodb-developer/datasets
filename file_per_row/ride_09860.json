@@ -1,0 +1,17 @@
+{
+  "tripduration": 1149,
+  "starttime": "2019-12-01 20:29:12.1460",
+  "stoptime": "2019-12-01 20:48:21.1570",
+  "start station id": 3420,
+  "start station name": "Douglass St & 3 Ave",
+  "start station latitude": 40.6802133,
+  "start station longitude": -73.98432695,
+  "end station id": 3058,
+  "end station name": "Lewis Ave & Kosciuszko St",
+  "end station latitude": 40.69237074,
+  "end station longitude": -73.93705428,
+  "bikeid": 33960,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

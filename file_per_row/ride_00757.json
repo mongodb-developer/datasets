@@ -1,0 +1,17 @@
+{
+  "tripduration": 2056,
+  "starttime": "2019-12-01 02:47:45.6160",
+  "stoptime": "2019-12-01 03:22:02.1080",
+  "start station id": 482,
+  "start station name": "W 15 St & 7 Ave",
+  "start station latitude": 40.73935542,
+  "start station longitude": -73.99931783,
+  "end station id": 497,
+  "end station name": "E 17 St & Broadway",
+  "end station latitude": 40.73704984,
+  "end station longitude": -73.99009296,
+  "bikeid": 25316,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

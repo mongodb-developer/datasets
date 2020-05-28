@@ -1,0 +1,17 @@
+{
+  "tripduration": 164,
+  "starttime": "2019-12-01 19:24:18.1690",
+  "stoptime": "2019-12-01 19:27:03.0540",
+  "start station id": 3725,
+  "start station name": "2 Ave & E 72 St",
+  "start station latitude": 40.7687620293096,
+  "start station longitude": -73.95840793848038,
+  "end station id": 3140,
+  "end station name": "1 Ave & E 78 St",
+  "end station latitude": 40.77140426,
+  "end station longitude": -73.9535166,
+  "bikeid": 17513,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

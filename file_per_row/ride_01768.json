@@ -1,0 +1,17 @@
+{
+  "tripduration": 174,
+  "starttime": "2019-12-01 08:26:17.7770",
+  "stoptime": "2019-12-01 08:29:12.1430",
+  "start station id": 3423,
+  "start station name": "West Drive & Prospect Park West",
+  "start station latitude": 40.6610633719006,
+  "start station longitude": -73.97945255041122,
+  "end station id": 3300,
+  "end station name": "Prospect Park West & 8 St",
+  "end station latitude": 40.66514681533792,
+  "end station longitude": -73.97637605667114,
+  "bikeid": 38986,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1467,
+  "starttime": "2019-12-01 15:16:23.8000",
+  "stoptime": "2019-12-01 15:40:51.1200",
+  "start station id": 2012,
+  "start station name": "E 27 St & 1 Ave",
+  "start station latitude": 40.739445,
+  "start station longitude": -73.976806,
+  "end station id": 499,
+  "end station name": "Broadway & W 60 St",
+  "end station latitude": 40.76915505,
+  "end station longitude": -73.98191841,
+  "bikeid": 31237,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

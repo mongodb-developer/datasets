@@ -1,0 +1,17 @@
+{
+  "tripduration": 255,
+  "starttime": "2019-12-01 11:37:57.5740",
+  "stoptime": "2019-12-01 11:42:12.6050",
+  "start station id": 3901,
+  "start station name": "Stanhope St & Fairview Ave",
+  "start station latitude": 40.70998,
+  "start station longitude": -73.91116,
+  "end station id": 3885,
+  "end station name": "Onderdonk Ave & Gates Ave",
+  "end station latitude": 40.70413,
+  "end station longitude": -73.90737,
+  "bikeid": 40494,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 173,
+  "starttime": "2019-12-01 14:59:49.6930",
+  "stoptime": "2019-12-01 15:02:43.3320",
+  "start station id": 3419,
+  "start station name": "Douglass St & 4 Ave",
+  "start station latitude": 40.6792788,
+  "start station longitude": -73.98154004,
+  "end station id": 467,
+  "end station name": "Dean St & 4 Ave",
+  "end station latitude": 40.68312489,
+  "end station longitude": -73.97895137,
+  "bikeid": 22575,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

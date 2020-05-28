@@ -1,0 +1,17 @@
+{
+  "tripduration": 382,
+  "starttime": "2019-12-01 17:00:09.8700",
+  "stoptime": "2019-12-01 17:06:32.5000",
+  "start station id": 3709,
+  "start station name": "W 15 St & 6 Ave",
+  "start station latitude": 40.738046142482766,
+  "start station longitude": -73.99642959237099,
+  "end station id": 442,
+  "end station name": "W 27 St & 7 Ave",
+  "end station latitude": 40.746647,
+  "end station longitude": -73.993915,
+  "bikeid": 18328,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

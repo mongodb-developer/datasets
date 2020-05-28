@@ -1,0 +1,17 @@
+{
+  "tripduration": 400,
+  "starttime": "2019-12-01 10:09:11.9530",
+  "stoptime": "2019-12-01 10:15:52.8090",
+  "start station id": 3172,
+  "start station name": "W 74 St & Columbus Ave",
+  "start station latitude": 40.7785669,
+  "start station longitude": -73.97754961,
+  "end station id": 3283,
+  "end station name": "W 89 St & Columbus Ave",
+  "end station latitude": 40.7882213,
+  "end station longitude": -73.97041561,
+  "bikeid": 39610,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

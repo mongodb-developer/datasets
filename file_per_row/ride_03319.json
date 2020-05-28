@@ -1,0 +1,17 @@
+{
+  "tripduration": 1560,
+  "starttime": "2019-12-01 10:01:10.1480",
+  "stoptime": "2019-12-01 10:27:10.4850",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 259,
+  "end station name": "South St & Whitehall St",
+  "end station latitude": 40.70122128,
+  "end station longitude": -74.01234218,
+  "bikeid": 33411,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

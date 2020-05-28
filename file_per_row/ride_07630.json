@@ -1,0 +1,17 @@
+{
+  "tripduration": 1044,
+  "starttime": "2019-12-01 14:37:19.3570",
+  "stoptime": "2019-12-01 14:54:44.2430",
+  "start station id": 3840,
+  "start station name": "Putnam Ave & Wyckoff Ave",
+  "start station latitude": 40.69811,
+  "start station longitude": -73.90904,
+  "end station id": 3835,
+  "end station name": "Knickerbocker Ave & Hancock St",
+  "end station latitude": 40.69385,
+  "end station longitude": -73.90974,
+  "bikeid": 41507,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

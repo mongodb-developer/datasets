@@ -1,0 +1,17 @@
+{
+  "tripduration": 417,
+  "starttime": "2019-12-01 08:39:22.6290",
+  "stoptime": "2019-12-01 08:46:19.7790",
+  "start station id": 3349,
+  "start station name": "Grand Army Plaza & Plaza St West",
+  "start station latitude": 40.6729679,
+  "start station longitude": -73.97087984,
+  "end station id": 3417,
+  "end station name": "Baltic St & 5 Ave",
+  "end station latitude": 40.6795766,
+  "end station longitude": -73.97854971,
+  "bikeid": 35246,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

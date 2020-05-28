@@ -1,0 +1,17 @@
+{
+  "tripduration": 689,
+  "starttime": "2019-12-01 09:49:23.6340",
+  "stoptime": "2019-12-01 10:00:52.6970",
+  "start station id": 339,
+  "start station name": "Avenue D & E 12 St",
+  "start station latitude": 40.72580614,
+  "start station longitude": -73.97422494,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 35320,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

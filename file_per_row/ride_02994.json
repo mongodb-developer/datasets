@@ -1,0 +1,17 @@
+{
+  "tripduration": 821,
+  "starttime": "2019-12-01 09:47:12.1400",
+  "stoptime": "2019-12-01 10:00:53.3840",
+  "start station id": 509,
+  "start station name": "9 Ave & W 22 St",
+  "start station latitude": 40.7454973,
+  "start station longitude": -74.00197139,
+  "end station id": 519,
+  "end station name": "Pershing Square North",
+  "end station latitude": 40.751873,
+  "end station longitude": -73.977706,
+  "bikeid": 40532,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

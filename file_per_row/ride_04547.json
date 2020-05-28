@@ -1,0 +1,17 @@
+{
+  "tripduration": 2094,
+  "starttime": "2019-12-01 10:53:13.5640",
+  "stoptime": "2019-12-01 11:28:08.0520",
+  "start station id": 3146,
+  "start station name": "E 81 St & 3 Ave",
+  "start station latitude": 40.77573034,
+  "start station longitude": -73.9567526,
+  "end station id": 508,
+  "end station name": "W 46 St & 11 Ave",
+  "end station latitude": 40.76341379,
+  "end station longitude": -73.99667444,
+  "bikeid": 39046,
+  "usertype": "Subscriber",
+  "birth year": 1951,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 163,
+  "starttime": "2019-12-01 10:00:02.3310",
+  "stoptime": "2019-12-01 10:02:46.2020",
+  "start station id": 3283,
+  "start station name": "W 89 St & Columbus Ave",
+  "start station latitude": 40.7882213,
+  "start station longitude": -73.97041561,
+  "end station id": 3301,
+  "end station name": "Columbus Ave & W 95 St",
+  "end station latitude": 40.7919557,
+  "end station longitude": -73.968087,
+  "bikeid": 40416,
+  "usertype": "Customer",
+  "birth year": 1978,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 464,
+  "starttime": "2019-12-01 06:59:20.5960",
+  "stoptime": "2019-12-01 07:07:04.8830",
+  "start station id": 296,
+  "start station name": "Division St & Bowery (old)",
+  "start station latitude": 40.71413089,
+  "start station longitude": -73.9970468,
+  "end station id": 251,
+  "end station name": "Mott St & Prince St",
+  "end station latitude": 40.72317958,
+  "end station longitude": -73.99480012,
+  "bikeid": 32943,
+  "usertype": "Subscriber",
+  "birth year": 2000,
+  "gender": "female"
+}

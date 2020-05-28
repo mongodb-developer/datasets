@@ -1,0 +1,17 @@
+{
+  "tripduration": 1780,
+  "starttime": "2019-12-01 15:03:49.5210",
+  "stoptime": "2019-12-01 15:33:29.8920",
+  "start station id": 339,
+  "start station name": "Avenue D & E 12 St",
+  "start station latitude": 40.72580614,
+  "start station longitude": -73.97422494,
+  "end station id": 477,
+  "end station name": "W 41 St & 8 Ave",
+  "end station latitude": 40.75640548,
+  "end station longitude": -73.9900262,
+  "bikeid": 33025,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

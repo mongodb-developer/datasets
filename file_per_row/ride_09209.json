@@ -1,0 +1,17 @@
+{
+  "tripduration": 308,
+  "starttime": "2019-12-01 18:39:01.4920",
+  "stoptime": "2019-12-01 18:44:09.5690",
+  "start station id": 403,
+  "start station name": "E 2 St & 2 Ave",
+  "start station latitude": 40.72502876,
+  "start station longitude": -73.99069656,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 39019,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "female"
+}

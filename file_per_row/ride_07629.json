@@ -1,0 +1,17 @@
+{
+  "tripduration": 1618,
+  "starttime": "2019-12-01 14:37:16.2960",
+  "stoptime": "2019-12-01 15:04:14.9520",
+  "start station id": 3048,
+  "start station name": "Putnam Ave & Nostrand Ave",
+  "start station latitude": 40.68402,
+  "start station longitude": -73.94977,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 30940,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

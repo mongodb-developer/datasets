@@ -1,0 +1,17 @@
+{
+  "tripduration": 204,
+  "starttime": "2019-12-01 11:15:26.3280",
+  "stoptime": "2019-12-01 11:18:51.1180",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 406,
+  "end station name": "Hicks St & Montague St",
+  "end station latitude": 40.69512845,
+  "end station longitude": -73.99595065,
+  "bikeid": 41962,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 535,
+  "starttime": "2019-12-01 10:47:30.7310",
+  "stoptime": "2019-12-01 10:56:25.7430",
+  "start station id": 258,
+  "start station name": "DeKalb Ave & Vanderbilt Ave",
+  "start station latitude": 40.68940747,
+  "start station longitude": -73.96885458,
+  "end station id": 3546,
+  "end station name": "Pacific St & Classon Ave",
+  "end station latitude": 40.6791944,
+  "end station longitude": -73.9587903,
+  "bikeid": 18949,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 795,
+  "starttime": "2019-12-01 14:23:02.0320",
+  "stoptime": "2019-12-01 14:36:18.0310",
+  "start station id": 434,
+  "start station name": "9 Ave & W 18 St",
+  "start station latitude": 40.74317449,
+  "start station longitude": -74.00366443,
+  "end station id": 477,
+  "end station name": "W 41 St & 8 Ave",
+  "end station latitude": 40.75640548,
+  "end station longitude": -73.9900262,
+  "bikeid": 38524,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

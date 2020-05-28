@@ -1,0 +1,17 @@
+{
+  "tripduration": 268,
+  "starttime": "2019-12-01 09:46:18.4160",
+  "stoptime": "2019-12-01 09:50:47.0310",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 3452,
+  "end station name": "Bayard St & Leonard St",
+  "end station latitude": 40.71915571696044,
+  "end station longitude": -73.94885390996933,
+  "bikeid": 30703,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

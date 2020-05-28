@@ -1,0 +1,17 @@
+{
+  "tripduration": 367,
+  "starttime": "2019-12-01 00:24:49.9310",
+  "stoptime": "2019-12-01 00:30:57.2190",
+  "start station id": 342,
+  "start station name": "Columbia St & Rivington St",
+  "start station latitude": 40.71739973,
+  "start station longitude": -73.98016555,
+  "end station id": 339,
+  "end station name": "Avenue D & E 12 St",
+  "end station latitude": 40.72580614,
+  "end station longitude": -73.97422494,
+  "bikeid": 20909,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

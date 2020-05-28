@@ -1,0 +1,17 @@
+{
+  "tripduration": 562,
+  "starttime": "2019-12-01 12:40:24.9980",
+  "stoptime": "2019-12-01 12:49:47.7540",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 16500,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

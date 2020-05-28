@@ -1,0 +1,17 @@
+{
+  "tripduration": 510,
+  "starttime": "2019-12-01 07:40:28.7720",
+  "stoptime": "2019-12-01 07:48:59.5670",
+  "start station id": 3140,
+  "start station name": "1 Ave & E 78 St",
+  "start station latitude": 40.77140426,
+  "start station longitude": -73.9535166,
+  "end station id": 3305,
+  "end station name": "E 91 St & 2 Ave",
+  "end station latitude": 40.78112229934166,
+  "end station longitude": -73.94965589046478,
+  "bikeid": 33295,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

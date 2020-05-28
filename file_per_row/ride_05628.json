@@ -1,0 +1,17 @@
+{
+  "tripduration": 201,
+  "starttime": "2019-12-01 11:47:26.3810",
+  "stoptime": "2019-12-01 11:50:47.7170",
+  "start station id": 473,
+  "start station name": "Rivington St & Chrystie St",
+  "start station latitude": 40.72110063,
+  "start station longitude": -73.9919254,
+  "end station id": 250,
+  "end station name": "Lafayette St & Jersey St",
+  "end station latitude": 40.72456089,
+  "end station longitude": -73.99565293,
+  "bikeid": 40515,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

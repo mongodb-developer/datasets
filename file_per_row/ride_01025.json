@@ -1,0 +1,17 @@
+{
+  "tripduration": 1199,
+  "starttime": "2019-12-01 05:18:02.3820",
+  "stoptime": "2019-12-01 05:38:01.5330",
+  "start station id": 311,
+  "start station name": "Norfolk St & Broome St",
+  "start station latitude": 40.7172274,
+  "start station longitude": -73.98802084,
+  "end station id": 340,
+  "end station name": "Madison St & Clinton St",
+  "end station latitude": 40.71269042,
+  "end station longitude": -73.98776323,
+  "bikeid": 17365,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

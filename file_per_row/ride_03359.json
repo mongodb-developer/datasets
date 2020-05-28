@@ -1,0 +1,17 @@
+{
+  "tripduration": 1798,
+  "starttime": "2019-12-01 10:03:37.4900",
+  "stoptime": "2019-12-01 10:33:35.5800",
+  "start station id": 3260,
+  "start station name": "Mercer St & Bleecker St",
+  "start station latitude": 40.72706363348306,
+  "start station longitude": -73.99662137031554,
+  "end station id": 3142,
+  "end station name": "1 Ave & E 62 St",
+  "end station latitude": 40.7612274,
+  "end station longitude": -73.96094022,
+  "bikeid": 41969,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "female"
+}

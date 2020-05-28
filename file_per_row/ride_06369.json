@@ -1,0 +1,17 @@
+{
+  "tripduration": 109,
+  "starttime": "2019-12-01 12:29:22.5160",
+  "stoptime": "2019-12-01 12:31:11.8620",
+  "start station id": 3101,
+  "start station name": "N 12 St & Bedford Ave",
+  "start station latitude": 40.72079821,
+  "start station longitude": -73.95484712,
+  "end station id": 3107,
+  "end station name": "Bedford Ave & Nassau Ave",
+  "end station latitude": 40.72311651,
+  "end station longitude": -73.95212324,
+  "bikeid": 18900,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

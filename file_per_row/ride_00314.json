@@ -1,0 +1,17 @@
+{
+  "tripduration": 471,
+  "starttime": "2019-12-01 00:47:50.0130",
+  "stoptime": "2019-12-01 00:55:41.7100",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 264,
+  "end station name": "Maiden Ln & Pearl St",
+  "end station latitude": 40.70706456,
+  "end station longitude": -74.00731853,
+  "bikeid": 40465,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1341,
+  "starttime": "2019-12-01 19:40:18.8160",
+  "stoptime": "2019-12-01 20:02:40.2960",
+  "start station id": 3599,
+  "start station name": "Franklin Ave & Empire Blvd",
+  "start station latitude": 40.66314,
+  "start station longitude": -73.9605695,
+  "end station id": 3042,
+  "end station name": "Fulton St & Utica Ave",
+  "end station latitude": 40.6794268,
+  "end station longitude": -73.9298911,
+  "bikeid": 17718,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

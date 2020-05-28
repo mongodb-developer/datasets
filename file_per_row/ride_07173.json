@@ -1,0 +1,17 @@
+{
+  "tripduration": 292,
+  "starttime": "2019-12-01 13:30:16.8180",
+  "stoptime": "2019-12-01 13:35:09.2520",
+  "start station id": 303,
+  "start station name": "Mercer St & Spring St",
+  "start station latitude": 40.72362738,
+  "start station longitude": -73.99949601,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 27998,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

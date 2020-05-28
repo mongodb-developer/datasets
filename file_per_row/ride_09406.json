@@ -1,0 +1,17 @@
+{
+  "tripduration": 390,
+  "starttime": "2019-12-01 19:13:33.3490",
+  "stoptime": "2019-12-01 19:20:03.8200",
+  "start station id": 377,
+  "start station name": "6 Ave & Canal St",
+  "start station latitude": 40.72243797,
+  "start station longitude": -74.00566443,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 20356,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

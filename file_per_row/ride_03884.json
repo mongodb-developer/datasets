@@ -1,0 +1,17 @@
+{
+  "tripduration": 278,
+  "starttime": "2019-12-01 10:26:08.8020",
+  "stoptime": "2019-12-01 10:30:47.0270",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 254,
+  "end station name": "W 11 St & 6 Ave",
+  "end station latitude": 40.73532427,
+  "end station longitude": -73.99800419,
+  "bikeid": 30140,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

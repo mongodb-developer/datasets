@@ -1,0 +1,17 @@
+{
+  "tripduration": 1271,
+  "starttime": "2019-12-01 18:21:30.5220",
+  "stoptime": "2019-12-01 18:42:42.4880",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 486,
+  "end station name": "Broadway & W 29 St",
+  "end station latitude": 40.7462009,
+  "end station longitude": -73.98855723,
+  "bikeid": 33821,
+  "usertype": "Customer",
+  "birth year": 1999,
+  "gender": "male"
+}

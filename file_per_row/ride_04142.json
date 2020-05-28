@@ -1,0 +1,17 @@
+{
+  "tripduration": 917,
+  "starttime": "2019-12-01 10:36:54.3750",
+  "stoptime": "2019-12-01 10:52:12.2320",
+  "start station id": 3553,
+  "start station name": "Frederick Douglass Blvd & W 112 St",
+  "start station latitude": 40.801694,
+  "start station longitude": -73.957145,
+  "end station id": 3177,
+  "end station name": "W 84 St & Broadway",
+  "end station latitude": 40.7867947,
+  "end station longitude": -73.977112,
+  "bikeid": 30527,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

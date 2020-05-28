@@ -1,0 +1,17 @@
+{
+  "tripduration": 262,
+  "starttime": "2019-12-01 12:10:31.1960",
+  "stoptime": "2019-12-01 12:14:54.0860",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 28901,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

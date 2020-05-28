@@ -1,0 +1,17 @@
+{
+  "tripduration": 265,
+  "starttime": "2019-12-01 00:45:28.3180",
+  "stoptime": "2019-12-01 00:49:53.7220",
+  "start station id": 270,
+  "start station name": "Adelphi St & Myrtle Ave",
+  "start station latitude": 40.69308257,
+  "start station longitude": -73.97178913,
+  "end station id": 421,
+  "end station name": "Clermont Ave & Park Ave",
+  "end station latitude": 40.69573398,
+  "end station longitude": -73.97129668,
+  "bikeid": 34303,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

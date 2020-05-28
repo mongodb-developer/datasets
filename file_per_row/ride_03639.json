@@ -1,0 +1,17 @@
+{
+  "tripduration": 412,
+  "starttime": "2019-12-01 10:16:24.4250",
+  "stoptime": "2019-12-01 10:23:16.4600",
+  "start station id": 3137,
+  "start station name": "5 Ave & E 73 St",
+  "start station latitude": 40.77282817,
+  "start station longitude": -73.96685276,
+  "end station id": 3140,
+  "end station name": "1 Ave & E 78 St",
+  "end station latitude": 40.77140426,
+  "end station longitude": -73.9535166,
+  "bikeid": 27445,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

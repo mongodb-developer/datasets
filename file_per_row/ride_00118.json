@@ -1,0 +1,17 @@
+{
+  "tripduration": 965,
+  "starttime": "2019-12-01 00:17:10.9280",
+  "stoptime": "2019-12-01 00:33:16.2120",
+  "start station id": 467,
+  "start station name": "Dean St & 4 Ave",
+  "start station latitude": 40.68312489,
+  "start station longitude": -73.97895137,
+  "end station id": 3676,
+  "end station name": "Van Brunt St & Van Dyke St",
+  "end station latitude": 40.6758329439129,
+  "end station longitude": -74.01472628116608,
+  "bikeid": 39697,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "female"
+}

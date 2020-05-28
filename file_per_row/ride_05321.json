@@ -1,0 +1,17 @@
+{
+  "tripduration": 469,
+  "starttime": "2019-12-01 11:27:54.6740",
+  "stoptime": "2019-12-01 11:35:43.7310",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 303,
+  "end station name": "Mercer St & Spring St",
+  "end station latitude": 40.72362738,
+  "end station longitude": -73.99949601,
+  "bikeid": 40583,
+  "usertype": "Customer",
+  "birth year": 1998,
+  "gender": "male"
+}

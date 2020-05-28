@@ -1,0 +1,17 @@
+{
+  "tripduration": 630,
+  "starttime": "2019-12-01 00:22:45.9500",
+  "stoptime": "2019-12-01 00:33:16.1890",
+  "start station id": 405,
+  "start station name": "Washington St & Gansevoort St",
+  "start station latitude": 40.739323,
+  "start station longitude": -74.008119,
+  "end station id": 151,
+  "end station name": "Cleveland Pl & Spring St",
+  "end station latitude": 40.722103786686034,
+  "end station longitude": -73.99724900722504,
+  "bikeid": 27639,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

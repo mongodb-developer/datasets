@@ -1,0 +1,17 @@
+{
+  "tripduration": 380,
+  "starttime": "2019-12-01 11:49:21.2410",
+  "stoptime": "2019-12-01 11:55:42.0020",
+  "start station id": 3882,
+  "start station name": "Norman St & Wyckoff Ave",
+  "start station latitude": 40.69517,
+  "start station longitude": -73.90311,
+  "end station id": 3828,
+  "end station name": "Eldert St & Bushwick Ave",
+  "end station latitude": 40.68652,
+  "end station longitude": -73.91321,
+  "bikeid": 35234,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

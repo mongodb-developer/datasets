@@ -1,0 +1,17 @@
+{
+  "tripduration": 200,
+  "starttime": "2019-12-01 09:50:58.6320",
+  "stoptime": "2019-12-01 09:54:19.5280",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3350,
+  "end station name": "W 100 St & Broadway",
+  "end station latitude": 40.7973721,
+  "end station longitude": -73.97041192,
+  "bikeid": 39230,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

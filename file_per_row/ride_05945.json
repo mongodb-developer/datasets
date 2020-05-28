@@ -1,0 +1,17 @@
+{
+  "tripduration": 557,
+  "starttime": "2019-12-01 12:04:56.7150",
+  "stoptime": "2019-12-01 12:14:14.3380",
+  "start station id": 3082,
+  "start station name": "Hope St & Union Ave",
+  "start station latitude": 40.71167351,
+  "start station longitude": -73.95141312,
+  "end station id": 3693,
+  "end station name": "N 11 St & Kent Ave",
+  "end station latitude": 40.72248188638219,
+  "end station longitude": -73.95921930670738,
+  "bikeid": 41989,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

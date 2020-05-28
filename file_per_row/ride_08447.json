@@ -1,0 +1,17 @@
+{
+  "tripduration": 395,
+  "starttime": "2019-12-01 16:07:44.5400",
+  "stoptime": "2019-12-01 16:14:19.6990",
+  "start station id": 3402,
+  "start station name": "Court St & State St",
+  "start station latitude": 40.6902375,
+  "start station longitude": -73.99203074,
+  "end station id": 261,
+  "end station name": "Johnson St & Gold St",
+  "end station latitude": 40.69474881,
+  "end station longitude": -73.98362464,
+  "bikeid": 28797,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

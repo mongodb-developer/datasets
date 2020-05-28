@@ -1,0 +1,17 @@
+{
+  "tripduration": 790,
+  "starttime": "2019-12-01 12:43:00.7090",
+  "stoptime": "2019-12-01 12:56:10.9260",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 442,
+  "end station name": "W 27 St & 7 Ave",
+  "end station latitude": 40.746647,
+  "end station longitude": -73.993915,
+  "bikeid": 15618,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 164,
+  "starttime": "2019-12-01 09:30:35.1280",
+  "stoptime": "2019-12-01 09:33:19.3190",
+  "start station id": 3343,
+  "start station name": "W 107 St & Columbus Ave",
+  "start station latitude": 40.7997568,
+  "start station longitude": -73.9621128676,
+  "end station id": 3328,
+  "end station name": "W 100 St & Manhattan Ave",
+  "end station latitude": 40.795,
+  "end station longitude": -73.9645,
+  "bikeid": 38224,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

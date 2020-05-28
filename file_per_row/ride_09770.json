@@ -1,0 +1,17 @@
+{
+  "tripduration": 543,
+  "starttime": "2019-12-01 20:13:20.1320",
+  "stoptime": "2019-12-01 20:22:24.0950",
+  "start station id": 3096,
+  "start station name": "Union Ave & N 12 St",
+  "start station latitude": 40.71924,
+  "start station longitude": -73.95242,
+  "end station id": 3766,
+  "end station name": "Sharon St & Olive St",
+  "end station latitude": 40.715353,
+  "end station longitude": -73.93856,
+  "bikeid": 39926,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

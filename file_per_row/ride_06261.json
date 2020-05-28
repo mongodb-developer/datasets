@@ -1,0 +1,17 @@
+{
+  "tripduration": 426,
+  "starttime": "2019-12-01 12:23:42.9940",
+  "stoptime": "2019-12-01 12:30:49.6560",
+  "start station id": 340,
+  "start station name": "Madison St & Clinton St",
+  "start station latitude": 40.71269042,
+  "start station longitude": -73.98776323,
+  "end station id": 531,
+  "end station name": "Forsyth St & Broome St",
+  "end station latitude": 40.71893904,
+  "end station longitude": -73.99266288,
+  "bikeid": 34055,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 592,
+  "starttime": "2019-12-01 12:48:53.0210",
+  "stoptime": "2019-12-01 12:58:45.1140",
+  "start station id": 3788,
+  "start station name": "E 12 St & 4 Av",
+  "start station latitude": 40.73269,
+  "start station longitude": -73.98974,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 40362,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

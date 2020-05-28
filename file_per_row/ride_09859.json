@@ -1,0 +1,17 @@
+{
+  "tripduration": 1004,
+  "starttime": "2019-12-01 20:29:10.7080",
+  "stoptime": "2019-12-01 20:45:55.2250",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 307,
+  "end station name": "Canal St & Rutgers St",
+  "end station latitude": 40.71427487,
+  "end station longitude": -73.98990025,
+  "bikeid": 35379,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

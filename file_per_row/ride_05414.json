@@ -1,0 +1,17 @@
+{
+  "tripduration": 742,
+  "starttime": "2019-12-01 11:34:06.6690",
+  "stoptime": "2019-12-01 11:46:28.8980",
+  "start station id": 351,
+  "start station name": "Front St & Maiden Ln",
+  "start station latitude": 40.70530954,
+  "start station longitude": -74.00612572,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 39259,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

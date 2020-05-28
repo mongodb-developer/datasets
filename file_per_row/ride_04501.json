@@ -1,0 +1,17 @@
+{
+  "tripduration": 1031,
+  "starttime": "2019-12-01 10:52:03.6360",
+  "stoptime": "2019-12-01 11:09:14.6650",
+  "start station id": 3147,
+  "start station name": "E 85 St & 3 Ave",
+  "start station latitude": 40.77801203,
+  "start station longitude": -73.95407149,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 40694,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 462,
+  "starttime": "2019-12-01 19:57:11.9070",
+  "stoptime": "2019-12-01 20:04:54.0190",
+  "start station id": 3146,
+  "start station name": "E 81 St & 3 Ave",
+  "start station latitude": 40.77573034,
+  "start station longitude": -73.9567526,
+  "end station id": 3156,
+  "end station name": "E 72 St & York Ave",
+  "end station latitude": 40.76663814,
+  "end station longitude": -73.95348296,
+  "bikeid": 35367,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "female"
+}

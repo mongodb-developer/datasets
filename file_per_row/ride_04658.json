@@ -1,0 +1,17 @@
+{
+  "tripduration": 811,
+  "starttime": "2019-12-01 10:56:25.3870",
+  "stoptime": "2019-12-01 11:09:56.7610",
+  "start station id": 3697,
+  "start station name": "W 64 St & Thelonious Monk Circle",
+  "start station latitude": 40.77515953434235,
+  "start station longitude": -73.98918695747852,
+  "end station id": 494,
+  "end station name": "W 26 St & 8 Ave",
+  "end station latitude": 40.74734825,
+  "end station longitude": -73.99723551,
+  "bikeid": 38941,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

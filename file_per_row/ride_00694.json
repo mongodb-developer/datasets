@@ -1,0 +1,17 @@
+{
+  "tripduration": 93,
+  "starttime": "2019-12-01 02:26:00.5390",
+  "stoptime": "2019-12-01 02:27:34.4990",
+  "start station id": 456,
+  "start station name": "E 53 St & Madison Ave",
+  "start station latitude": 40.7597108,
+  "start station longitude": -73.97402311,
+  "end station id": 367,
+  "end station name": "E 53 St & Lexington Ave",
+  "end station latitude": 40.75828065,
+  "end station longitude": -73.97069431,
+  "bikeid": 32030,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

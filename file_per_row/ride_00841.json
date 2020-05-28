@@ -1,0 +1,17 @@
+{
+  "tripduration": 1038,
+  "starttime": "2019-12-01 03:15:38.1490",
+  "stoptime": "2019-12-01 03:32:56.8140",
+  "start station id": 3536,
+  "start station name": "W 116 St & Broadway",
+  "start station latitude": 40.8082,
+  "start station longitude": -73.9641,
+  "end station id": 3169,
+  "end station name": "Riverside Dr & W 82 St",
+  "end station latitude": 40.78720869,
+  "end station longitude": -73.98128127,
+  "bikeid": 19795,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1029,
+  "starttime": "2019-12-01 15:17:33.4320",
+  "stoptime": "2019-12-01 15:34:42.4480",
+  "start station id": 248,
+  "start station name": "Laight St & Hudson St",
+  "start station latitude": 40.72185379,
+  "start station longitude": -74.00771779,
+  "end station id": 3712,
+  "end station name": "W 35 St & Dyer Ave",
+  "end station latitude": 40.754691750226016,
+  "end station longitude": -73.99740189313889,
+  "bikeid": 29316,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

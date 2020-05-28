@@ -1,0 +1,17 @@
+{
+  "tripduration": 3122,
+  "starttime": "2019-12-01 11:04:26.9800",
+  "stoptime": "2019-12-01 11:56:29.2530",
+  "start station id": 150,
+  "start station name": "E 2 St & Avenue C",
+  "start station latitude": 40.7208736,
+  "start station longitude": -73.98085795,
+  "end station id": 504,
+  "end station name": "1 Ave & E 16 St",
+  "end station latitude": 40.73221853,
+  "end station longitude": -73.98165557,
+  "bikeid": 41571,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "female"
+}

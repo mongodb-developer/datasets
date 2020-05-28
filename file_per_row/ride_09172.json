@@ -1,0 +1,17 @@
+{
+  "tripduration": 155,
+  "starttime": "2019-12-01 18:32:04.3120",
+  "stoptime": "2019-12-01 18:34:39.9020",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 3246,
+  "end station name": "Montague St & Clinton St",
+  "end station latitude": 40.694281141397326,
+  "end station longitude": -73.99230033159256,
+  "bikeid": 38924,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

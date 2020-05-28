@@ -1,0 +1,17 @@
+{
+  "tripduration": 2688,
+  "starttime": "2019-12-01 00:38:20.0000",
+  "stoptime": "2019-12-01 01:23:08.8970",
+  "start station id": 250,
+  "start station name": "Lafayette St & Jersey St",
+  "start station latitude": 40.72456089,
+  "start station longitude": -73.99565293,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 15948,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

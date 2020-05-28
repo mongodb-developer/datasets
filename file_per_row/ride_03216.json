@@ -1,0 +1,17 @@
+{
+  "tripduration": 207,
+  "starttime": "2019-12-01 09:56:42.7610",
+  "stoptime": "2019-12-01 10:00:09.7930",
+  "start station id": 410,
+  "start station name": "Suffolk St & Stanton St",
+  "start station latitude": 40.72066442,
+  "start station longitude": -73.98517977,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 41075,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

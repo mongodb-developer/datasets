@@ -1,0 +1,17 @@
+{
+  "tripduration": 577,
+  "starttime": "2019-12-01 15:19:42.1600",
+  "stoptime": "2019-12-01 15:29:19.7860",
+  "start station id": 339,
+  "start station name": "Avenue D & E 12 St",
+  "start station latitude": 40.72580614,
+  "start station longitude": -73.97422494,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 38083,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "female"
+}

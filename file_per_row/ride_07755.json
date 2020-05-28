@@ -1,0 +1,17 @@
+{
+  "tripduration": 449,
+  "starttime": "2019-12-01 14:52:25.9690",
+  "stoptime": "2019-12-01 14:59:55.2930",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 32743,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 252,
+  "starttime": "2019-12-01 16:08:24.1700",
+  "stoptime": "2019-12-01 16:12:36.2420",
+  "start station id": 539,
+  "start station name": "Metropolitan Ave & Bedford Ave",
+  "start station latitude": 40.71534825,
+  "start station longitude": -73.96024116,
+  "end station id": 3078,
+  "end station name": "Broadway & Roebling St",
+  "end station latitude": 40.70924826276157,
+  "end station longitude": -73.96063148975372,
+  "bikeid": 41596,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

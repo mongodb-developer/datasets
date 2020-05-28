@@ -1,0 +1,17 @@
+{
+  "tripduration": 180,
+  "starttime": "2019-12-01 00:15:44.0310",
+  "stoptime": "2019-12-01 00:18:44.9610",
+  "start station id": 3374,
+  "start station name": "Central Park North & Adam Clayton Powell Blvd",
+  "start station latitude": 40.799484,
+  "start station longitude": -73.955613,
+  "end station id": 3400,
+  "end station name": "E 110 St & Madison Ave",
+  "end station latitude": 40.7961535,
+  "end station longitude": -73.94782145,
+  "bikeid": 31656,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

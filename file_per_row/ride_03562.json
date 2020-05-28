@@ -1,0 +1,17 @@
+{
+  "tripduration": 506,
+  "starttime": "2019-12-01 10:12:43.8450",
+  "stoptime": "2019-12-01 10:21:10.2060",
+  "start station id": 3107,
+  "start station name": "Bedford Ave & Nassau Ave",
+  "start station latitude": 40.72311651,
+  "start station longitude": -73.95212324,
+  "end station id": 3016,
+  "end station name": "Kent Ave & N 7 St",
+  "end station latitude": 40.72036775298455,
+  "end station longitude": -73.96165072917938,
+  "bikeid": 39842,
+  "usertype": "Customer",
+  "birth year": 1995,
+  "gender": "male"
+}

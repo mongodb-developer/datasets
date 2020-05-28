@@ -1,0 +1,17 @@
+{
+  "tripduration": 547,
+  "starttime": "2019-12-01 08:36:11.1960",
+  "stoptime": "2019-12-01 08:45:18.2710",
+  "start station id": 274,
+  "start station name": "Lafayette Ave & Fort Greene Pl",
+  "start station latitude": 40.68691865,
+  "start station longitude": -73.976682,
+  "end station id": 399,
+  "end station name": "Lafayette Ave & St James Pl",
+  "end station latitude": 40.68851534,
+  "end station longitude": -73.9647628,
+  "bikeid": 33689,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

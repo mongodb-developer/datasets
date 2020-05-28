@@ -1,0 +1,17 @@
+{
+  "tripduration": 520,
+  "starttime": "2019-12-01 14:12:25.8940",
+  "stoptime": "2019-12-01 14:21:06.2710",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 459,
+  "end station name": "W 20 St & 11 Ave",
+  "end station latitude": 40.746745,
+  "end station longitude": -74.007756,
+  "bikeid": 39927,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

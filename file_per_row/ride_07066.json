@@ -1,0 +1,17 @@
+{
+  "tripduration": 191,
+  "starttime": "2019-12-01 13:18:42.3120",
+  "stoptime": "2019-12-01 13:21:54.1000",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 30878,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

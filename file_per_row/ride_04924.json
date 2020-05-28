@@ -1,0 +1,17 @@
+{
+  "tripduration": 350,
+  "starttime": "2019-12-01 11:07:41.6140",
+  "stoptime": "2019-12-01 11:13:32.4310",
+  "start station id": 3637,
+  "start station name": "Fulton St & Waverly Ave",
+  "start station latitude": 40.683238654603414,
+  "start station longitude": -73.96599590778351,
+  "end station id": 298,
+  "end station name": "3 Ave & Schermerhorn St",
+  "end station latitude": 40.68683208,
+  "end station longitude": -73.9796772,
+  "bikeid": 42000,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

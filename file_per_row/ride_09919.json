@@ -1,0 +1,17 @@
+{
+  "tripduration": 1283,
+  "starttime": "2019-12-01 20:40:22.3000",
+  "stoptime": "2019-12-01 21:01:46.0600",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 402,
+  "end station name": "Broadway & E 22 St",
+  "end station latitude": 40.7403432,
+  "end station longitude": -73.98955109,
+  "bikeid": 28693,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

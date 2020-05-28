@@ -1,0 +1,17 @@
+{
+  "tripduration": 910,
+  "starttime": "2019-12-01 15:19:20.7010",
+  "stoptime": "2019-12-01 15:34:31.0730",
+  "start station id": 295,
+  "start station name": "Pike St & E Broadway",
+  "start station latitude": 40.71406667,
+  "start station longitude": -73.99293911,
+  "end station id": 340,
+  "end station name": "Madison St & Clinton St",
+  "end station latitude": 40.71269042,
+  "end station longitude": -73.98776323,
+  "bikeid": 17427,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

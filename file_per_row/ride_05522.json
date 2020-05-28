@@ -1,0 +1,17 @@
+{
+  "tripduration": 142,
+  "starttime": "2019-12-01 11:40:25.9500",
+  "stoptime": "2019-12-01 11:42:48.3230",
+  "start station id": 469,
+  "start station name": "Broadway & W 53 St",
+  "start station latitude": 40.76344058,
+  "start station longitude": -73.98268129,
+  "end station id": 173,
+  "end station name": "Broadway & W 49 St",
+  "end station latitude": 40.76068327096592,
+  "end station longitude": -73.9845272898674,
+  "bikeid": 32456,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

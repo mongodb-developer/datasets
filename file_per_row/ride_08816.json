@@ -1,0 +1,17 @@
+{
+  "tripduration": 3869,
+  "starttime": "2019-12-01 17:24:14.8020",
+  "stoptime": "2019-12-01 18:28:44.2660",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 32785,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 610,
+  "starttime": "2019-12-01 14:35:06.6190",
+  "stoptime": "2019-12-01 14:45:16.9380",
+  "start station id": 3547,
+  "start station name": "Broadway & Moylan Pl",
+  "start station latitude": 40.8143256,
+  "start station longitude": -73.9590255,
+  "end station id": 3629,
+  "end station name": "Adam Clayton Powell Blvd & W 126 St",
+  "end station latitude": 40.809495347779475,
+  "end station longitude": -73.94776493310928,
+  "bikeid": 19123,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "female"
+}

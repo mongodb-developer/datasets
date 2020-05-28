@@ -1,0 +1,17 @@
+{
+  "tripduration": 2000,
+  "starttime": "2019-12-01 10:24:35.1560",
+  "stoptime": "2019-12-01 10:57:55.9370",
+  "start station id": 412,
+  "start station name": "Forsyth St & Canal St",
+  "start station latitude": 40.7158155,
+  "start station longitude": -73.99422366,
+  "end station id": 3319,
+  "end station name": "14 St & 5 Ave",
+  "end station latitude": 40.666287,
+  "end station longitude": -73.98895053,
+  "bikeid": 19286,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

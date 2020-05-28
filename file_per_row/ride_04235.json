@@ -1,0 +1,17 @@
+{
+  "tripduration": 489,
+  "starttime": "2019-12-01 10:40:41.2500",
+  "stoptime": "2019-12-01 10:48:50.7400",
+  "start station id": 275,
+  "start station name": "Washington Ave & Greene Ave",
+  "start station latitude": 40.68650065,
+  "start station longitude": -73.96563307,
+  "end station id": 3580,
+  "end station name": "St Johns Pl & Washington Ave",
+  "end station latitude": 40.6737236,
+  "end station longitude": -73.9631611,
+  "bikeid": 33803,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

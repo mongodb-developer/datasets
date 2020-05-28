@@ -1,0 +1,17 @@
+{
+  "tripduration": 1610,
+  "starttime": "2019-12-01 11:48:13.7250",
+  "stoptime": "2019-12-01 12:15:04.6080",
+  "start station id": 3134,
+  "start station name": "3 Ave & E 62 St",
+  "start station latitude": 40.76312584,
+  "start station longitude": -73.96526895,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 39426,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

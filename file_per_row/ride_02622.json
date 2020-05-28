@@ -1,0 +1,17 @@
+{
+  "tripduration": 445,
+  "starttime": "2019-12-01 09:28:33.1120",
+  "stoptime": "2019-12-01 09:35:58.7000",
+  "start station id": 389,
+  "start station name": "Broadway & Berry St",
+  "start station latitude": 40.71044554,
+  "start station longitude": -73.96525063,
+  "end station id": 3088,
+  "end station name": "Union Ave & Jackson St",
+  "end station latitude": 40.7160751,
+  "end station longitude": -73.952029,
+  "bikeid": 30825,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "female"
+}

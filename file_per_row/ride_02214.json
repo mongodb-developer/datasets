@@ -1,0 +1,17 @@
+{
+  "tripduration": 515,
+  "starttime": "2019-12-01 09:01:21.7230",
+  "stoptime": "2019-12-01 09:09:57.2180",
+  "start station id": 3118,
+  "start station name": "McGuinness Blvd & Eagle St",
+  "start station latitude": 40.73555,
+  "start station longitude": -73.95284,
+  "end station id": 3119,
+  "end station name": "Vernon Blvd & 50 Ave",
+  "end station latitude": 40.74232744,
+  "end station longitude": -73.95411749,
+  "bikeid": 24807,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

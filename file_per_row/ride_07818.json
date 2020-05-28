@@ -1,0 +1,17 @@
+{
+  "tripduration": 797,
+  "starttime": "2019-12-01 14:57:43.7800",
+  "stoptime": "2019-12-01 15:11:01.5850",
+  "start station id": 3711,
+  "start station name": "E 13 St & Avenue A",
+  "start station latitude": 40.72966729392978,
+  "start station longitude": -73.98067966103554,
+  "end station id": 2012,
+  "end station name": "E 27 St & 1 Ave",
+  "end station latitude": 40.739445,
+  "end station longitude": -73.976806,
+  "bikeid": 30258,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 483,
+  "starttime": "2019-12-01 12:46:28.0780",
+  "stoptime": "2019-12-01 12:54:31.2150",
+  "start station id": 250,
+  "start station name": "Lafayette St & Jersey St",
+  "start station latitude": 40.72456089,
+  "start station longitude": -73.99565293,
+  "end station id": 236,
+  "end station name": "St Marks Pl & 2 Ave",
+  "end station latitude": 40.7284186,
+  "end station longitude": -73.98713956,
+  "bikeid": 33143,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

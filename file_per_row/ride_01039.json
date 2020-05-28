@@ -1,0 +1,17 @@
+{
+  "tripduration": 157,
+  "starttime": "2019-12-01 05:34:21.8530",
+  "stoptime": "2019-12-01 05:36:59.4490",
+  "start station id": 3506,
+  "start station name": "Lexington Ave & E 120 St",
+  "start station latitude": 40.8013066,
+  "start station longitude": -73.9398167,
+  "end station id": 3507,
+  "end station name": "Park Ave & E 124 St",
+  "end station latitude": 40.8045555,
+  "end station longitude": -73.9396861,
+  "bikeid": 30651,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "female"
+}

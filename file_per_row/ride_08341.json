@@ -1,0 +1,17 @@
+{
+  "tripduration": 754,
+  "starttime": "2019-12-01 15:51:14.0730",
+  "stoptime": "2019-12-01 16:03:49.0400",
+  "start station id": 470,
+  "start station name": "W 20 St & 8 Ave",
+  "start station latitude": 40.74345335,
+  "start station longitude": -74.00004031,
+  "end station id": 515,
+  "end station name": "W 43 St & 10 Ave",
+  "end station latitude": 40.76009437,
+  "end station longitude": -73.99461843,
+  "bikeid": 39783,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

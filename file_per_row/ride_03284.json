@@ -1,0 +1,17 @@
+{
+  "tripduration": 192,
+  "starttime": "2019-12-01 09:59:33.2310",
+  "stoptime": "2019-12-01 10:02:45.2980",
+  "start station id": 3053,
+  "start station name": "Marcy Ave & Lafayette Ave",
+  "start station latitude": 40.6900815,
+  "start station longitude": -73.947915,
+  "end station id": 3054,
+  "end station name": "Greene Ave & Throop Ave",
+  "end station latitude": 40.6894932,
+  "end station longitude": -73.942061,
+  "bikeid": 18851,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

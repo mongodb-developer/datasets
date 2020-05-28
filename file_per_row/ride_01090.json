@@ -1,0 +1,17 @@
+{
+  "tripduration": 1802,
+  "starttime": "2019-12-01 06:20:09.8000",
+  "stoptime": "2019-12-01 06:50:12.6070",
+  "start station id": 3531,
+  "start station name": "Frederick Douglass Blvd & W 129 St",
+  "start station latitude": 40.8125511,
+  "start station longitude": -73.9492286,
+  "end station id": 525,
+  "end station name": "W 34 St & 11 Ave",
+  "end station latitude": 40.75594159,
+  "end station longitude": -74.0021163,
+  "bikeid": 38367,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

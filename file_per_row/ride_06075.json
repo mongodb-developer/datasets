@@ -1,0 +1,17 @@
+{
+  "tripduration": 1070,
+  "starttime": "2019-12-01 12:13:22.5910",
+  "stoptime": "2019-12-01 12:31:12.9650",
+  "start station id": 3283,
+  "start station name": "W 89 St & Columbus Ave",
+  "start station latitude": 40.7882213,
+  "start station longitude": -73.97041561,
+  "end station id": 3629,
+  "end station name": "Adam Clayton Powell Blvd & W 126 St",
+  "end station latitude": 40.809495347779475,
+  "end station longitude": -73.94776493310928,
+  "bikeid": 35133,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "female"
+}

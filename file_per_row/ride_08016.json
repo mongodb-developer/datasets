@@ -1,0 +1,17 @@
+{
+  "tripduration": 679,
+  "starttime": "2019-12-01 15:16:53.8380",
+  "stoptime": "2019-12-01 15:28:13.0610",
+  "start station id": 3419,
+  "start station name": "Douglass St & 4 Ave",
+  "start station latitude": 40.6792788,
+  "start station longitude": -73.98154004,
+  "end station id": 3580,
+  "end station name": "St Johns Pl & Washington Ave",
+  "end station latitude": 40.6737236,
+  "end station longitude": -73.9631611,
+  "bikeid": 39684,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

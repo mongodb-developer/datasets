@@ -1,0 +1,17 @@
+{
+  "tripduration": 1642,
+  "starttime": "2019-12-01 11:03:07.5740",
+  "stoptime": "2019-12-01 11:30:29.7130",
+  "start station id": 3341,
+  "start station name": "Central Park West & W 102 St",
+  "start station latitude": 40.795346,
+  "start station longitude": -73.96186,
+  "end station id": 3341,
+  "end station name": "Central Park West & W 102 St",
+  "end station latitude": 40.795346,
+  "end station longitude": -73.96186,
+  "bikeid": 41922,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "female"
+}

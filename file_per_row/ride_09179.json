@@ -1,0 +1,17 @@
+{
+  "tripduration": 386,
+  "starttime": "2019-12-01 18:33:22.5800",
+  "stoptime": "2019-12-01 18:39:48.7350",
+  "start station id": 331,
+  "start station name": "Pike St & Monroe St",
+  "start station latitude": 40.71173107,
+  "start station longitude": -73.99193043,
+  "end station id": 308,
+  "end station name": "St James Pl & Oliver St",
+  "end station latitude": 40.71307916,
+  "end station longitude": -73.99851193,
+  "bikeid": 40438,
+  "usertype": "Customer",
+  "birth year": 1996,
+  "gender": "male"
+}

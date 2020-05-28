@@ -1,0 +1,17 @@
+{
+  "tripduration": 250,
+  "starttime": "2019-12-01 10:34:00.9180",
+  "stoptime": "2019-12-01 10:38:11.0350",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 15536,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

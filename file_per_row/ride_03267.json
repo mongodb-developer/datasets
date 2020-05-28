@@ -1,0 +1,17 @@
+{
+  "tripduration": 1000,
+  "starttime": "2019-12-01 09:58:40.9500",
+  "stoptime": "2019-12-01 10:15:21.3610",
+  "start station id": 349,
+  "start station name": "Rivington St & Ridge St",
+  "start station latitude": 40.71850211,
+  "start station longitude": -73.98329859,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 25533,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

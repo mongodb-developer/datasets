@@ -1,0 +1,17 @@
+{
+  "tripduration": 447,
+  "starttime": "2019-12-01 08:57:21.8440",
+  "stoptime": "2019-12-01 09:04:49.1010",
+  "start station id": 3148,
+  "start station name": "E 84 St & 1 Ave",
+  "start station latitude": 40.77565541,
+  "start station longitude": -73.95068615,
+  "end station id": 3378,
+  "end station name": "E 76 St & Park Ave",
+  "end station latitude": 40.773763,
+  "end station longitude": -73.96222088,
+  "bikeid": 29352,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

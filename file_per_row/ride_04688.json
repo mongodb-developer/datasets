@@ -1,0 +1,17 @@
+{
+  "tripduration": 568,
+  "starttime": "2019-12-01 10:57:30.1940",
+  "stoptime": "2019-12-01 11:06:58.6810",
+  "start station id": 2003,
+  "start station name": "1 Ave & E 18 St",
+  "start station latitude": 40.733812191966315,
+  "start station longitude": -73.98054420948029,
+  "end station id": 252,
+  "end station name": "MacDougal St & Washington Sq",
+  "end station latitude": 40.73226398,
+  "end station longitude": -73.99852205,
+  "bikeid": 42021,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

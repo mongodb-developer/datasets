@@ -1,0 +1,17 @@
+{
+  "tripduration": 456,
+  "starttime": "2019-12-01 18:01:23.9000",
+  "stoptime": "2019-12-01 18:09:00.3270",
+  "start station id": 531,
+  "start station name": "Forsyth St & Broome St",
+  "start station latitude": 40.71893904,
+  "start station longitude": -73.99266288,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 39257,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

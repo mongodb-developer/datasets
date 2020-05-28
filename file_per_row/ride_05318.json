@@ -1,0 +1,17 @@
+{
+  "tripduration": 461,
+  "starttime": "2019-12-01 11:27:45.2770",
+  "stoptime": "2019-12-01 11:35:26.7550",
+  "start station id": 3301,
+  "start station name": "Columbus Ave & W 95 St",
+  "start station latitude": 40.7919557,
+  "start station longitude": -73.968087,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 33334,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

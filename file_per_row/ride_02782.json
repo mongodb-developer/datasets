@@ -1,0 +1,17 @@
+{
+  "tripduration": 687,
+  "starttime": "2019-12-01 09:36:47.6050",
+  "stoptime": "2019-12-01 09:48:15.0830",
+  "start station id": 3714,
+  "start station name": "Division Ave & Hooper St",
+  "start station latitude": 40.70684203101325,
+  "start station longitude": -73.9544353965357,
+  "end station id": 460,
+  "end station name": "S 4 St & Wythe Ave",
+  "end station latitude": 40.71285887,
+  "end station longitude": -73.96590294,
+  "bikeid": 41993,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

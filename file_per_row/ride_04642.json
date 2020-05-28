@@ -1,0 +1,17 @@
+{
+  "tripduration": 1851,
+  "starttime": "2019-12-01 10:55:56.7560",
+  "stoptime": "2019-12-01 11:26:48.2740",
+  "start station id": 3461,
+  "start station name": "Murray St & Greenwich St",
+  "start station latitude": 40.714851505262516,
+  "start station longitude": -74.01122331619263,
+  "end station id": 360,
+  "end station name": "William St & Pine St",
+  "end station latitude": 40.70717936,
+  "end station longitude": -74.00887308,
+  "bikeid": 40965,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

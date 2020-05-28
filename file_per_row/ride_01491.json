@@ -1,0 +1,17 @@
+{
+  "tripduration": 86,
+  "starttime": "2019-12-01 07:53:17.0030",
+  "stoptime": "2019-12-01 07:54:43.6860",
+  "start station id": 3072,
+  "start station name": "Leonard St & Boerum St",
+  "start station latitude": 40.70583339,
+  "start station longitude": -73.94644578,
+  "end station id": 3069,
+  "end station name": "Lorimer St & Broadway",
+  "end station latitude": 40.70411791,
+  "end station longitude": -73.94818595,
+  "bikeid": 19624,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

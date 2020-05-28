@@ -1,0 +1,17 @@
+{
+  "tripduration": 86,
+  "starttime": "2019-12-01 11:43:47.7940",
+  "stoptime": "2019-12-01 11:45:13.9590",
+  "start station id": 347,
+  "start station name": "Greenwich St & W Houston St",
+  "start station latitude": 40.728846,
+  "start station longitude": -74.008591,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 33876,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

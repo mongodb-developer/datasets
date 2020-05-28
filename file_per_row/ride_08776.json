@@ -1,0 +1,17 @@
+{
+  "tripduration": 885,
+  "starttime": "2019-12-01 17:17:27.7930",
+  "stoptime": "2019-12-01 17:32:13.5060",
+  "start station id": 3402,
+  "start station name": "Court St & State St",
+  "start station latitude": 40.6902375,
+  "start station longitude": -73.99203074,
+  "end station id": 258,
+  "end station name": "DeKalb Ave & Vanderbilt Ave",
+  "end station latitude": 40.68940747,
+  "end station longitude": -73.96885458,
+  "bikeid": 39602,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

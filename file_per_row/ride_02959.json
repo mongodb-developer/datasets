@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 09:45:21.9050",
+  "stoptime": "2019-12-01 09:50:49.8350",
+  "start station id": 3082,
+  "start station name": "Hope St & Union Ave",
+  "start station latitude": 40.71167351,
+  "start station longitude": -73.95141312,
+  "end station id": 3768,
+  "end station name": "Waterbury St & Stagg St",
+  "end station latitude": 40.71019,
+  "end station longitude": -73.93734,
+  "bikeid": 41911,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

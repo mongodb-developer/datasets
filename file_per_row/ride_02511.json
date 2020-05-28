@@ -1,0 +1,17 @@
+{
+  "tripduration": 301,
+  "starttime": "2019-12-01 09:20:45.8080",
+  "stoptime": "2019-12-01 09:25:47.0720",
+  "start station id": 3232,
+  "start station name": "Bond St & Fulton St",
+  "start station latitude": 40.68962188790333,
+  "start station longitude": -73.98304268717766,
+  "end station id": 3429,
+  "end station name": "Hanson Pl & Ashland Pl",
+  "end station latitude": 40.68506807308177,
+  "end station longitude": -73.97790759801863,
+  "bikeid": 38137,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

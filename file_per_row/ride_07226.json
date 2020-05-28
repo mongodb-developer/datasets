@@ -1,0 +1,17 @@
+{
+  "tripduration": 1070,
+  "starttime": "2019-12-01 13:38:03.0940",
+  "stoptime": "2019-12-01 13:55:54.0110",
+  "start station id": 311,
+  "start station name": "Norfolk St & Broome St",
+  "start station latitude": 40.7172274,
+  "start station longitude": -73.98802084,
+  "end station id": 3082,
+  "end station name": "Hope St & Union Ave",
+  "end station latitude": 40.71167351,
+  "end station longitude": -73.95141312,
+  "bikeid": 33884,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

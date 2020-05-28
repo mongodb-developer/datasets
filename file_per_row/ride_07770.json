@@ -1,0 +1,17 @@
+{
+  "tripduration": 603,
+  "starttime": "2019-12-01 14:53:56.4870",
+  "stoptime": "2019-12-01 15:04:00.3570",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 442,
+  "end station name": "W 27 St & 7 Ave",
+  "end station latitude": 40.746647,
+  "end station longitude": -73.993915,
+  "bikeid": 28872,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

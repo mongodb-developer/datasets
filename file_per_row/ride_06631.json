@@ -1,0 +1,17 @@
+{
+  "tripduration": 498,
+  "starttime": "2019-12-01 12:42:40.4190",
+  "stoptime": "2019-12-01 12:50:58.6800",
+  "start station id": 3621,
+  "start station name": "27 Ave & 9 St",
+  "start station latitude": 40.7739825,
+  "start station longitude": -73.9309134,
+  "end station id": 3530,
+  "end station name": "Crescent St & Ditmars Blvd",
+  "end station latitude": 40.7787185,
+  "end station longitude": -73.9145645,
+  "bikeid": 34036,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

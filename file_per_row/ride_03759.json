@@ -1,0 +1,17 @@
+{
+  "tripduration": 684,
+  "starttime": "2019-12-01 10:20:49.3300",
+  "stoptime": "2019-12-01 10:32:13.3640",
+  "start station id": 490,
+  "start station name": "8 Ave & W 33 St",
+  "start station latitude": 40.751551,
+  "start station longitude": -73.993934,
+  "end station id": 540,
+  "end station name": "Lexington Ave & E 29 St",
+  "end station latitude": 40.74311555376486,
+  "end station longitude": -73.98215353488922,
+  "bikeid": 21422,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

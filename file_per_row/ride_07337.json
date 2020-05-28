@@ -1,0 +1,17 @@
+{
+  "tripduration": 634,
+  "starttime": "2019-12-01 13:56:03.7170",
+  "stoptime": "2019-12-01 14:06:38.2370",
+  "start station id": 265,
+  "start station name": "Stanton St & Chrystie St",
+  "start station latitude": 40.72229346,
+  "start station longitude": -73.99147535,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 35313,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

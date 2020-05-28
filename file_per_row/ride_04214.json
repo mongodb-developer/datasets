@@ -1,0 +1,17 @@
+{
+  "tripduration": 763,
+  "starttime": "2019-12-01 10:40:00.9580",
+  "stoptime": "2019-12-01 10:52:44.2590",
+  "start station id": 3712,
+  "start station name": "W 35 St & Dyer Ave",
+  "start station latitude": 40.754691750226016,
+  "start station longitude": -73.99740189313889,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 28123,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

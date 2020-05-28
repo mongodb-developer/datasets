@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 12:23:54.4470",
+  "stoptime": "2019-12-01 12:29:21.4530",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 3307,
+  "end station name": "West End Ave & W 94 St",
+  "end station latitude": 40.7941654,
+  "end station longitude": -73.974124,
+  "bikeid": 41643,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

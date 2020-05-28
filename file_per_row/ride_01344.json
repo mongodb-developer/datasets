@@ -1,0 +1,17 @@
+{
+  "tripduration": 590,
+  "starttime": "2019-12-01 07:33:17.2550",
+  "stoptime": "2019-12-01 07:43:07.4590",
+  "start station id": 508,
+  "start station name": "W 46 St & 11 Ave",
+  "start station latitude": 40.76341379,
+  "start station longitude": -73.99667444,
+  "end station id": 3175,
+  "end station name": "W 70 St & Amsterdam Ave",
+  "end station latitude": 40.77748046,
+  "end station longitude": -73.98288594,
+  "bikeid": 15146,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

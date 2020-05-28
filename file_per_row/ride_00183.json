@@ -1,0 +1,17 @@
+{
+  "tripduration": 529,
+  "starttime": "2019-12-01 00:26:43.0650",
+  "stoptime": "2019-12-01 00:35:32.4190",
+  "start station id": 3770,
+  "start station name": "Central Ave & Flushing Ave",
+  "start station latitude": 40.702831,
+  "start station longitude": -73.9333,
+  "end station id": 3767,
+  "end station name": "Powers St & Olive St",
+  "end station latitude": 40.71323,
+  "end station longitude": -73.93894,
+  "bikeid": 39824,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

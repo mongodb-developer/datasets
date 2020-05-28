@@ -1,0 +1,17 @@
+{
+  "tripduration": 581,
+  "starttime": "2019-12-01 12:15:25.8420",
+  "stoptime": "2019-12-01 12:25:07.3590",
+  "start station id": 373,
+  "start station name": "Willoughby Ave & Walworth St",
+  "start station latitude": 40.69331716,
+  "start station longitude": -73.95381995,
+  "end station id": 354,
+  "end station name": "Emerson Pl & Myrtle Ave",
+  "end station latitude": 40.69363137,
+  "end station longitude": -73.96223558,
+  "bikeid": 41508,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

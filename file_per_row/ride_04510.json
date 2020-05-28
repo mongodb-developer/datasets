@@ -1,0 +1,17 @@
+{
+  "tripduration": 804,
+  "starttime": "2019-12-01 10:52:17.5730",
+  "stoptime": "2019-12-01 11:05:41.7840",
+  "start station id": 167,
+  "start station name": "E 39 St & 3 Ave",
+  "start station latitude": 40.7489006,
+  "start station longitude": -73.97604882,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 39070,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

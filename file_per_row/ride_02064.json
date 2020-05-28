@@ -1,0 +1,17 @@
+{
+  "tripduration": 549,
+  "starttime": "2019-12-01 08:50:02.1540",
+  "stoptime": "2019-12-01 08:59:12.0710",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 40583,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 309,
+  "starttime": "2019-12-01 09:47:27.6450",
+  "stoptime": "2019-12-01 09:52:37.4940",
+  "start station id": 3171,
+  "start station name": "Amsterdam Ave & W 82 St",
+  "start station latitude": 40.78524672,
+  "start station longitude": -73.97667321,
+  "end station id": 3301,
+  "end station name": "Columbus Ave & W 95 St",
+  "end station latitude": 40.7919557,
+  "end station longitude": -73.968087,
+  "bikeid": 40638,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

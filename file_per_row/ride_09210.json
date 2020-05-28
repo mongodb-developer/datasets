@@ -1,0 +1,17 @@
+{
+  "tripduration": 1359,
+  "starttime": "2019-12-01 18:39:08.4900",
+  "stoptime": "2019-12-01 19:01:47.7170",
+  "start station id": 513,
+  "start station name": "W 56 St & 10 Ave",
+  "start station latitude": 40.768254,
+  "start station longitude": -73.988639,
+  "end station id": 3345,
+  "end station name": "Madison Ave & E 99 St",
+  "end station latitude": 40.78948541553215,
+  "end station longitude": -73.95242929458618,
+  "bikeid": 35471,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

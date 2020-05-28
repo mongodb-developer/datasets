@@ -1,0 +1,17 @@
+{
+  "tripduration": 174,
+  "starttime": "2019-12-01 11:03:10.1070",
+  "stoptime": "2019-12-01 11:06:04.2240",
+  "start station id": 3172,
+  "start station name": "W 74 St & Columbus Ave",
+  "start station latitude": 40.7785669,
+  "start station longitude": -73.97754961,
+  "end station id": 3162,
+  "end station name": "W 78 St & Broadway",
+  "end station latitude": 40.78339981,
+  "end station longitude": -73.98093133,
+  "bikeid": 39134,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

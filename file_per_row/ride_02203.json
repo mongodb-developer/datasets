@@ -1,0 +1,17 @@
+{
+  "tripduration": 730,
+  "starttime": "2019-12-01 09:00:11.9130",
+  "stoptime": "2019-12-01 09:12:22.8600",
+  "start station id": 167,
+  "start station name": "E 39 St & 3 Ave",
+  "start station latitude": 40.7489006,
+  "start station longitude": -73.97604882,
+  "end station id": 3244,
+  "end station name": "University Pl & E 8 St",
+  "end station latitude": 40.73143724085228,
+  "end station longitude": -73.99490341544151,
+  "bikeid": 27381,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

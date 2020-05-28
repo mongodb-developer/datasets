@@ -1,0 +1,17 @@
+{
+  "tripduration": 388,
+  "starttime": "2019-12-01 15:18:32.6800",
+  "stoptime": "2019-12-01 15:25:00.8990",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 383,
+  "end station name": "Greenwich Ave & Charles St",
+  "end station latitude": 40.735238,
+  "end station longitude": -74.000271,
+  "bikeid": 40743,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 651,
+  "starttime": "2019-12-01 15:00:13.0270",
+  "stoptime": "2019-12-01 15:11:04.7450",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 128,
+  "end station name": "MacDougal St & Prince St",
+  "end station latitude": 40.72710258,
+  "end station longitude": -74.00297088,
+  "bikeid": 27608,
+  "usertype": "Subscriber",
+  "birth year": 1946,
+  "gender": "female"
+}

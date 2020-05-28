@@ -1,0 +1,17 @@
+{
+  "tripduration": 252,
+  "starttime": "2019-12-01 08:53:31.5000",
+  "stoptime": "2019-12-01 08:57:44.3680",
+  "start station id": 316,
+  "start station name": "Fulton St & William St",
+  "start station latitude": 40.70955958,
+  "start station longitude": -74.00653609,
+  "end station id": 320,
+  "end station name": "Leonard St & Church St",
+  "end station latitude": 40.717571,
+  "end station longitude": -74.005549,
+  "bikeid": 39306,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

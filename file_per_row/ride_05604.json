@@ -1,0 +1,17 @@
+{
+  "tripduration": 515,
+  "starttime": "2019-12-01 11:45:35.2050",
+  "stoptime": "2019-12-01 11:54:11.2000",
+  "start station id": 3175,
+  "start station name": "W 70 St & Amsterdam Ave",
+  "start station latitude": 40.77748046,
+  "start station longitude": -73.98288594,
+  "end station id": 173,
+  "end station name": "Broadway & W 49 St",
+  "end station latitude": 40.76068327096592,
+  "end station longitude": -73.9845272898674,
+  "bikeid": 40207,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

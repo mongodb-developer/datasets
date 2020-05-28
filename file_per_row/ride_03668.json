@@ -1,0 +1,17 @@
+{
+  "tripduration": 259,
+  "starttime": "2019-12-01 10:17:30.2400",
+  "stoptime": "2019-12-01 10:21:49.9940",
+  "start station id": 3569,
+  "start station name": "Franklin Ave & St Marks Ave",
+  "start station latitude": 40.6758324,
+  "start station longitude": -73.9561677,
+  "end station id": 3584,
+  "end station name": "Eastern Pkwy & Franklin Ave",
+  "end station latitude": 40.6707767,
+  "end station longitude": -73.9576801,
+  "bikeid": 41405,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

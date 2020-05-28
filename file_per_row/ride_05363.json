@@ -1,0 +1,17 @@
+{
+  "tripduration": 624,
+  "starttime": "2019-12-01 11:31:00.7150",
+  "stoptime": "2019-12-01 11:41:24.9970",
+  "start station id": 518,
+  "start station name": "E 39 St & 2 Ave",
+  "start station latitude": 40.74780373,
+  "start station longitude": -73.9734419,
+  "end station id": 465,
+  "end station name": "Broadway & W 41 St",
+  "end station latitude": 40.75513557,
+  "end station longitude": -73.98658032,
+  "bikeid": 34986,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

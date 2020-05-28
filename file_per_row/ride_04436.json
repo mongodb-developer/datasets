@@ -1,0 +1,17 @@
+{
+  "tripduration": 677,
+  "starttime": "2019-12-01 10:49:16.3950",
+  "stoptime": "2019-12-01 11:00:33.5500",
+  "start station id": 3293,
+  "start station name": "W 92 St & Broadway",
+  "start station latitude": 40.7921,
+  "start station longitude": -73.9739,
+  "end station id": 3553,
+  "end station name": "Frederick Douglass Blvd & W 112 St",
+  "end station latitude": 40.801694,
+  "end station longitude": -73.957145,
+  "bikeid": 40521,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "female"
+}

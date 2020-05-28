@@ -1,0 +1,17 @@
+{
+  "tripduration": 1243,
+  "starttime": "2019-12-01 10:30:15.0270",
+  "stoptime": "2019-12-01 10:50:58.1040",
+  "start station id": 473,
+  "start station name": "Rivington St & Chrystie St",
+  "start station latitude": 40.72110063,
+  "start station longitude": -73.9919254,
+  "end station id": 455,
+  "end station name": "1 Ave & E 44 St",
+  "end station latitude": 40.75001986,
+  "end station longitude": -73.96905301,
+  "bikeid": 29010,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

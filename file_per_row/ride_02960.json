@@ -1,0 +1,17 @@
+{
+  "tripduration": 202,
+  "starttime": "2019-12-01 09:45:22.2500",
+  "stoptime": "2019-12-01 09:48:44.9610",
+  "start station id": 460,
+  "start station name": "S 4 St & Wythe Ave",
+  "start station latitude": 40.71285887,
+  "start station longitude": -73.96590294,
+  "end station id": 539,
+  "end station name": "Metropolitan Ave & Bedford Ave",
+  "end station latitude": 40.71534825,
+  "end station longitude": -73.96024116,
+  "bikeid": 31399,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

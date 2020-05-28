@@ -1,0 +1,17 @@
+{
+  "tripduration": 429,
+  "starttime": "2019-12-01 09:45:12.7360",
+  "stoptime": "2019-12-01 09:52:21.7360",
+  "start station id": 3506,
+  "start station name": "Lexington Ave & E 120 St",
+  "start station latitude": 40.8013066,
+  "start station longitude": -73.9398167,
+  "end station id": 3630,
+  "end station name": "Frederick Douglass Blvd & W 115 St",
+  "end station latitude": 40.8038654,
+  "end station longitude": -73.9559308,
+  "bikeid": 30155,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

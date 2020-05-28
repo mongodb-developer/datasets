@@ -1,0 +1,17 @@
+{
+  "tripduration": 1287,
+  "starttime": "2019-12-01 09:09:55.6640",
+  "stoptime": "2019-12-01 09:31:22.9930",
+  "start station id": 482,
+  "start station name": "W 15 St & 7 Ave",
+  "start station latitude": 40.73935542,
+  "start station longitude": -73.99931783,
+  "end station id": 312,
+  "end station name": "Allen St & Stanton St",
+  "end station latitude": 40.722055,
+  "end station longitude": -73.989111,
+  "bikeid": 30662,
+  "usertype": "Customer",
+  "birth year": 1983,
+  "gender": "male"
+}

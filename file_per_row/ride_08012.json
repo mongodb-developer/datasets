@@ -1,0 +1,17 @@
+{
+  "tripduration": 785,
+  "starttime": "2019-12-01 15:16:42.3060",
+  "stoptime": "2019-12-01 15:29:47.6700",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 525,
+  "end station name": "W 34 St & 11 Ave",
+  "end station latitude": 40.75594159,
+  "end station longitude": -74.0021163,
+  "bikeid": 27120,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

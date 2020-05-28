@@ -1,0 +1,17 @@
+{
+  "tripduration": 643,
+  "starttime": "2019-12-01 19:58:45.7960",
+  "stoptime": "2019-12-01 20:09:29.1120",
+  "start station id": 364,
+  "start station name": "Lafayette Ave & Classon Ave",
+  "start station latitude": 40.68900443,
+  "start station longitude": -73.96023854,
+  "end station id": 3673,
+  "end station name": "Dean St & Franklin Ave",
+  "end station latitude": 40.67759206937376,
+  "end station longitude": -73.955637216568,
+  "bikeid": 28977,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

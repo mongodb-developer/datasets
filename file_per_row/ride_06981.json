@@ -1,0 +1,17 @@
+{
+  "tripduration": 220,
+  "starttime": "2019-12-01 13:10:13.7420",
+  "stoptime": "2019-12-01 13:13:54.1620",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 3472,
+  "end station name": "W 15 St & 10 Ave",
+  "end station latitude": 40.742753828659026,
+  "end station longitude": -74.00747358798981,
+  "bikeid": 35243,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "unknown"
+}

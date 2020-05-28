@@ -1,0 +1,17 @@
+{
+  "tripduration": 386,
+  "starttime": "2019-12-01 08:46:58.0510",
+  "stoptime": "2019-12-01 08:53:24.5060",
+  "start station id": 3290,
+  "start station name": "E 89 St & York Ave",
+  "start station latitude": 40.7779453,
+  "start station longitude": -73.946041,
+  "end station id": 3725,
+  "end station name": "2 Ave & E 72 St",
+  "end station latitude": 40.7687620293096,
+  "end station longitude": -73.95840793848038,
+  "bikeid": 41840,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

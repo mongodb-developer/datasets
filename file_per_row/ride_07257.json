@@ -1,0 +1,17 @@
+{
+  "tripduration": 276,
+  "starttime": "2019-12-01 13:42:57.5010",
+  "stoptime": "2019-12-01 13:47:33.9910",
+  "start station id": 355,
+  "start station name": "Bayard St & Baxter St",
+  "start station latitude": 40.71602118,
+  "start station longitude": -73.99974372,
+  "end station id": 2009,
+  "end station name": "Catherine St & Monroe St",
+  "end station latitude": 40.71117444,
+  "end station longitude": -73.99682619,
+  "bikeid": 27405,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 136,
+  "starttime": "2019-12-01 07:33:49.5160",
+  "stoptime": "2019-12-01 07:36:05.8870",
+  "start station id": 224,
+  "start station name": "Spruce St & Nassau St",
+  "start station latitude": 40.71146364,
+  "start station longitude": -74.00552427,
+  "end station id": 3783,
+  "end station name": "Cliff St & Fulton St",
+  "end station latitude": 40.70838,
+  "end station longitude": -74.00495,
+  "bikeid": 15253,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

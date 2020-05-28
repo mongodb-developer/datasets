@@ -1,0 +1,17 @@
+{
+  "tripduration": 116,
+  "starttime": "2019-12-01 02:10:50.3280",
+  "stoptime": "2019-12-01 02:12:46.7360",
+  "start station id": 317,
+  "start station name": "E 6 St & Avenue B",
+  "start station latitude": 40.72453734,
+  "start station longitude": -73.98185424,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 40269,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

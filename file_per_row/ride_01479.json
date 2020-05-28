@@ -1,0 +1,17 @@
+{
+  "tripduration": 362,
+  "starttime": "2019-12-01 07:52:21.7400",
+  "stoptime": "2019-12-01 07:58:24.3900",
+  "start station id": 389,
+  "start station name": "Broadway & Berry St",
+  "start station latitude": 40.71044554,
+  "start station longitude": -73.96525063,
+  "end station id": 3077,
+  "end station name": "Stagg St & Union Ave",
+  "end station latitude": 40.70877084,
+  "end station longitude": -73.95095259,
+  "bikeid": 35212,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

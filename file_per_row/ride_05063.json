@@ -1,0 +1,17 @@
+{
+  "tripduration": 320,
+  "starttime": "2019-12-01 11:14:53.1180",
+  "stoptime": "2019-12-01 11:20:13.3950",
+  "start station id": 387,
+  "start station name": "Centre St & Chambers St",
+  "start station latitude": 40.71273266,
+  "start station longitude": -74.0046073,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 19240,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

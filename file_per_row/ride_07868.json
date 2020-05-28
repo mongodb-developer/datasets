@@ -1,0 +1,17 @@
+{
+  "tripduration": 454,
+  "starttime": "2019-12-01 15:03:06.0810",
+  "stoptime": "2019-12-01 15:10:40.3610",
+  "start station id": 3302,
+  "start station name": "Columbus Ave & W 103 St",
+  "start station latitude": 40.7969347,
+  "start station longitude": -73.9643412291,
+  "end station id": 3509,
+  "end station name": "Lenox Ave & W 115 St",
+  "end station latitude": 40.8011939,
+  "end station longitude": -73.9500739,
+  "bikeid": 39788,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

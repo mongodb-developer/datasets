@@ -1,0 +1,17 @@
+{
+  "tripduration": 283,
+  "starttime": "2019-12-01 09:03:03.7440",
+  "stoptime": "2019-12-01 09:07:47.3560",
+  "start station id": 3563,
+  "start station name": "28 St & 36 Ave",
+  "start station latitude": 40.757186,
+  "start station longitude": -73.932719,
+  "end station id": 3129,
+  "end station name": "Queens Plaza North & Crescent St",
+  "end station latitude": 40.75110165,
+  "end station longitude": -73.94073717,
+  "bikeid": 31820,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

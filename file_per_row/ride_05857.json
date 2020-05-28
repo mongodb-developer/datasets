@@ -1,0 +1,17 @@
+{
+  "tripduration": 315,
+  "starttime": "2019-12-01 12:00:49.7520",
+  "stoptime": "2019-12-01 12:06:04.8410",
+  "start station id": 3132,
+  "start station name": "E 59 St & Madison Ave",
+  "start station latitude": 40.76350532,
+  "start station longitude": -73.97109243,
+  "end station id": 2022,
+  "end station name": "E 60 St & York Ave",
+  "end station latitude": 40.759107,
+  "end station longitude": -73.959223,
+  "bikeid": 25604,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 686,
+  "starttime": "2019-12-01 11:37:23.2960",
+  "stoptime": "2019-12-01 11:48:49.6120",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 3410,
+  "end station name": "Dean St & Hoyt St",
+  "end station latitude": 40.6864442,
+  "end station longitude": -73.98759104,
+  "bikeid": 40108,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

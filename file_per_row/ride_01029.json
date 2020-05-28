@@ -1,0 +1,17 @@
+{
+  "tripduration": 476,
+  "starttime": "2019-12-01 05:22:17.6840",
+  "stoptime": "2019-12-01 05:30:14.3190",
+  "start station id": 342,
+  "start station name": "Columbia St & Rivington St",
+  "start station latitude": 40.71739973,
+  "start station longitude": -73.98016555,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 34262,
+  "usertype": "Subscriber",
+  "birth year": 1946,
+  "gender": "male"
+}

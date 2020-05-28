@@ -1,0 +1,17 @@
+{
+  "tripduration": 580,
+  "starttime": "2019-12-01 14:56:15.1180",
+  "stoptime": "2019-12-01 15:05:55.5950",
+  "start station id": 497,
+  "start station name": "E 17 St & Broadway",
+  "start station latitude": 40.73704984,
+  "start station longitude": -73.99009296,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 34962,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

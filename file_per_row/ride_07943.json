@@ -1,0 +1,17 @@
+{
+  "tripduration": 520,
+  "starttime": "2019-12-01 15:10:20.8650",
+  "stoptime": "2019-12-01 15:19:01.2410",
+  "start station id": 389,
+  "start station name": "Broadway & Berry St",
+  "start station latitude": 40.71044554,
+  "start station longitude": -73.96525063,
+  "end station id": 3092,
+  "end station name": "Berry St & N 8 St",
+  "end station latitude": 40.7190095,
+  "end station longitude": -73.95852515,
+  "bikeid": 41976,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1175,
+  "starttime": "2019-12-01 12:06:58.5450",
+  "stoptime": "2019-12-01 12:26:33.7790",
+  "start station id": 332,
+  "start station name": "Cherry St",
+  "start station latitude": 40.71219906,
+  "start station longitude": -73.97948148,
+  "end station id": 252,
+  "end station name": "MacDougal St & Washington Sq",
+  "end station latitude": 40.73226398,
+  "end station longitude": -73.99852205,
+  "bikeid": 28635,
+  "usertype": "Subscriber",
+  "birth year": 1948,
+  "gender": "male"
+}

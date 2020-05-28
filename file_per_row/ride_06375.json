@@ -1,0 +1,17 @@
+{
+  "tripduration": 240,
+  "starttime": "2019-12-01 12:29:31.5780",
+  "stoptime": "2019-12-01 12:33:32.3750",
+  "start station id": 3452,
+  "start station name": "Bayard St & Leonard St",
+  "start station latitude": 40.71915571696044,
+  "start station longitude": -73.94885390996933,
+  "end station id": 3430,
+  "end station name": "Richardson St & N Henry St",
+  "end station latitude": 40.71907891179564,
+  "end station longitude": -73.94223690032959,
+  "bikeid": 19830,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

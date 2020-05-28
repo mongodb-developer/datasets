@@ -1,0 +1,17 @@
+{
+  "tripduration": 1928,
+  "starttime": "2019-12-01 11:53:21.8100",
+  "stoptime": "2019-12-01 12:25:30.4600",
+  "start station id": 469,
+  "start station name": "Broadway & W 53 St",
+  "start station latitude": 40.76344058,
+  "start station longitude": -73.98268129,
+  "end station id": 309,
+  "end station name": "Murray St & West St",
+  "end station latitude": 40.7149787,
+  "end station longitude": -74.013012,
+  "bikeid": 40779,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

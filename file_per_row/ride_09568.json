@@ -1,0 +1,17 @@
+{
+  "tripduration": 480,
+  "starttime": "2019-12-01 19:42:11.9000",
+  "stoptime": "2019-12-01 19:50:12.4870",
+  "start station id": 297,
+  "start station name": "E 15 St & 3 Ave",
+  "start station latitude": 40.734232,
+  "start station longitude": -73.986923,
+  "end station id": 3472,
+  "end station name": "W 15 St & 10 Ave",
+  "end station latitude": 40.742753828659026,
+  "end station longitude": -74.00747358798981,
+  "bikeid": 39469,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

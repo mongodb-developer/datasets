@@ -1,0 +1,17 @@
+{
+  "tripduration": 517,
+  "starttime": "2019-12-01 12:29:44.4870",
+  "stoptime": "2019-12-01 12:38:22.2480",
+  "start station id": 3697,
+  "start station name": "W 64 St & Thelonious Monk Circle",
+  "start station latitude": 40.77515953434235,
+  "start station longitude": -73.98918695747852,
+  "end station id": 3161,
+  "end station name": "W 76 St & Columbus Ave",
+  "end station latitude": 40.7801839724239,
+  "end station longitude": -73.97728532552719,
+  "bikeid": 38296,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "female"
+}

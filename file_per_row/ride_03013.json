@@ -1,0 +1,17 @@
+{
+  "tripduration": 904,
+  "starttime": "2019-12-01 09:47:53.9490",
+  "stoptime": "2019-12-01 10:02:58.0530",
+  "start station id": 3082,
+  "start station name": "Hope St & Union Ave",
+  "start station latitude": 40.71167351,
+  "start station longitude": -73.95141312,
+  "end station id": 3115,
+  "end station name": "India St & Manhattan Ave",
+  "end station latitude": 40.73232194,
+  "end station longitude": -73.9550858,
+  "bikeid": 28611,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

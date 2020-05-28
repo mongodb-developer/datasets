@@ -1,0 +1,17 @@
+{
+  "tripduration": 853,
+  "starttime": "2019-12-01 12:11:59.5420",
+  "stoptime": "2019-12-01 12:26:13.1370",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 297,
+  "end station name": "E 15 St & 3 Ave",
+  "end station latitude": 40.734232,
+  "end station longitude": -73.986923,
+  "bikeid": 41075,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

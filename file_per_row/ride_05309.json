@@ -1,0 +1,17 @@
+{
+  "tripduration": 601,
+  "starttime": "2019-12-01 11:27:32.1250",
+  "stoptime": "2019-12-01 11:37:33.2100",
+  "start station id": 321,
+  "start station name": "Cadman Plaza E & Red Cross Pl",
+  "start station latitude": 40.69991755,
+  "start station longitude": -73.98971773,
+  "end station id": 3315,
+  "end station name": "Henry St & Degraw St",
+  "end station latitude": 40.6847514,
+  "end station longitude": -73.99917254,
+  "bikeid": 34265,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

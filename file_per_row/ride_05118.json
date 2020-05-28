@@ -1,0 +1,17 @@
+{
+  "tripduration": 1847,
+  "starttime": "2019-12-01 11:17:45.8450",
+  "stoptime": "2019-12-01 11:48:33.4700",
+  "start station id": 295,
+  "start station name": "Pike St & E Broadway",
+  "start station latitude": 40.71406667,
+  "start station longitude": -73.99293911,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 39286,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

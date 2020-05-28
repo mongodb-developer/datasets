@@ -1,0 +1,17 @@
+{
+  "tripduration": 1037,
+  "starttime": "2019-12-01 01:00:10.4410",
+  "stoptime": "2019-12-01 01:17:27.9910",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 3046,
+  "end station name": "Marcus Garvey Blvd & Macon St",
+  "end station latitude": 40.682601,
+  "end station longitude": -73.938037,
+  "bikeid": 41045,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

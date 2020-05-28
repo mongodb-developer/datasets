@@ -1,0 +1,17 @@
+{
+  "tripduration": 770,
+  "starttime": "2019-12-01 07:51:35.3710",
+  "stoptime": "2019-12-01 08:04:26.1450",
+  "start station id": 448,
+  "start station name": "W 37 St & 10 Ave",
+  "start station latitude": 40.75660359,
+  "start station longitude": -73.9979009,
+  "end station id": 435,
+  "end station name": "W 21 St & 6 Ave",
+  "end station latitude": 40.74173969,
+  "end station longitude": -73.99415556,
+  "bikeid": 33391,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

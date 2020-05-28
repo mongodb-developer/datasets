@@ -1,0 +1,17 @@
+{
+  "tripduration": 238,
+  "starttime": "2019-12-01 08:08:54.6060",
+  "stoptime": "2019-12-01 08:12:53.2950",
+  "start station id": 3413,
+  "start station name": "Wyckoff St & 3 Ave",
+  "start station latitude": 40.6827549,
+  "start station longitude": -73.98258555,
+  "end station id": 3335,
+  "end station name": "Union St & 4 Ave",
+  "end station latitude": 40.6772744,
+  "end station longitude": -73.98282002,
+  "bikeid": 40294,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

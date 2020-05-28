@@ -1,0 +1,17 @@
+{
+  "tripduration": 535,
+  "starttime": "2019-12-01 09:44:10.6320",
+  "stoptime": "2019-12-01 09:53:06.2180",
+  "start station id": 509,
+  "start station name": "9 Ave & W 22 St",
+  "start station latitude": 40.7454973,
+  "start station longitude": -74.00197139,
+  "end station id": 465,
+  "end station name": "Broadway & W 41 St",
+  "end station latitude": 40.75513557,
+  "end station longitude": -73.98658032,
+  "bikeid": 41305,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

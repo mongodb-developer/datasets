@@ -1,0 +1,17 @@
+{
+  "tripduration": 296,
+  "starttime": "2019-12-01 10:19:28.9590",
+  "stoptime": "2019-12-01 10:24:25.1570",
+  "start station id": 464,
+  "start station name": "E 56 St & 3 Ave",
+  "start station latitude": 40.75934501,
+  "start station longitude": -73.96759673,
+  "end station id": 359,
+  "end station name": "E 47 St & Park Ave",
+  "end station latitude": 40.75510267,
+  "end station longitude": -73.97498696,
+  "bikeid": 34962,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

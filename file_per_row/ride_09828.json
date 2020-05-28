@@ -1,0 +1,17 @@
+{
+  "tripduration": 1646,
+  "starttime": "2019-12-01 20:23:33.7690",
+  "stoptime": "2019-12-01 20:50:59.8950",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 151,
+  "end station name": "Cleveland Pl & Spring St",
+  "end station latitude": 40.722103786686034,
+  "end station longitude": -73.99724900722504,
+  "bikeid": 35035,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "male"
+}

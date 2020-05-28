@@ -1,0 +1,17 @@
+{
+  "tripduration": 266,
+  "starttime": "2019-12-01 15:36:08.1150",
+  "stoptime": "2019-12-01 15:40:35.0700",
+  "start station id": 3707,
+  "start station name": "Lexington Ave & E 26 St",
+  "start station latitude": 40.741459,
+  "start station longitude": -73.983293,
+  "end station id": 536,
+  "end station name": "1 Ave & E 30 St",
+  "end station latitude": 40.74144387,
+  "end station longitude": -73.97536082,
+  "bikeid": 39428,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

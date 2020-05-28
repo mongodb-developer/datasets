@@ -1,0 +1,17 @@
+{
+  "tripduration": 180,
+  "starttime": "2019-12-01 02:50:52.5650",
+  "stoptime": "2019-12-01 02:53:53.3050",
+  "start station id": 473,
+  "start station name": "Rivington St & Chrystie St",
+  "start station latitude": 40.72110063,
+  "start station longitude": -73.9919254,
+  "end station id": 361,
+  "end station name": "Allen St & Hester St",
+  "end station latitude": 40.71605866,
+  "end station longitude": -73.99190759,
+  "bikeid": 39735,
+  "usertype": "Customer",
+  "birth year": 1995,
+  "gender": "female"
+}

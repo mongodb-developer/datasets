@@ -1,0 +1,17 @@
+{
+  "tripduration": 586,
+  "starttime": "2019-12-01 08:34:22.7260",
+  "stoptime": "2019-12-01 08:44:09.0810",
+  "start station id": 3689,
+  "start station name": "W 104 St & Amsterdam Ave",
+  "start station latitude": 40.799041392882984,
+  "start station longitude": -73.96649479866028,
+  "end station id": 3171,
+  "end station name": "Amsterdam Ave & W 82 St",
+  "end station latitude": 40.78524672,
+  "end station longitude": -73.97667321,
+  "bikeid": 17389,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 496,
+  "starttime": "2019-12-01 18:37:43.9540",
+  "stoptime": "2019-12-01 18:46:00.4610",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 250,
+  "end station name": "Lafayette St & Jersey St",
+  "end station latitude": 40.72456089,
+  "end station longitude": -73.99565293,
+  "bikeid": 28587,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 228,
+  "starttime": "2019-12-01 08:41:37.8170",
+  "stoptime": "2019-12-01 08:45:25.8530",
+  "start station id": 363,
+  "start station name": "West Thames St",
+  "start station latitude": 40.70834698,
+  "start station longitude": -74.01713445,
+  "end station id": 3908,
+  "end station name": "Battery Pl & Greenwich St",
+  "end station latitude": 40.70463,
+  "end station longitude": -74.01507,
+  "bikeid": 40605,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

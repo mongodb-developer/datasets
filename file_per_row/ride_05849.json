@@ -1,0 +1,17 @@
+{
+  "tripduration": 424,
+  "starttime": "2019-12-01 12:00:06.4160",
+  "stoptime": "2019-12-01 12:07:11.1600",
+  "start station id": 3658,
+  "start station name": "W 18 St & 9 Ave",
+  "start station latitude": 40.7435337324616,
+  "start station longitude": -74.00367558002472,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 39435,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

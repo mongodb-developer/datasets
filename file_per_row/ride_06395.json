@@ -1,0 +1,17 @@
+{
+  "tripduration": 333,
+  "starttime": "2019-12-01 12:30:38.3990",
+  "stoptime": "2019-12-01 12:36:11.4420",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 34066,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

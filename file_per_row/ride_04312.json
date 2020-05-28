@@ -1,0 +1,17 @@
+{
+  "tripduration": 74,
+  "starttime": "2019-12-01 10:44:15.1650",
+  "stoptime": "2019-12-01 10:45:29.3740",
+  "start station id": 3765,
+  "start station name": "Bushwick Ave & Stagg St",
+  "start station latitude": 40.709897,
+  "start station longitude": -73.94008,
+  "end station id": 3768,
+  "end station name": "Waterbury St & Stagg St",
+  "end station latitude": 40.71019,
+  "end station longitude": -73.93734,
+  "bikeid": 38470,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 804,
+  "starttime": "2019-12-01 05:32:03.0480",
+  "stoptime": "2019-12-01 05:45:27.2010",
+  "start station id": 3175,
+  "start station name": "W 70 St & Amsterdam Ave",
+  "start station latitude": 40.77748046,
+  "start station longitude": -73.98288594,
+  "end station id": 281,
+  "end station name": "Grand Army Plaza & Central Park S",
+  "end station latitude": 40.7643971,
+  "end station longitude": -73.97371465,
+  "bikeid": 31388,
+  "usertype": "Subscriber",
+  "birth year": 1951,
+  "gender": "male"
+}

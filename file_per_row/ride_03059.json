@@ -1,0 +1,17 @@
+{
+  "tripduration": 613,
+  "starttime": "2019-12-01 09:49:19.2780",
+  "stoptime": "2019-12-01 09:59:32.5670",
+  "start station id": 3173,
+  "start station name": "Riverside Blvd & W 67 St",
+  "start station latitude": 40.777507027547976,
+  "start station longitude": -73.98888587951659,
+  "end station id": 3314,
+  "end station name": "W 95 St & Broadway",
+  "end station latitude": 40.7937704,
+  "end station longitude": -73.971888,
+  "bikeid": 27423,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

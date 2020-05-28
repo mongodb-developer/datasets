@@ -1,0 +1,17 @@
+{
+  "tripduration": 886,
+  "starttime": "2019-12-01 09:13:34.0310",
+  "stoptime": "2019-12-01 09:28:20.4500",
+  "start station id": 405,
+  "start station name": "Washington St & Gansevoort St",
+  "start station latitude": 40.739323,
+  "start station longitude": -74.008119,
+  "end station id": 302,
+  "end station name": "Avenue D & E 3 St",
+  "end station latitude": 40.72082834,
+  "end station longitude": -73.97793172,
+  "bikeid": 38287,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

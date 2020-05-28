@@ -1,0 +1,17 @@
+{
+  "tripduration": 1037,
+  "starttime": "2019-12-01 06:35:47.8120",
+  "stoptime": "2019-12-01 06:53:05.6500",
+  "start station id": 508,
+  "start station name": "W 46 St & 11 Ave",
+  "start station latitude": 40.76341379,
+  "start station longitude": -73.99667444,
+  "end station id": 3158,
+  "end station name": "W 63 St & Broadway",
+  "end station latitude": 40.77163851,
+  "end station longitude": -73.98261428,
+  "bikeid": 38914,
+  "usertype": "Customer",
+  "birth year": 1981,
+  "gender": "male"
+}

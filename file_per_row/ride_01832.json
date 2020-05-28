@@ -1,0 +1,17 @@
+{
+  "tripduration": 182,
+  "starttime": "2019-12-01 08:32:39.2540",
+  "stoptime": "2019-12-01 08:35:41.6110",
+  "start station id": 3826,
+  "start station name": "Moffat St & Bushwick",
+  "start station latitude": 40.68458,
+  "start station longitude": -73.90925,
+  "end station id": 3866,
+  "end station name": "Wilson Ave & Moffat St",
+  "end station latitude": 40.68906,
+  "end station longitude": -73.90506,
+  "bikeid": 38821,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

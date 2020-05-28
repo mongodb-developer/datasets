@@ -1,0 +1,17 @@
+{
+  "tripduration": 360,
+  "starttime": "2019-12-01 17:58:00.0180",
+  "stoptime": "2019-12-01 18:04:00.4800",
+  "start station id": 485,
+  "start station name": "W 37 St & 5 Ave",
+  "start station latitude": 40.75038009,
+  "start station longitude": -73.98338988,
+  "end station id": 466,
+  "end station name": "W 25 St & 6 Ave",
+  "end station latitude": 40.74395411,
+  "end station longitude": -73.99144871,
+  "bikeid": 38342,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

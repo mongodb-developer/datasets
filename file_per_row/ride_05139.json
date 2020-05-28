@@ -1,0 +1,17 @@
+{
+  "tripduration": 404,
+  "starttime": "2019-12-01 11:19:01.5290",
+  "stoptime": "2019-12-01 11:25:45.7660",
+  "start station id": 380,
+  "start station name": "W 4 St & 7 Ave S",
+  "start station latitude": 40.73401143,
+  "start station longitude": -74.00293877,
+  "end station id": 284,
+  "end station name": "Greenwich Ave & 8 Ave",
+  "end station latitude": 40.7390169121,
+  "end station longitude": -74.0026376103,
+  "bikeid": 40498,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

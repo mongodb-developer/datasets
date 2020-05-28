@@ -1,0 +1,17 @@
+{
+  "tripduration": 156,
+  "starttime": "2019-12-01 07:45:40.4170",
+  "stoptime": "2019-12-01 07:48:17.0730",
+  "start station id": 3617,
+  "start station name": "28 Ave & 35 St",
+  "start station latitude": 40.7671,
+  "start station longitude": -73.9169858,
+  "end station id": 3721,
+  "end station name": "31 St & Newtown Ave",
+  "end station latitude": 40.7675487799971,
+  "end station longitude": -73.9209334552288,
+  "bikeid": 32453,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 490,
+  "starttime": "2019-12-01 06:23:32.8150",
+  "stoptime": "2019-12-01 06:31:42.8960",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 487,
+  "end station name": "E 20 St & FDR Drive",
+  "end station latitude": 40.73314259,
+  "end station longitude": -73.97573881,
+  "bikeid": 30817,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

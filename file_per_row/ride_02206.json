@@ -1,0 +1,17 @@
+{
+  "tripduration": 381,
+  "starttime": "2019-12-01 09:00:31.5880",
+  "stoptime": "2019-12-01 09:06:52.6580",
+  "start station id": 3410,
+  "start station name": "Dean St & Hoyt St",
+  "start station latitude": 40.6864442,
+  "start station longitude": -73.98759104,
+  "end station id": 3414,
+  "end station name": "Bergen St & Flatbush Ave",
+  "end station latitude": 40.680944723477296,
+  "end station longitude": -73.97567331790923,
+  "bikeid": 32332,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

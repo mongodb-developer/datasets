@@ -1,0 +1,17 @@
+{
+  "tripduration": 3134,
+  "starttime": "2019-12-01 11:10:50.5110",
+  "stoptime": "2019-12-01 12:03:05.1440",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 3454,
+  "end station name": "Leonard St & Maujer St",
+  "end station latitude": 40.7103685423523,
+  "end station longitude": -73.94705951213837,
+  "bikeid": 19814,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

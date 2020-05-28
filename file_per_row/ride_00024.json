@@ -1,0 +1,17 @@
+{
+  "tripduration": 375,
+  "starttime": "2019-12-01 00:02:39.5630",
+  "stoptime": "2019-12-01 00:08:54.9900",
+  "start station id": 3101,
+  "start station name": "N 12 St & Bedford Ave",
+  "start station latitude": 40.72079821,
+  "start station longitude": -73.95484712,
+  "end station id": 3116,
+  "end station name": "Huron St & Franklin St",
+  "end station latitude": 40.73266,
+  "end station longitude": -73.95826,
+  "bikeid": 32110,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

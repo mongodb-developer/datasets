@@ -1,0 +1,17 @@
+{
+  "tripduration": 1057,
+  "starttime": "2019-12-01 05:33:00.6430",
+  "stoptime": "2019-12-01 05:50:38.0670",
+  "start station id": 344,
+  "start station name": "Monroe St & Bedford Ave",
+  "start station latitude": 40.6851443,
+  "start station longitude": -73.95380904,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 20969,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

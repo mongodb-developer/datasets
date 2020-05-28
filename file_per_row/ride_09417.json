@@ -1,0 +1,17 @@
+{
+  "tripduration": 314,
+  "starttime": "2019-12-01 19:15:15.3980",
+  "stoptime": "2019-12-01 19:20:30.3370",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 30363,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

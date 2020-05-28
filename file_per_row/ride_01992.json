@@ -1,0 +1,17 @@
+{
+  "tripduration": 137,
+  "starttime": "2019-12-01 08:45:40.3930",
+  "stoptime": "2019-12-01 08:47:58.0180",
+  "start station id": 522,
+  "start station name": "E 51 St & Lexington Ave",
+  "start station latitude": 40.75714758,
+  "start station longitude": -73.97207836,
+  "end station id": 228,
+  "end station name": "E 48 St & 3 Ave",
+  "end station latitude": 40.7546011026,
+  "end station longitude": -73.971878855,
+  "bikeid": 41497,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "female"
+}

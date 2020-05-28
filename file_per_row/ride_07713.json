@@ -1,0 +1,17 @@
+{
+  "tripduration": 808,
+  "starttime": "2019-12-01 14:48:10.0310",
+  "stoptime": "2019-12-01 15:01:38.6380",
+  "start station id": 367,
+  "start station name": "E 53 St & Lexington Ave",
+  "start station latitude": 40.75828065,
+  "start station longitude": -73.97069431,
+  "end station id": 503,
+  "end station name": "E 20 St & Park Ave",
+  "end station latitude": 40.73827428,
+  "end station longitude": -73.98751968,
+  "bikeid": 38743,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

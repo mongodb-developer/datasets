@@ -1,0 +1,17 @@
+{
+  "tripduration": 535,
+  "starttime": "2019-12-01 07:21:51.7520",
+  "stoptime": "2019-12-01 07:30:46.7730",
+  "start station id": 3687,
+  "start station name": "E 33 St & 1 Ave",
+  "start station latitude": 40.74322681432173,
+  "start station longitude": -73.97449783980846,
+  "end station id": 519,
+  "end station name": "Pershing Square North",
+  "end station latitude": 40.751873,
+  "end station longitude": -73.977706,
+  "bikeid": 38876,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

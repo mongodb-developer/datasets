@@ -1,0 +1,17 @@
+{
+  "tripduration": 490,
+  "starttime": "2019-12-01 12:02:32.7370",
+  "stoptime": "2019-12-01 12:10:42.8000",
+  "start station id": 412,
+  "start station name": "Forsyth St & Canal St",
+  "start station latitude": 40.7158155,
+  "start station longitude": -73.99422366,
+  "end station id": 280,
+  "end station name": "E 10 St & 5 Ave",
+  "end station latitude": 40.73331967,
+  "end station longitude": -73.99510132,
+  "bikeid": 28690,
+  "usertype": "Subscriber",
+  "birth year": 2001,
+  "gender": "unknown"
+}

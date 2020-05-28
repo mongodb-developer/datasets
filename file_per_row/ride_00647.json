@@ -1,0 +1,17 @@
+{
+  "tripduration": 1262,
+  "starttime": "2019-12-01 02:15:06.7500",
+  "stoptime": "2019-12-01 02:36:09.3440",
+  "start station id": 434,
+  "start station name": "9 Ave & W 18 St",
+  "start station latitude": 40.74317449,
+  "start station longitude": -74.00366443,
+  "end station id": 3141,
+  "end station name": "1 Ave & E 68 St",
+  "end station latitude": 40.76500525,
+  "end station longitude": -73.95818491,
+  "bikeid": 29056,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

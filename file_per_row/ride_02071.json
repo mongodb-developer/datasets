@@ -1,0 +1,17 @@
+{
+  "tripduration": 736,
+  "starttime": "2019-12-01 08:50:56.8640",
+  "stoptime": "2019-12-01 09:03:13.3420",
+  "start station id": 3437,
+  "start station name": "Riverside Dr & W 91 St",
+  "start station latitude": 40.79313480986663,
+  "start station longitude": -73.97700369358063,
+  "end station id": 3175,
+  "end station name": "W 70 St & Amsterdam Ave",
+  "end station latitude": 40.77748046,
+  "end station longitude": -73.98288594,
+  "bikeid": 38619,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

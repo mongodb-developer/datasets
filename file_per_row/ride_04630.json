@@ -1,0 +1,17 @@
+{
+  "tripduration": 353,
+  "starttime": "2019-12-01 10:55:42.9840",
+  "stoptime": "2019-12-01 11:01:36.8440",
+  "start station id": 3697,
+  "start station name": "W 64 St & Thelonious Monk Circle",
+  "start station latitude": 40.77515953434235,
+  "start station longitude": -73.98918695747852,
+  "end station id": 499,
+  "end station name": "Broadway & W 60 St",
+  "end station latitude": 40.76915505,
+  "end station longitude": -73.98191841,
+  "bikeid": 34085,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

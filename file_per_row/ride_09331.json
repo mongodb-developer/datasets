@@ -1,0 +1,17 @@
+{
+  "tripduration": 123,
+  "starttime": "2019-12-01 19:01:42.5320",
+  "stoptime": "2019-12-01 19:03:46.4730",
+  "start station id": 401,
+  "start station name": "Allen St & Rivington St",
+  "start station latitude": 40.72019576,
+  "start station longitude": -73.98997825,
+  "end station id": 361,
+  "end station name": "Allen St & Hester St",
+  "end station latitude": 40.71605866,
+  "end station longitude": -73.99190759,
+  "bikeid": 33904,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "male"
+}

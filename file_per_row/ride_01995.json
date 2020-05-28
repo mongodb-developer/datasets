@@ -1,0 +1,17 @@
+{
+  "tripduration": 88,
+  "starttime": "2019-12-01 08:45:46.9430",
+  "stoptime": "2019-12-01 08:47:15.0360",
+  "start station id": 3122,
+  "start station name": "48 Ave & 5 St",
+  "start station latitude": 40.744363287066875,
+  "start station longitude": -73.9558732509613,
+  "end station id": 3611,
+  "end station name": "Vernon Blvd & 47 Rd",
+  "end station latitude": 40.7449067,
+  "end station longitude": -73.9534573,
+  "bikeid": 39473,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

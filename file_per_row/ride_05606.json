@@ -1,0 +1,17 @@
+{
+  "tripduration": 1705,
+  "starttime": "2019-12-01 11:45:47.9390",
+  "stoptime": "2019-12-01 12:14:13.8160",
+  "start station id": 3409,
+  "start station name": "Bergen St & Smith St",
+  "start station latitude": 40.6867443,
+  "start station longitude": -73.99063168,
+  "end station id": 3601,
+  "end station name": "Sterling St & Bedford Ave",
+  "end station latitude": 40.6627059,
+  "end station longitude": -73.9569115,
+  "bikeid": 38904,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "female"
+}

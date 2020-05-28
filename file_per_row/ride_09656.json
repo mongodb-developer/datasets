@@ -1,0 +1,17 @@
+{
+  "tripduration": 355,
+  "starttime": "2019-12-01 19:54:17.3750",
+  "stoptime": "2019-12-01 20:00:12.9040",
+  "start station id": 326,
+  "start station name": "E 11 St & 1 Ave",
+  "start station latitude": 40.72953837,
+  "start station longitude": -73.98426726,
+  "end station id": 265,
+  "end station name": "Stanton St & Chrystie St",
+  "end station latitude": 40.72229346,
+  "end station longitude": -73.99147535,
+  "bikeid": 41272,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "female"
+}

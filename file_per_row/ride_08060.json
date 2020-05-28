@@ -1,0 +1,17 @@
+{
+  "tripduration": 286,
+  "starttime": "2019-12-01 15:21:54.8660",
+  "stoptime": "2019-12-01 15:26:41.5500",
+  "start station id": 3574,
+  "start station name": "Prospect Pl & Underhill Ave",
+  "start station latitude": 40.6769694,
+  "start station longitude": -73.96579,
+  "end station id": 3346,
+  "end station name": "Berkeley Pl & 7 Ave",
+  "end station latitude": 40.675146838709786,
+  "end station longitude": -73.97523209452629,
+  "bikeid": 40835,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

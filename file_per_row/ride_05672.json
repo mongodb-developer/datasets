@@ -1,0 +1,17 @@
+{
+  "tripduration": 532,
+  "starttime": "2019-12-01 11:49:50.0910",
+  "stoptime": "2019-12-01 11:58:42.1750",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 38953,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

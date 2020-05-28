@@ -1,0 +1,17 @@
+{
+  "tripduration": 360,
+  "starttime": "2019-12-01 11:14:23.4740",
+  "stoptime": "2019-12-01 11:20:23.5330",
+  "start station id": 268,
+  "start station name": "Howard St & Centre St",
+  "start station latitude": 40.71910537,
+  "start station longitude": -73.99973337,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 41321,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

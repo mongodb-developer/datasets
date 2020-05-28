@@ -1,0 +1,17 @@
+{
+  "tripduration": 252,
+  "starttime": "2019-12-01 20:49:15.7120",
+  "stoptime": "2019-12-01 20:53:28.0790",
+  "start station id": 3296,
+  "start station name": "E 93 St & 2 Ave",
+  "start station latitude": 40.782454175279874,
+  "start station longitude": -73.9489196240902,
+  "end station id": 3147,
+  "end station name": "E 85 St & 3 Ave",
+  "end station latitude": 40.77801203,
+  "end station longitude": -73.95407149,
+  "bikeid": 32992,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

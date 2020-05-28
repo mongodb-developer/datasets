@@ -1,0 +1,17 @@
+{
+  "tripduration": 635,
+  "starttime": "2019-12-01 10:22:38.0170",
+  "stoptime": "2019-12-01 10:33:13.2890",
+  "start station id": 3178,
+  "start station name": "Riverside Dr & W 78 St",
+  "start station latitude": 40.78414472,
+  "start station longitude": -73.98362492,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 31672,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

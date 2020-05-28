@@ -1,0 +1,17 @@
+{
+  "tripduration": 211,
+  "starttime": "2019-12-01 12:06:50.8530",
+  "stoptime": "2019-12-01 12:10:22.1590",
+  "start station id": 3580,
+  "start station name": "St Johns Pl & Washington Ave",
+  "start station latitude": 40.6737236,
+  "start station longitude": -73.9631611,
+  "end station id": 3576,
+  "end station name": "Park Pl & Vanderbilt Ave",
+  "end station latitude": 40.6767,
+  "end station longitude": -73.969024,
+  "bikeid": 39123,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "female"
+}

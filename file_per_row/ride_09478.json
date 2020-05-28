@@ -1,0 +1,17 @@
+{
+  "tripduration": 1627,
+  "starttime": "2019-12-01 19:25:50.1790",
+  "stoptime": "2019-12-01 19:52:58.1400",
+  "start station id": 330,
+  "start station name": "Reade St & Broadway",
+  "start station latitude": 40.71450451,
+  "start station longitude": -74.00562789,
+  "end station id": 224,
+  "end station name": "Spruce St & Nassau St",
+  "end station latitude": 40.71146364,
+  "end station longitude": -74.00552427,
+  "bikeid": 38565,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

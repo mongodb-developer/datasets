@@ -1,0 +1,17 @@
+{
+  "tripduration": 2467,
+  "starttime": "2019-12-01 18:45:04.0570",
+  "stoptime": "2019-12-01 19:26:11.9510",
+  "start station id": 3108,
+  "start station name": "Nassau Ave & Russell St",
+  "start station latitude": 40.72557,
+  "start station longitude": -73.94434,
+  "end station id": 3856,
+  "end station name": "Kingsland Ave & Nassau Ave",
+  "end station latitude": 40.72577,
+  "end station longitude": -73.94173,
+  "bikeid": 38209,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

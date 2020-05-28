@@ -1,0 +1,17 @@
+{
+  "tripduration": 557,
+  "starttime": "2019-12-01 02:34:40.1370",
+  "stoptime": "2019-12-01 02:43:57.2920",
+  "start station id": 325,
+  "start station name": "E 19 St & 3 Ave",
+  "start station latitude": 40.73624527,
+  "start station longitude": -73.98473765,
+  "end station id": 400,
+  "end station name": "Pitt St & Stanton St",
+  "end station latitude": 40.71926081,
+  "end station longitude": -73.98178024,
+  "bikeid": 33395,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

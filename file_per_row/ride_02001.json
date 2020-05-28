@@ -1,0 +1,17 @@
+{
+  "tripduration": 475,
+  "starttime": "2019-12-01 08:46:16.2980",
+  "stoptime": "2019-12-01 08:54:11.6110",
+  "start station id": 247,
+  "start station name": "Perry St & Bleecker St",
+  "start station latitude": 40.73535398,
+  "start station longitude": -74.00483091,
+  "end station id": 334,
+  "end station name": "W 20 St & 7 Ave",
+  "end station latitude": 40.74238787,
+  "end station longitude": -73.99726235,
+  "bikeid": 39195,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

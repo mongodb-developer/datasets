@@ -1,0 +1,17 @@
+{
+  "tripduration": 415,
+  "starttime": "2019-12-01 11:14:11.1270",
+  "stoptime": "2019-12-01 11:21:06.4490",
+  "start station id": 397,
+  "start station name": "Fulton St & Clermont Ave",
+  "start station latitude": 40.68415748,
+  "start station longitude": -73.96922273,
+  "end station id": 324,
+  "end station name": "DeKalb Ave & Hudson Ave",
+  "end station latitude": 40.689888,
+  "end station longitude": -73.981013,
+  "bikeid": 27685,
+  "usertype": "Customer",
+  "birth year": 1986,
+  "gender": "female"
+}

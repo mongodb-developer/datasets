@@ -1,0 +1,17 @@
+{
+  "tripduration": 331,
+  "starttime": "2019-12-01 11:19:18.7420",
+  "stoptime": "2019-12-01 11:24:49.8830",
+  "start station id": 168,
+  "start station name": "W 18 St & 6 Ave",
+  "start station latitude": 40.73971301,
+  "start station longitude": -73.99456405,
+  "end station id": 446,
+  "end station name": "W 24 St & 7 Ave",
+  "end station latitude": 40.74487634,
+  "end station longitude": -73.99529885,
+  "bikeid": 39814,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

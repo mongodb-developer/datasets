@@ -1,0 +1,17 @@
+{
+  "tripduration": 250,
+  "starttime": "2019-12-01 08:26:08.1550",
+  "stoptime": "2019-12-01 08:30:18.8580",
+  "start station id": 497,
+  "start station name": "E 17 St & Broadway",
+  "start station latitude": 40.73704984,
+  "start station longitude": -73.99009296,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 25316,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

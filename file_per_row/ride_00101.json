@@ -1,0 +1,17 @@
+{
+  "tripduration": 134,
+  "starttime": "2019-12-01 00:14:02.4630",
+  "stoptime": "2019-12-01 00:16:17.2720",
+  "start station id": 120,
+  "start station name": "Lexington Ave & Classon Ave",
+  "start station latitude": 40.68676793,
+  "start station longitude": -73.95928168,
+  "end station id": 344,
+  "end station name": "Monroe St & Bedford Ave",
+  "end station latitude": 40.6851443,
+  "end station longitude": -73.95380904,
+  "bikeid": 28099,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "unknown"
+}

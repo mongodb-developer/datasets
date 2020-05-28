@@ -1,0 +1,17 @@
+{
+  "tripduration": 521,
+  "starttime": "2019-12-01 12:33:28.0770",
+  "stoptime": "2019-12-01 12:42:09.5430",
+  "start station id": 2003,
+  "start station name": "1 Ave & E 18 St",
+  "start station latitude": 40.733812191966315,
+  "start station longitude": -73.98054420948029,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 40808,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 540,
+  "starttime": "2019-12-01 11:27:57.1530",
+  "stoptime": "2019-12-01 11:36:57.6570",
+  "start station id": 517,
+  "start station name": "Pershing Square South",
+  "start station latitude": 40.751581,
+  "start station longitude": -73.97791,
+  "end station id": 529,
+  "end station name": "W 42 St & 8 Ave",
+  "end station latitude": 40.7575699,
+  "end station longitude": -73.99098507,
+  "bikeid": 41808,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1146,
+  "starttime": "2019-12-01 10:50:15.3230",
+  "stoptime": "2019-12-01 11:09:22.0770",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 307,
+  "end station name": "Canal St & Rutgers St",
+  "end station latitude": 40.71427487,
+  "end station longitude": -73.98990025,
+  "bikeid": 17524,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

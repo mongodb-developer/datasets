@@ -1,0 +1,17 @@
+{
+  "tripduration": 1589,
+  "starttime": "2019-12-01 07:02:00.3160",
+  "stoptime": "2019-12-01 07:28:30.2560",
+  "start station id": 3317,
+  "start station name": "10 St & 5 Ave",
+  "start station latitude": 40.6686273,
+  "start station longitude": -73.98700053,
+  "end station id": 387,
+  "end station name": "Centre St & Chambers St",
+  "end station latitude": 40.71273266,
+  "end station longitude": -74.0046073,
+  "bikeid": 38391,
+  "usertype": "Customer",
+  "birth year": 1975,
+  "gender": "male"
+}

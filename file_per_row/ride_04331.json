@@ -1,0 +1,17 @@
+{
+  "tripduration": 803,
+  "starttime": "2019-12-01 10:45:06.4330",
+  "stoptime": "2019-12-01 10:58:29.6460",
+  "start station id": 3423,
+  "start station name": "West Drive & Prospect Park West",
+  "start station latitude": 40.6610633719006,
+  "start station longitude": -73.97945255041122,
+  "end station id": 3585,
+  "end station name": "Union St & Bedford Ave",
+  "end station latitude": 40.6691783,
+  "end station longitude": -73.9554162,
+  "bikeid": 20204,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "unknown"
+}

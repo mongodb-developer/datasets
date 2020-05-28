@@ -1,0 +1,17 @@
+{
+  "tripduration": 788,
+  "starttime": "2019-12-01 02:14:16.7380",
+  "stoptime": "2019-12-01 02:27:24.9980",
+  "start station id": 161,
+  "start station name": "LaGuardia Pl & W 3 St",
+  "start station latitude": 40.72917025,
+  "start station longitude": -73.99810231,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 30433,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

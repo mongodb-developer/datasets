@@ -1,0 +1,17 @@
+{
+  "tripduration": 361,
+  "starttime": "2019-12-01 18:02:01.2700",
+  "stoptime": "2019-12-01 18:08:02.9070",
+  "start station id": 3105,
+  "start station name": "N 15 St & Wythe Ave",
+  "start station latitude": 40.724055,
+  "start station longitude": -73.955736,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 39659,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

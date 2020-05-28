@@ -1,0 +1,17 @@
+{
+  "tripduration": 1223,
+  "starttime": "2019-12-01 00:00:39.7930",
+  "stoptime": "2019-12-01 00:21:03.6680",
+  "start station id": 465,
+  "start station name": "Broadway & W 41 St",
+  "start station latitude": 40.75513557,
+  "start station longitude": -73.98658032,
+  "end station id": 359,
+  "end station name": "E 47 St & Park Ave",
+  "end station latitude": 40.75510267,
+  "end station longitude": -73.97498696,
+  "bikeid": 16810,
+  "usertype": "Customer",
+  "birth year": 1982,
+  "gender": "male"
+}

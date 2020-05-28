@@ -1,0 +1,17 @@
+{
+  "tripduration": 630,
+  "starttime": "2019-12-01 10:52:45.3900",
+  "stoptime": "2019-12-01 11:03:15.8430",
+  "start station id": 3461,
+  "start station name": "Murray St & Greenwich St",
+  "start station latitude": 40.714851505262516,
+  "start station longitude": -74.01122331619263,
+  "end station id": 276,
+  "end station name": "Duane St & Greenwich St",
+  "end station latitude": 40.71748752,
+  "end station longitude": -74.0104554,
+  "bikeid": 28033,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

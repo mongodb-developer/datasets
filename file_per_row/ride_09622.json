@@ -1,0 +1,17 @@
+{
+  "tripduration": 324,
+  "starttime": "2019-12-01 19:49:43.6780",
+  "stoptime": "2019-12-01 19:55:08.2990",
+  "start station id": 3648,
+  "start station name": "Flushing Ave & Vanderbilt Ave",
+  "start station latitude": 40.697950315695444,
+  "start station longitude": -73.97077560424805,
+  "end station id": 270,
+  "end station name": "Adelphi St & Myrtle Ave",
+  "end station latitude": 40.69308257,
+  "end station longitude": -73.97178913,
+  "bikeid": 38556,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

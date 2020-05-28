@@ -1,0 +1,17 @@
+{
+  "tripduration": 186,
+  "starttime": "2019-12-01 11:25:29.3160",
+  "stoptime": "2019-12-01 11:28:35.4280",
+  "start station id": 265,
+  "start station name": "Stanton St & Chrystie St",
+  "start station latitude": 40.72229346,
+  "start station longitude": -73.99147535,
+  "end station id": 410,
+  "end station name": "Suffolk St & Stanton St",
+  "end station latitude": 40.72066442,
+  "end station longitude": -73.98517977,
+  "bikeid": 39122,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

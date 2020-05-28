@@ -1,0 +1,17 @@
+{
+  "tripduration": 298,
+  "starttime": "2019-12-01 10:43:59.1780",
+  "stoptime": "2019-12-01 10:48:57.4990",
+  "start station id": 3429,
+  "start station name": "Hanson Pl & Ashland Pl",
+  "start station latitude": 40.68506807308177,
+  "start station longitude": -73.97790759801863,
+  "end station id": 399,
+  "end station name": "Lafayette Ave & St James Pl",
+  "end station latitude": 40.68851534,
+  "end station longitude": -73.9647628,
+  "bikeid": 33156,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

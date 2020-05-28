@@ -1,0 +1,17 @@
+{
+  "tripduration": 1787,
+  "starttime": "2019-12-01 15:02:01.5510",
+  "stoptime": "2019-12-01 15:31:49.3740",
+  "start station id": 259,
+  "start station name": "South St & Whitehall St",
+  "start station latitude": 40.70122128,
+  "start station longitude": -74.01234218,
+  "end station id": 3733,
+  "end station name": "Avenue C & E 18 St",
+  "end station latitude": 40.730563,
+  "end station longitude": -73.973984,
+  "bikeid": 33411,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

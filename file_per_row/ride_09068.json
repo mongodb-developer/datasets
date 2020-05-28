@@ -1,0 +1,17 @@
+{
+  "tripduration": 159,
+  "starttime": "2019-12-01 18:12:23.7180",
+  "stoptime": "2019-12-01 18:15:03.6930",
+  "start station id": 3622,
+  "start station name": "E 128 St & Madison Ave",
+  "start station latitude": 40.80756,
+  "start station longitude": -73.939182,
+  "end station id": 3535,
+  "end station name": "Mt Morris Park W & W 120 St",
+  "end station latitude": 40.804038,
+  "end station longitude": -73.945925,
+  "bikeid": 26886,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

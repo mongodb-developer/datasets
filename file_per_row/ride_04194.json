@@ -1,0 +1,17 @@
+{
+  "tripduration": 386,
+  "starttime": "2019-12-01 10:39:09.8520",
+  "stoptime": "2019-12-01 10:45:36.4290",
+  "start station id": 257,
+  "start station name": "Lispenard St & Broadway",
+  "start station latitude": 40.71939226,
+  "start station longitude": -74.00247214,
+  "end station id": 307,
+  "end station name": "Canal St & Rutgers St",
+  "end station latitude": 40.71427487,
+  "end station longitude": -73.98990025,
+  "bikeid": 32743,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "male"
+}

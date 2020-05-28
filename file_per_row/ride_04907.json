@@ -1,0 +1,17 @@
+{
+  "tripduration": 568,
+  "starttime": "2019-12-01 11:06:52.7350",
+  "stoptime": "2019-12-01 11:16:21.4820",
+  "start station id": 3071,
+  "start station name": "Boerum St & Broadway",
+  "start station latitude": 40.70538077,
+  "start station longitude": -73.94976519,
+  "end station id": 3768,
+  "end station name": "Waterbury St & Stagg St",
+  "end station latitude": 40.71019,
+  "end station longitude": -73.93734,
+  "bikeid": 41588,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "unknown"
+}

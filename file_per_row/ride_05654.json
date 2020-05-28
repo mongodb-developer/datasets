@@ -1,0 +1,17 @@
+{
+  "tripduration": 523,
+  "starttime": "2019-12-01 11:49:00.2670",
+  "stoptime": "2019-12-01 11:57:43.7700",
+  "start station id": 3708,
+  "start station name": "W 13 St & 5 Ave",
+  "start station latitude": 40.735445,
+  "start station longitude": -73.99431,
+  "end station id": 438,
+  "end station name": "St Marks Pl & 1 Ave",
+  "end station latitude": 40.72779126,
+  "end station longitude": -73.98564945,
+  "bikeid": 28169,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "female"
+}

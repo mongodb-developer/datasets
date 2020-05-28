@@ -1,0 +1,17 @@
+{
+  "tripduration": 438,
+  "starttime": "2019-12-01 17:56:00.4400",
+  "stoptime": "2019-12-01 18:03:19.0540",
+  "start station id": 349,
+  "start station name": "Rivington St & Ridge St",
+  "start station latitude": 40.71850211,
+  "start station longitude": -73.98329859,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 15285,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

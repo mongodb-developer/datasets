@@ -1,0 +1,17 @@
+{
+  "tripduration": 1828,
+  "starttime": "2019-12-01 19:51:43.1730",
+  "stoptime": "2019-12-01 20:22:12.1440",
+  "start station id": 3148,
+  "start station name": "E 84 St & 1 Ave",
+  "start station latitude": 40.77565541,
+  "start station longitude": -73.95068615,
+  "end station id": 490,
+  "end station name": "8 Ave & W 33 St",
+  "end station latitude": 40.751551,
+  "end station longitude": -73.993934,
+  "bikeid": 25010,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

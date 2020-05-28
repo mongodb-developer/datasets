@@ -1,0 +1,17 @@
+{
+  "tripduration": 733,
+  "starttime": "2019-12-01 12:51:20.1170",
+  "stoptime": "2019-12-01 13:03:33.5230",
+  "start station id": 340,
+  "start station name": "Madison St & Clinton St",
+  "start station latitude": 40.71269042,
+  "start station longitude": -73.98776323,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 38890,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

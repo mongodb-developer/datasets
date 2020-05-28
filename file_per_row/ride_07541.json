@@ -1,0 +1,17 @@
+{
+  "tripduration": 1052,
+  "starttime": "2019-12-01 14:27:30.1870",
+  "stoptime": "2019-12-01 14:45:02.9290",
+  "start station id": 224,
+  "start station name": "Spruce St & Nassau St",
+  "start station latitude": 40.71146364,
+  "start station longitude": -74.00552427,
+  "end station id": 502,
+  "end station name": "Henry St & Grand St",
+  "end station latitude": 40.714211,
+  "end station longitude": -73.981095,
+  "bikeid": 41119,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

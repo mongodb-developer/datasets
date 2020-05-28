@@ -1,0 +1,17 @@
+{
+  "tripduration": 1008,
+  "starttime": "2019-12-01 07:01:53.5850",
+  "stoptime": "2019-12-01 07:18:42.3300",
+  "start station id": 351,
+  "start station name": "Front St & Maiden Ln",
+  "start station latitude": 40.70530954,
+  "start station longitude": -74.00612572,
+  "end station id": 264,
+  "end station name": "Maiden Ln & Pearl St",
+  "end station latitude": 40.70706456,
+  "end station longitude": -74.00731853,
+  "bikeid": 17152,
+  "usertype": "Subscriber",
+  "birth year": 1959,
+  "gender": "male"
+}

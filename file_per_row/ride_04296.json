@@ -1,0 +1,17 @@
+{
+  "tripduration": 784,
+  "starttime": "2019-12-01 10:43:39.1730",
+  "stoptime": "2019-12-01 10:56:43.4830",
+  "start station id": 3711,
+  "start station name": "E 13 St & Avenue A",
+  "start station latitude": 40.72966729392978,
+  "start station longitude": -73.98067966103554,
+  "end station id": 303,
+  "end station name": "Mercer St & Spring St",
+  "end station latitude": 40.72362738,
+  "end station longitude": -73.99949601,
+  "bikeid": 35052,
+  "usertype": "Subscriber",
+  "birth year": 1890,
+  "gender": "female"
+}

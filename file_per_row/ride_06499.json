@@ -1,0 +1,17 @@
+{
+  "tripduration": 273,
+  "starttime": "2019-12-01 12:35:59.5510",
+  "stoptime": "2019-12-01 12:40:32.6530",
+  "start station id": 3526,
+  "start station name": "31 St & 23 Ave",
+  "start station latitude": 40.7747878,
+  "start station longitude": -73.9125551,
+  "end station id": 3530,
+  "end station name": "Crescent St & Ditmars Blvd",
+  "end station latitude": 40.7787185,
+  "end station longitude": -73.9145645,
+  "bikeid": 39947,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

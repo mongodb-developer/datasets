@@ -1,0 +1,17 @@
+{
+  "tripduration": 281,
+  "starttime": "2019-12-01 11:34:25.2500",
+  "stoptime": "2019-12-01 11:39:07.0140",
+  "start station id": 383,
+  "start station name": "Greenwich Ave & Charles St",
+  "start station latitude": 40.735238,
+  "start station longitude": -74.000271,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 28927,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

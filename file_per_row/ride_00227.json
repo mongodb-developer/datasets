@@ -1,0 +1,17 @@
+{
+  "tripduration": 899,
+  "starttime": "2019-12-01 00:34:32.7900",
+  "stoptime": "2019-12-01 00:49:32.7260",
+  "start station id": 164,
+  "start station name": "E 47 St & 2 Ave",
+  "start station latitude": 40.75323098,
+  "start station longitude": -73.97032517,
+  "end station id": 3711,
+  "end station name": "E 13 St & Avenue A",
+  "end station latitude": 40.72966729392978,
+  "end station longitude": -73.98067966103554,
+  "bikeid": 38333,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

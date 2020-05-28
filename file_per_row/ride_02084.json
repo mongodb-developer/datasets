@@ -1,0 +1,17 @@
+{
+  "tripduration": 686,
+  "starttime": "2019-12-01 08:51:57.2340",
+  "stoptime": "2019-12-01 09:03:23.7720",
+  "start station id": 489,
+  "start station name": "10 Ave & W 28 St",
+  "start station latitude": 40.75066386,
+  "start station longitude": -74.00176802,
+  "end station id": 483,
+  "end station name": "E 12 St & 3 Ave",
+  "end station latitude": 40.73223272,
+  "end station longitude": -73.98889957,
+  "bikeid": 41804,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

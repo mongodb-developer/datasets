@@ -1,0 +1,17 @@
+{
+  "tripduration": 213,
+  "starttime": "2019-12-01 12:49:07.7960",
+  "stoptime": "2019-12-01 12:52:41.3500",
+  "start station id": 347,
+  "start station name": "Greenwich St & W Houston St",
+  "start station latitude": 40.728846,
+  "start station longitude": -74.008591,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 33876,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

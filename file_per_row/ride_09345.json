@@ -1,0 +1,17 @@
+{
+  "tripduration": 746,
+  "starttime": "2019-12-01 19:04:18.1060",
+  "stoptime": "2019-12-01 19:16:44.7990",
+  "start station id": 439,
+  "start station name": "E 4 St & 2 Ave",
+  "start station latitude": 40.7262807,
+  "start station longitude": -73.98978041,
+  "end station id": 442,
+  "end station name": "W 27 St & 7 Ave",
+  "end station latitude": 40.746647,
+  "end station longitude": -73.993915,
+  "bikeid": 40282,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

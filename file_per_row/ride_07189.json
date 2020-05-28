@@ -1,0 +1,17 @@
+{
+  "tripduration": 1053,
+  "starttime": "2019-12-01 13:32:25.2000",
+  "stoptime": "2019-12-01 13:49:58.8600",
+  "start station id": 3171,
+  "start station name": "Amsterdam Ave & W 82 St",
+  "start station latitude": 40.78524672,
+  "start station longitude": -73.97667321,
+  "end station id": 3288,
+  "end station name": "E 88 St & 1 Ave",
+  "end station latitude": 40.778301,
+  "end station longitude": -73.9488134,
+  "bikeid": 39390,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 411,
+  "starttime": "2019-12-01 09:49:49.3700",
+  "stoptime": "2019-12-01 09:56:41.0390",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 368,
+  "end station name": "Carmine St & 6 Ave",
+  "end station latitude": 40.73038599,
+  "end station longitude": -74.00214988,
+  "bikeid": 33124,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

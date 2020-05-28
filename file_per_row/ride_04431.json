@@ -1,0 +1,17 @@
+{
+  "tripduration": 365,
+  "starttime": "2019-12-01 10:49:05.5850",
+  "stoptime": "2019-12-01 10:55:10.6110",
+  "start station id": 284,
+  "start station name": "Greenwich Ave & 8 Ave",
+  "start station latitude": 40.7390169121,
+  "start station longitude": -74.0026376103,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 27161,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

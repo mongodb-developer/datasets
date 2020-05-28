@@ -1,0 +1,17 @@
+{
+  "tripduration": 308,
+  "starttime": "2019-12-01 10:23:27.8880",
+  "stoptime": "2019-12-01 10:28:36.2780",
+  "start station id": 262,
+  "start station name": "Washington Park",
+  "start station latitude": 40.6917823,
+  "start station longitude": -73.9737299,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 28133,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

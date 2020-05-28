@@ -1,0 +1,17 @@
+{
+  "tripduration": 2533,
+  "starttime": "2019-12-01 14:45:40.3690",
+  "stoptime": "2019-12-01 15:27:54.1800",
+  "start station id": 151,
+  "start station name": "Cleveland Pl & Spring St",
+  "start station latitude": 40.722103786686034,
+  "start station longitude": -73.99724900722504,
+  "end station id": 411,
+  "end station name": "E 6 St & Avenue D",
+  "end station latitude": 40.72228087,
+  "end station longitude": -73.97668709,
+  "bikeid": 40924,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

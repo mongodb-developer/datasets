@@ -1,0 +1,17 @@
+{
+  "tripduration": 338,
+  "starttime": "2019-12-01 12:08:52.9440",
+  "stoptime": "2019-12-01 12:14:31.2270",
+  "start station id": 3793,
+  "start station name": "Stuyvesant Walk & 1 Av Loop",
+  "start station latitude": 40.732339777151054,
+  "start station longitude": -73.97898383438587,
+  "end station id": 2012,
+  "end station name": "E 27 St & 1 Ave",
+  "end station latitude": 40.739445,
+  "end station longitude": -73.976806,
+  "bikeid": 27159,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

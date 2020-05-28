@@ -1,0 +1,17 @@
+{
+  "tripduration": 254,
+  "starttime": "2019-12-01 12:28:26.8750",
+  "stoptime": "2019-12-01 12:32:41.6630",
+  "start station id": 465,
+  "start station name": "Broadway & W 41 St",
+  "start station latitude": 40.75513557,
+  "start station longitude": -73.98658032,
+  "end station id": 505,
+  "end station name": "6 Ave & W 33 St",
+  "end station latitude": 40.74901271,
+  "end station longitude": -73.98848395,
+  "bikeid": 41145,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 722,
+  "starttime": "2019-12-01 10:36:55.0350",
+  "stoptime": "2019-12-01 10:48:57.4000",
+  "start station id": 403,
+  "start station name": "E 2 St & 2 Ave",
+  "start station latitude": 40.72502876,
+  "start station longitude": -73.99069656,
+  "end station id": 168,
+  "end station name": "W 18 St & 6 Ave",
+  "end station latitude": 40.73971301,
+  "end station longitude": -73.99456405,
+  "bikeid": 27753,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 510,
+  "starttime": "2019-12-01 12:46:02.4850",
+  "stoptime": "2019-12-01 12:54:33.4430",
+  "start station id": 355,
+  "start station name": "Bayard St & Baxter St",
+  "start station latitude": 40.71602118,
+  "start station longitude": -73.99974372,
+  "end station id": 417,
+  "end station name": "Barclay St & Church St",
+  "end station latitude": 40.71291224,
+  "end station longitude": -74.01020234,
+  "bikeid": 31138,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

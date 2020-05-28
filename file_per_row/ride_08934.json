@@ -1,0 +1,17 @@
+{
+  "tripduration": 340,
+  "starttime": "2019-12-01 17:48:40.1510",
+  "stoptime": "2019-12-01 17:54:20.9030",
+  "start station id": 280,
+  "start station name": "E 10 St & 5 Ave",
+  "start station latitude": 40.73331967,
+  "start station longitude": -73.99510132,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 21517,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1499,
+  "starttime": "2019-12-01 08:02:30.0700",
+  "stoptime": "2019-12-01 08:27:29.7120",
+  "start station id": 3540,
+  "start station name": "Morningside Ave & W 123 St",
+  "start station latitude": 40.81,
+  "start station longitude": -73.9551508,
+  "end station id": 3540,
+  "end station name": "Morningside Ave & W 123 St",
+  "end station latitude": 40.81,
+  "end station longitude": -73.9551508,
+  "bikeid": 21616,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

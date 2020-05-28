@@ -1,0 +1,17 @@
+{
+  "tripduration": 261,
+  "starttime": "2019-12-01 15:50:59.3420",
+  "stoptime": "2019-12-01 15:55:20.6640",
+  "start station id": 325,
+  "start station name": "E 19 St & 3 Ave",
+  "start station latitude": 40.73624527,
+  "start station longitude": -73.98473765,
+  "end station id": 491,
+  "end station name": "E 24 St & Park Ave S",
+  "end station latitude": 40.74096374,
+  "end station longitude": -73.98602213,
+  "bikeid": 17579,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

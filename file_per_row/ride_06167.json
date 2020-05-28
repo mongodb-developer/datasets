@@ -1,0 +1,17 @@
+{
+  "tripduration": 861,
+  "starttime": "2019-12-01 12:18:09.2800",
+  "stoptime": "2019-12-01 12:32:31.1080",
+  "start station id": 3712,
+  "start station name": "W 35 St & Dyer Ave",
+  "start station latitude": 40.754691750226016,
+  "start station longitude": -73.99740189313889,
+  "end station id": 456,
+  "end station name": "E 53 St & Madison Ave",
+  "end station latitude": 40.7597108,
+  "end station longitude": -73.97402311,
+  "bikeid": 25694,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

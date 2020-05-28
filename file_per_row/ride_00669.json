@@ -1,0 +1,17 @@
+{
+  "tripduration": 1646,
+  "starttime": "2019-12-01 02:20:26.7740",
+  "stoptime": "2019-12-01 02:47:53.3230",
+  "start station id": 2002,
+  "start station name": "Wythe Ave & Metropolitan Ave",
+  "start station latitude": 40.716887,
+  "start station longitude": -73.963198,
+  "end station id": 3086,
+  "end station name": "Graham Ave & Conselyea St",
+  "end station latitude": 40.715143,
+  "end station longitude": -73.944507,
+  "bikeid": 38209,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1204,
+  "starttime": "2019-12-01 11:32:51.6560",
+  "stoptime": "2019-12-01 11:52:55.7960",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 38154,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

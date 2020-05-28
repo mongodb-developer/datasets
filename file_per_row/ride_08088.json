@@ -1,0 +1,17 @@
+{
+  "tripduration": 201,
+  "starttime": "2019-12-01 15:24:45.1700",
+  "stoptime": "2019-12-01 15:28:06.3150",
+  "start station id": 3263,
+  "start station name": "Cooper Square & Astor Pl",
+  "start station latitude": 40.72951496224949,
+  "start station longitude": -73.99075269699097,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 27723,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "female"
+}

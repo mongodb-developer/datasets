@@ -1,0 +1,17 @@
+{
+  "tripduration": 288,
+  "starttime": "2019-12-01 09:53:43.8660",
+  "stoptime": "2019-12-01 09:58:32.5300",
+  "start station id": 303,
+  "start station name": "Mercer St & Spring St",
+  "start station latitude": 40.72362738,
+  "start station longitude": -73.99949601,
+  "end station id": 229,
+  "end station name": "Great Jones St",
+  "end station latitude": 40.72743423,
+  "end station longitude": -73.99379025,
+  "bikeid": 39771,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "female"
+}

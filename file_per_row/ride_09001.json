@@ -1,0 +1,17 @@
+{
+  "tripduration": 644,
+  "starttime": "2019-12-01 18:02:39.8460",
+  "stoptime": "2019-12-01 18:13:24.5600",
+  "start station id": 3787,
+  "start station name": "Dock 72 Way & Market St",
+  "start station latitude": 40.69985,
+  "start station longitude": -73.97141,
+  "end station id": 321,
+  "end station name": "Cadman Plaza E & Red Cross Pl",
+  "end station latitude": 40.69991755,
+  "end station longitude": -73.98971773,
+  "bikeid": 34336,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

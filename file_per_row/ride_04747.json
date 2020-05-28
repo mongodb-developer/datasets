@@ -1,0 +1,17 @@
+{
+  "tripduration": 875,
+  "starttime": "2019-12-01 10:59:36.0460",
+  "stoptime": "2019-12-01 11:14:11.0940",
+  "start station id": 471,
+  "start station name": "Grand St & Havemeyer St",
+  "start station latitude": 40.71286844,
+  "start station longitude": -73.95698119,
+  "end station id": 3771,
+  "end station name": "McKibbin St & Bogart St",
+  "end station latitude": 40.706237,
+  "end station longitude": -73.933871,
+  "bikeid": 31508,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "female"
+}

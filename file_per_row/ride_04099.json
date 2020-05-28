@@ -1,0 +1,17 @@
+{
+  "tripduration": 1425,
+  "starttime": "2019-12-01 10:35:05.5010",
+  "stoptime": "2019-12-01 10:58:50.5420",
+  "start station id": 3506,
+  "start station name": "Lexington Ave & E 120 St",
+  "start station latitude": 40.8013066,
+  "start station longitude": -73.9398167,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 41116,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "female"
+}

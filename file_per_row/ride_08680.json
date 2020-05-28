@@ -1,0 +1,17 @@
+{
+  "tripduration": 718,
+  "starttime": "2019-12-01 16:58:54.3120",
+  "stoptime": "2019-12-01 17:10:53.1690",
+  "start station id": 3068,
+  "start station name": "Humboldt St & Varet St",
+  "start station latitude": 40.7031724,
+  "start station longitude": -73.940636,
+  "end station id": 3755,
+  "end station name": "DeKalb Ave & Franklin Ave",
+  "end station latitude": 40.69064807082943,
+  "end station longitude": -73.95746178925037,
+  "bikeid": 41638,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

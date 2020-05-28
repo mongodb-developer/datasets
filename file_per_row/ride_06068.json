@@ -1,0 +1,17 @@
+{
+  "tripduration": 1046,
+  "starttime": "2019-12-01 12:12:55.3890",
+  "stoptime": "2019-12-01 12:30:22.2140",
+  "start station id": 476,
+  "start station name": "E 31 St & 3 Ave",
+  "start station latitude": 40.74394314,
+  "start station longitude": -73.97966069,
+  "end station id": 72,
+  "end station name": "W 52 St & 11 Ave",
+  "end station latitude": 40.76727216,
+  "end station longitude": -73.99392888,
+  "bikeid": 32481,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

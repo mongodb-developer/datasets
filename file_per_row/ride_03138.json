@@ -1,0 +1,17 @@
+{
+  "tripduration": 533,
+  "starttime": "2019-12-01 09:53:15.4850",
+  "stoptime": "2019-12-01 10:02:09.0510",
+  "start station id": 447,
+  "start station name": "8 Ave & W 52 St",
+  "start station latitude": 40.76370739,
+  "start station longitude": -73.9851615,
+  "end station id": 3235,
+  "end station name": "E 41 St & Madison Ave",
+  "end station latitude": 40.752165280621966,
+  "end station longitude": -73.97992193698882,
+  "bikeid": 39263,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

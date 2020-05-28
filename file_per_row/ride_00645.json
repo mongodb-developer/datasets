@@ -1,0 +1,17 @@
+{
+  "tripduration": 718,
+  "starttime": "2019-12-01 02:14:27.1920",
+  "stoptime": "2019-12-01 02:26:25.5230",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 416,
+  "end station name": "Cumberland St & Lafayette Ave",
+  "end station latitude": 40.68753406,
+  "end station longitude": -73.97265183,
+  "bikeid": 28026,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

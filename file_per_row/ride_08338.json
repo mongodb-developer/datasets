@@ -1,0 +1,17 @@
+{
+  "tripduration": 1306,
+  "starttime": "2019-12-01 15:51:03.6500",
+  "stoptime": "2019-12-01 16:12:49.7760",
+  "start station id": 3848,
+  "start station name": "Suydam St & Broadway",
+  "start station latitude": 40.69544,
+  "start station longitude": -73.93223,
+  "end station id": 3420,
+  "end station name": "Douglass St & 3 Ave",
+  "end station latitude": 40.6802133,
+  "end station longitude": -73.98432695,
+  "bikeid": 41209,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

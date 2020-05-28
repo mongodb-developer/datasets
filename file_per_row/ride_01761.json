@@ -1,0 +1,17 @@
+{
+  "tripduration": 251,
+  "starttime": "2019-12-01 08:25:44.1590",
+  "stoptime": "2019-12-01 08:29:55.2250",
+  "start station id": 359,
+  "start station name": "E 47 St & Park Ave",
+  "start station latitude": 40.75510267,
+  "start station longitude": -73.97498696,
+  "end station id": 3798,
+  "end station name": "W 40 St & 5 Ave",
+  "end station latitude": 40.752269,
+  "end station longitude": -73.982079,
+  "bikeid": 41728,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1638,
+  "starttime": "2019-12-01 13:56:28.3790",
+  "stoptime": "2019-12-01 14:23:46.6490",
+  "start station id": 266,
+  "start station name": "Avenue D & E 8 St",
+  "start station latitude": 40.72368361,
+  "start station longitude": -73.97574813,
+  "end station id": 261,
+  "end station name": "Johnson St & Gold St",
+  "end station latitude": 40.69474881,
+  "end station longitude": -73.98362464,
+  "bikeid": 39712,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

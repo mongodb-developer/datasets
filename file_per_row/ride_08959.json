@@ -1,0 +1,17 @@
+{
+  "tripduration": 1045,
+  "starttime": "2019-12-01 17:53:22.1040",
+  "stoptime": "2019-12-01 18:10:47.2640",
+  "start station id": 492,
+  "start station name": "W 33 St & 7 Ave",
+  "start station latitude": 40.75019995,
+  "start station longitude": -73.99093085,
+  "end station id": 3733,
+  "end station name": "Avenue C & E 18 St",
+  "end station latitude": 40.730563,
+  "end station longitude": -73.973984,
+  "bikeid": 33757,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

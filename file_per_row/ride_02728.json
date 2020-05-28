@@ -1,0 +1,17 @@
+{
+  "tripduration": 637,
+  "starttime": "2019-12-01 09:34:16.4230",
+  "stoptime": "2019-12-01 09:44:54.0060",
+  "start station id": 484,
+  "start station name": "W 44 St & 5 Ave",
+  "start station latitude": 40.75500254,
+  "start station longitude": -73.98014437,
+  "end station id": 2006,
+  "end station name": "Central Park S & 6 Ave",
+  "end station latitude": 40.76590936,
+  "end station longitude": -73.97634151,
+  "bikeid": 41935,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

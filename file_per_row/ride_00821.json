@@ -1,0 +1,17 @@
+{
+  "tripduration": 85,
+  "starttime": "2019-12-01 03:07:25.2950",
+  "stoptime": "2019-12-01 03:08:51.2150",
+  "start station id": 420,
+  "start station name": "Clermont Ave & Lafayette Ave",
+  "start station latitude": 40.68764484,
+  "start station longitude": -73.96968902,
+  "end station id": 258,
+  "end station name": "DeKalb Ave & Vanderbilt Ave",
+  "end station latitude": 40.68940747,
+  "end station longitude": -73.96885458,
+  "bikeid": 38556,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

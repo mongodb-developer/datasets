@@ -1,0 +1,17 @@
+{
+  "tripduration": 1500,
+  "starttime": "2019-12-01 14:25:02.8950",
+  "stoptime": "2019-12-01 14:50:03.3850",
+  "start station id": 2000,
+  "start station name": "Front St & Washington St",
+  "start station latitude": 40.70255088,
+  "start station longitude": -73.98940236,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 39618,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

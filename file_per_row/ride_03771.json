@@ -1,0 +1,17 @@
+{
+  "tripduration": 360,
+  "starttime": "2019-12-01 10:21:20.0510",
+  "stoptime": "2019-12-01 10:27:20.4420",
+  "start station id": 3388,
+  "start station name": "President St & Henry St",
+  "start station latitude": 40.6828003,
+  "start station longitude": -73.99990419,
+  "end station id": 157,
+  "end station name": "Henry St & Atlantic Ave",
+  "end station latitude": 40.69089272,
+  "end station longitude": -73.99612349,
+  "bikeid": 40761,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

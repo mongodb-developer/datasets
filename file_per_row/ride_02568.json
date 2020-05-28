@@ -1,0 +1,17 @@
+{
+  "tripduration": 948,
+  "starttime": "2019-12-01 09:25:06.2410",
+  "stoptime": "2019-12-01 09:40:54.8950",
+  "start station id": 379,
+  "start station name": "W 31 St & 7 Ave",
+  "start station latitude": 40.749156,
+  "start station longitude": -73.9916,
+  "end station id": 72,
+  "end station name": "W 52 St & 11 Ave",
+  "end station latitude": 40.76727216,
+  "end station longitude": -73.99392888,
+  "bikeid": 33372,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

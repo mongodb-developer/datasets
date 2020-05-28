@@ -1,0 +1,17 @@
+{
+  "tripduration": 335,
+  "starttime": "2019-12-01 01:21:13.1940",
+  "stoptime": "2019-12-01 01:26:48.7910",
+  "start station id": 3372,
+  "start station name": "E 74 St & 1 Ave",
+  "start station latitude": 40.7689738,
+  "start station longitude": -73.95482273,
+  "end station id": 2022,
+  "end station name": "E 60 St & York Ave",
+  "end station latitude": 40.759107,
+  "end station longitude": -73.959223,
+  "bikeid": 41691,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

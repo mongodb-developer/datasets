@@ -1,0 +1,17 @@
+{
+  "tripduration": 609,
+  "starttime": "2019-12-01 10:30:44.5000",
+  "stoptime": "2019-12-01 10:40:53.6440",
+  "start station id": 383,
+  "start station name": "Greenwich Ave & Charles St",
+  "start station latitude": 40.735238,
+  "start station longitude": -74.000271,
+  "end station id": 474,
+  "end station name": "5 Ave & E 29 St",
+  "end station latitude": 40.7451677,
+  "end station longitude": -73.98683077,
+  "bikeid": 40817,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

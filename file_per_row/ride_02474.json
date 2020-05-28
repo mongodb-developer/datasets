@@ -1,0 +1,17 @@
+{
+  "tripduration": 879,
+  "starttime": "2019-12-01 09:18:28.3750",
+  "stoptime": "2019-12-01 09:33:08.0450",
+  "start station id": 3287,
+  "start station name": "W 87 St & West End Ave",
+  "start station latitude": 40.789622,
+  "start station longitude": -73.97757,
+  "end station id": 3367,
+  "end station name": "5 Ave & E 103 St",
+  "end station latitude": 40.7922553,
+  "end station longitude": -73.95249933,
+  "bikeid": 38432,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

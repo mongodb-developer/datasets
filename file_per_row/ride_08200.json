@@ -1,0 +1,17 @@
+{
+  "tripduration": 631,
+  "starttime": "2019-12-01 15:36:46.0090",
+  "stoptime": "2019-12-01 15:47:17.1400",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 478,
+  "end station name": "11 Ave & W 41 St",
+  "end station latitude": 40.76030096,
+  "end station longitude": -73.99884222,
+  "bikeid": 32430,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

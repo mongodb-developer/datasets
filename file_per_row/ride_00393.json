@@ -1,0 +1,17 @@
+{
+  "tripduration": 515,
+  "starttime": "2019-12-01 01:00:41.3830",
+  "stoptime": "2019-12-01 01:09:16.5740",
+  "start station id": 519,
+  "start station name": "Pershing Square North",
+  "start station latitude": 40.751873,
+  "start station longitude": -73.977706,
+  "end station id": 501,
+  "end station name": "FDR Drive & E 35 St",
+  "end station latitude": 40.744219,
+  "end station longitude": -73.97121214,
+  "bikeid": 34005,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 913,
+  "starttime": "2019-12-01 09:11:34.2220",
+  "stoptime": "2019-12-01 09:26:47.9890",
+  "start station id": 436,
+  "start station name": "Hancock St & Bedford Ave",
+  "start station latitude": 40.68216564,
+  "start station longitude": -73.95399026,
+  "end station id": 3580,
+  "end station name": "St Johns Pl & Washington Ave",
+  "end station latitude": 40.6737236,
+  "end station longitude": -73.9631611,
+  "bikeid": 33231,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

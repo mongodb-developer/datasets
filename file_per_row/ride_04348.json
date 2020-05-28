@@ -1,0 +1,17 @@
+{
+  "tripduration": 450,
+  "starttime": "2019-12-01 10:46:03.3940",
+  "stoptime": "2019-12-01 10:53:33.4100",
+  "start station id": 3398,
+  "start station name": "Smith St & 9 St",
+  "start station latitude": 40.6746957,
+  "start station longitude": -73.99785768,
+  "end station id": 3333,
+  "end station name": "Columbia St & Lorraine St",
+  "end station latitude": 40.6747055,
+  "end station longitude": -74.0075572,
+  "bikeid": 28319,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 895,
+  "starttime": "2019-12-01 16:49:57.9110",
+  "stoptime": "2019-12-01 17:04:53.8270",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 487,
+  "end station name": "E 20 St & FDR Drive",
+  "end station latitude": 40.73314259,
+  "end station longitude": -73.97573881,
+  "bikeid": 21688,
+  "usertype": "Customer",
+  "birth year": 1994,
+  "gender": "male"
+}

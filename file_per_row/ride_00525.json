@@ -1,0 +1,17 @@
+{
+  "tripduration": 511,
+  "starttime": "2019-12-01 01:41:00.2010",
+  "stoptime": "2019-12-01 01:49:32.1600",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 486,
+  "end station name": "Broadway & W 29 St",
+  "end station latitude": 40.7462009,
+  "end station longitude": -73.98855723,
+  "bikeid": 40110,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

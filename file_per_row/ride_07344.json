@@ -1,0 +1,17 @@
+{
+  "tripduration": 574,
+  "starttime": "2019-12-01 13:57:11.0510",
+  "stoptime": "2019-12-01 14:06:45.3040",
+  "start station id": 229,
+  "start station name": "Great Jones St",
+  "start station latitude": 40.72743423,
+  "start station longitude": -73.99379025,
+  "end station id": 509,
+  "end station name": "9 Ave & W 22 St",
+  "end station latitude": 40.7454973,
+  "end station longitude": -74.00197139,
+  "bikeid": 14646,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

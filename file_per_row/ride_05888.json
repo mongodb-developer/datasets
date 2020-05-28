@@ -1,0 +1,17 @@
+{
+  "tripduration": 1302,
+  "starttime": "2019-12-01 12:02:21.0780",
+  "stoptime": "2019-12-01 12:24:04.0570",
+  "start station id": 528,
+  "start station name": "2 Ave & E 31 St",
+  "start station latitude": 40.74290902,
+  "start station longitude": -73.97706058,
+  "end station id": 513,
+  "end station name": "W 56 St & 10 Ave",
+  "end station latitude": 40.768254,
+  "end station longitude": -73.988639,
+  "bikeid": 17157,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

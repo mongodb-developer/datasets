@@ -1,0 +1,17 @@
+{
+  "tripduration": 350,
+  "starttime": "2019-12-01 12:04:28.7120",
+  "stoptime": "2019-12-01 12:10:19.0450",
+  "start station id": 3394,
+  "start station name": "Columbia St & W 9 St",
+  "start station latitude": 40.6769993,
+  "start station longitude": -74.00647134,
+  "end station id": 3398,
+  "end station name": "Smith St & 9 St",
+  "end station latitude": 40.6746957,
+  "end station longitude": -73.99785768,
+  "bikeid": 28158,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

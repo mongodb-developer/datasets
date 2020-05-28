@@ -1,0 +1,17 @@
+{
+  "tripduration": 273,
+  "starttime": "2019-12-01 09:43:04.8850",
+  "stoptime": "2019-12-01 09:47:38.8390",
+  "start station id": 350,
+  "start station name": "Clinton St & Grand St",
+  "start station latitude": 40.71559509,
+  "start station longitude": -73.9870295,
+  "end station id": 408,
+  "end station name": "Market St & Cherry St",
+  "end station latitude": 40.71076228,
+  "end station longitude": -73.99400398,
+  "bikeid": 34191,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

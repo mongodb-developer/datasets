@@ -1,0 +1,17 @@
+{
+  "tripduration": 958,
+  "starttime": "2019-12-01 05:46:13.5500",
+  "stoptime": "2019-12-01 06:02:11.6670",
+  "start station id": 3825,
+  "start station name": "Broadway & Furman Ave",
+  "start station latitude": 40.68139,
+  "start station longitude": -73.90756,
+  "end station id": 3825,
+  "end station name": "Broadway & Furman Ave",
+  "end station latitude": 40.68139,
+  "end station longitude": -73.90756,
+  "bikeid": 30322,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "male"
+}

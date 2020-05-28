@@ -1,0 +1,17 @@
+{
+  "tripduration": 764,
+  "starttime": "2019-12-01 03:03:59.4630",
+  "stoptime": "2019-12-01 03:16:44.0020",
+  "start station id": 459,
+  "start station name": "W 20 St & 11 Ave",
+  "start station latitude": 40.746745,
+  "start station longitude": -74.007756,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 21086,
+  "usertype": "Customer",
+  "birth year": 1997,
+  "gender": "male"
+}

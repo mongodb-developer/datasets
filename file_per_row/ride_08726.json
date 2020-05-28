@@ -1,0 +1,17 @@
+{
+  "tripduration": 1533,
+  "starttime": "2019-12-01 17:06:20.2000",
+  "stoptime": "2019-12-01 17:31:53.6510",
+  "start station id": 3535,
+  "start station name": "Mt Morris Park W & W 120 St",
+  "start station latitude": 40.804038,
+  "start station longitude": -73.945925,
+  "end station id": 3173,
+  "end station name": "Riverside Blvd & W 67 St",
+  "end station latitude": 40.777507027547976,
+  "end station longitude": -73.98888587951659,
+  "bikeid": 33630,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

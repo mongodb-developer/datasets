@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 19:23:55.0940",
+  "stoptime": "2019-12-01 19:29:22.9130",
+  "start station id": 3416,
+  "start station name": "7 Ave & Park Pl",
+  "start station latitude": 40.6776147,
+  "start station longitude": -73.97324283,
+  "end station id": 3358,
+  "end station name": "Garfield Pl & 8 Ave",
+  "end station latitude": 40.6711978,
+  "end station longitude": -73.97484126,
+  "bikeid": 39585,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

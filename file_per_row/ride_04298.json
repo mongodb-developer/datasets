@@ -1,0 +1,17 @@
+{
+  "tripduration": 347,
+  "starttime": "2019-12-01 10:43:42.8770",
+  "stoptime": "2019-12-01 10:49:30.8000",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 27634,
+  "usertype": "Customer",
+  "birth year": 1966,
+  "gender": "male"
+}

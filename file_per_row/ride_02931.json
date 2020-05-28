@@ -1,0 +1,17 @@
+{
+  "tripduration": 546,
+  "starttime": "2019-12-01 09:44:05.2760",
+  "stoptime": "2019-12-01 09:53:11.9250",
+  "start station id": 3412,
+  "start station name": "Pacific St & Nevins St",
+  "start station latitude": 40.6853761,
+  "start station longitude": -73.98302136,
+  "end station id": 3674,
+  "end station name": "Jay St & York St",
+  "end station latitude": 40.701403172577244,
+  "end station longitude": -73.98672670125961,
+  "bikeid": 32635,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

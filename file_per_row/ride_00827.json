@@ -1,0 +1,17 @@
+{
+  "tripduration": 346,
+  "starttime": "2019-12-01 03:10:03.5130",
+  "stoptime": "2019-12-01 03:15:50.0260",
+  "start station id": 3256,
+  "start station name": "Pier 40 - Hudson River Park",
+  "start station latitude": 40.7277140777778,
+  "start station longitude": -74.01129573583603,
+  "end station id": 127,
+  "end station name": "Barrow St & Hudson St",
+  "end station latitude": 40.73172428,
+  "end station longitude": -74.00674436,
+  "bikeid": 31797,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

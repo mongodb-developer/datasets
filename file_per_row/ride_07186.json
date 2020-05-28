@@ -1,0 +1,17 @@
+{
+  "tripduration": 343,
+  "starttime": "2019-12-01 13:32:17.6960",
+  "stoptime": "2019-12-01 13:38:00.7950",
+  "start station id": 3708,
+  "start station name": "W 13 St & 5 Ave",
+  "start station latitude": 40.735445,
+  "start station longitude": -73.99431,
+  "end station id": 3263,
+  "end station name": "Cooper Square & Astor Pl",
+  "end station latitude": 40.72951496224949,
+  "end station longitude": -73.99075269699097,
+  "bikeid": 20087,
+  "usertype": "Subscriber",
+  "birth year": 1958,
+  "gender": "female"
+}

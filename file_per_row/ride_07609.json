@@ -1,0 +1,17 @@
+{
+  "tripduration": 1130,
+  "starttime": "2019-12-01 14:34:54.5340",
+  "stoptime": "2019-12-01 14:53:45.4600",
+  "start station id": 3294,
+  "start station name": "E 91 St & Park Ave",
+  "start station latitude": 40.7835016,
+  "start station longitude": -73.955327,
+  "end station id": 3356,
+  "end station name": "Amsterdam Ave & W 66 St",
+  "end station latitude": 40.7746671,
+  "end station longitude": -73.98470567,
+  "bikeid": 38847,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

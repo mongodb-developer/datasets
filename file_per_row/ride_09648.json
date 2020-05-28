@@ -1,0 +1,17 @@
+{
+  "tripduration": 603,
+  "starttime": "2019-12-01 19:53:46.2980",
+  "stoptime": "2019-12-01 20:03:49.6750",
+  "start station id": 461,
+  "start station name": "E 20 St & 2 Ave",
+  "start station latitude": 40.73587678,
+  "start station longitude": -73.98205027,
+  "end station id": 247,
+  "end station name": "Perry St & Bleecker St",
+  "end station latitude": 40.73535398,
+  "end station longitude": -74.00483091,
+  "bikeid": 38254,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

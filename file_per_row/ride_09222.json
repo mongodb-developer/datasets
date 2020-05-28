@@ -1,0 +1,17 @@
+{
+  "tripduration": 271,
+  "starttime": "2019-12-01 18:40:59.9570",
+  "stoptime": "2019-12-01 18:45:31.5800",
+  "start station id": 435,
+  "start station name": "W 21 St & 6 Ave",
+  "start station latitude": 40.74173969,
+  "start station longitude": -73.99415556,
+  "end station id": 494,
+  "end station name": "W 26 St & 8 Ave",
+  "end station latitude": 40.74734825,
+  "end station longitude": -73.99723551,
+  "bikeid": 18368,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

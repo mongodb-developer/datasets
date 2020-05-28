@@ -1,0 +1,17 @@
+{
+  "tripduration": 1069,
+  "starttime": "2019-12-01 16:30:32.0950",
+  "stoptime": "2019-12-01 16:48:21.7000",
+  "start station id": 3088,
+  "start station name": "Union Ave & Jackson St",
+  "start station latitude": 40.7160751,
+  "start station longitude": -73.952029,
+  "end station id": 3778,
+  "end station name": "Irving Ave & DeKalb Ave",
+  "end station latitude": 40.7027,
+  "end station longitude": -73.92095,
+  "bikeid": 34030,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

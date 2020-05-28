@@ -1,0 +1,17 @@
+{
+  "tripduration": 1311,
+  "starttime": "2019-12-01 20:36:24.6120",
+  "stoptime": "2019-12-01 20:58:15.8430",
+  "start station id": 546,
+  "start station name": "E 30 St & Park Ave S",
+  "start station latitude": 40.74444921,
+  "start station longitude": -73.98303529,
+  "end station id": 523,
+  "end station name": "W 38 St & 8 Ave",
+  "end station latitude": 40.75466591,
+  "end station longitude": -73.99138152,
+  "bikeid": 41095,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

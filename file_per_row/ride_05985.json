@@ -1,0 +1,17 @@
+{
+  "tripduration": 1187,
+  "starttime": "2019-12-01 12:07:25.8910",
+  "stoptime": "2019-12-01 12:27:13.5400",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 534,
+  "end station name": "Water - Whitehall Plaza",
+  "end station latitude": 40.70255065,
+  "end station longitude": -74.0127234,
+  "bikeid": 27961,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

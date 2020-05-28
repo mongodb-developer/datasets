@@ -1,0 +1,17 @@
+{
+  "tripduration": 575,
+  "starttime": "2019-12-01 08:52:31.1030",
+  "stoptime": "2019-12-01 09:02:06.3280",
+  "start station id": 540,
+  "start station name": "Lexington Ave & E 29 St",
+  "start station latitude": 40.74311555376486,
+  "start station longitude": -73.98215353488922,
+  "end station id": 3244,
+  "end station name": "University Pl & E 8 St",
+  "end station latitude": 40.73143724085228,
+  "end station longitude": -73.99490341544151,
+  "bikeid": 27209,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1341,
+  "starttime": "2019-12-01 09:51:50.9350",
+  "stoptime": "2019-12-01 10:14:12.9220",
+  "start station id": 3255,
+  "start station name": "8 Ave & W 31 St",
+  "start station latitude": 40.7505853470215,
+  "start station longitude": -73.9946848154068,
+  "end station id": 3137,
+  "end station name": "5 Ave & E 73 St",
+  "end station latitude": 40.77282817,
+  "end station longitude": -73.96685276,
+  "bikeid": 27445,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

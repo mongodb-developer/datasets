@@ -1,0 +1,17 @@
+{
+  "tripduration": 403,
+  "starttime": "2019-12-01 02:42:57.1910",
+  "stoptime": "2019-12-01 02:49:40.4640",
+  "start station id": 3746,
+  "start station name": "6 Ave & Broome St",
+  "start station latitude": 40.724308321602166,
+  "start station longitude": -74.00473035871983,
+  "end station id": 426,
+  "end station name": "West St & Chambers St",
+  "end station latitude": 40.71754834,
+  "end station longitude": -74.01322069,
+  "bikeid": 31021,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

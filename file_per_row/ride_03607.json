@@ -1,0 +1,17 @@
+{
+  "tripduration": 452,
+  "starttime": "2019-12-01 10:15:04.0310",
+  "stoptime": "2019-12-01 10:22:36.3090",
+  "start station id": 301,
+  "start station name": "E 2 St & Avenue B",
+  "start station latitude": 40.72217444,
+  "start station longitude": -73.98368779,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 15885,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "female"
+}

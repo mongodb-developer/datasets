@@ -1,0 +1,17 @@
+{
+  "tripduration": 144,
+  "starttime": "2019-12-01 12:27:55.9560",
+  "stoptime": "2019-12-01 12:30:20.2080",
+  "start station id": 3541,
+  "start station name": "Amsterdam Ave & W 125 St",
+  "start station latitude": 40.813358,
+  "start station longitude": -73.956461,
+  "end station id": 3547,
+  "end station name": "Broadway & Moylan Pl",
+  "end station latitude": 40.8143256,
+  "end station longitude": -73.9590255,
+  "bikeid": 25495,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

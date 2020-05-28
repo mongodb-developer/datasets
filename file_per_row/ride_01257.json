@@ -1,0 +1,17 @@
+{
+  "tripduration": 310,
+  "starttime": "2019-12-01 07:13:31.7310",
+  "stoptime": "2019-12-01 07:18:42.6960",
+  "start station id": 394,
+  "start station name": "E 9 St & Avenue C",
+  "start station latitude": 40.72521311,
+  "start station longitude": -73.97768752,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 38600,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 248,
+  "starttime": "2019-12-01 10:55:20.4080",
+  "stoptime": "2019-12-01 10:59:28.7130",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 346,
+  "end station name": "Bank St & Hudson St",
+  "end station latitude": 40.73652889,
+  "end station longitude": -74.00618026,
+  "bikeid": 27222,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 247,
+  "starttime": "2019-12-01 12:45:14.4340",
+  "stoptime": "2019-12-01 12:49:22.2390",
+  "start station id": 3856,
+  "start station name": "Kingsland Ave & Nassau Ave",
+  "start station latitude": 40.72577,
+  "start station longitude": -73.94173,
+  "end station id": 3818,
+  "end station name": "Calyer St & Jewel St",
+  "end station latitude": 40.72984,
+  "end station longitude": -73.94839,
+  "bikeid": 30655,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

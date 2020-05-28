@@ -1,0 +1,17 @@
+{
+  "tripduration": 1034,
+  "starttime": "2019-12-01 20:40:36.6860",
+  "stoptime": "2019-12-01 20:57:50.9020",
+  "start station id": 305,
+  "start station name": "E 58 St & 3 Ave",
+  "start station latitude": 40.76095756,
+  "start station longitude": -73.96724467,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 39646,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

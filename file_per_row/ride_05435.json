@@ -1,0 +1,17 @@
+{
+  "tripduration": 1192,
+  "starttime": "2019-12-01 11:35:07.2860",
+  "stoptime": "2019-12-01 11:54:59.5280",
+  "start station id": 410,
+  "start station name": "Suffolk St & Stanton St",
+  "start station latitude": 40.72066442,
+  "start station longitude": -73.98517977,
+  "end station id": 518,
+  "end station name": "E 39 St & 2 Ave",
+  "end station latitude": 40.74780373,
+  "end station longitude": -73.9734419,
+  "bikeid": 39122,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

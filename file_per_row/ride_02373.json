@@ -1,0 +1,17 @@
+{
+  "tripduration": 353,
+  "starttime": "2019-12-01 09:11:58.9730",
+  "stoptime": "2019-12-01 09:17:52.7410",
+  "start station id": 3367,
+  "start station name": "5 Ave & E 103 St",
+  "start station latitude": 40.7922553,
+  "start station longitude": -73.95249933,
+  "end station id": 3328,
+  "end station name": "W 100 St & Manhattan Ave",
+  "end station latitude": 40.795,
+  "end station longitude": -73.9645,
+  "bikeid": 38207,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

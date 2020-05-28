@@ -1,0 +1,17 @@
+{
+  "tripduration": 167,
+  "starttime": "2019-12-01 09:41:21.8210",
+  "stoptime": "2019-12-01 09:44:09.5390",
+  "start station id": 3303,
+  "start station name": "Butler St & Court St",
+  "start station latitude": 40.6849894,
+  "start station longitude": -73.99440329,
+  "end station id": 3321,
+  "end station name": "Clinton St & Union St",
+  "end station latitude": 40.6831164,
+  "end station longitude": -73.99785267,
+  "bikeid": 41030,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "male"
+}

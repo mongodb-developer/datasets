@@ -1,0 +1,17 @@
+{
+  "tripduration": 187,
+  "starttime": "2019-12-01 10:28:16.2530",
+  "stoptime": "2019-12-01 10:31:23.6480",
+  "start station id": 3820,
+  "start station name": "Willoughby Ave & Myrtle Ave",
+  "start station latitude": 40.69757,
+  "start station longitude": -73.93098,
+  "end station id": 3838,
+  "end station name": "Bushwick Ave & Harman St",
+  "end station latitude": 40.69356,
+  "end station longitude": -73.92524,
+  "bikeid": 41111,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

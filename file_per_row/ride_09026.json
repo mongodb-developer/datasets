@@ -1,0 +1,17 @@
+{
+  "tripduration": 382,
+  "starttime": "2019-12-01 18:06:21.6080",
+  "stoptime": "2019-12-01 18:12:44.1730",
+  "start station id": 528,
+  "start station name": "2 Ave & E 31 St",
+  "start station latitude": 40.74290902,
+  "start station longitude": -73.97706058,
+  "end station id": 237,
+  "end station name": "E 11 St & 2 Ave",
+  "end station latitude": 40.73047309,
+  "end station longitude": -73.98672378,
+  "bikeid": 38852,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

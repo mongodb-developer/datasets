@@ -1,0 +1,17 @@
+{
+  "tripduration": 1189,
+  "starttime": "2019-12-01 10:50:51.9380",
+  "stoptime": "2019-12-01 11:10:41.4540",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 27405,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 201,
+  "starttime": "2019-12-01 09:55:05.2390",
+  "stoptime": "2019-12-01 09:58:26.9880",
+  "start station id": 3107,
+  "start station name": "Bedford Ave & Nassau Ave",
+  "start station latitude": 40.72311651,
+  "start station longitude": -73.95212324,
+  "end station id": 3092,
+  "end station name": "Berry St & N 8 St",
+  "end station latitude": 40.7190095,
+  "end station longitude": -73.95852515,
+  "bikeid": 30109,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

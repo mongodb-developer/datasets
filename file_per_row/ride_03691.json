@@ -1,0 +1,17 @@
+{
+  "tripduration": 1229,
+  "starttime": "2019-12-01 10:18:09.6150",
+  "stoptime": "2019-12-01 10:38:39.3610",
+  "start station id": 3733,
+  "start station name": "Avenue C & E 18 St",
+  "start station latitude": 40.730563,
+  "start station longitude": -73.973984,
+  "end station id": 295,
+  "end station name": "Pike St & E Broadway",
+  "end station latitude": 40.71406667,
+  "end station longitude": -73.99293911,
+  "bikeid": 25314,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

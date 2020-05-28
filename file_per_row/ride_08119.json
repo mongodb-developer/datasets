@@ -1,0 +1,17 @@
+{
+  "tripduration": 1280,
+  "starttime": "2019-12-01 15:27:29.7810",
+  "stoptime": "2019-12-01 15:48:50.6260",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 355,
+  "end station name": "Bayard St & Baxter St",
+  "end station latitude": 40.71602118,
+  "end station longitude": -73.99974372,
+  "bikeid": 41816,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

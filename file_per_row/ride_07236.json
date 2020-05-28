@@ -1,0 +1,17 @@
+{
+  "tripduration": 608,
+  "starttime": "2019-12-01 13:39:03.2060",
+  "stoptime": "2019-12-01 13:49:11.7220",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 297,
+  "end station name": "E 15 St & 3 Ave",
+  "end station latitude": 40.734232,
+  "end station longitude": -73.986923,
+  "bikeid": 40445,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

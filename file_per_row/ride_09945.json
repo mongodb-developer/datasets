@@ -1,0 +1,17 @@
+{
+  "tripduration": 382,
+  "starttime": "2019-12-01 20:46:38.1820",
+  "stoptime": "2019-12-01 20:53:00.7010",
+  "start station id": 3440,
+  "start station name": "Fulton St & Adams St",
+  "start station latitude": 40.692418292578466,
+  "start station longitude": -73.98949474096298,
+  "end station id": 3311,
+  "end station name": "Columbia St & Kane St",
+  "end station latitude": 40.68763155,
+  "end station longitude": -74.0016256,
+  "bikeid": 19371,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

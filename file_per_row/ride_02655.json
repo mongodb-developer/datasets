@@ -1,0 +1,17 @@
+{
+  "tripduration": 455,
+  "starttime": "2019-12-01 09:30:41.3720",
+  "stoptime": "2019-12-01 09:38:17.1300",
+  "start station id": 336,
+  "start station name": "Sullivan St & Washington Sq",
+  "start station latitude": 40.73047747,
+  "start station longitude": -73.99906065,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 39400,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

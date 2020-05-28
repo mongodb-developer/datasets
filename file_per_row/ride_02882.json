@@ -1,0 +1,17 @@
+{
+  "tripduration": 812,
+  "starttime": "2019-12-01 09:42:04.1680",
+  "stoptime": "2019-12-01 09:55:36.4810",
+  "start station id": 72,
+  "start station name": "W 52 St & 11 Ave",
+  "start station latitude": 40.76727216,
+  "start station longitude": -73.99392888,
+  "end station id": 3134,
+  "end station name": "3 Ave & E 62 St",
+  "end station latitude": 40.76312584,
+  "end station longitude": -73.96526895,
+  "bikeid": 33372,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

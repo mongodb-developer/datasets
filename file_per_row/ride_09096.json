@@ -1,0 +1,17 @@
+{
+  "tripduration": 382,
+  "starttime": "2019-12-01 18:16:46.6740",
+  "stoptime": "2019-12-01 18:23:08.8160",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 400,
+  "end station name": "Pitt St & Stanton St",
+  "end station latitude": 40.71926081,
+  "end station longitude": -73.98178024,
+  "bikeid": 39851,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

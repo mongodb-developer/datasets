@@ -1,0 +1,17 @@
+{
+  "tripduration": 459,
+  "starttime": "2019-12-01 09:47:55.4540",
+  "stoptime": "2019-12-01 09:55:34.9280",
+  "start station id": 3521,
+  "start station name": "Lenox Ave & W 111 St",
+  "start station latitude": 40.7987859,
+  "start station longitude": -73.9523,
+  "end station id": 3507,
+  "end station name": "Park Ave & E 124 St",
+  "end station latitude": 40.8045555,
+  "end station longitude": -73.9396861,
+  "bikeid": 29895,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

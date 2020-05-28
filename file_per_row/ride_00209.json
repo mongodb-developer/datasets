@@ -1,0 +1,17 @@
+{
+  "tripduration": 320,
+  "starttime": "2019-12-01 00:31:06.6180",
+  "stoptime": "2019-12-01 00:36:27.2880",
+  "start station id": 3093,
+  "start station name": "N 6 St & Bedford Ave",
+  "start station latitude": 40.71745169,
+  "start station longitude": -73.95850939,
+  "end station id": 3102,
+  "end station name": "Driggs Ave & Lorimer St",
+  "end station latitude": 40.72179134,
+  "end station longitude": -73.9504154,
+  "bikeid": 40179,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "female"
+}

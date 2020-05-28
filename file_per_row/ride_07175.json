@@ -1,0 +1,17 @@
+{
+  "tripduration": 1103,
+  "starttime": "2019-12-01 13:30:44.7150",
+  "stoptime": "2019-12-01 13:49:07.8650",
+  "start station id": 3467,
+  "start station name": "W Broadway & Spring St",
+  "start station latitude": 40.72494672359416,
+  "start station longitude": -74.00165855884552,
+  "end station id": 3664,
+  "end station name": "North Moore St & Greenwich St",
+  "end station latitude": 40.72019521437465,
+  "end station longitude": -74.0103006362915,
+  "bikeid": 40678,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

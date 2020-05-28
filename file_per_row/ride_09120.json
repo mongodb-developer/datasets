@@ -1,0 +1,17 @@
+{
+  "tripduration": 506,
+  "starttime": "2019-12-01 18:22:22.7280",
+  "stoptime": "2019-12-01 18:30:49.2910",
+  "start station id": 390,
+  "start station name": "Duffield St & Willoughby St",
+  "start station latitude": 40.69221589,
+  "start station longitude": -73.9842844,
+  "end station id": 391,
+  "end station name": "Clark St & Henry St",
+  "end station latitude": 40.69760127,
+  "end station longitude": -73.99344559,
+  "bikeid": 38924,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

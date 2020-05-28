@@ -1,0 +1,17 @@
+{
+  "tripduration": 779,
+  "starttime": "2019-12-01 11:48:36.4070",
+  "stoptime": "2019-12-01 12:01:36.0960",
+  "start station id": 545,
+  "start station name": "E 23 St & 1 Ave",
+  "start station latitude": 40.736502,
+  "start station longitude": -73.97809472,
+  "end station id": 3259,
+  "end station name": "9 Ave & W 28 St",
+  "end station latitude": 40.74937024193277,
+  "end station longitude": -73.99923384189606,
+  "bikeid": 34398,
+  "usertype": "Customer",
+  "birth year": 2002,
+  "gender": "male"
+}

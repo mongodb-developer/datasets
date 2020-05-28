@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+
+"""
+csv_to_json - Converts Citibike CSV data to JSON, while converting fields to appropriate types.
+"""
+
+from argparse import ArgumentParser
+import csv
+import json
+from pathlib import Path
+
+
+def _gender_converter(val):
+    """Convert source gender values into descriptive strings."""
+    return {"0": "unknown", "1": "male", "2": "female",}[str(val)]
+
+
+def _convert_type(doc, key_or_keys, converter):
+    """
+    Fix up the type of provided fields.
+
+    Runs `doc[key]` through the provided `converter` function, and replace it in the original `doc` with the returned value.
+    
+    `key_or_keys` can be a `str` or a sequence of `strings` in which case the converter will be used to convert all the provided fields.
+    """
+    if isinstance(key_or_keys, str):
+        doc[key_or_keys] = converter(doc[key_or_keys])
+    else:
+        for key in key_or_keys:
+            doc[key] = converter(doc[key])
+
+
+def _correct_types(doc):
+    """
+    Correct the types of various fields in a Citibike data document.
+    """
+    _convert_type(
+        doc,
+        ["tripduration", "bikeid", "start station id", "end station id", "birth year",],
+        int,
+    )
+    _convert_type(
+        doc,
+        [
+            "start station latitude",
+            "start station longitude",
+            "end station latitude",
+            "end station longitude",
+        ],
+        float,
+    )
+    _convert_type(doc, "gender", _gender_converter)
+    return doc
+
+
+def main():
+    """
+    Open the `infile` CSV, convert it to JSON, and write the result to `outfile`.
+    """
+    ap = ArgumentParser()
+    ap.add_argument("infile", type=Path)
+    ap.add_argument("outfile", type=Path)
+
+    args = ap.parse_args()
+
+    with args.infile.open("r") as infile, args.outfile.open("w") as outfile:
+        data = [_correct_types(doc) for doc in csv.DictReader(infile)]
+        json.dump(data, outfile, indent=2)
+
+
+if __name__ == "__main__":
+    main()

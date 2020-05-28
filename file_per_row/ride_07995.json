@@ -1,0 +1,17 @@
+{
+  "tripduration": 286,
+  "starttime": "2019-12-01 15:15:21.3760",
+  "stoptime": "2019-12-01 15:20:07.9470",
+  "start station id": 161,
+  "start station name": "LaGuardia Pl & W 3 St",
+  "start station latitude": 40.72917025,
+  "start station longitude": -73.99810231,
+  "end station id": 3812,
+  "end station name": "University Pl & E 14 St",
+  "end station latitude": 40.734814,
+  "end station longitude": -73.992085,
+  "bikeid": 14893,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "female"
+}

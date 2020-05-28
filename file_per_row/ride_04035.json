@@ -1,0 +1,17 @@
+{
+  "tripduration": 237,
+  "starttime": "2019-12-01 10:32:31.8590",
+  "stoptime": "2019-12-01 10:36:29.1030",
+  "start station id": 3616,
+  "start station name": "Steinway St & 28 Ave",
+  "start station latitude": 40.7656251,
+  "start station longitude": -73.9136695,
+  "end station id": 3721,
+  "end station name": "31 St & Newtown Ave",
+  "end station latitude": 40.7675487799971,
+  "end station longitude": -73.9209334552288,
+  "bikeid": 21506,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

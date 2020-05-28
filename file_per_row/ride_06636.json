@@ -1,0 +1,17 @@
+{
+  "tripduration": 546,
+  "starttime": "2019-12-01 12:42:57.9070",
+  "stoptime": "2019-12-01 12:52:03.9160",
+  "start station id": 532,
+  "start station name": "S 5 Pl & S 5 St",
+  "start station latitude": 40.710451,
+  "start station longitude": -73.960876,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 25901,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

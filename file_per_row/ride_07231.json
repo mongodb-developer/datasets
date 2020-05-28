@@ -1,0 +1,17 @@
+{
+  "tripduration": 536,
+  "starttime": "2019-12-01 13:38:20.4340",
+  "stoptime": "2019-12-01 13:47:17.2610",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 33972,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 707,
+  "starttime": "2019-12-01 09:48:31.4780",
+  "stoptime": "2019-12-01 10:00:18.8080",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 281,
+  "end station name": "Grand Army Plaza & Central Park S",
+  "end station latitude": 40.7643971,
+  "end station longitude": -73.97371465,
+  "bikeid": 33310,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "unknown"
+}

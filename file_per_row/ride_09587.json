@@ -1,0 +1,17 @@
+{
+  "tripduration": 982,
+  "starttime": "2019-12-01 19:45:00.7170",
+  "stoptime": "2019-12-01 20:01:23.2190",
+  "start station id": 3141,
+  "start station name": "1 Ave & E 68 St",
+  "start station latitude": 40.76500525,
+  "start station longitude": -73.95818491,
+  "end station id": 3283,
+  "end station name": "W 89 St & Columbus Ave",
+  "end station latitude": 40.7882213,
+  "end station longitude": -73.97041561,
+  "bikeid": 31000,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

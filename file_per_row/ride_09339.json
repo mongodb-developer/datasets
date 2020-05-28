@@ -1,0 +1,17 @@
+{
+  "tripduration": 756,
+  "starttime": "2019-12-01 19:03:49.0400",
+  "stoptime": "2019-12-01 19:16:25.5390",
+  "start station id": 3094,
+  "start station name": "Graham Ave & Withers St",
+  "start station latitude": 40.7169811,
+  "start station longitude": -73.94485918,
+  "end station id": 3093,
+  "end station name": "N 6 St & Bedford Ave",
+  "end station latitude": 40.71745169,
+  "end station longitude": -73.95850939,
+  "bikeid": 41820,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

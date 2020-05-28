@@ -1,0 +1,17 @@
+{
+  "tripduration": 638,
+  "starttime": "2019-12-01 09:49:17.8340",
+  "stoptime": "2019-12-01 09:59:56.5730",
+  "start station id": 368,
+  "start station name": "Carmine St & 6 Ave",
+  "start station latitude": 40.73038599,
+  "start station longitude": -74.00214988,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 39753,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

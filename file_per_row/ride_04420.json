@@ -1,0 +1,17 @@
+{
+  "tripduration": 1022,
+  "starttime": "2019-12-01 10:48:36.9500",
+  "stoptime": "2019-12-01 11:05:39.1830",
+  "start station id": 279,
+  "start station name": "Peck Slip & Front St",
+  "start station latitude": 40.707873,
+  "start station longitude": -74.00167,
+  "end station id": 376,
+  "end station name": "John St & William St",
+  "end station latitude": 40.70862144,
+  "end station longitude": -74.00722156,
+  "bikeid": 32994,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

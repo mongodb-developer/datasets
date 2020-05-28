@@ -1,0 +1,17 @@
+{
+  "tripduration": 859,
+  "starttime": "2019-12-01 18:29:48.6010",
+  "stoptime": "2019-12-01 18:44:08.5890",
+  "start station id": 411,
+  "start station name": "E 6 St & Avenue D",
+  "start station latitude": 40.72228087,
+  "start station longitude": -73.97668709,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 16757,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

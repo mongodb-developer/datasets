@@ -1,0 +1,17 @@
+{
+  "tripduration": 733,
+  "starttime": "2019-12-01 02:47:55.5330",
+  "stoptime": "2019-12-01 03:00:08.6240",
+  "start station id": 281,
+  "start station name": "Grand Army Plaza & Central Park S",
+  "start station latitude": 40.7643971,
+  "start station longitude": -73.97371465,
+  "end station id": 515,
+  "end station name": "W 43 St & 10 Ave",
+  "end station latitude": 40.76009437,
+  "end station longitude": -73.99461843,
+  "bikeid": 16060,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

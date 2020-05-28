@@ -1,0 +1,17 @@
+{
+  "tripduration": 485,
+  "starttime": "2019-12-01 15:00:13.2330",
+  "stoptime": "2019-12-01 15:08:18.2810",
+  "start station id": 403,
+  "start station name": "E 2 St & 2 Ave",
+  "start station latitude": 40.72502876,
+  "start station longitude": -73.99069656,
+  "end station id": 82,
+  "end station name": "St James Pl & Pearl St",
+  "end station latitude": 40.71117416,
+  "end station longitude": -74.00016545,
+  "bikeid": 19729,
+  "usertype": "Customer",
+  "birth year": 1988,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1356,
+  "starttime": "2019-12-01 11:16:41.7670",
+  "stoptime": "2019-12-01 11:39:18.1160",
+  "start station id": 3115,
+  "start station name": "India St & Manhattan Ave",
+  "start station latitude": 40.73232194,
+  "start station longitude": -73.9550858,
+  "end station id": 324,
+  "end station name": "DeKalb Ave & Hudson Ave",
+  "end station latitude": 40.689888,
+  "end station longitude": -73.981013,
+  "bikeid": 30701,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 956,
+  "starttime": "2019-12-01 15:15:36.4530",
+  "stoptime": "2019-12-01 15:31:33.2330",
+  "start station id": 3435,
+  "start station name": "Grand St & Elizabeth St",
+  "start station latitude": 40.718822,
+  "start station longitude": -73.99596,
+  "end station id": 323,
+  "end station name": "Lawrence St & Willoughby St",
+  "end station latitude": 40.69236178,
+  "end station longitude": -73.98631746,
+  "bikeid": 41404,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

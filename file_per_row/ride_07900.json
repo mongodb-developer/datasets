@@ -1,0 +1,17 @@
+{
+  "tripduration": 557,
+  "starttime": "2019-12-01 15:05:35.4480",
+  "stoptime": "2019-12-01 15:14:52.6990",
+  "start station id": 224,
+  "start station name": "Spruce St & Nassau St",
+  "start station latitude": 40.71146364,
+  "start station longitude": -74.00552427,
+  "end station id": 2009,
+  "end station name": "Catherine St & Monroe St",
+  "end station latitude": 40.71117444,
+  "end station longitude": -73.99682619,
+  "bikeid": 34911,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

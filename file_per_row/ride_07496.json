@@ -1,0 +1,17 @@
+{
+  "tripduration": 643,
+  "starttime": "2019-12-01 14:22:08.0090",
+  "stoptime": "2019-12-01 14:32:51.2970",
+  "start station id": 3085,
+  "start station name": "Roebling St & N 4 St",
+  "start station latitude": 40.71469,
+  "start station longitude": -73.95739,
+  "end station id": 3116,
+  "end station name": "Huron St & Franklin St",
+  "end station latitude": 40.73266,
+  "end station longitude": -73.95826,
+  "bikeid": 40818,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

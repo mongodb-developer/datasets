@@ -1,0 +1,17 @@
+{
+  "tripduration": 286,
+  "starttime": "2019-12-01 10:13:46.5720",
+  "stoptime": "2019-12-01 10:18:33.2160",
+  "start station id": 528,
+  "start station name": "2 Ave & E 31 St",
+  "start station latitude": 40.74290902,
+  "start station longitude": -73.97706058,
+  "end station id": 297,
+  "end station name": "E 15 St & 3 Ave",
+  "end station latitude": 40.734232,
+  "end station longitude": -73.986923,
+  "bikeid": 40198,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

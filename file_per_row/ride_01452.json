@@ -1,0 +1,17 @@
+{
+  "tripduration": 593,
+  "starttime": "2019-12-01 07:48:03.2030",
+  "stoptime": "2019-12-01 07:57:57.0510",
+  "start station id": 3065,
+  "start station name": "Union Ave & Wallabout St",
+  "start station latitude": 40.70029511,
+  "start station longitude": -73.95032283,
+  "end station id": 539,
+  "end station name": "Metropolitan Ave & Bedford Ave",
+  "end station latitude": 40.71534825,
+  "end station longitude": -73.96024116,
+  "bikeid": 30703,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

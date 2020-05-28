@@ -1,0 +1,17 @@
+{
+  "tripduration": 1248,
+  "starttime": "2019-12-01 20:46:31.4040",
+  "stoptime": "2019-12-01 21:07:19.4690",
+  "start station id": 3551,
+  "start station name": "3 Ave & E 112 St",
+  "start station latitude": 40.795508,
+  "start station longitude": -73.941606,
+  "end station id": 3551,
+  "end station name": "3 Ave & E 112 St",
+  "end station latitude": 40.795508,
+  "end station longitude": -73.941606,
+  "bikeid": 19416,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}

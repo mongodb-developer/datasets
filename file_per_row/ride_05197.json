@@ -1,0 +1,17 @@
+{
+  "tripduration": 423,
+  "starttime": "2019-12-01 11:22:06.8040",
+  "stoptime": "2019-12-01 11:29:10.4780",
+  "start station id": 467,
+  "start station name": "Dean St & 4 Ave",
+  "start station latitude": 40.68312489,
+  "start station longitude": -73.97895137,
+  "end station id": 3410,
+  "end station name": "Dean St & Hoyt St",
+  "end station latitude": 40.6864442,
+  "end station longitude": -73.98759104,
+  "bikeid": 35331,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

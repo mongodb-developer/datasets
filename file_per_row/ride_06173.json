@@ -1,0 +1,17 @@
+{
+  "tripduration": 611,
+  "starttime": "2019-12-01 12:18:34.8340",
+  "stoptime": "2019-12-01 12:28:46.6910",
+  "start station id": 373,
+  "start station name": "Willoughby Ave & Walworth St",
+  "start station latitude": 40.69331716,
+  "start station longitude": -73.95381995,
+  "end station id": 261,
+  "end station name": "Johnson St & Gold St",
+  "end station latitude": 40.69474881,
+  "end station longitude": -73.98362464,
+  "bikeid": 35087,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

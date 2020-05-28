@@ -1,0 +1,17 @@
+{
+  "tripduration": 612,
+  "starttime": "2019-12-01 08:12:40.0090",
+  "stoptime": "2019-12-01 08:22:52.8300",
+  "start station id": 356,
+  "start station name": "Bialystoker Pl & Delancey St",
+  "start station latitude": 40.71622644,
+  "start station longitude": -73.98261206,
+  "end station id": 315,
+  "end station name": "South St & Gouverneur Ln",
+  "end station latitude": 40.70355377,
+  "end station longitude": -74.00670227,
+  "bikeid": 31853,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

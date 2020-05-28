@@ -1,0 +1,17 @@
+{
+  "tripduration": 368,
+  "starttime": "2019-12-01 10:08:35.9460",
+  "stoptime": "2019-12-01 10:14:44.8630",
+  "start station id": 3520,
+  "start station name": "Adam Clayton Powell Blvd & W 118 St",
+  "start station latitude": 40.804372,
+  "start station longitude": -73.951475,
+  "end station id": 3534,
+  "end station name": "Frederick Douglass Blvd & W 117 St",
+  "end station latitude": 40.805159,
+  "end station longitude": -73.954692,
+  "bikeid": 38304,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

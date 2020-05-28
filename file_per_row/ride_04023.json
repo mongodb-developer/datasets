@@ -1,0 +1,17 @@
+{
+  "tripduration": 915,
+  "starttime": "2019-12-01 10:31:53.2710",
+  "stoptime": "2019-12-01 10:47:09.2310",
+  "start station id": 3346,
+  "start station name": "Berkeley Pl & 7 Ave",
+  "start station latitude": 40.675146838709786,
+  "start station longitude": -73.97523209452629,
+  "end station id": 310,
+  "end station name": "State St & Smith St",
+  "end station latitude": 40.68926942,
+  "end station longitude": -73.98912867,
+  "bikeid": 41474,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "female"
+}

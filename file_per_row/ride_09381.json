@@ -1,0 +1,17 @@
+{
+  "tripduration": 1324,
+  "starttime": "2019-12-01 19:09:12.3790",
+  "stoptime": "2019-12-01 19:31:16.4810",
+  "start station id": 3402,
+  "start station name": "Court St & State St",
+  "start station latitude": 40.6902375,
+  "start station longitude": -73.99203074,
+  "end station id": 420,
+  "end station name": "Clermont Ave & Lafayette Ave",
+  "end station latitude": 40.68764484,
+  "end station longitude": -73.96968902,
+  "bikeid": 42008,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

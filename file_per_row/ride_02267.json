@@ -1,0 +1,17 @@
+{
+  "tripduration": 577,
+  "starttime": "2019-12-01 09:05:27.0060",
+  "stoptime": "2019-12-01 09:15:04.4180",
+  "start station id": 310,
+  "start station name": "State St & Smith St",
+  "start station latitude": 40.68926942,
+  "start station longitude": -73.98912867,
+  "end station id": 391,
+  "end station name": "Clark St & Henry St",
+  "end station latitude": 40.69760127,
+  "end station longitude": -73.99344559,
+  "bikeid": 41962,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

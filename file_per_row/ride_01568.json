@@ -1,0 +1,17 @@
+{
+  "tripduration": 777,
+  "starttime": "2019-12-01 08:02:49.6800",
+  "stoptime": "2019-12-01 08:15:47.5480",
+  "start station id": 3495,
+  "start station name": "E 114 St & 1 Ave",
+  "start station latitude": 40.7945663,
+  "start station longitude": -73.9362541,
+  "end station id": 3357,
+  "end station name": "W 106 St & Amsterdam Ave",
+  "end station latitude": 40.8008363,
+  "end station longitude": -73.9664492472,
+  "bikeid": 38819,
+  "usertype": "Subscriber",
+  "birth year": 1953,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 2365,
+  "starttime": "2019-12-01 12:23:58.0040",
+  "stoptime": "2019-12-01 13:03:23.1150",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 3337,
+  "end station name": "Dwight St & Van Dyke St",
+  "end station latitude": 40.67363551341504,
+  "end station longitude": -74.01195555925369,
+  "bikeid": 32268,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

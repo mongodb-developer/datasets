@@ -1,0 +1,17 @@
+{
+  "tripduration": 708,
+  "starttime": "2019-12-01 09:18:17.6860",
+  "stoptime": "2019-12-01 09:30:05.8870",
+  "start station id": 3818,
+  "start station name": "Calyer St & Jewel St",
+  "start station latitude": 40.72984,
+  "start station longitude": -73.94839,
+  "end station id": 3119,
+  "end station name": "Vernon Blvd & 50 Ave",
+  "end station latitude": 40.74232744,
+  "end station longitude": -73.95411749,
+  "bikeid": 16654,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 176,
+  "starttime": "2019-12-01 10:49:11.7120",
+  "stoptime": "2019-12-01 10:52:08.6360",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 3798,
+  "end station name": "W 40 St & 5 Ave",
+  "end station latitude": 40.752269,
+  "end station longitude": -73.982079,
+  "bikeid": 38992,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

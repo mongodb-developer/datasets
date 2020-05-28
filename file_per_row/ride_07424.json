@@ -1,0 +1,17 @@
+{
+  "tripduration": 661,
+  "starttime": "2019-12-01 14:11:12.8340",
+  "stoptime": "2019-12-01 14:22:13.8830",
+  "start station id": 504,
+  "start station name": "1 Ave & E 16 St",
+  "start station latitude": 40.73221853,
+  "start station longitude": -73.98165557,
+  "end station id": 250,
+  "end station name": "Lafayette St & Jersey St",
+  "end station latitude": 40.72456089,
+  "end station longitude": -73.99565293,
+  "bikeid": 17392,
+  "usertype": "Customer",
+  "birth year": 1979,
+  "gender": "female"
+}

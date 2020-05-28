@@ -1,0 +1,17 @@
+{
+  "tripduration": 941,
+  "starttime": "2019-12-01 14:18:09.0960",
+  "stoptime": "2019-12-01 14:33:50.6660",
+  "start station id": 477,
+  "start station name": "W 41 St & 8 Ave",
+  "start station latitude": 40.75640548,
+  "start station longitude": -73.9900262,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 41335,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "female"
+}

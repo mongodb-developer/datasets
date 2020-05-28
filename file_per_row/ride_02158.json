@@ -1,0 +1,17 @@
+{
+  "tripduration": 1993,
+  "starttime": "2019-12-01 08:57:00.0250",
+  "stoptime": "2019-12-01 09:30:13.9180",
+  "start station id": 3052,
+  "start station name": "Lewis Ave & Madison St",
+  "start station latitude": 40.686312,
+  "start station longitude": -73.935775,
+  "end station id": 3315,
+  "end station name": "Henry St & Degraw St",
+  "end station latitude": 40.6847514,
+  "end station longitude": -73.99917254,
+  "bikeid": 28954,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "female"
+}

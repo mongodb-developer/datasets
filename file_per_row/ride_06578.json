@@ -1,0 +1,17 @@
+{
+  "tripduration": 156,
+  "starttime": "2019-12-01 12:40:16.3680",
+  "stoptime": "2019-12-01 12:42:53.2450",
+  "start station id": 3614,
+  "start station name": "Crescent St & 30 Ave",
+  "start station latitude": 40.768692,
+  "start station longitude": -73.9249574,
+  "end station id": 3592,
+  "end station name": "Crescent St & Broadway",
+  "end station latitude": 40.7633589,
+  "end station longitude": -73.9286471,
+  "bikeid": 32805,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 677,
+  "starttime": "2019-12-01 02:35:13.8100",
+  "stoptime": "2019-12-01 02:46:31.5990",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 316,
+  "end station name": "Fulton St & William St",
+  "end station latitude": 40.70955958,
+  "end station longitude": -74.00653609,
+  "bikeid": 39753,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

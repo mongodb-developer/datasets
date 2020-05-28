@@ -1,0 +1,17 @@
+{
+  "tripduration": 1038,
+  "starttime": "2019-12-01 12:08:15.3920",
+  "stoptime": "2019-12-01 12:25:34.1350",
+  "start station id": 3348,
+  "start station name": "Coffey St & Conover St",
+  "start station latitude": 40.677236,
+  "start station longitude": -74.015665,
+  "end station id": 3364,
+  "end station name": "Carroll St & 5 Ave",
+  "end station latitude": 40.6751622,
+  "end station longitude": -73.9814832,
+  "bikeid": 33786,
+  "usertype": "Subscriber",
+  "birth year": 1950,
+  "gender": "male"
+}

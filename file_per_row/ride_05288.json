@@ -1,0 +1,17 @@
+{
+  "tripduration": 1461,
+  "starttime": "2019-12-01 11:26:19.4890",
+  "stoptime": "2019-12-01 11:50:40.6530",
+  "start station id": 361,
+  "start station name": "Allen St & Hester St",
+  "start station latitude": 40.71605866,
+  "start station longitude": -73.99190759,
+  "end station id": 238,
+  "end station name": "Bank St & Washington St",
+  "end station latitude": 40.7361967,
+  "end station longitude": -74.00859207,
+  "bikeid": 39168,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

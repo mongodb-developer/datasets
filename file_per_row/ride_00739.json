@@ -1,0 +1,17 @@
+{
+  "tripduration": 301,
+  "starttime": "2019-12-01 02:40:18.1050",
+  "stoptime": "2019-12-01 02:45:19.3280",
+  "start station id": 497,
+  "start station name": "E 17 St & Broadway",
+  "start station latitude": 40.73704984,
+  "start station longitude": -73.99009296,
+  "end station id": 2003,
+  "end station name": "1 Ave & E 18 St",
+  "end station latitude": 40.733812191966315,
+  "end station longitude": -73.98054420948029,
+  "bikeid": 16648,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

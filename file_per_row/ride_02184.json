@@ -1,0 +1,17 @@
+{
+  "tripduration": 294,
+  "starttime": "2019-12-01 08:58:49.4670",
+  "stoptime": "2019-12-01 09:03:44.0370",
+  "start station id": 3367,
+  "start station name": "5 Ave & E 103 St",
+  "start station latitude": 40.7922553,
+  "start station longitude": -73.95249933,
+  "end station id": 3502,
+  "end station name": "Lexington Ave & E 111 St",
+  "end station latitude": 40.7954121,
+  "end station longitude": -73.9441232,
+  "bikeid": 27643,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "female"
+}

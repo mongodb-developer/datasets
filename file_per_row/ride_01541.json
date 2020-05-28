@@ -1,0 +1,17 @@
+{
+  "tripduration": 648,
+  "starttime": "2019-12-01 07:59:20.7800",
+  "stoptime": "2019-12-01 08:10:08.9500",
+  "start station id": 502,
+  "start station name": "Henry St & Grand St",
+  "start station latitude": 40.714211,
+  "start station longitude": -73.981095,
+  "end station id": 146,
+  "end station name": "Hudson St & Reade St",
+  "end station latitude": 40.71625008,
+  "end station longitude": -74.0091059,
+  "bikeid": 40312,
+  "usertype": "Subscriber",
+  "birth year": 1978,
+  "gender": "male"
+}

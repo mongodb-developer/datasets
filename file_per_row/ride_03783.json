@@ -1,0 +1,17 @@
+{
+  "tripduration": 337,
+  "starttime": "2019-12-01 10:21:59.5810",
+  "stoptime": "2019-12-01 10:27:37.3930",
+  "start station id": 3307,
+  "start station name": "West End Ave & W 94 St",
+  "start station latitude": 40.7941654,
+  "start station longitude": -73.974124,
+  "end station id": 3162,
+  "end station name": "W 78 St & Broadway",
+  "end station latitude": 40.78339981,
+  "end station longitude": -73.98093133,
+  "bikeid": 33662,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 146,
+  "starttime": "2019-12-01 09:14:42.8040",
+  "stoptime": "2019-12-01 09:17:09.2390",
+  "start station id": 3783,
+  "start station name": "Cliff St & Fulton St",
+  "start station latitude": 40.70838,
+  "start station longitude": -74.00495,
+  "end station id": 279,
+  "end station name": "Peck Slip & Front St",
+  "end station latitude": 40.707873,
+  "end station longitude": -74.00167,
+  "bikeid": 21270,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

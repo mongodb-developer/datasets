@@ -1,0 +1,17 @@
+{
+  "tripduration": 352,
+  "starttime": "2019-12-01 15:24:58.1610",
+  "stoptime": "2019-12-01 15:30:50.3390",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 2000,
+  "end station name": "Front St & Washington St",
+  "end station latitude": 40.70255088,
+  "end station longitude": -73.98940236,
+  "bikeid": 35229,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

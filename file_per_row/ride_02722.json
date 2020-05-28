@@ -1,0 +1,17 @@
+{
+  "tripduration": 648,
+  "starttime": "2019-12-01 09:33:53.9690",
+  "stoptime": "2019-12-01 09:44:42.3220",
+  "start station id": 410,
+  "start station name": "Suffolk St & Stanton St",
+  "start station latitude": 40.72066442,
+  "start station longitude": -73.98517977,
+  "end station id": 320,
+  "end station name": "Leonard St & Church St",
+  "end station latitude": 40.717571,
+  "end station longitude": -74.005549,
+  "bikeid": 35389,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

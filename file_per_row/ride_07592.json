@@ -1,0 +1,17 @@
+{
+  "tripduration": 309,
+  "starttime": "2019-12-01 14:32:54.5570",
+  "stoptime": "2019-12-01 14:38:03.9520",
+  "start station id": 250,
+  "start station name": "Lafayette St & Jersey St",
+  "start station latitude": 40.72456089,
+  "start station longitude": -73.99565293,
+  "end station id": 403,
+  "end station name": "E 2 St & 2 Ave",
+  "end station latitude": 40.72502876,
+  "end station longitude": -73.99069656,
+  "bikeid": 41233,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

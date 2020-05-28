@@ -1,0 +1,17 @@
+{
+  "tripduration": 894,
+  "starttime": "2019-12-01 10:40:14.1550",
+  "stoptime": "2019-12-01 10:55:09.0460",
+  "start station id": 3113,
+  "start station name": "Greenpoint Ave & Manhattan Ave",
+  "start station latitude": 40.73026,
+  "start station longitude": -73.95394,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 31508,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

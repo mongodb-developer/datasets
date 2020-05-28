@@ -1,0 +1,17 @@
+{
+  "tripduration": 131,
+  "starttime": "2019-12-01 10:00:44.4620",
+  "stoptime": "2019-12-01 10:02:55.5970",
+  "start station id": 3110,
+  "start station name": "Meserole Ave & Manhattan Ave",
+  "start station latitude": 40.72708584,
+  "start station longitude": -73.95299117,
+  "end station id": 3107,
+  "end station name": "Bedford Ave & Nassau Ave",
+  "end station latitude": 40.72311651,
+  "end station longitude": -73.95212324,
+  "bikeid": 38473,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

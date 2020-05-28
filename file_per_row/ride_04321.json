@@ -1,0 +1,17 @@
+{
+  "tripduration": 177,
+  "starttime": "2019-12-01 10:44:39.8320",
+  "stoptime": "2019-12-01 10:47:37.6630",
+  "start station id": 3537,
+  "start station name": "Carlton Ave & Dean St",
+  "start station latitude": 40.6809741,
+  "start station longitude": -73.9710097,
+  "end station id": 3414,
+  "end station name": "Bergen St & Flatbush Ave",
+  "end station latitude": 40.680944723477296,
+  "end station longitude": -73.97567331790923,
+  "bikeid": 39035,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

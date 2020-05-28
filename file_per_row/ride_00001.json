@@ -1,0 +1,17 @@
+{
+  "tripduration": 602,
+  "starttime": "2019-12-01 00:00:05.5640",
+  "stoptime": "2019-12-01 00:10:07.8180",
+  "start station id": 3382,
+  "start station name": "Carroll St & Smith St",
+  "start station latitude": 40.680611,
+  "start station longitude": -73.99475825,
+  "end station id": 3304,
+  "end station name": "6 Ave & 9 St",
+  "end station latitude": 40.668127,
+  "end station longitude": -73.98377641,
+  "bikeid": 41932,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

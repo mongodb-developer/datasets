@@ -1,0 +1,17 @@
+{
+  "tripduration": 423,
+  "starttime": "2019-12-01 09:57:59.5580",
+  "stoptime": "2019-12-01 10:05:03.1490",
+  "start station id": 487,
+  "start station name": "E 20 St & FDR Drive",
+  "start station latitude": 40.73314259,
+  "start station longitude": -73.97573881,
+  "end station id": 491,
+  "end station name": "E 24 St & Park Ave S",
+  "end station latitude": 40.74096374,
+  "end station longitude": -73.98602213,
+  "bikeid": 14760,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "male"
+}

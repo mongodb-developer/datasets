@@ -1,0 +1,17 @@
+{
+  "tripduration": 1041,
+  "starttime": "2019-12-01 20:34:22.0820",
+  "stoptime": "2019-12-01 20:51:43.8080",
+  "start station id": 3857,
+  "start station name": "Engert Ave & McGuinness Blvd",
+  "start station latitude": 40.72158,
+  "start station longitude": -73.94546,
+  "end station id": 3857,
+  "end station name": "Engert Ave & McGuinness Blvd",
+  "end station latitude": 40.72158,
+  "end station longitude": -73.94546,
+  "bikeid": 41134,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

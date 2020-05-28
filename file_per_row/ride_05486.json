@@ -1,0 +1,17 @@
+{
+  "tripduration": 519,
+  "starttime": "2019-12-01 11:38:04.8750",
+  "stoptime": "2019-12-01 11:46:44.5440",
+  "start station id": 2009,
+  "start station name": "Catherine St & Monroe St",
+  "start station latitude": 40.71117444,
+  "start station longitude": -73.99682619,
+  "end station id": 376,
+  "end station name": "John St & William St",
+  "end station latitude": 40.70862144,
+  "end station longitude": -74.00722156,
+  "bikeid": 34972,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

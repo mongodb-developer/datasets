@@ -1,0 +1,17 @@
+{
+  "tripduration": 770,
+  "starttime": "2019-12-01 10:46:58.5900",
+  "stoptime": "2019-12-01 10:59:49.2410",
+  "start station id": 339,
+  "start station name": "Avenue D & E 12 St",
+  "start station latitude": 40.72580614,
+  "start station longitude": -73.97422494,
+  "end station id": 491,
+  "end station name": "E 24 St & Park Ave S",
+  "end station latitude": 40.74096374,
+  "end station longitude": -73.98602213,
+  "bikeid": 40808,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

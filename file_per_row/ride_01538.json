@@ -1,0 +1,17 @@
+{
+  "tripduration": 116,
+  "starttime": "2019-12-01 07:59:09.4340",
+  "stoptime": "2019-12-01 08:01:06.0520",
+  "start station id": 3147,
+  "start station name": "E 85 St & 3 Ave",
+  "start station latitude": 40.77801203,
+  "start station longitude": -73.95407149,
+  "end station id": 3671,
+  "end station name": "E 81 St & 2 Ave",
+  "end station latitude": 40.774779448957275,
+  "end station longitude": -73.95427465438843,
+  "bikeid": 29410,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

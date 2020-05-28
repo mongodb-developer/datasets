@@ -1,0 +1,17 @@
+{
+  "tripduration": 2186,
+  "starttime": "2019-12-01 02:41:13.4360",
+  "stoptime": "2019-12-01 03:17:40.0320",
+  "start station id": 3341,
+  "start station name": "Central Park West & W 102 St",
+  "start station latitude": 40.795346,
+  "start station longitude": -73.96186,
+  "end station id": 473,
+  "end station name": "Rivington St & Chrystie St",
+  "end station latitude": 40.72110063,
+  "end station longitude": -73.9919254,
+  "bikeid": 39033,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

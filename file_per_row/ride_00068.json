@@ -1,0 +1,17 @@
+{
+  "tripduration": 1494,
+  "starttime": "2019-12-01 00:10:07.2450",
+  "stoptime": "2019-12-01 00:35:01.7820",
+  "start station id": 3085,
+  "start station name": "Roebling St & N 4 St",
+  "start station latitude": 40.71469,
+  "start station longitude": -73.95739,
+  "end station id": 481,
+  "end station name": "S 3 St & Bedford Ave",
+  "end station latitude": 40.71260486,
+  "end station longitude": -73.96264403,
+  "bikeid": 40984,
+  "usertype": "Customer",
+  "birth year": 1989,
+  "gender": "male"
+}

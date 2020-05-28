@@ -1,0 +1,17 @@
+{
+  "tripduration": 752,
+  "starttime": "2019-12-01 00:56:24.2040",
+  "stoptime": "2019-12-01 01:08:56.6920",
+  "start station id": 247,
+  "start station name": "Perry St & Bleecker St",
+  "start station latitude": 40.73535398,
+  "start station longitude": -74.00483091,
+  "end station id": 489,
+  "end station name": "10 Ave & W 28 St",
+  "end station latitude": 40.75066386,
+  "end station longitude": -74.00176802,
+  "bikeid": 31510,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

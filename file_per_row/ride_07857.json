@@ -1,0 +1,17 @@
+{
+  "tripduration": 575,
+  "starttime": "2019-12-01 15:01:38.6940",
+  "stoptime": "2019-12-01 15:11:14.6760",
+  "start station id": 3711,
+  "start station name": "E 13 St & Avenue A",
+  "start station latitude": 40.72966729392978,
+  "start station longitude": -73.98067966103554,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 40663,
+  "usertype": "Subscriber",
+  "birth year": 1998,
+  "gender": "male"
+}

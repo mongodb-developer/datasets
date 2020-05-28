@@ -1,0 +1,17 @@
+{
+  "tripduration": 3089,
+  "starttime": "2019-12-01 09:42:35.8310",
+  "stoptime": "2019-12-01 10:34:04.9910",
+  "start station id": 3178,
+  "start station name": "Riverside Dr & W 78 St",
+  "start station latitude": 40.78414472,
+  "start station longitude": -73.98362492,
+  "end station id": 484,
+  "end station name": "W 44 St & 5 Ave",
+  "end station latitude": 40.75500254,
+  "end station longitude": -73.98014437,
+  "bikeid": 17926,
+  "usertype": "Subscriber",
+  "birth year": 1947,
+  "gender": "male"
+}

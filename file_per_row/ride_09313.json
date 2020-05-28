@@ -1,0 +1,17 @@
+{
+  "tripduration": 189,
+  "starttime": "2019-12-01 18:59:01.9110",
+  "stoptime": "2019-12-01 19:02:11.8500",
+  "start station id": 3081,
+  "start station name": "Graham Ave & Grand St",
+  "start station latitude": 40.711863,
+  "start station longitude": -73.944024,
+  "end station id": 3082,
+  "end station name": "Hope St & Union Ave",
+  "end station latitude": 40.71167351,
+  "end station longitude": -73.95141312,
+  "bikeid": 31019,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 603,
+  "starttime": "2019-12-01 14:09:09.5330",
+  "stoptime": "2019-12-01 14:19:12.7120",
+  "start station id": 297,
+  "start station name": "E 15 St & 3 Ave",
+  "start station latitude": 40.734232,
+  "start station longitude": -73.986923,
+  "end station id": 410,
+  "end station name": "Suffolk St & Stanton St",
+  "end station latitude": 40.72066442,
+  "end station longitude": -73.98517977,
+  "bikeid": 35183,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 376,
+  "starttime": "2019-12-01 18:37:59.6700",
+  "stoptime": "2019-12-01 18:44:15.9550",
+  "start station id": 467,
+  "start station name": "Dean St & 4 Ave",
+  "start station latitude": 40.68312489,
+  "start station longitude": -73.97895137,
+  "end station id": 3232,
+  "end station name": "Bond St & Fulton St",
+  "end station latitude": 40.68962188790333,
+  "end station longitude": -73.98304268717766,
+  "bikeid": 39301,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

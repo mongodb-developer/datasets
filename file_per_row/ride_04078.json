@@ -1,0 +1,17 @@
+{
+  "tripduration": 604,
+  "starttime": "2019-12-01 10:34:15.1590",
+  "stoptime": "2019-12-01 10:44:19.7030",
+  "start station id": 494,
+  "start station name": "W 26 St & 8 Ave",
+  "start station latitude": 40.74734825,
+  "start station longitude": -73.99723551,
+  "end station id": 3255,
+  "end station name": "8 Ave & W 31 St",
+  "end station latitude": 40.7505853470215,
+  "end station longitude": -73.9946848154068,
+  "bikeid": 38870,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

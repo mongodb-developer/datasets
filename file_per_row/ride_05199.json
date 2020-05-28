@@ -1,0 +1,17 @@
+{
+  "tripduration": 658,
+  "starttime": "2019-12-01 11:22:13.4910",
+  "stoptime": "2019-12-01 11:33:11.7940",
+  "start station id": 406,
+  "start station name": "Hicks St & Montague St",
+  "start station latitude": 40.69512845,
+  "start station longitude": -73.99595065,
+  "end station id": 398,
+  "end station name": "Atlantic Ave & Furman St",
+  "end station latitude": 40.69165183,
+  "end station longitude": -73.9999786,
+  "bikeid": 41962,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

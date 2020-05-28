@@ -1,0 +1,17 @@
+{
+  "tripduration": 528,
+  "starttime": "2019-12-01 14:37:52.3500",
+  "stoptime": "2019-12-01 14:46:41.3020",
+  "start station id": 391,
+  "start station name": "Clark St & Henry St",
+  "start station latitude": 40.69760127,
+  "start station longitude": -73.99344559,
+  "end station id": 3329,
+  "end station name": "Degraw St & Smith St",
+  "end station latitude": 40.6829151,
+  "end station longitude": -73.99318208,
+  "bikeid": 32823,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

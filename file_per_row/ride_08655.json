@@ -1,0 +1,17 @@
+{
+  "tripduration": 514,
+  "starttime": "2019-12-01 16:51:12.5430",
+  "stoptime": "2019-12-01 16:59:46.9090",
+  "start station id": 3783,
+  "start station name": "Cliff St & Fulton St",
+  "start station latitude": 40.70838,
+  "start station longitude": -74.00495,
+  "end station id": 415,
+  "end station name": "Pearl St & Hanover Square",
+  "end station latitude": 40.7047177,
+  "end station longitude": -74.00926027,
+  "bikeid": 38268,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

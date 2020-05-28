@@ -1,0 +1,17 @@
+{
+  "tripduration": 579,
+  "starttime": "2019-12-01 14:02:17.8550",
+  "stoptime": "2019-12-01 14:11:56.9940",
+  "start station id": 3733,
+  "start station name": "Avenue C & E 18 St",
+  "start station latitude": 40.730563,
+  "start station longitude": -73.973984,
+  "end station id": 483,
+  "end station name": "E 12 St & 3 Ave",
+  "end station latitude": 40.73223272,
+  "end station longitude": -73.98889957,
+  "bikeid": 40275,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "female"
+}

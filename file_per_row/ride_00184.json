@@ -1,0 +1,17 @@
+{
+  "tripduration": 411,
+  "starttime": "2019-12-01 00:26:45.8810",
+  "stoptime": "2019-12-01 00:33:37.3880",
+  "start station id": 3419,
+  "start station name": "Douglass St & 4 Ave",
+  "start station latitude": 40.6792788,
+  "start station longitude": -73.98154004,
+  "end station id": 3404,
+  "end station name": "7 St & 5 Ave",
+  "end station latitude": 40.6704922,
+  "end station longitude": -73.98541675,
+  "bikeid": 27993,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

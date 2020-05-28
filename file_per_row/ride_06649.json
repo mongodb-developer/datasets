@@ -1,0 +1,17 @@
+{
+  "tripduration": 694,
+  "starttime": "2019-12-01 12:43:22.6860",
+  "stoptime": "2019-12-01 12:54:57.5760",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 311,
+  "end station name": "Norfolk St & Broome St",
+  "end station latitude": 40.7172274,
+  "end station longitude": -73.98802084,
+  "bikeid": 35290,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

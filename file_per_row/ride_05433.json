@@ -1,0 +1,17 @@
+{
+  "tripduration": 491,
+  "starttime": "2019-12-01 11:35:00.5940",
+  "stoptime": "2019-12-01 11:43:11.7940",
+  "start station id": 476,
+  "start station name": "E 31 St & 3 Ave",
+  "start station latitude": 40.74394314,
+  "start station longitude": -73.97966069,
+  "end station id": 523,
+  "end station name": "W 38 St & 8 Ave",
+  "end station latitude": 40.75466591,
+  "end station longitude": -73.99138152,
+  "bikeid": 27982,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

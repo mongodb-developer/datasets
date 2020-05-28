@@ -1,0 +1,17 @@
+{
+  "tripduration": 295,
+  "starttime": "2019-12-01 12:09:55.0610",
+  "stoptime": "2019-12-01 12:14:50.9340",
+  "start station id": 3236,
+  "start station name": "W 42 St & Dyer Ave",
+  "start station latitude": 40.75898481399634,
+  "start station longitude": -73.99379968643188,
+  "end station id": 3712,
+  "end station name": "W 35 St & Dyer Ave",
+  "end station latitude": 40.754691750226016,
+  "end station longitude": -73.99740189313889,
+  "bikeid": 41450,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

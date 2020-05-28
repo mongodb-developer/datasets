@@ -1,0 +1,17 @@
+{
+  "tripduration": 500,
+  "starttime": "2019-12-01 11:07:41.5850",
+  "stoptime": "2019-12-01 11:16:01.7720",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 497,
+  "end station name": "E 17 St & Broadway",
+  "end station latitude": 40.73704984,
+  "end station longitude": -73.99009296,
+  "bikeid": 41254,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

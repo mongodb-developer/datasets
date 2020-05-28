@@ -1,0 +1,17 @@
+{
+  "tripduration": 1577,
+  "starttime": "2019-12-01 12:12:51.7750",
+  "stoptime": "2019-12-01 12:39:09.5990",
+  "start station id": 540,
+  "start station name": "Lexington Ave & E 29 St",
+  "start station latitude": 40.74311555376486,
+  "start station longitude": -73.98215353488922,
+  "end station id": 401,
+  "end station name": "Allen St & Rivington St",
+  "end station latitude": 40.72019576,
+  "end station longitude": -73.98997825,
+  "bikeid": 40678,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

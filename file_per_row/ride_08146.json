@@ -1,0 +1,17 @@
+{
+  "tripduration": 2069,
+  "starttime": "2019-12-01 15:29:55.2990",
+  "stoptime": "2019-12-01 16:04:24.5620",
+  "start station id": 394,
+  "start station name": "E 9 St & Avenue C",
+  "start station latitude": 40.72521311,
+  "start station longitude": -73.97768752,
+  "end station id": 3788,
+  "end station name": "E 12 St & 4 Av",
+  "end station latitude": 40.73269,
+  "end station longitude": -73.98974,
+  "bikeid": 39835,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

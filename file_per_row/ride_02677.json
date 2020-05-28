@@ -1,0 +1,17 @@
+{
+  "tripduration": 1059,
+  "starttime": "2019-12-01 09:31:49.5630",
+  "stoptime": "2019-12-01 09:49:29.1570",
+  "start station id": 360,
+  "start station name": "William St & Pine St",
+  "start station latitude": 40.70717936,
+  "start station longitude": -74.00887308,
+  "end station id": 445,
+  "end station name": "E 10 St & Avenue A",
+  "end station latitude": 40.72740794,
+  "end station longitude": -73.98142006,
+  "bikeid": 39869,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

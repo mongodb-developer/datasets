@@ -1,0 +1,17 @@
+{
+  "tripduration": 166,
+  "starttime": "2019-12-01 19:36:16.6770",
+  "stoptime": "2019-12-01 19:39:03.5830",
+  "start station id": 266,
+  "start station name": "Avenue D & E 8 St",
+  "start station latitude": 40.72368361,
+  "start station longitude": -73.97574813,
+  "end station id": 411,
+  "end station name": "E 6 St & Avenue D",
+  "end station latitude": 40.72228087,
+  "end station longitude": -73.97668709,
+  "bikeid": 39120,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

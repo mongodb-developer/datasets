@@ -1,0 +1,17 @@
+{
+  "tripduration": 748,
+  "starttime": "2019-12-01 08:14:09.7090",
+  "stoptime": "2019-12-01 08:26:38.5780",
+  "start station id": 505,
+  "start station name": "6 Ave & W 33 St",
+  "start station latitude": 40.74901271,
+  "start station longitude": -73.98848395,
+  "end station id": 2006,
+  "end station name": "Central Park S & 6 Ave",
+  "end station latitude": 40.76590936,
+  "end station longitude": -73.97634151,
+  "bikeid": 41235,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "female"
+}

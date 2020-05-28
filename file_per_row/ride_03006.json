@@ -1,0 +1,17 @@
+{
+  "tripduration": 1261,
+  "starttime": "2019-12-01 09:47:38.2410",
+  "stoptime": "2019-12-01 10:08:40.1150",
+  "start station id": 289,
+  "start station name": "Monroe St & Classon Ave",
+  "start station latitude": 40.6845683,
+  "start station longitude": -73.95881081,
+  "end station id": 471,
+  "end station name": "Grand St & Havemeyer St",
+  "end station latitude": 40.71286844,
+  "end station longitude": -73.95698119,
+  "bikeid": 32869,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "female"
+}

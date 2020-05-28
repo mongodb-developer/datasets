@@ -1,0 +1,17 @@
+{
+  "tripduration": 469,
+  "starttime": "2019-12-01 14:52:55.7470",
+  "stoptime": "2019-12-01 15:00:45.0080",
+  "start station id": 3315,
+  "start station name": "Henry St & Degraw St",
+  "start station latitude": 40.6847514,
+  "start station longitude": -73.99917254,
+  "end station id": 406,
+  "end station name": "Hicks St & Montague St",
+  "end station latitude": 40.69512845,
+  "end station longitude": -73.99595065,
+  "bikeid": 18837,
+  "usertype": "Subscriber",
+  "birth year": 1963,
+  "gender": "male"
+}

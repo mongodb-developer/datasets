@@ -1,0 +1,17 @@
+{
+  "tripduration": 736,
+  "starttime": "2019-12-01 10:56:00.5570",
+  "stoptime": "2019-12-01 11:08:16.8440",
+  "start station id": 487,
+  "start station name": "E 20 St & FDR Drive",
+  "start station latitude": 40.73314259,
+  "start station longitude": -73.97573881,
+  "end station id": 335,
+  "end station name": "Washington Pl & Broadway",
+  "end station latitude": 40.72903917,
+  "end station longitude": -73.99404649,
+  "bikeid": 15470,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

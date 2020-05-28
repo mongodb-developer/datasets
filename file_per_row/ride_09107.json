@@ -1,0 +1,17 @@
+{
+  "tripduration": 595,
+  "starttime": "2019-12-01 18:18:54.7610",
+  "stoptime": "2019-12-01 18:28:49.8070",
+  "start station id": 3139,
+  "start station name": "E 72 St & Park Ave",
+  "start station latitude": 40.77118287540658,
+  "start station longitude": -73.96409422159195,
+  "end station id": 3292,
+  "end station name": "5 Ave & E 93 St",
+  "end station latitude": 40.7857851,
+  "end station longitude": -73.957481,
+  "bikeid": 40506,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "female"
+}

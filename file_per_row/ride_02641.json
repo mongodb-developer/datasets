@@ -1,0 +1,17 @@
+{
+  "tripduration": 652,
+  "starttime": "2019-12-01 09:29:41.2150",
+  "stoptime": "2019-12-01 09:40:34.0560",
+  "start station id": 341,
+  "start station name": "Stanton St & Mangin St",
+  "start station latitude": 40.71782143,
+  "start station longitude": -73.97628939,
+  "end station id": 295,
+  "end station name": "Pike St & E Broadway",
+  "end station latitude": 40.71406667,
+  "end station longitude": -73.99293911,
+  "bikeid": 30504,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

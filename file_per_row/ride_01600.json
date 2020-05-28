@@ -1,0 +1,17 @@
+{
+  "tripduration": 1685,
+  "starttime": "2019-12-01 08:06:39.0730",
+  "stoptime": "2019-12-01 08:34:44.6360",
+  "start station id": 167,
+  "start station name": "E 39 St & 3 Ave",
+  "start station latitude": 40.7489006,
+  "start station longitude": -73.97604882,
+  "end station id": 212,
+  "end station name": "W 16 St & The High Line",
+  "end station latitude": 40.74334935,
+  "end station longitude": -74.00681753,
+  "bikeid": 38673,
+  "usertype": "Customer",
+  "birth year": 1980,
+  "gender": "male"
+}

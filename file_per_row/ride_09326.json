@@ -1,0 +1,17 @@
+{
+  "tripduration": 327,
+  "starttime": "2019-12-01 19:01:00.6490",
+  "stoptime": "2019-12-01 19:06:28.4910",
+  "start station id": 533,
+  "start station name": "Broadway & W 38 St",
+  "start station latitude": 40.75299641,
+  "start station longitude": -73.98721619,
+  "end station id": 167,
+  "end station name": "E 39 St & 3 Ave",
+  "end station latitude": 40.7489006,
+  "end station longitude": -73.97604882,
+  "bikeid": 40846,
+  "usertype": "Subscriber",
+  "birth year": 1994,
+  "gender": "unknown"
+}

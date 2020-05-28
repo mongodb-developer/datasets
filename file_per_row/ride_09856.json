@@ -1,0 +1,17 @@
+{
+  "tripduration": 801,
+  "starttime": "2019-12-01 20:28:41.5200",
+  "stoptime": "2019-12-01 20:42:02.7090",
+  "start station id": 465,
+  "start station name": "Broadway & W 41 St",
+  "start station latitude": 40.75513557,
+  "start station longitude": -73.98658032,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 40754,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

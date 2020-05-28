@@ -1,0 +1,17 @@
+{
+  "tripduration": 1062,
+  "starttime": "2019-12-01 09:35:18.3760",
+  "stoptime": "2019-12-01 09:53:01.0950",
+  "start station id": 3547,
+  "start station name": "Broadway & Moylan Pl",
+  "start station latitude": 40.8143256,
+  "start station longitude": -73.9590255,
+  "end station id": 3307,
+  "end station name": "West End Ave & W 94 St",
+  "end station latitude": 40.7941654,
+  "end station longitude": -73.974124,
+  "bikeid": 39484,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

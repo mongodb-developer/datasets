@@ -1,0 +1,17 @@
+{
+  "tripduration": 401,
+  "starttime": "2019-12-01 12:48:50.6510",
+  "stoptime": "2019-12-01 12:55:32.5050",
+  "start station id": 3414,
+  "start station name": "Bergen St & Flatbush Ave",
+  "start station latitude": 40.680944723477296,
+  "start station longitude": -73.97567331790923,
+  "end station id": 3377,
+  "end station name": "Carroll St & Bond St",
+  "end station latitude": 40.6786115,
+  "end station longitude": -73.99037292,
+  "bikeid": 27535,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

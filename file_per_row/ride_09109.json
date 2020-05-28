@@ -1,0 +1,17 @@
+{
+  "tripduration": 1138,
+  "starttime": "2019-12-01 18:20:16.8800",
+  "stoptime": "2019-12-01 18:39:15.6600",
+  "start station id": 267,
+  "start station name": "Broadway & W 36 St",
+  "start station latitude": 40.75097711,
+  "start station longitude": -73.98765428,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 21688,
+  "usertype": "Customer",
+  "birth year": 1994,
+  "gender": "male"
+}

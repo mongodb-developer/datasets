@@ -1,0 +1,17 @@
+{
+  "tripduration": 158,
+  "starttime": "2019-12-01 07:50:51.7410",
+  "stoptime": "2019-12-01 07:53:30.6290",
+  "start station id": 3162,
+  "start station name": "W 78 St & Broadway",
+  "start station latitude": 40.78339981,
+  "start station longitude": -73.98093133,
+  "end station id": 3175,
+  "end station name": "W 70 St & Amsterdam Ave",
+  "end station latitude": 40.77748046,
+  "end station longitude": -73.98288594,
+  "bikeid": 39355,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

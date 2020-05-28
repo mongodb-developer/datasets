@@ -1,0 +1,17 @@
+{
+  "tripduration": 1329,
+  "starttime": "2019-12-01 03:22:39.3990",
+  "stoptime": "2019-12-01 03:44:49.1120",
+  "start station id": 3235,
+  "start station name": "E 41 St & Madison Ave",
+  "start station latitude": 40.752165280621966,
+  "start station longitude": -73.97992193698882,
+  "end station id": 3615,
+  "end station name": "44 Dr & 21 St",
+  "end station latitude": 40.748,
+  "end station longitude": -73.9460927,
+  "bikeid": 40320,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

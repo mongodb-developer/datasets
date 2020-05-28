@@ -1,0 +1,17 @@
+{
+  "tripduration": 1048,
+  "starttime": "2019-12-01 09:42:54.6310",
+  "stoptime": "2019-12-01 10:00:23.2740",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 3680,
+  "end station name": "E 43 St & 5 Ave",
+  "end station latitude": 40.754120810779256,
+  "end station longitude": -73.98025184869766,
+  "bikeid": 39093,
+  "usertype": "Subscriber",
+  "birth year": 1969,
+  "gender": "male"
+}

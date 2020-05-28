@@ -1,0 +1,17 @@
+{
+  "tripduration": 970,
+  "starttime": "2019-12-01 11:27:14.7260",
+  "stoptime": "2019-12-01 11:43:25.5240",
+  "start station id": 3420,
+  "start station name": "Douglass St & 3 Ave",
+  "start station latitude": 40.6802133,
+  "start station longitude": -73.98432695,
+  "end station id": 366,
+  "end station name": "Clinton Ave & Myrtle Ave",
+  "end station latitude": 40.693261,
+  "end station longitude": -73.968896,
+  "bikeid": 21561,
+  "usertype": "Subscriber",
+  "birth year": 1989,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 1642,
+  "starttime": "2019-12-01 20:03:47.9860",
+  "stoptime": "2019-12-01 20:31:10.2070",
+  "start station id": 2003,
+  "start station name": "1 Ave & E 18 St",
+  "start station latitude": 40.733812191966315,
+  "start station longitude": -73.98054420948029,
+  "end station id": 482,
+  "end station name": "W 15 St & 7 Ave",
+  "end station latitude": 40.73935542,
+  "end station longitude": -73.99931783,
+  "bikeid": 21221,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 799,
+  "starttime": "2019-12-01 10:40:06.3820",
+  "stoptime": "2019-12-01 10:53:25.4730",
+  "start station id": 421,
+  "start station name": "Clermont Ave & Park Ave",
+  "start station latitude": 40.69573398,
+  "start station longitude": -73.97129668,
+  "end station id": 3486,
+  "end station name": "Schermerhorn St & Bond St",
+  "end station latitude": 40.688417427540834,
+  "end station longitude": -73.98451656103134,
+  "bikeid": 41211,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

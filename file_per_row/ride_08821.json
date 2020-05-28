@@ -1,0 +1,17 @@
+{
+  "tripduration": 310,
+  "starttime": "2019-12-01 17:25:32.3690",
+  "stoptime": "2019-12-01 17:30:43.2160",
+  "start station id": 358,
+  "start station name": "Christopher St & Greenwich St",
+  "start station latitude": 40.73291553,
+  "start station longitude": -74.00711384,
+  "end station id": 3746,
+  "end station name": "6 Ave & Broome St",
+  "end station latitude": 40.724308321602166,
+  "end station longitude": -74.00473035871983,
+  "bikeid": 16927,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

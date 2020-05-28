@@ -1,0 +1,17 @@
+{
+  "tripduration": 108,
+  "starttime": "2019-12-01 10:56:15.7020",
+  "stoptime": "2019-12-01 10:58:04.6380",
+  "start station id": 3408,
+  "start station name": "Congress St & Clinton St",
+  "start station latitude": 40.6881529,
+  "start station longitude": -73.99520919,
+  "end station id": 3409,
+  "end station name": "Bergen St & Smith St",
+  "end station latitude": 40.6867443,
+  "end station longitude": -73.99063168,
+  "bikeid": 39545,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

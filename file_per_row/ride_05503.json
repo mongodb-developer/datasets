@@ -1,0 +1,17 @@
+{
+  "tripduration": 1153,
+  "starttime": "2019-12-01 11:39:09.6450",
+  "stoptime": "2019-12-01 11:58:23.0250",
+  "start station id": 3231,
+  "start station name": "E 67 St & Park Ave",
+  "start station latitude": 40.76780080148132,
+  "start station longitude": -73.96592080593109,
+  "end station id": 3171,
+  "end station name": "Amsterdam Ave & W 82 St",
+  "end station latitude": 40.78524672,
+  "end station longitude": -73.97667321,
+  "bikeid": 38587,
+  "usertype": "Subscriber",
+  "birth year": 1970,
+  "gender": "male"
+}

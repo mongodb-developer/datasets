@@ -1,0 +1,17 @@
+{
+  "tripduration": 159,
+  "starttime": "2019-12-01 09:52:42.0140",
+  "stoptime": "2019-12-01 09:55:21.2380",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 262,
+  "end station name": "Washington Park",
+  "end station latitude": 40.6917823,
+  "end station longitude": -73.9737299,
+  "bikeid": 28133,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "female"
+}

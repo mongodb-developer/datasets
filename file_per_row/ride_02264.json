@@ -1,0 +1,17 @@
+{
+  "tripduration": 675,
+  "starttime": "2019-12-01 09:05:23.2960",
+  "stoptime": "2019-12-01 09:16:38.5440",
+  "start station id": 3671,
+  "start station name": "E 81 St & 2 Ave",
+  "start station latitude": 40.774779448957275,
+  "start station longitude": -73.95427465438843,
+  "end station id": 367,
+  "end station name": "E 53 St & Lexington Ave",
+  "end station latitude": 40.75828065,
+  "end station longitude": -73.97069431,
+  "bikeid": 40675,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "male"
+}

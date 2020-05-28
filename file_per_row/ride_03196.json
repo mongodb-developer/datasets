@@ -1,0 +1,17 @@
+{
+  "tripduration": 717,
+  "starttime": "2019-12-01 09:55:37.3430",
+  "stoptime": "2019-12-01 10:07:34.4430",
+  "start station id": 143,
+  "start station name": "Clinton St & Joralemon St",
+  "start station latitude": 40.69239502,
+  "start station longitude": -73.99337909,
+  "end station id": 418,
+  "end station name": "Front St & Gold St",
+  "end station latitude": 40.70224,
+  "end station longitude": -73.982578,
+  "bikeid": 28954,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

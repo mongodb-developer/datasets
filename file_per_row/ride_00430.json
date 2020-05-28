@@ -1,0 +1,17 @@
+{
+  "tripduration": 924,
+  "starttime": "2019-12-01 01:09:38.4870",
+  "stoptime": "2019-12-01 01:25:02.5520",
+  "start station id": 223,
+  "start station name": "W 13 St & 7 Ave",
+  "start station latitude": 40.73781509,
+  "start station longitude": -73.99994661,
+  "end station id": 265,
+  "end station name": "Stanton St & Chrystie St",
+  "end station latitude": 40.72229346,
+  "end station longitude": -73.99147535,
+  "bikeid": 41416,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "male"
+}

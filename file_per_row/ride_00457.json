@@ -1,0 +1,17 @@
+{
+  "tripduration": 992,
+  "starttime": "2019-12-01 01:17:57.3860",
+  "stoptime": "2019-12-01 01:34:29.7850",
+  "start station id": 503,
+  "start station name": "E 20 St & Park Ave",
+  "start station latitude": 40.73827428,
+  "start station longitude": -73.98751968,
+  "end station id": 3435,
+  "end station name": "Grand St & Elizabeth St",
+  "end station latitude": 40.718822,
+  "end station longitude": -73.99596,
+  "bikeid": 29058,
+  "usertype": "Customer",
+  "birth year": 1993,
+  "gender": "male"
+}

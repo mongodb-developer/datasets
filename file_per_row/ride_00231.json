@@ -1,0 +1,17 @@
+{
+  "tripduration": 264,
+  "starttime": "2019-12-01 00:35:14.8810",
+  "stoptime": "2019-12-01 00:39:39.7790",
+  "start station id": 529,
+  "start station name": "W 42 St & 8 Ave",
+  "start station latitude": 40.7575699,
+  "start station longitude": -73.99098507,
+  "end station id": 448,
+  "end station name": "W 37 St & 10 Ave",
+  "end station latitude": 40.75660359,
+  "end station longitude": -73.9979009,
+  "bikeid": 41233,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

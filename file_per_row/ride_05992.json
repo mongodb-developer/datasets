@@ -1,0 +1,17 @@
+{
+  "tripduration": 672,
+  "starttime": "2019-12-01 12:08:00.4050",
+  "stoptime": "2019-12-01 12:19:12.9950",
+  "start station id": 325,
+  "start station name": "E 19 St & 3 Ave",
+  "start station latitude": 40.73624527,
+  "start station longitude": -73.98473765,
+  "end station id": 440,
+  "end station name": "E 45 St & 3 Ave",
+  "end station latitude": 40.75255434,
+  "end station longitude": -73.97282625,
+  "bikeid": 41666,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

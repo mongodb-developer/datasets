@@ -1,0 +1,17 @@
+{
+  "tripduration": 828,
+  "starttime": "2019-12-01 14:11:10.2540",
+  "stoptime": "2019-12-01 14:24:59.1780",
+  "start station id": 3255,
+  "start station name": "8 Ave & W 31 St",
+  "start station latitude": 40.7505853470215,
+  "start station longitude": -73.9946848154068,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 32395,
+  "usertype": "Subscriber",
+  "birth year": 2000,
+  "gender": "male"
+}

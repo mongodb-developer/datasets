@@ -1,0 +1,17 @@
+{
+  "tripduration": 178,
+  "starttime": "2019-12-01 09:30:21.6910",
+  "stoptime": "2019-12-01 09:33:19.8370",
+  "start station id": 245,
+  "start station name": "Myrtle Ave & St Edwards St",
+  "start station latitude": 40.69327018,
+  "start station longitude": -73.97703874,
+  "end station id": 324,
+  "end station name": "DeKalb Ave & Hudson Ave",
+  "end station latitude": 40.689888,
+  "end station longitude": -73.981013,
+  "bikeid": 17171,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

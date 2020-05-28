@@ -1,0 +1,17 @@
+{
+  "tripduration": 384,
+  "starttime": "2019-12-01 12:56:32.5450",
+  "stoptime": "2019-12-01 13:02:56.9520",
+  "start station id": 268,
+  "start station name": "Howard St & Centre St",
+  "start station latitude": 40.71910537,
+  "start station longitude": -73.99973337,
+  "end station id": 279,
+  "end station name": "Peck Slip & Front St",
+  "end station latitude": 40.707873,
+  "end station longitude": -74.00167,
+  "bikeid": 38845,
+  "usertype": "Subscriber",
+  "birth year": 1967,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 357,
+  "starttime": "2019-12-01 10:29:57.2190",
+  "stoptime": "2019-12-01 10:35:54.8900",
+  "start station id": 247,
+  "start station name": "Perry St & Bleecker St",
+  "start station latitude": 40.73535398,
+  "start station longitude": -74.00483091,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 26962,
+  "usertype": "Subscriber",
+  "birth year": 1962,
+  "gender": "male"
+}

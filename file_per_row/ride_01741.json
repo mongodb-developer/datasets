@@ -1,0 +1,17 @@
+{
+  "tripduration": 105,
+  "starttime": "2019-12-01 08:23:53.9520",
+  "stoptime": "2019-12-01 08:25:39.3110",
+  "start station id": 3318,
+  "start station name": "2 Ave & E 96 St",
+  "start station latitude": 40.7839636,
+  "start station longitude": -73.9471673,
+  "end station id": 3296,
+  "end station name": "E 93 St & 2 Ave",
+  "end station latitude": 40.782454175279874,
+  "end station longitude": -73.9489196240902,
+  "bikeid": 15665,
+  "usertype": "Subscriber",
+  "birth year": 1983,
+  "gender": "female"
+}

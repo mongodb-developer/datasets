@@ -1,0 +1,17 @@
+{
+  "tripduration": 289,
+  "starttime": "2019-12-01 12:13:51.9040",
+  "stoptime": "2019-12-01 12:18:40.9470",
+  "start station id": 331,
+  "start station name": "Pike St & Monroe St",
+  "start station latitude": 40.71173107,
+  "start station longitude": -73.99193043,
+  "end station id": 350,
+  "end station name": "Clinton St & Grand St",
+  "end station latitude": 40.71559509,
+  "end station longitude": -73.9870295,
+  "bikeid": 38562,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

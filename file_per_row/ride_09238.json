@@ -1,0 +1,17 @@
+{
+  "tripduration": 494,
+  "starttime": "2019-12-01 18:44:04.3990",
+  "stoptime": "2019-12-01 18:52:19.2590",
+  "start station id": 164,
+  "start station name": "E 47 St & 2 Ave",
+  "start station latitude": 40.75323098,
+  "start station longitude": -73.97032517,
+  "end station id": 450,
+  "end station name": "W 49 St & 8 Ave",
+  "end station latitude": 40.76227205,
+  "end station longitude": -73.98788205,
+  "bikeid": 28749,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

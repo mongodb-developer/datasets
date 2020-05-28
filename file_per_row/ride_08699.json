@@ -1,0 +1,17 @@
+{
+  "tripduration": 232,
+  "starttime": "2019-12-01 17:02:03.3310",
+  "stoptime": "2019-12-01 17:05:55.8150",
+  "start station id": 3832,
+  "start station name": "Central Ave & Weirfield St",
+  "start station latitude": 40.69055,
+  "start station longitude": -73.91181,
+  "end station id": 3827,
+  "end station name": "Halsey St & Broadway",
+  "end station latitude": 40.68565,
+  "end station longitude": -73.91564,
+  "bikeid": 41692,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "male"
+}

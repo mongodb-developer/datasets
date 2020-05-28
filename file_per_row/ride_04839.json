@@ -1,0 +1,17 @@
+{
+  "tripduration": 165,
+  "starttime": "2019-12-01 11:03:53.0130",
+  "stoptime": "2019-12-01 11:06:38.9170",
+  "start station id": 244,
+  "start station name": "Willoughby Ave & Hall St",
+  "start station latitude": 40.69196035,
+  "start station longitude": -73.96536851,
+  "end station id": 313,
+  "end station name": "Washington Ave & Park Ave",
+  "end station latitude": 40.69610226,
+  "end station longitude": -73.96751037,
+  "bikeid": 38724,
+  "usertype": "Subscriber",
+  "birth year": 1964,
+  "gender": "male"
+}

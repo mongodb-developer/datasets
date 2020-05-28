@@ -1,0 +1,17 @@
+{
+  "tripduration": 569,
+  "starttime": "2019-12-01 02:18:59.1120",
+  "stoptime": "2019-12-01 02:28:28.3810",
+  "start station id": 335,
+  "start station name": "Washington Pl & Broadway",
+  "start station latitude": 40.72903917,
+  "start station longitude": -73.99404649,
+  "end station id": 302,
+  "end station name": "Avenue D & E 3 St",
+  "end station latitude": 40.72082834,
+  "end station longitude": -73.97793172,
+  "bikeid": 16215,
+  "usertype": "Subscriber",
+  "birth year": 1988,
+  "gender": "male"
+}

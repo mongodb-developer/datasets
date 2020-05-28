@@ -1,0 +1,17 @@
+{
+  "tripduration": 661,
+  "starttime": "2019-12-01 11:12:22.4650",
+  "stoptime": "2019-12-01 11:23:23.8500",
+  "start station id": 3457,
+  "start station name": "E 58 St & Madison Ave",
+  "start station latitude": 40.76302594280519,
+  "start station longitude": -73.97209525108337,
+  "end station id": 3143,
+  "end station name": "5 Ave & E 78 St",
+  "end station latitude": 40.77632142182271,
+  "end station longitude": -73.96427392959595,
+  "bikeid": 40338,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

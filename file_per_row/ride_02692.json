@@ -1,0 +1,17 @@
+{
+  "tripduration": 1799,
+  "starttime": "2019-12-01 09:32:40.2250",
+  "stoptime": "2019-12-01 10:02:39.2730",
+  "start station id": 3366,
+  "start station name": "West End Ave & W 107 St",
+  "start station latitude": 40.8021174,
+  "start station longitude": -73.9681805305,
+  "end station id": 468,
+  "end station name": "Broadway & W 56 St",
+  "end station latitude": 40.7652654,
+  "end station longitude": -73.98192338,
+  "bikeid": 39662,
+  "usertype": "Subscriber",
+  "birth year": 1956,
+  "gender": "female"
+}

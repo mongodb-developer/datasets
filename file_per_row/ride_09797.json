@@ -1,0 +1,17 @@
+{
+  "tripduration": 977,
+  "starttime": "2019-12-01 20:17:32.9040",
+  "stoptime": "2019-12-01 20:33:49.9130",
+  "start station id": 282,
+  "start station name": "Kent Ave & S 11 St",
+  "start station latitude": 40.707644944175705,
+  "start station longitude": -73.96841526031494,
+  "end station id": 3402,
+  "end station name": "Court St & State St",
+  "end station latitude": 40.6902375,
+  "end station longitude": -73.99203074,
+  "bikeid": 40349,
+  "usertype": "Subscriber",
+  "birth year": 1981,
+  "gender": "male"
+}

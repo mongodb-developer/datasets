@@ -1,0 +1,17 @@
+{
+  "tripduration": 449,
+  "starttime": "2019-12-01 10:05:47.5800",
+  "stoptime": "2019-12-01 10:13:17.5450",
+  "start station id": 3724,
+  "start station name": "7 Ave & Central Park South",
+  "start station latitude": 40.7667405590595,
+  "start station longitude": -73.9790689945221,
+  "end station id": 3697,
+  "end station name": "W 64 St & Thelonious Monk Circle",
+  "end station latitude": 40.77515953434235,
+  "end station longitude": -73.98918695747852,
+  "bikeid": 32617,
+  "usertype": "Subscriber",
+  "birth year": 1966,
+  "gender": "male"
+}

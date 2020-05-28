@@ -1,0 +1,17 @@
+{
+  "tripduration": 334,
+  "starttime": "2019-12-01 10:22:27.7280",
+  "stoptime": "2019-12-01 10:28:02.0660",
+  "start station id": 3158,
+  "start station name": "W 63 St & Broadway",
+  "start station latitude": 40.77163851,
+  "start station longitude": -73.98261428,
+  "end station id": 3173,
+  "end station name": "Riverside Blvd & W 67 St",
+  "end station latitude": 40.777507027547976,
+  "end station longitude": -73.98888587951659,
+  "bikeid": 40980,
+  "usertype": "Subscriber",
+  "birth year": 1984,
+  "gender": "male"
+}

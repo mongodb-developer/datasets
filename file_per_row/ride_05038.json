@@ -1,0 +1,17 @@
+{
+  "tripduration": 1802,
+  "starttime": "2019-12-01 11:13:32.9090",
+  "stoptime": "2019-12-01 11:43:35.4620",
+  "start station id": 3374,
+  "start station name": "Central Park North & Adam Clayton Powell Blvd",
+  "start station latitude": 40.799484,
+  "start station longitude": -73.955613,
+  "end station id": 3295,
+  "end station name": "Central Park W & W 96 St",
+  "end station latitude": 40.79127,
+  "end station longitude": -73.964839,
+  "bikeid": 32330,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

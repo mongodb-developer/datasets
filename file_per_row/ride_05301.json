@@ -1,0 +1,17 @@
+{
+  "tripduration": 649,
+  "starttime": "2019-12-01 11:27:08.7080",
+  "stoptime": "2019-12-01 11:37:58.4110",
+  "start station id": 116,
+  "start station name": "W 17 St & 8 Ave",
+  "start station latitude": 40.74177603,
+  "start station longitude": -74.00149746,
+  "end station id": 504,
+  "end station name": "1 Ave & E 16 St",
+  "end station latitude": 40.73221853,
+  "end station longitude": -73.98165557,
+  "bikeid": 30947,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "female"
+}

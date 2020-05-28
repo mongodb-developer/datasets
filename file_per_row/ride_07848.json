@@ -1,0 +1,17 @@
+{
+  "tripduration": 471,
+  "starttime": "2019-12-01 15:00:41.9720",
+  "stoptime": "2019-12-01 15:08:33.4480",
+  "start station id": 3507,
+  "start station name": "Park Ave & E 124 St",
+  "start station latitude": 40.8045555,
+  "start station longitude": -73.9396861,
+  "end station id": 3390,
+  "end station name": "E 109 St & 3 Ave",
+  "end station latitude": 40.79329668,
+  "end station longitude": -73.9432083,
+  "bikeid": 41120,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 340,
+  "starttime": "2019-12-01 10:36:42.6380",
+  "stoptime": "2019-12-01 10:42:22.9570",
+  "start station id": 536,
+  "start station name": "1 Ave & E 30 St",
+  "start station latitude": 40.74144387,
+  "start station longitude": -73.97536082,
+  "end station id": 487,
+  "end station name": "E 20 St & FDR Drive",
+  "end station latitude": 40.73314259,
+  "end station longitude": -73.97573881,
+  "bikeid": 34295,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

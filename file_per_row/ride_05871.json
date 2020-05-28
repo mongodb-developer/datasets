@@ -1,0 +1,17 @@
+{
+  "tripduration": 389,
+  "starttime": "2019-12-01 12:01:33.1830",
+  "stoptime": "2019-12-01 12:08:02.3580",
+  "start station id": 482,
+  "start station name": "W 15 St & 7 Ave",
+  "start station latitude": 40.73935542,
+  "start station longitude": -73.99931783,
+  "end station id": 3244,
+  "end station name": "University Pl & E 8 St",
+  "end station latitude": 40.73143724085228,
+  "end station longitude": -73.99490341544151,
+  "bikeid": 41440,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 527,
+  "starttime": "2019-12-01 17:30:21.0910",
+  "stoptime": "2019-12-01 17:39:08.6850",
+  "start station id": 445,
+  "start station name": "E 10 St & Avenue A",
+  "start station latitude": 40.72740794,
+  "start station longitude": -73.98142006,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 32874,
+  "usertype": "Customer",
+  "birth year": 1980,
+  "gender": "male"
+}

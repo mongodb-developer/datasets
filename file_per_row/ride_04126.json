@@ -1,0 +1,17 @@
+{
+  "tripduration": 572,
+  "starttime": "2019-12-01 10:36:01.3580",
+  "stoptime": "2019-12-01 10:45:33.8830",
+  "start station id": 3622,
+  "start station name": "E 128 St & Madison Ave",
+  "start station latitude": 40.80756,
+  "start station longitude": -73.939182,
+  "end station id": 3508,
+  "end station name": "St Nicholas Ave & Manhattan Ave",
+  "end station latitude": 40.809725,
+  "end station longitude": -73.953149,
+  "bikeid": 31206,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "female"
+}

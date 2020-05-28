@@ -1,0 +1,17 @@
+{
+  "tripduration": 498,
+  "starttime": "2019-12-01 11:24:00.0710",
+  "stoptime": "2019-12-01 11:32:18.3420",
+  "start station id": 3746,
+  "start station name": "6 Ave & Broome St",
+  "start station latitude": 40.724308321602166,
+  "start station longitude": -74.00473035871983,
+  "end station id": 327,
+  "end station name": "Vesey Pl & River Terrace",
+  "end station latitude": 40.7153379,
+  "end station longitude": -74.01658354,
+  "bikeid": 33091,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 395,
+  "starttime": "2019-12-01 15:07:06.2740",
+  "stoptime": "2019-12-01 15:13:41.7190",
+  "start station id": 545,
+  "start station name": "E 23 St & 1 Ave",
+  "start station latitude": 40.736502,
+  "start station longitude": -73.97809472,
+  "end station id": 285,
+  "end station name": "Broadway & E 14 St",
+  "end station latitude": 40.73454567,
+  "end station longitude": -73.99074142,
+  "bikeid": 30231,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 616,
+  "starttime": "2019-12-01 10:22:06.1510",
+  "stoptime": "2019-12-01 10:32:23.0740",
+  "start station id": 3283,
+  "start station name": "W 89 St & Columbus Ave",
+  "start station latitude": 40.7882213,
+  "start station longitude": -73.97041561,
+  "end station id": 3360,
+  "end station name": "Amsterdam Ave & W 79 St",
+  "end station latitude": 40.7829391,
+  "end station longitude": -73.9786517,
+  "bikeid": 38103,
+  "usertype": "Subscriber",
+  "birth year": 1957,
+  "gender": "male"
+}

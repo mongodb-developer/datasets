@@ -1,0 +1,17 @@
+{
+  "tripduration": 1317,
+  "starttime": "2019-12-01 17:08:37.6770",
+  "stoptime": "2019-12-01 17:30:35.4330",
+  "start station id": 251,
+  "start station name": "Mott St & Prince St",
+  "start station latitude": 40.72317958,
+  "start station longitude": -73.99480012,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 39963,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

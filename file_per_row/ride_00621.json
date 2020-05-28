@@ -1,0 +1,17 @@
+{
+  "tripduration": 308,
+  "starttime": "2019-12-01 02:08:51.2260",
+  "stoptime": "2019-12-01 02:13:59.5290",
+  "start station id": 3586,
+  "start station name": "34 Ave & 13 St",
+  "start station latitude": 40.7638753,
+  "start station longitude": -73.9364848,
+  "end station id": 3586,
+  "end station name": "34 Ave & 13 St",
+  "end station latitude": 40.7638753,
+  "end station longitude": -73.9364848,
+  "bikeid": 34973,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

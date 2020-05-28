@@ -1,0 +1,17 @@
+{
+  "tripduration": 510,
+  "starttime": "2019-12-01 10:46:30.8150",
+  "stoptime": "2019-12-01 10:55:00.8980",
+  "start station id": 83,
+  "start station name": "Atlantic Ave & Fort Greene Pl",
+  "start station latitude": 40.68382604,
+  "start station longitude": -73.97632328,
+  "end station id": 3762,
+  "end station name": "3 Ave & Carroll St",
+  "end station latitude": 40.677027,
+  "end station longitude": -73.9865,
+  "bikeid": 38436,
+  "usertype": "Subscriber",
+  "birth year": 1974,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 648,
+  "starttime": "2019-12-01 09:34:52.7280",
+  "stoptime": "2019-12-01 09:45:41.5290",
+  "start station id": 478,
+  "start station name": "11 Ave & W 41 St",
+  "start station latitude": 40.76030096,
+  "start station longitude": -73.99884222,
+  "end station id": 388,
+  "end station name": "W 26 St & 10 Ave",
+  "end station latitude": 40.749717753,
+  "end station longitude": -74.002950346,
+  "bikeid": 33947,
+  "usertype": "Customer",
+  "birth year": 1992,
+  "gender": "female"
+}

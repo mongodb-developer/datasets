@@ -1,0 +1,17 @@
+{
+  "tripduration": 299,
+  "starttime": "2019-12-01 08:44:38.5480",
+  "stoptime": "2019-12-01 08:49:38.3550",
+  "start station id": 3144,
+  "start station name": "E 81 St & Park Ave",
+  "start station latitude": 40.77677702,
+  "start station longitude": -73.9590097,
+  "end station id": 3282,
+  "end station name": "5 Ave & E 88 St",
+  "end station latitude": 40.78307,
+  "end station longitude": -73.95939,
+  "bikeid": 38514,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

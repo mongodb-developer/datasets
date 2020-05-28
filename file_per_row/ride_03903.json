@@ -1,0 +1,17 @@
+{
+  "tripduration": 364,
+  "starttime": "2019-12-01 10:26:58.0900",
+  "stoptime": "2019-12-01 10:33:02.7450",
+  "start station id": 502,
+  "start station name": "Henry St & Grand St",
+  "start station latitude": 40.714211,
+  "start station longitude": -73.981095,
+  "end station id": 408,
+  "end station name": "Market St & Cherry St",
+  "end station latitude": 40.71076228,
+  "end station longitude": -73.99400398,
+  "bikeid": 41501,
+  "usertype": "Customer",
+  "birth year": 1969,
+  "gender": "unknown"
+}

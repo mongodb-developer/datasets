@@ -1,0 +1,17 @@
+{
+  "tripduration": 938,
+  "starttime": "2019-12-01 14:58:49.8800",
+  "stoptime": "2019-12-01 15:14:28.8690",
+  "start station id": 417,
+  "start station name": "Barclay St & Church St",
+  "start station latitude": 40.71291224,
+  "start station longitude": -74.01020234,
+  "end station id": 224,
+  "end station name": "Spruce St & Nassau St",
+  "end station latitude": 40.71146364,
+  "end station longitude": -74.00552427,
+  "bikeid": 21688,
+  "usertype": "Customer",
+  "birth year": 1994,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 320,
+  "starttime": "2019-12-01 12:42:04.6850",
+  "stoptime": "2019-12-01 12:47:24.9290",
+  "start station id": 298,
+  "start station name": "3 Ave & Schermerhorn St",
+  "start station latitude": 40.68683208,
+  "start station longitude": -73.9796772,
+  "end station id": 3420,
+  "end station name": "Douglass St & 3 Ave",
+  "end station latitude": 40.6802133,
+  "end station longitude": -73.98432695,
+  "bikeid": 31609,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "female"
+}

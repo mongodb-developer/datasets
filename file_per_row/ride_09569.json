@@ -1,0 +1,17 @@
+{
+  "tripduration": 1242,
+  "starttime": "2019-12-01 19:42:13.3590",
+  "stoptime": "2019-12-01 20:02:55.6160",
+  "start station id": 530,
+  "start station name": "11 Ave & W 59 St",
+  "start station latitude": 40.77149671054441,
+  "start station longitude": -73.99046033620834,
+  "end station id": 359,
+  "end station name": "E 47 St & Park Ave",
+  "end station latitude": 40.75510267,
+  "end station longitude": -73.97498696,
+  "bikeid": 27690,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

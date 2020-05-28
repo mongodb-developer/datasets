@@ -1,0 +1,17 @@
+{
+  "tripduration": 262,
+  "starttime": "2019-12-01 12:54:08.0680",
+  "stoptime": "2019-12-01 12:58:30.3520",
+  "start station id": 426,
+  "start station name": "West St & Chambers St",
+  "start station latitude": 40.71754834,
+  "start station longitude": -74.01322069,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 16315,
+  "usertype": "Subscriber",
+  "birth year": 1946,
+  "gender": "male"
+}

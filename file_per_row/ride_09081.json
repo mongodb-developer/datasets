@@ -1,0 +1,17 @@
+{
+  "tripduration": 702,
+  "starttime": "2019-12-01 18:14:30.3200",
+  "stoptime": "2019-12-01 18:26:12.5970",
+  "start station id": 3164,
+  "start station name": "Columbus Ave & W 72 St",
+  "start station latitude": 40.7770575,
+  "start station longitude": -73.97898475,
+  "end station id": 3341,
+  "end station name": "Central Park West & W 102 St",
+  "end station latitude": 40.795346,
+  "end station longitude": -73.96186,
+  "bikeid": 35296,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

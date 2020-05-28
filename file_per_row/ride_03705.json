@@ -1,0 +1,17 @@
+{
+  "tripduration": 801,
+  "starttime": "2019-12-01 10:18:43.3440",
+  "stoptime": "2019-12-01 10:32:05.3340",
+  "start station id": 458,
+  "start station name": "11 Ave & W 27 St",
+  "start station latitude": 40.751396,
+  "start station longitude": -74.005226,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 30315,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "female"
+}

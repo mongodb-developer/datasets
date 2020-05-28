@@ -1,0 +1,17 @@
+{
+  "tripduration": 428,
+  "starttime": "2019-12-01 09:29:32.7200",
+  "stoptime": "2019-12-01 09:36:41.6770",
+  "start station id": 3094,
+  "start station name": "Graham Ave & Withers St",
+  "start station latitude": 40.7169811,
+  "start station longitude": -73.94485918,
+  "end station id": 3068,
+  "end station name": "Humboldt St & Varet St",
+  "end station latitude": 40.7031724,
+  "end station longitude": -73.940636,
+  "bikeid": 33806,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "unknown"
+}

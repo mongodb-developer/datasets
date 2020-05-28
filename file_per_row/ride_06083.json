@@ -1,0 +1,17 @@
+{
+  "tripduration": 550,
+  "starttime": "2019-12-01 12:13:48.0520",
+  "stoptime": "2019-12-01 12:22:58.3240",
+  "start station id": 237,
+  "start station name": "E 11 St & 2 Ave",
+  "start station latitude": 40.73047309,
+  "start station longitude": -73.98672378,
+  "end station id": 296,
+  "end station name": "Division St & Bowery (old)",
+  "end station latitude": 40.71413089,
+  "end station longitude": -73.9970468,
+  "bikeid": 34241,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

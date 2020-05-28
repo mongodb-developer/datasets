@@ -1,0 +1,17 @@
+{
+  "tripduration": 626,
+  "starttime": "2019-12-01 08:46:33.2000",
+  "stoptime": "2019-12-01 08:56:59.4250",
+  "start station id": 3553,
+  "start station name": "Frederick Douglass Blvd & W 112 St",
+  "start station latitude": 40.801694,
+  "start station longitude": -73.957145,
+  "end station id": 3283,
+  "end station name": "W 89 St & Columbus Ave",
+  "end station latitude": 40.7882213,
+  "end station longitude": -73.97041561,
+  "bikeid": 40416,
+  "usertype": "Subscriber",
+  "birth year": 1982,
+  "gender": "male"
+}

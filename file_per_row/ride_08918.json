@@ -1,0 +1,17 @@
+{
+  "tripduration": 1619,
+  "starttime": "2019-12-01 17:46:36.9930",
+  "stoptime": "2019-12-01 18:13:36.9500",
+  "start station id": 127,
+  "start station name": "Barrow St & Hudson St",
+  "start station latitude": 40.73172428,
+  "start station longitude": -74.00674436,
+  "end station id": 358,
+  "end station name": "Christopher St & Greenwich St",
+  "end station latitude": 40.73291553,
+  "end station longitude": -74.00711384,
+  "bikeid": 38888,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

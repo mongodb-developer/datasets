@@ -1,0 +1,17 @@
+{
+  "tripduration": 486,
+  "starttime": "2019-12-01 16:31:00.8220",
+  "stoptime": "2019-12-01 16:39:07.3230",
+  "start station id": 3535,
+  "start station name": "Mt Morris Park W & W 120 St",
+  "start station latitude": 40.804038,
+  "start station longitude": -73.945925,
+  "end station id": 3538,
+  "end station name": "W 110 St & Amsterdam Ave",
+  "end station latitude": 40.802692,
+  "end station longitude": -73.96295,
+  "bikeid": 29142,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

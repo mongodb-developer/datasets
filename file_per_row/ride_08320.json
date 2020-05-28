@@ -1,0 +1,17 @@
+{
+  "tripduration": 291,
+  "starttime": "2019-12-01 15:48:55.4710",
+  "stoptime": "2019-12-01 15:53:47.2250",
+  "start station id": 285,
+  "start station name": "Broadway & E 14 St",
+  "start station latitude": 40.73454567,
+  "start station longitude": -73.99074142,
+  "end station id": 303,
+  "end station name": "Mercer St & Spring St",
+  "end station latitude": 40.72362738,
+  "end station longitude": -73.99949601,
+  "bikeid": 39703,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

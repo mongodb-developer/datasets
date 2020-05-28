@@ -1,0 +1,17 @@
+{
+  "tripduration": 1507,
+  "starttime": "2019-12-01 08:02:00.9640",
+  "stoptime": "2019-12-01 08:27:08.3860",
+  "start station id": 3308,
+  "start station name": "Kane St & Clinton St",
+  "start station latitude": 40.6861758,
+  "start station longitude": -73.99645295,
+  "end station id": 293,
+  "end station name": "Lafayette St & E 8 St",
+  "end station latitude": 40.73020660529954,
+  "end station longitude": -73.99102628231049,
+  "bikeid": 41822,
+  "usertype": "Subscriber",
+  "birth year": 1955,
+  "gender": "female"
+}

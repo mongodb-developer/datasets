@@ -1,0 +1,17 @@
+{
+  "tripduration": 649,
+  "starttime": "2019-12-01 13:59:44.6300",
+  "stoptime": "2019-12-01 14:10:34.4330",
+  "start station id": 212,
+  "start station name": "W 16 St & The High Line",
+  "start station latitude": 40.74334935,
+  "start station longitude": -74.00681753,
+  "end station id": 496,
+  "end station name": "E 16 St & 5 Ave",
+  "end station latitude": 40.73726186,
+  "end station longitude": -73.99238967,
+  "bikeid": 15193,
+  "usertype": "Customer",
+  "birth year": 1986,
+  "gender": "female"
+}

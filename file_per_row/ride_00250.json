@@ -1,0 +1,17 @@
+{
+  "tripduration": 2004,
+  "starttime": "2019-12-01 00:37:42.4730",
+  "stoptime": "2019-12-01 01:11:07.3850",
+  "start station id": 476,
+  "start station name": "E 31 St & 3 Ave",
+  "start station latitude": 40.74394314,
+  "start station longitude": -73.97966069,
+  "end station id": 3490,
+  "end station name": "E 116 St & 2 Ave",
+  "end station latitude": 40.796879,
+  "end station longitude": -73.937261,
+  "bikeid": 28054,
+  "usertype": "Subscriber",
+  "birth year": 1972,
+  "gender": "male"
+}

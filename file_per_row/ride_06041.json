@@ -1,0 +1,17 @@
+{
+  "tripduration": 568,
+  "starttime": "2019-12-01 12:11:21.2610",
+  "stoptime": "2019-12-01 12:20:49.7430",
+  "start station id": 254,
+  "start station name": "W 11 St & 6 Ave",
+  "start station latitude": 40.73532427,
+  "start station longitude": -73.99800419,
+  "end station id": 3256,
+  "end station name": "Pier 40 - Hudson River Park",
+  "end station latitude": 40.7277140777778,
+  "end station longitude": -74.01129573583603,
+  "bikeid": 33081,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

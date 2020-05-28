@@ -1,0 +1,17 @@
+{
+  "tripduration": 1148,
+  "starttime": "2019-12-01 11:56:57.5980",
+  "stoptime": "2019-12-01 12:16:05.6390",
+  "start station id": 3052,
+  "start station name": "Lewis Ave & Madison St",
+  "start station latitude": 40.686312,
+  "start station longitude": -73.935775,
+  "end station id": 3852,
+  "end station name": "Stewart Ave & Johnson Ave",
+  "end station latitude": 40.70869,
+  "end station longitude": -73.92587,
+  "bikeid": 33258,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "female"
+}

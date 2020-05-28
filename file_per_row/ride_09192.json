@@ -1,0 +1,17 @@
+{
+  "tripduration": 935,
+  "starttime": "2019-12-01 18:35:41.4270",
+  "stoptime": "2019-12-01 18:51:16.8980",
+  "start station id": 3497,
+  "start station name": "Pleasant Ave & E 116 St",
+  "start station latitude": 40.7949879,
+  "start station longitude": -73.9333349,
+  "end station id": 3148,
+  "end station name": "E 84 St & 1 Ave",
+  "end station latitude": 40.77565541,
+  "end station longitude": -73.95068615,
+  "bikeid": 38349,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "female"
+}

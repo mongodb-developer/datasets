@@ -1,0 +1,17 @@
+{
+  "tripduration": 1032,
+  "starttime": "2019-12-01 12:38:35.5460",
+  "stoptime": "2019-12-01 12:55:48.3700",
+  "start station id": 3141,
+  "start station name": "1 Ave & E 68 St",
+  "start station latitude": 40.76500525,
+  "start station longitude": -73.95818491,
+  "end station id": 3166,
+  "end station name": "Riverside Dr & W 72 St",
+  "end station latitude": 40.78057799010334,
+  "end station longitude": -73.98562431335449,
+  "bikeid": 35252,
+  "usertype": "Subscriber",
+  "birth year": 1960,
+  "gender": "male"
+}

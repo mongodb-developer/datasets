@@ -1,0 +1,17 @@
+{
+  "tripduration": 949,
+  "starttime": "2019-12-01 06:12:08.0270",
+  "stoptime": "2019-12-01 06:27:57.5440",
+  "start station id": 3359,
+  "start station name": "E 68 St & Madison Ave",
+  "start station latitude": 40.7691572,
+  "start station longitude": -73.96703464,
+  "end station id": 461,
+  "end station name": "E 20 St & 2 Ave",
+  "end station latitude": 40.73587678,
+  "end station longitude": -73.98205027,
+  "bikeid": 17818,
+  "usertype": "Subscriber",
+  "birth year": 1971,
+  "gender": "male"
+}

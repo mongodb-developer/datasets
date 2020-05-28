@@ -1,0 +1,17 @@
+{
+  "tripduration": 337,
+  "starttime": "2019-12-01 14:49:57.1420",
+  "stoptime": "2019-12-01 14:55:34.3310",
+  "start station id": 3363,
+  "start station name": "E 102 St & Park Ave",
+  "start station latitude": 40.7904828,
+  "start station longitude": -73.95033068,
+  "end station id": 3502,
+  "end station name": "Lexington Ave & E 111 St",
+  "end station latitude": 40.7954121,
+  "end station longitude": -73.9441232,
+  "bikeid": 19577,
+  "usertype": "Subscriber",
+  "birth year": 1968,
+  "gender": "male"
+}

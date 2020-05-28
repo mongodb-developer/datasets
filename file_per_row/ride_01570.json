@@ -1,0 +1,17 @@
+{
+  "tripduration": 1001,
+  "starttime": "2019-12-01 08:02:54.6770",
+  "stoptime": "2019-12-01 08:19:36.6680",
+  "start station id": 3285,
+  "start station name": "W 87 St & Amsterdam Ave",
+  "start station latitude": 40.78839,
+  "start station longitude": -73.9747,
+  "end station id": 3167,
+  "end station name": "Amsterdam Ave & W 73 St",
+  "end station latitude": 40.77966809007312,
+  "end station longitude": -73.98093044757842,
+  "bikeid": 41829,
+  "usertype": "Subscriber",
+  "birth year": 1954,
+  "gender": "male"
+}

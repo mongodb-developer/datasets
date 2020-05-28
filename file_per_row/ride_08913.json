@@ -1,0 +1,17 @@
+{
+  "tripduration": 594,
+  "starttime": "2019-12-01 17:45:57.7090",
+  "stoptime": "2019-12-01 17:55:51.8850",
+  "start station id": 313,
+  "start station name": "Washington Ave & Park Ave",
+  "start station latitude": 40.69610226,
+  "start station longitude": -73.96751037,
+  "end station id": 2000,
+  "end station name": "Front St & Washington St",
+  "end station latitude": 40.70255088,
+  "end station longitude": -73.98940236,
+  "bikeid": 28900,
+  "usertype": "Subscriber",
+  "birth year": 1990,
+  "gender": "male"
+}

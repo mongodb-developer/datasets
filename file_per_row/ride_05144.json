@@ -1,0 +1,17 @@
+{
+  "tripduration": 976,
+  "starttime": "2019-12-01 11:19:18.0950",
+  "stoptime": "2019-12-01 11:35:35.0250",
+  "start station id": 144,
+  "start station name": "Nassau St & Navy St",
+  "start station latitude": 40.69839895,
+  "start station longitude": -73.98068914,
+  "end station id": 3673,
+  "end station name": "Dean St & Franklin Ave",
+  "end station latitude": 40.67759206937376,
+  "end station longitude": -73.955637216568,
+  "bikeid": 40906,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

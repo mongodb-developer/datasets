@@ -1,0 +1,17 @@
+{
+  "tripduration": 323,
+  "starttime": "2019-12-01 10:17:49.4800",
+  "stoptime": "2019-12-01 10:23:12.5850",
+  "start station id": 3102,
+  "start station name": "Driggs Ave & Lorimer St",
+  "start station latitude": 40.72179134,
+  "start station longitude": -73.9504154,
+  "end station id": 2002,
+  "end station name": "Wythe Ave & Metropolitan Ave",
+  "end station latitude": 40.716887,
+  "end station longitude": -73.963198,
+  "bikeid": 30799,
+  "usertype": "Subscriber",
+  "birth year": 1986,
+  "gender": "male"
+}

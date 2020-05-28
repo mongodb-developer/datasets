@@ -1,0 +1,17 @@
+{
+  "tripduration": 296,
+  "starttime": "2019-12-01 16:28:02.3350",
+  "stoptime": "2019-12-01 16:32:59.0930",
+  "start station id": 402,
+  "start station name": "Broadway & E 22 St",
+  "start station latitude": 40.7403432,
+  "start station longitude": -73.98955109,
+  "end station id": 507,
+  "end station name": "E 25 St & 2 Ave",
+  "end station latitude": 40.73912601,
+  "end station longitude": -73.97973776,
+  "bikeid": 38170,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

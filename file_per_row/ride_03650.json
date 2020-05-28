@@ -1,0 +1,17 @@
+{
+  "tripduration": 758,
+  "starttime": "2019-12-01 10:16:53.3110",
+  "stoptime": "2019-12-01 10:29:32.2570",
+  "start station id": 476,
+  "start station name": "E 31 St & 3 Ave",
+  "start station latitude": 40.74394314,
+  "start station longitude": -73.97966069,
+  "end station id": 173,
+  "end station name": "Broadway & W 49 St",
+  "end station latitude": 40.76068327096592,
+  "end station longitude": -73.9845272898674,
+  "bikeid": 33333,
+  "usertype": "Subscriber",
+  "birth year": 1995,
+  "gender": "male"
+}

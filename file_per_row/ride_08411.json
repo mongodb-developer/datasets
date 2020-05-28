@@ -1,0 +1,17 @@
+{
+  "tripduration": 587,
+  "starttime": "2019-12-01 16:00:31.4300",
+  "stoptime": "2019-12-01 16:10:18.4990",
+  "start station id": 3295,
+  "start station name": "Central Park W & W 96 St",
+  "start station latitude": 40.79127,
+  "start station longitude": -73.964839,
+  "end station id": 3363,
+  "end station name": "E 102 St & Park Ave",
+  "end station latitude": 40.7904828,
+  "end station longitude": -73.95033068,
+  "bikeid": 27706,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

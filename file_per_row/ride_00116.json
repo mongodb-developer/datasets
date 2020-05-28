@@ -1,0 +1,17 @@
+{
+  "tripduration": 1007,
+  "starttime": "2019-12-01 00:16:49.9210",
+  "stoptime": "2019-12-01 00:33:37.3880",
+  "start station id": 312,
+  "start station name": "Allen St & Stanton St",
+  "start station latitude": 40.722055,
+  "start station longitude": -73.989111,
+  "end station id": 539,
+  "end station name": "Metropolitan Ave & Bedford Ave",
+  "end station latitude": 40.71534825,
+  "end station longitude": -73.96024116,
+  "bikeid": 41117,
+  "usertype": "Subscriber",
+  "birth year": 1993,
+  "gender": "male"
+}

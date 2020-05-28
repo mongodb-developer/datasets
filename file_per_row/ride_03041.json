@@ -1,0 +1,17 @@
+{
+  "tripduration": 559,
+  "starttime": "2019-12-01 09:48:32.5780",
+  "stoptime": "2019-12-01 09:57:52.4310",
+  "start station id": 344,
+  "start station name": "Monroe St & Bedford Ave",
+  "start station latitude": 40.6851443,
+  "start station longitude": -73.95380904,
+  "end station id": 258,
+  "end station name": "DeKalb Ave & Vanderbilt Ave",
+  "end station latitude": 40.68940747,
+  "end station longitude": -73.96885458,
+  "bikeid": 18949,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "female"
+}

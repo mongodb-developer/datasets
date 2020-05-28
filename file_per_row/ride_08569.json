@@ -1,0 +1,17 @@
+{
+  "tripduration": 736,
+  "starttime": "2019-12-01 16:33:13.0110",
+  "stoptime": "2019-12-01 16:45:29.2820",
+  "start station id": 296,
+  "start station name": "Division St & Bowery (old)",
+  "start station latitude": 40.71413089,
+  "start station longitude": -73.9970468,
+  "end station id": 3674,
+  "end station name": "Jay St & York St",
+  "end station latitude": 40.701403172577244,
+  "end station longitude": -73.98672670125961,
+  "bikeid": 35324,
+  "usertype": "Subscriber",
+  "birth year": 1961,
+  "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 151,
+  "starttime": "2019-12-01 11:02:52.2870",
+  "stoptime": "2019-12-01 11:05:23.5240",
+  "start station id": 397,
+  "start station name": "Fulton St & Clermont Ave",
+  "start station latitude": 40.68415748,
+  "start station longitude": -73.96922273,
+  "end station id": 275,
+  "end station name": "Washington Ave & Greene Ave",
+  "end station latitude": 40.68650065,
+  "end station longitude": -73.96563307,
+  "bikeid": 27051,
+  "usertype": "Subscriber",
+  "birth year": 1991,
+  "gender": "male"
+}

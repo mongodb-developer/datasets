@@ -1,0 +1,17 @@
+{
+  "tripduration": 1305,
+  "starttime": "2019-12-01 18:04:02.0040",
+  "stoptime": "2019-12-01 18:25:47.8250",
+  "start station id": 3809,
+  "start station name": "W 55 St & 6 Ave",
+  "start station latitude": 40.763189,
+  "start station longitude": -73.978434,
+  "end station id": 3166,
+  "end station name": "Riverside Dr & W 72 St",
+  "end station latitude": 40.78057799010334,
+  "end station longitude": -73.98562431335449,
+  "bikeid": 30091,
+  "usertype": "Subscriber",
+  "birth year": 1965,
+  "gender": "male"
+}

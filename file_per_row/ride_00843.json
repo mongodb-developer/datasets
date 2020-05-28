@@ -1,0 +1,17 @@
+{
+  "tripduration": 420,
+  "starttime": "2019-12-01 03:17:24.0150",
+  "stoptime": "2019-12-01 03:24:24.9410",
+  "start station id": 3546,
+  "start station name": "Pacific St & Classon Ave",
+  "start station latitude": 40.6791944,
+  "start station longitude": -73.9587903,
+  "end station id": 3803,
+  "end station name": "Bedford Ave & Montgomery St",
+  "end station latitude": 40.665816,
+  "end station longitude": -73.956934,
+  "bikeid": 32298,
+  "usertype": "Subscriber",
+  "birth year": 1985,
+  "gender": "male"
+}

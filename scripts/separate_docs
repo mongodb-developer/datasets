@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+
+"""
+Read an array of objects from an input file, and write each one out as a separate JSON file to a specified directory.
+"""
+
+from argparse import ArgumentParser
+import csv
+import json
+from pathlib import Path
+
+
+def main():
+    ap = ArgumentParser()
+    ap.add_argument("infile", type=Path, help="input JSON array file")
+    ap.add_argument("outfile", type=Path, help="directory to save output files")
+
+    args = ap.parse_args()
+
+    with args.infile.open("r") as infile:
+        data = json.load(infile)
+        for index, doc in enumerate(data):
+            with (args.outfile / f"ride_{index+1:05d}.json").open("w") as outfile:
+                json.dump(doc, outfile, indent=2)
+
+
+if __name__ == "__main__":
+    main()

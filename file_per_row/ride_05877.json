@@ -1,0 +1,17 @@
+{
+  "tripduration": 450,
+  "starttime": "2019-12-01 12:01:54.7450",
+  "stoptime": "2019-12-01 12:09:24.8720",
+  "start station id": 3171,
+  "start station name": "Amsterdam Ave & W 82 St",
+  "start station latitude": 40.78524672,
+  "start station longitude": -73.97667321,
+  "end station id": 3164,
+  "end station name": "Columbus Ave & W 72 St",
+  "end station latitude": 40.7770575,
+  "end station longitude": -73.97898475,
+  "bikeid": 38441,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "female"
+}

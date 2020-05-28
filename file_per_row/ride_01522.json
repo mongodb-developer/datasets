@@ -1,0 +1,17 @@
+{
+  "tripduration": 1531,
+  "starttime": "2019-12-01 07:56:04.4180",
+  "stoptime": "2019-12-01 08:21:35.7710",
+  "start station id": 419,
+  "start station name": "Carlton Ave & Park Ave",
+  "start station latitude": 40.69580705,
+  "start station longitude": -73.97355569,
+  "end station id": 412,
+  "end station name": "Forsyth St & Canal St",
+  "end station latitude": 40.7158155,
+  "end station longitude": -73.99422366,
+  "bikeid": 15086,
+  "usertype": "Subscriber",
+  "birth year": 1954,
+  "gender": "male"
+}

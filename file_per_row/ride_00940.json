@@ -1,0 +1,17 @@
+{
+  "tripduration": 977,
+  "starttime": "2019-12-01 04:06:00.0720",
+  "stoptime": "2019-12-01 04:22:17.8190",
+  "start station id": 3737,
+  "start station name": "Stanton St & Norfolk St",
+  "start station latitude": 40.720747,
+  "start station longitude": -73.986274,
+  "end station id": 502,
+  "end station name": "Henry St & Grand St",
+  "end station latitude": 40.714211,
+  "end station longitude": -73.981095,
+  "bikeid": 40689,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "male"
+}

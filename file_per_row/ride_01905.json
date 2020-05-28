@@ -1,0 +1,17 @@
+{
+  "tripduration": 3328,
+  "starttime": "2019-12-01 08:39:09.4590",
+  "stoptime": "2019-12-01 09:34:38.0890",
+  "start station id": 369,
+  "start station name": "Washington Pl & 6 Ave",
+  "start station latitude": 40.73224119,
+  "start station longitude": -74.00026394,
+  "end station id": 380,
+  "end station name": "W 4 St & 7 Ave S",
+  "end station latitude": 40.73401143,
+  "end station longitude": -74.00293877,
+  "bikeid": 32553,
+  "usertype": "Subscriber",
+  "birth year": 1987,
+  "gender": "male"
+}

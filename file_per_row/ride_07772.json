@@ -1,0 +1,17 @@
+{
+  "tripduration": 206,
+  "starttime": "2019-12-01 14:54:02.0430",
+  "stoptime": "2019-12-01 14:57:28.6630",
+  "start station id": 3128,
+  "start station name": "21 St & 43 Ave",
+  "start station latitude": 40.75052534,
+  "start station longitude": -73.94594845,
+  "end station id": 3125,
+  "end station name": "45 Rd & 11 St",
+  "end station latitude": 40.74708586,
+  "end station longitude": -73.94977234,
+  "bikeid": 20179,
+  "usertype": "Subscriber",
+  "birth year": 1979,
+  "gender": "male"
+}

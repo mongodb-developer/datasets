@@ -1,0 +1,17 @@
+{
+  "tripduration": 1456,
+  "starttime": "2019-12-01 12:14:48.3010",
+  "stoptime": "2019-12-01 12:39:04.9450",
+  "start station id": 3409,
+  "start station name": "Bergen St & Smith St",
+  "start station latitude": 40.6867443,
+  "start station longitude": -73.99063168,
+  "end station id": 3319,
+  "end station name": "14 St & 5 Ave",
+  "end station latitude": 40.666287,
+  "end station longitude": -73.98895053,
+  "bikeid": 28099,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

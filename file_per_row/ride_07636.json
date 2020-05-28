@@ -1,0 +1,17 @@
+{
+  "tripduration": 770,
+  "starttime": "2019-12-01 14:38:08.3600",
+  "stoptime": "2019-12-01 14:50:58.7710",
+  "start station id": 2008,
+  "start station name": "Little West St & 1 Pl",
+  "start station latitude": 40.70569254,
+  "start station longitude": -74.01677685,
+  "end station id": 309,
+  "end station name": "Murray St & West St",
+  "end station latitude": 40.7149787,
+  "end station longitude": -74.013012,
+  "bikeid": 29086,
+  "usertype": "Subscriber",
+  "birth year": 1999,
+  "gender": "female"
+}

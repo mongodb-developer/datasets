@@ -1,0 +1,17 @@
+{
+  "tripduration": 468,
+  "starttime": "2019-12-01 09:31:29.9070",
+  "stoptime": "2019-12-01 09:39:17.9710",
+  "start station id": 307,
+  "start station name": "Canal St & Rutgers St",
+  "start station latitude": 40.71427487,
+  "start station longitude": -73.98990025,
+  "end station id": 151,
+  "end station name": "Cleveland Pl & Spring St",
+  "end station latitude": 40.722103786686034,
+  "end station longitude": -73.99724900722504,
+  "bikeid": 39746,
+  "usertype": "Subscriber",
+  "birth year": 1973,
+  "gender": "male"
+}

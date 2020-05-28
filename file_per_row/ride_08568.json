@@ -1,0 +1,17 @@
+{
+  "tripduration": 449,
+  "starttime": "2019-12-01 16:32:34.1970",
+  "stoptime": "2019-12-01 16:40:03.9480",
+  "start station id": 3396,
+  "start station name": "Clinton St & 4 Place",
+  "start station latitude": 40.6783563,
+  "start station longitude": -74.00014502,
+  "end station id": 3402,
+  "end station name": "Court St & State St",
+  "end station latitude": 40.6902375,
+  "end station longitude": -73.99203074,
+  "bikeid": 31154,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

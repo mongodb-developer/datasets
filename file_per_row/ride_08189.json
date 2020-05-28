@@ -1,0 +1,17 @@
+{
+  "tripduration": 465,
+  "starttime": "2019-12-01 15:34:31.5620",
+  "stoptime": "2019-12-01 15:42:17.1030",
+  "start station id": 438,
+  "start station name": "St Marks Pl & 1 Ave",
+  "start station latitude": 40.72779126,
+  "start station longitude": -73.98564945,
+  "end station id": 3260,
+  "end station name": "Mercer St & Bleecker St",
+  "end station latitude": 40.72706363348306,
+  "end station longitude": -73.99662137031554,
+  "bikeid": 33196,
+  "usertype": "Subscriber",
+  "birth year": 1977,
+  "gender": "male"
+}

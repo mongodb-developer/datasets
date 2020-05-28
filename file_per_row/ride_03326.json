@@ -1,0 +1,17 @@
+{
+  "tripduration": 523,
+  "starttime": "2019-12-01 10:01:32.8570",
+  "stoptime": "2019-12-01 10:10:16.7280",
+  "start station id": 523,
+  "start station name": "W 38 St & 8 Ave",
+  "start station latitude": 40.75466591,
+  "start station longitude": -73.99138152,
+  "end station id": 540,
+  "end station name": "Lexington Ave & E 29 St",
+  "end station latitude": 40.74311555376486,
+  "end station longitude": -73.98215353488922,
+  "bikeid": 39476,
+  "usertype": "Customer",
+  "birth year": 1995,
+  "gender": "male"
+}

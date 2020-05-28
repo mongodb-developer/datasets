@@ -1,0 +1,17 @@
+{
+  "tripduration": 223,
+  "starttime": "2019-12-01 11:50:17.9850",
+  "stoptime": "2019-12-01 11:54:01.6570",
+  "start station id": 3463,
+  "start station name": "E 16 St & Irving Pl",
+  "start station latitude": 40.735367055605394,
+  "start station longitude": -73.98797392845154,
+  "end station id": 3708,
+  "end station name": "W 13 St & 5 Ave",
+  "end station latitude": 40.735445,
+  "end station longitude": -73.99431,
+  "bikeid": 28940,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 172,
+  "starttime": "2019-12-01 14:48:17.2170",
+  "stoptime": "2019-12-01 14:51:09.2350",
+  "start station id": 128,
+  "start station name": "MacDougal St & Prince St",
+  "start station latitude": 40.72710258,
+  "start station longitude": -74.00297088,
+  "end station id": 347,
+  "end station name": "Greenwich St & W Houston St",
+  "end station latitude": 40.728846,
+  "end station longitude": -74.008591,
+  "bikeid": 34015,
+  "usertype": "Subscriber",
+  "birth year": 1992,
+  "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+  "tripduration": 379,
+  "starttime": "2019-12-01 19:28:53.4620",
+  "stoptime": "2019-12-01 19:35:12.7130",
+  "start station id": 432,
+  "start station name": "E 7 St & Avenue A",
+  "start station latitude": 40.72621788,
+  "start station longitude": -73.98379855,
+  "end station id": 265,
+  "end station name": "Stanton St & Chrystie St",
+  "end station latitude": 40.72229346,
+  "end station longitude": -73.99147535,
+  "bikeid": 31965,
+  "usertype": "Subscriber",
+  "birth year": 1997,
+  "gender": "female"
+}

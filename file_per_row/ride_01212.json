@@ -1,0 +1,17 @@
+{
+  "tripduration": 254,
+  "starttime": "2019-12-01 07:00:11.2600",
+  "stoptime": "2019-12-01 07:04:26.0240",
+  "start station id": 258,
+  "start station name": "DeKalb Ave & Vanderbilt Ave",
+  "start station latitude": 40.68940747,
+  "start station longitude": -73.96885458,
+  "end station id": 3648,
+  "end station name": "Flushing Ave & Vanderbilt Ave",
+  "end station latitude": 40.697950315695444,
+  "end station longitude": -73.97077560424805,
+  "bikeid": 38556,
+  "usertype": "Subscriber",
+  "birth year": 2001,
+  "gender": "male"
+}

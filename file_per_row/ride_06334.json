@@ -1,0 +1,17 @@
+{
+  "tripduration": 196,
+  "starttime": "2019-12-01 12:27:44.7690",
+  "stoptime": "2019-12-01 12:31:01.1550",
+  "start station id": 2021,
+  "start station name": "W 45 St & 8 Ave",
+  "start station latitude": 40.75929124,
+  "start station longitude": -73.98859651,
+  "end station id": 447,
+  "end station name": "8 Ave & W 52 St",
+  "end station latitude": 40.76370739,
+  "end station longitude": -73.9851615,
+  "bikeid": 30699,
+  "usertype": "Subscriber",
+  "birth year": 1976,
+  "gender": "male"
+}

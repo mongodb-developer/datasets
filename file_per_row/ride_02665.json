@@ -1,0 +1,17 @@
+{
+  "tripduration": 300,
+  "starttime": "2019-12-01 09:31:08.0780",
+  "stoptime": "2019-12-01 09:36:08.1510",
+  "start station id": 481,
+  "start station name": "S 3 St & Bedford Ave",
+  "start station latitude": 40.71260486,
+  "start station longitude": -73.96264403,
+  "end station id": 3016,
+  "end station name": "Kent Ave & N 7 St",
+  "end station latitude": 40.72036775298455,
+  "end station longitude": -73.96165072917938,
+  "bikeid": 39331,
+  "usertype": "Subscriber",
+  "birth year": 1975,
+  "gender": "female"
+}

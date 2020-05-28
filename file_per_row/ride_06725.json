@@ -1,0 +1,17 @@
+{
+  "tripduration": 366,
+  "starttime": "2019-12-01 12:47:09.8880",
+  "stoptime": "2019-12-01 12:53:16.3220",
+  "start station id": 3323,
+  "start station name": "W 106 St & Central Park West",
+  "start station latitude": 40.7981856,
+  "start station longitude": -73.9605909006,
+  "end station id": 3301,
+  "end station name": "Columbus Ave & W 95 St",
+  "end station latitude": 40.7919557,
+  "end station longitude": -73.968087,
+  "bikeid": 40156,
+  "usertype": "Subscriber",
+  "birth year": 1980,
+  "gender": "male"
+}

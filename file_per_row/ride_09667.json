@@ -1,0 +1,17 @@
+{
+  "tripduration": 1366,
+  "starttime": "2019-12-01 19:56:10.9370",
+  "stoptime": "2019-12-01 20:18:57.5070",
+  "start station id": 3686,
+  "start station name": "Gansevoort St & Hudson St",
+  "start station latitude": 40.739448201304036,
+  "start station longitude": -74.00507032871246,
+  "end station id": 505,
+  "end station name": "6 Ave & W 33 St",
+  "end station latitude": 40.74901271,
+  "end station longitude": -73.98848395,
+  "bikeid": 33307,
+  "usertype": "Subscriber",
+  "birth year": 1996,
+  "gender": "male"
+}
