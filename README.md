@@ -3,7 +3,7 @@
 This repository provides a small sample of [Citibike System Data](https://www.citibikenyc.com/system-data).
 It's designed to demonstrate the different options available in `mongoimport`.
 The data is provided in both its original form and translated into JSON and other forms.
-An accompanying blog post describes how to import each form into MongoDB.
+An [accompanying blog post](https://developer.mongodb.com/how-to/mongoimport-guide) describes how to import each form into MongoDB.
 
 ## Breakdown
 
