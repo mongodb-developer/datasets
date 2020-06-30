@@ -13,7 +13,7 @@ The main components are as follows:
 | - | - |
 | 201912-citibike-tripdata-subset.csv | The first 10k rows of original data. |
 | one_big_list.json | A single JSON document containing all the data from `201912-citibike-tripdata-subset.csv` converted to JSON, with some minor cleanup.
-| file_per_row | The data from `one_big_list.json`, split into 9999 separate files, one per document. |
+| file_per_document | The data from `one_big_list.json`, split into 9999 separate files, one per document. |
 | without_header_row.csv | A copy of `201912-citibike-tripdata-subset.csv`, but without the header row. |
 
 ## Development
